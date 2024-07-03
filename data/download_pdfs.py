@@ -29,7 +29,7 @@ def main(args: argparse.Namespace):
 
     url_df = pd.read_csv(args.documents_csv)
     for _, row in tqdm(url_df.iterrows()):
-        out_file = Path.cwd() / f"{row['university'].replace(' ', '_').replace('/', '_')}.pdf"
+        out_file = Path.cwd() / f"pdf/{row['university'].replace(' ', '_').replace('/', '_')}.pdf"
         if out_file.exists():
             print(f"File {out_file} already exists, skipping")
             continue
