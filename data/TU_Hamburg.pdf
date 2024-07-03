@@ -1,0 +1,3839 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+<base href="https://www.tuhh.de/tuhh">
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>TUHH: Promotionsordnung</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" href="/typo3conf/ext/rssdisplaytuhh/Resources/Public/Css/rssdisplaytuhh.1669217074.css" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/styles/styles.1719394158.css" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/scripts/main.1719394158.css" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Css/other.1719394158.css" media="all">
+<link rel="stylesheet" href="/t3resources/tuhh/css/tuhh.1647962565.css" media="all">
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width,initial-scale=1">      <script id="project-config" type="application/json">{"assetsUrl":"\/typo3conf\/ext\/tuhhsitepackage2021\/Resources\/Public\/Assets/\/"}</script>
+      <script type="text/javascript">
+        window.publicPaths = {
+            js: '/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/scripts/',
+            assets: '/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/',
+            googleSearch: 'https://cse.google.com/cse.js?cx=013498366615220259019:ljc1ircsxvi',
+            personSearchAPI: 'https://kontakt.tuhh.de/api/search.php'
+        };
+    </script><meta name="google-site-verification" content="asno5nZew6IV2r3t-gYcywYOSgZDgBszXwBF9OFjv6w" />
+<link rel="canonical" href="https://www.tuhh.de/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung"/>
+
+<link rel="alternate" hreflang="de-DE" href="https://www.tuhh.de/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung"/>
+<link rel="alternate" hreflang="en-US" href="https://www.tuhh.de/tuhh/en/studying/after-graduation/doctoral-degrees/translate-to-alternative-promotionsordnung"/>
+<link rel="alternate" hreflang="x-default" href="https://www.tuhh.de/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung"/>
+</head>
+<body id="page-39415">
+<div id="defaultLayout">
+    
+	
+	
+		
+	
+	<div class="page">
+		<!-- header -->
+		<div class="module module--header js-header" data-name="header">
+			<div class="module__content">
+ 				<div class="container header__container">
+					<div class="header header--default" data-component='{"component": "nav"}'>
+						
+
+<a class="header__logo" href="/tuhh/startseite">
+	<div class="header__logo__inner">
+		<img class="lazyload header__logo__inner__mobile" data-sizes="auto" data-srcset="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/images/logo-new.svg 1w" alt="TUHH"/>
+		<img class="lazyload header__logo__inner__desktop" data-sizes="auto" data-srcset="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/images/logo-new.svg 1w" alt="TUHH"/>
+	</div>
+</a>
+
+
+						<div class="header__nav js-nav-main">
+							<div class="header__nav__mobile-actions">
+								<div class="header__actions__inner">
+									
+
+<div class="header__actions__item header__actions__item--mobile header__actions__item--lang">
+	
+		
+				<span class="header__actions__item__lang-trigger js-nav-lang"> DE </span>
+			
+	
+		
+				<div class="subnavigation subnavigation--action js-nav-subnavi">
+					<a href="/tuhh/en/studying/after-graduation/doctoral-degrees/translate-to-alternative-promotionsordnung">
+						EN
+					</a>
+				</div>
+			
+	
+</div>
+
+
+									
+
+
+	<a class="header__actions__item header__actions__item--mobile header__actions__item--calendar highlight" href="https://intranet.tuhh.de/events/veranstaltungen.php">
+		<div class="icon">
+			<img alt="Kalender" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/calender.svg" width="24" height="25" />
+		</div>
+	</a>
+
+
+	<a class="header__actions__item header__actions__item--mobile header__actions__item--location highlight" href="/tuhh/tu-hamburg/campus">
+		<div class="icon">
+			<img alt="Standort" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/pin.svg" width="24" height="25" />
+		</div>
+	</a>
+
+
+
+
+
+
+								</div>
+							</div>
+							
+
+<nav class="header__nav__inner">
+    <ul>
+        
+            <li class="header__nav__item">
+                
+
+        <div class="desktop button button--nav-link highlight highlight js-nav-item ">
+            TU Hamburg
+        </div>
+        <a class="button button--nav-link highlight mobile " target="_self" href="/tuhh/tu-hamburg">
+            <span>TU Hamburg</span>
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        </a>
+    
+
+                
+
+        <div class="icon header__nav__item__subnavi-trigger js-nav-subnavi-trigger">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-right-dark.svg" width="24" height="25" alt="" />
+        </div>
+        
+                
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+    
+
+<div class="subnavigation  js-nav-subnavi">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-nav-subnavi-back">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-left-dark.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            TU Hamburg
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="/tuhh/tu-hamburg">
+        <span>TU Hamburg</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/profil">
+        <span>Profil</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/struktur">
+        <span>Struktur</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/campus">
+        <span>Campus</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/kooperationen-und-transfer">
+        <span>Kooperationen und Transfer</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/newsroom">
+        <span>Newsroom</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://intranet.tuhh.de/presse/pressearchive.php">
+        <span>Pressemitteilungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/newsroom/flyer-und-broschueren">
+        <span>Flyer und Broschüren</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/newsroom/magazin-spektrum">
+        <span>Magazin spektrum</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/newsroom/veranstaltungen">
+        <span>Veranstaltungen</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/arbeiten-an-der-tu-hamburg">
+        <span>Arbeiten an der TU Hamburg</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/arbeiten-an-der-tu-hamburg/stellenausschreibungen">
+        <span>Stellenausschreibungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/arbeiten-an-der-tu-hamburg/berufsausbildung-und-praktika">
+        <span>Berufsausbildung und Praktika</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/arbeiten-an-der-tu-hamburg/berufungen">
+        <span>Berufungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/tu-hamburg/arbeiten-an-der-tu-hamburg/neue-mitarbeitende">
+        <span>Neue Mitarbeitende</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/intern">
+        <span>Intern</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+       </div>
+   </div>
+</div>
+
+            
+    
+
+            </li>
+        
+            <li class="header__nav__item">
+                
+
+        <div class="desktop button button--nav-link highlight highlight js-nav-item active">
+            Studium und Lehre
+        </div>
+        <a class="button button--nav-link highlight mobile active" target="_self" href="/tuhh/studium">
+            <span>Studium und Lehre</span>
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        </a>
+    
+
+                
+
+        <div class="icon header__nav__item__subnavi-trigger js-nav-subnavi-trigger">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-right-dark.svg" width="24" height="25" alt="" />
+        </div>
+        
+                
+<div class="subnavigation  js-nav-subnavi subnavigation--tabs">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-nav-subnavi-back">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-left-dark.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Studium und Lehre
+        </span>
+    </div>
+</div>
+
+    <div class="subnavigation__accordions">
+        
+            
+<div class="accordion js-accordion-nav js-accordion-nav-menu accordion--nav js-accordion" data-component='{"component": "accordion"}'>
+    <div class="accordion__wrapper">
+        <div class="accordion__inner">
+            <div class="accordion__trigger  js-accordion-trigger">
+                <div class="accordion__title">
+                    <span class="headline--h2 highlight">
+                        Vor dem Studium
+                    </span>
+                </div>
+                <div class="icon accordion__trigger__icon">
+                    <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom-dark.svg" width="24" height="24" alt="" />
+                </div>
+            </div>
+            
+<div class="accordion__content js-accordion-content">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-accordion-close">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Vor dem Studium
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="/tuhh/studium/vor-dem-studium">
+        <span>Vor dem Studium</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.stuhhdium.de/">
+        <span>Studienorientierung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/studieninteressierte">
+        <span>Angebote der Zentralen Studienberatung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.tuhh.de/schule/startseite.html">
+        <span>Für Schülerinnen und Schüler</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/vor-dem-studium/studienangebot">
+        <span>Studienangebot</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/studienangebot/bachelorstudiengaenge">
+        <span>Bachelorstudiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/studienangebot/masterstudiengaenge">
+        <span>Masterstudiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="http://dual.tuhh.de/">
+        <span>dual@TUHH</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/lehre/uebergang-schule-hochschule/orientierungsstudium">
+        <span>Orientierungsstudium</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/bewerbung/vorbereitungssemester">
+        <span>Propädeutikum</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/studienangebot/zertifikatsangebote">
+        <span>Zertifikatsangebote</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/vor-dem-studium/bewerbung">
+        <span>Bewerbung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/bewerbung/bachelorstudiengaenge">
+        <span>Schritt für Schritt: Bachelor</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/bewerbung/masterstudiengaenge-deutschsprachig">
+        <span>Schritt für Schritt: Master</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+	
+         <div class="subnavigation__col subnavigation__col--teasers ">
+         	<div class="subnavigation__teasers">
+				
+					<a href="/tuhh/studium/im-studium/ansprechpersonen" class="subnavigation-teaser subnavigation-teaser--image">
+						<span class="headline--h4 subnavigation-teaser__title">
+							Kontakt
+ 						</span>
+ 						
+                  			<p class="subnavigation-teaser__text">
+                  				Ansprechpersonen rund um Studium und Bewerbung
+                  			</p>
+                  		
+						<div class="icon subnavigation-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.923 12.382a1 1 0 00-.217-1.09l-6.999-7a.999.999 0 10-1.414 1.414L16.586 11H5a1 1 0 000 2h11.586l-5.293 5.293a.999.999 0 101.414 1.414l6.999-6.999a.99.99 0 00.217-.326z"></path></svg></div>
+    																			
+						
+						    	<img class="subnavigation-teaser__image lazyautosizes lazyloaded" data-sizes="auto" data-srcset="/t3resources/tuhh/img/universitaet/Loop/DSC_1991.jpg 50w" sizes="308px" srcset="/t3resources/tuhh/img/universitaet/Loop/DSC_1991.jpg">
+						    
+						
+					</a>
+				
+			</div>
+		</div>
+	
+         <div class="subnavigation__col subnavigation__col--teasers ">
+         	<div class="subnavigation__teasers">
+				
+			</div>
+		</div>
+	
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+        
+            
+<div class="accordion js-accordion-nav js-accordion-nav-menu accordion--nav js-accordion" data-component='{"component": "accordion"}'>
+    <div class="accordion__wrapper">
+        <div class="accordion__inner">
+            <div class="accordion__trigger  js-accordion-trigger">
+                <div class="accordion__title">
+                    <span class="headline--h2 highlight">
+                        Im Studium
+                    </span>
+                </div>
+                <div class="icon accordion__trigger__icon">
+                    <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom-dark.svg" width="24" height="24" alt="" />
+                </div>
+            </div>
+            
+<div class="accordion__content js-accordion-content">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-accordion-close">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Im Studium
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="/tuhh/studium/im-studium">
+        <span>Im Studium</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/tune">
+        <span>TUNE-Portal und Anleitung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://e-learning.tuhh.de/studip/">
+        <span>Stud.IP</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/neutuhh">
+        <span>Neu@TUHH</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/neutuhh/rund-um-den-studienstart">
+        <span>Rund um den Studienstart</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/startingtuhh">
+        <span>StartING@TUHH - Starthilfe für den Studieneinstieg</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/neutuhh/hamburg-und-die-tuhh">
+        <span>Hamburg und die TUHH</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/neutuhh/speziell-fuer-internationale-studierende">
+        <span>Speziell für internationale Studierende</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus">
+        <span>Studierendenstatus</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/termine-fristen">
+        <span>Termine &amp; Fristen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://www.tuhh.de/tune/startseite.html">
+        <span>TUNE Anleitung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/tu-account">
+        <span>TU-Account</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/rueckmeldung">
+        <span>Rückmeldung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/beurlaubung">
+        <span>Beurlaubung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/zusatzbescheinigungen">
+        <span>Bescheinigungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/studienangebot/bachelorstudiengaenge/praktikum">
+        <span>Praktikum</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/exmatrikulation">
+        <span>Exmatrikulation</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/semesterunterlagen">
+        <span>Semesterunterlagen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/deutschlandsemesterticket">
+        <span>Deutschlandsemesterticket</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/wechsel-des-studiengangs">
+        <span>Studiengangswechsel</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/regelstudienzeit">
+        <span>Überschreitung der Regelstudienzeit</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/rund-um-den-studierendenstatus/nach-dem-studium">
+        <span>Wissenschaftliche Vertiefung</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/soziales-und-organisatorisches">
+        <span>Soziales und Organisatorisches</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/pruefungen-termine-module-etc">
+        <span>Prüfungsleistungen, Prüfungen, Studienpläne &amp; Co.</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://intranet.tuhh.de/stud/pruefung/index.php?Lang=de">
+        <span>Prüfungstermine</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://intranet.tuhh.de/kvvz/index.php?Lang=de">
+        <span>Modulbeschreibungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://studienplaene.tuhh.de">
+        <span>Studien- und Prüfungsordnungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/pruefungen-termine-module-etc/elearning">
+        <span>eLearning + Stud.IP-Zugang</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/ansprechpersonen/gremien-ausschuesse-und-beauftragte-der-tuhh">
+        <span>Gremien, Ausschüsse und Beauftragte</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://tune.tuhh.de/">
+        <span>Vorlesungsverzeichnis</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/vor-dem-studium/studienangebot/zertifikatsangebote">
+        <span>Zertifikatsangebote</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen">
+        <span>Sprachen lernen</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen/das-sprachkursangebot-der-tuhh">
+        <span>Das Sprachkursangebot der TUHH</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen/sprachkurse-in-kooperation-mit-der-vhs">
+        <span>Sprachkurse in Kooperation mit der VHS</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen/deutsch-lernen">
+        <span>Deutsch als Fremdsprache</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen/literatur-und-kultur">
+        <span>Kultur, Literatur und Wissenschaft</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen/sprachcafes">
+        <span>Sprachcafes</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/sprachen-lernen/sprachtandem">
+        <span>Sprachtandem</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/tu-hamburg/struktur/verwaltung-und-zentrale-einrichtungen/ra-rechtsreferat/ordnungen-richtlinien">
+        <span>Rechtliche Grundlagen</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/auslandsstudium">
+        <span>Auslands-/Austauschstudium</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/internationale-studierende">
+        <span>Spezielle Informationen für internationale Studierende</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate">
+        <span>Dekanate und Institute</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/ansprechpersonen">
+        <span>Ansprechpersonen</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium-alt/studieren/faqs">
+        <span>FAQs</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.hochschulsport.uni-hamburg.de/sportcampus/studios/tu.html">
+        <span>Hochschulsport</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.stwhh.de/">
+        <span>Studierendenwerk</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/studium-a-z">
+        <span>Studium A-Z</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung">
+        <span>Zentrale Studienberatung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/infothek-/-kontakt">
+        <span>Infothek / Kontakt</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/beratung">
+        <span>Beratung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/studieninteressierte">
+        <span>Studieninteressierte</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/startingtuhh">
+        <span>StartING@TUHH</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/workshops-und-vortraege">
+        <span>Workshops und Vorträge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/coaching-sessions">
+        <span>Coaching Sessions</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/repetitorien-plus">
+        <span>Repetitorien plus</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/team">
+        <span>Team</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/career-center">
+        <span>Career Center</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/beratung-und-coaching">
+        <span>Beratung und Coaching</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/veranstaltungen">
+        <span>Veranstaltungen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/praxiserfahrung/praktika">
+        <span>Praxiserfahrung und Praktikum</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/praxiserfahrung/fishing-for-experience">
+        <span>Fishing for Experience</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/berufseinstieg-orientierung">
+        <span>Berufliche Orientierung und Berufseinstieg</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/stellensuche">
+        <span>Stellensuche</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/bewerben">
+        <span>Bewerbung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/moeglichkeiten-fuer-unternehmen">
+        <span>Möglichkeiten für Unternehmen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/studium/im-studium/career-center/kontakt">
+        <span>Kontakt</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+        
+            
+<div class="accordion js-accordion-nav js-accordion-nav-menu accordion--nav js-accordion" data-component='{"component": "accordion"}'>
+    <div class="accordion__wrapper">
+        <div class="accordion__inner">
+            <div class="accordion__trigger  js-accordion-trigger">
+                <div class="accordion__title">
+                    <span class="headline--h2 highlight">
+                        Nach dem Studium
+                    </span>
+                </div>
+                <div class="icon accordion__trigger__icon">
+                    <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom-dark.svg" width="24" height="24" alt="" />
+                </div>
+            </div>
+            
+<div class="accordion__content js-accordion-content">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-accordion-close">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Nach dem Studium
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 active" target="_self" href="/tuhh/nach-dem-studium">
+        <span>Nach dem Studium</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/vor-dem-studium/bewerbung/masterstudiengaenge-deutschsprachig">
+        <span>Weiterstudium im Master</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/career-center">
+        <span>Career Center</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/im-studium/zentrale-studienberatung/workshops-und-vortraege">
+        <span>Zentrale Studienberatung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight active" href="/tuhh/nach-dem-studium/promotion-und-habilitation">
+        <span>Promotion und Habilitation</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/nach-dem-studium/promotion-und-habilitation/kontakt">
+        <span>Kontakt</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight active" href="/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung">
+        <span>Promotionsordnung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/nach-dem-studium/promotion-und-habilitation/doppelpromotion">
+        <span>Doppelpromotion</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/nach-dem-studium/promotion-und-habilitation/dissertation-online-veroeffentlichen">
+        <span>Dissertation online veröffentlichen</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/nach-dem-studium/promotion-und-habilitation/habilitationsordnung">
+        <span>Habilitationsordnung</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/nach-dem-studium/promotion-und-habilitation/antraege-und-hinweise">
+        <span>Anträge und Hinweise</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/nach-dem-studium/promotion-und-habilitation/stipendien-fuer-promovierende">
+        <span>Stipendien für Promovierende</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.tuhh.de/graduiertenakademie/startseite.html">
+        <span>Graduiertenakademie</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.tuhh.de/wwb/startseite.html">
+        <span>Wissenschaftliche Weiterbildung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://tuandyou.de/">
+        <span>Alumni</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+        
+            
+<div class="accordion js-accordion-nav js-accordion-nav-menu accordion--nav js-accordion" data-component='{"component": "accordion"}'>
+    <div class="accordion__wrapper">
+        <div class="accordion__inner">
+            <div class="accordion__trigger  js-accordion-trigger">
+                <div class="accordion__title">
+                    <span class="headline--h2 highlight">
+                        Lehre
+                    </span>
+                </div>
+                <div class="icon accordion__trigger__icon">
+                    <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom-dark.svg" width="24" height="24" alt="" />
+                </div>
+            </div>
+            
+<div class="accordion__content js-accordion-content">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-accordion-close">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-bottom.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Lehre
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="/tuhh/studium/lehre">
+        <span>Lehre</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/neues-aus-studium-und-lehre">
+        <span>Neues aus Studium und Lehre</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/zentrum-fuer-lehre-und-lernen">
+        <span>Zentrum für Lehre und Lernen</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/digitale-lehre">
+        <span>Digitale Lehre</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/internationale-und-interdisziplinaere-lehre">
+        <span>Lehre im europäischen Verbund (ECIU)</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/lehrevaluation">
+        <span>Lehrevaluation</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/weiterqualifizierungsangebote">
+        <span>Weiterqualifizierungsangebote</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/workinglab">
+        <span>WorkINGLab</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/studium/lehre/learning-center">
+        <span>LearnING Center</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+        
+    </div>
+</div>
+
+            
+    
+
+            </li>
+        
+            <li class="header__nav__item">
+                
+
+        <div class="desktop button button--nav-link highlight highlight js-nav-item ">
+            Forschung und Transfer
+        </div>
+        <a class="button button--nav-link highlight mobile " target="_self" href="/tuhh/forschung-und-transfer">
+            <span>Forschung und Transfer</span>
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        </a>
+    
+
+                
+
+        <div class="icon header__nav__item__subnavi-trigger js-nav-subnavi-trigger">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-right-dark.svg" width="24" height="25" alt="" />
+        </div>
+        
+                
+
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+<div class="subnavigation  js-nav-subnavi">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-nav-subnavi-back">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-left-dark.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Forschung und Transfer
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="/tuhh/forschung-und-transfer">
+        <span>Forschung und Transfer</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/neues-aus-der-forschung">
+        <span>Neues aus der Forschung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/forschungsorganisation">
+        <span>Forschungsorganisation</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/wissens-und-technologietransfer">
+        <span>Wissens- &amp; Technologietransfer</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/forschung-und-transfer/wissens-und-technologietransfer/neues-aus-dem-transfer">
+        <span>Neues aus dem Transfer</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/societal-impact-der-tuhh">
+        <span>Societal Impact der TUHH</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/koordinierte-verbundforschung">
+        <span>Koordinierte Verbundforschung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/forschungsfoerderung">
+        <span>Forschungsförderung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/nachwuchsfoerderung">
+        <span>Nachwuchsförderung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/gute-wissenschaftliche-praxis">
+        <span>Gute Wissenschaftliche Praxis</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/forschungsmonitoring-berichtwesen">
+        <span>Forschungsmonitoring &amp; Berichtwesen</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/future-lectures">
+        <span>Future Lectures</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/forschung-und-transfer/team">
+        <span>Team</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+	
+         <div class="subnavigation__col subnavigation__col--teasers ">
+         	<div class="subnavigation__teasers">
+				
+					<a href="/tuhh/forschung-und-transfer/neues-aus-der-forschung" class="subnavigation-teaser subnavigation-teaser--image">
+						<span class="headline--h4 subnavigation-teaser__title">
+							Neues aus der Forschung
+ 						</span>
+ 						
+                  			<p class="subnavigation-teaser__text">
+                  				 Reconstructing the bottom topography from measurements of wave heights
+
+                  			</p>
+                  		
+						<div class="icon subnavigation-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.923 12.382a1 1 0 00-.217-1.09l-6.999-7a.999.999 0 10-1.414 1.414L16.586 11H5a1 1 0 000 2h11.586l-5.293 5.293a.999.999 0 101.414 1.414l6.999-6.999a.99.99 0 00.217-.326z"></path></svg></div>
+    																			
+						
+						    	<img class="subnavigation-teaser__image lazyautosizes lazyloaded" data-sizes="auto" data-srcset="/t3resources/tuhh/user_upload/TUHH_Hintegrund.png 50w" sizes="308px" srcset="/t3resources/tuhh/user_upload/TUHH_Hintegrund.png">
+						    
+						
+					</a>
+				
+			</div>
+		</div>
+	
+         <div class="subnavigation__col subnavigation__col--teasers ">
+         	<div class="subnavigation__teasers">
+				
+			</div>
+		</div>
+	
+
+       </div>
+   </div>
+</div>
+
+            
+    
+
+            </li>
+        
+            <li class="header__nav__item">
+                
+
+        <div class="desktop button button--nav-link highlight highlight js-nav-item ">
+            Dekanate
+        </div>
+        <a class="button button--nav-link highlight mobile " target="_self" href="/tuhh/dekanate">
+            <span>Dekanate</span>
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        </a>
+    
+
+                
+
+        <div class="icon header__nav__item__subnavi-trigger js-nav-subnavi-trigger">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-right-dark.svg" width="24" height="25" alt="" />
+        </div>
+        
+                
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+<div class="subnavigation  js-nav-subnavi">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-nav-subnavi-back">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-left-dark.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            Dekanate
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="/tuhh/dekanate">
+        <span>Dekanate</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/bau-und-umweltingenieurwesen">
+        <span>Bau- und Umweltingenieurwesen</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/bau-und-umweltingenieurwesen/studiengaenge">
+        <span>Studiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/bau-und-umweltingenieurwesen/forschung-und-institute">
+        <span>Forschung und Institute</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/elektrotechnik-informatik-und-mathematik">
+        <span>Elektrotechnik, Informatik und Mathematik</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/elektrotechnik-informatik-und-mathematik/studiengaenge">
+        <span>Studiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/elektrotechnik-informatik-und-mathematik/forschung-und-institute">
+        <span>Forschung und Institute</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/verfahrenstechnik">
+        <span>Verfahrenstechnik</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/verfahrenstechnik/studiengaenge">
+        <span>Studiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/verfahrenstechnik/forschung-und-institute">
+        <span>Forschung und Institute</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/technologie-und-innovation-in-der-bildung">
+        <span>Technologie und Innovation in der Bildung</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/technologie-und-innovation-in-der-bildung/studiengaenge">
+        <span>Studiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/technologie-und-innovation-in-der-bildung/forschung-und-institute">
+        <span>Forschung und Institute</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/management-wissenschaften-und-technologie">
+        <span>Management-Wissenschaften und Technologie</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/management-wissenschaften-und-technologie/studiengaenge">
+        <span>Studiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/management-wissenschaften-und-technologie/forschung-und-institute">
+        <span>Forschung und Institute</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/maschinenbau">
+        <span>Maschinenbau</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/maschinenbau/studiengaenge">
+        <span>Studiengänge</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/dekanate/maschinenbau/forschung-und-institute">
+        <span>Forschung und Institute</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/dekanate/studienbereich-fit">
+        <span>Studienbereich FIT</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+	
+         <div class="subnavigation__col subnavigation__col--teasers ">
+         	<div class="subnavigation__teasers">
+				
+					<a href="/tuhh/dekanate/institute-im-ueberblick" class="subnavigation-teaser subnavigation-teaser--illu">
+						<span class="headline--h4 subnavigation-teaser__title">
+							Institute im Überblick
+ 						</span>
+ 						
+						<div class="icon subnavigation-teaser__icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19.923 12.382a1 1 0 00-.217-1.09l-6.999-7a.999.999 0 10-1.414 1.414L16.586 11H5a1 1 0 000 2h11.586l-5.293 5.293a.999.999 0 101.414 1.414l6.999-6.999a.99.99 0 00.217-.326z"></path></svg></div>
+    																			
+						
+						    	<div class="illu illu--auto subnavigation-teaser__illu">
+						            <img class=" lazyloaded" data-src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/images/dummy/nav/teaser-illu.svg" alt="" aria-hidden="true" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/images/dummy/nav/teaser-illu.svg">
+						        </div>
+						    
+						
+					</a>
+				
+			</div>
+		</div>
+	
+         <div class="subnavigation__col subnavigation__col--teasers ">
+         	<div class="subnavigation__teasers">
+				
+			</div>
+		</div>
+	
+
+       </div>
+   </div>
+</div>
+
+            
+    
+
+            </li>
+        
+            <li class="header__nav__item">
+                
+
+        <div class="desktop button button--nav-link highlight highlight js-nav-item ">
+            International
+        </div>
+        <a class="button button--nav-link highlight mobile " target="_self" href="https://www.tuhh.de/tuhh/en/international/international-affairs">
+            <span>International</span>
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        </a>
+    
+
+                
+
+        <div class="icon header__nav__item__subnavi-trigger js-nav-subnavi-trigger">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/chevron-right-dark.svg" width="24" height="25" alt="" />
+        </div>
+        
+                
+
+
+    
+        
+    
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+<div class="subnavigation  js-nav-subnavi">
+    
+<div class="subnavigation__title">
+    <div class="subnavigation__title__inner">
+        <div class="icon highlight subnavigation__title__icon js-nav-subnavi-back">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-left-dark.svg" width="24" height="24" alt="" />
+        </div>
+        <span class="button button--nav-link highlight">
+            International
+        </span>
+    </div>
+</div>
+
+    <div class="container subnavigation__container">
+        
+<div class="subnavigation__mainlink">
+    <div class="subnavigation__mainlink__arrow">
+        <div class="icon">
+            <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-right.svg" width="24" height="24" alt="" />
+        </div>
+    </div>
+    <a class="button button--subnav-highlight highlight desktop--v3 " target="_self" href="https://www.tuhh.de/tuhh/en/international/international-affairs">
+        <span>International</span>
+    </a>
+</div>
+
+        <div class="subnavigation__inner">
+            
+<div class="subnavigation__col">
+    <nav>
+        <ul>
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.tuhh.de/tuhh/en/international/outgoing-tuhh-students-staff.html">
+        <span>Outgoing Students &amp; Staff</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/outgoing-tuhh-students-staff/study-abroad/information-sessions">
+        <span>Information Sessions</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.tuhh.de/tuhh/en/international/contacts-international-team.html">
+        <span>Contacts &amp; International Team</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="/tuhh/international/incoming-and-integration-services">
+        <span>Incoming and Integration Services</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/incoming-and-integration-services/ongoing-events-program">
+        <span>Ongoing Events Program</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/incoming-and-integration-services/austauschstudium">
+        <span>Austauschstudium</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/incoming-and-integration-services/accomodation-office">
+        <span>Accomodation Office</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/incoming-and-integration-services/interkulturelle-programme">
+        <span>Interkulturelle Programme</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/gastwissenschaftler">
+        <span>Gastwissenschaftler</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/incoming-and-integration-services/studierende-und-wissenschaftlerinnen-aus-der-ukraine">
+        <span>Unterstützung für Studierende und Wissenschaftlerinnen aus der Ukraine</span>
+        
+    </a>
+    
+</li>
+
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="/tuhh/international/incoming-and-integration-services/anerkennung-soziales-und-interkulturelles-engagement">
+        <span>Anerkennung von sozialem und interkulturellem Engagement</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+                
+        </ul></nav></div>
+        <div class="subnavigation__col"><nav><ul>
+                    
+            
+                
+                        
+<li>
+    <a class="button button--subnav-title-link highlight " href="https://www.tuhh.de/tuhh/en/international/cooperations.html">
+        <span>Networks and Partnerships</span>
+        
+            <div class="icon">
+                <img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/arrow-up-right.svg" width="1000" height="1000" alt="" />
+            </div>
+        
+    </a>
+    
+        <ul>
+            
+                
+<li>
+    <a class="button button--subnav-link highlight " href="https://eciu.tuhh.de/">
+        <span>ECIU - European Consortium of Innovative Universities</span>
+        
+    </a>
+    
+</li>
+
+            
+        </ul>
+    
+</li>
+
+                    
+            
+        </ul>
+    </nav>
+</div>
+
+            
+
+
+
+       </div>
+   </div>
+</div>
+
+            
+    
+
+            </li>
+        
+    </ul>
+
+
+						</div>
+
+						<div class="header__actions">
+							<div class="header__actions__inner">
+								
+
+<div class="header__actions__item header__actions__item--lang">
+	
+		
+				<span class="header__actions__item__lang-trigger js-nav-lang"> DE </span>
+			
+	
+		
+				<div class="subnavigation subnavigation--action js-nav-subnavi">
+					<a href="/tuhh/en/studying/after-graduation/doctoral-degrees/translate-to-alternative-promotionsordnung">
+						EN
+					</a>
+				</div>
+			
+	
+</div>
+
+
+								
+
+
+	<a class="header__actions__item header__actions__item--calendar highlight" href="https://intranet.tuhh.de/events/veranstaltungen.php">
+		<div class="icon">
+			<img alt="Kalender" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/calender.svg" width="24" height="25" />
+		</div>
+	</a>
+
+
+	<a class="header__actions__item header__actions__item--location highlight" href="/tuhh/tu-hamburg/campus">
+		<div class="icon">
+			<img alt="Standort" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/pin.svg" width="24" height="25" />
+		</div>
+	</a>
+
+
+	<a class="header__actions__item header__actions__item--account highlight" href="/tuhh/login/logout">
+		<div class="icon">
+			<img alt="Anmeldung" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/user.svg" width="24" height="25" />
+		</div>
+	</a>
+
+
+	<div class="header__actions__item header__actions__item--search js-nav-search">
+		<div class="icon">
+			<img alt="Suche" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/search.svg" width="24" height="25" />
+		</div>
+	</div>
+
+
+	<div class="header__actions__item header__actions__item--burger js-nav-mobile-trigger">
+		<div class="icon js-nav-burger">
+			<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/burger.svg" width="24" height="25" alt="" />
+		</div>
+		<div class="icon js-nav-close is-hidden">
+			<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/icons/inline/close.svg" width="24" height="24" alt="" />
+		</div>
+	</div>
+
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+	        </div>
+    	</div>
+		<!-- SEARCH -->
+		<div class="module module--search" data-name="search">
+        	<div class="module__content">
+				<search data-component='{"factory": "vue"}' language="de" site-search-url=""></search>
+			</div>
+    	</div>
+    	<!-- QUICKNAVI -->
+    	
+									
+
+
+		<!-- CONTENT -->
+		<div class="page__content">
+			
+
+	<div class="module module--application-teaser" data-name="application-teaser">
+		<div class="module__content">
+			<div class="container">
+				
+						<div class="application-teaser">
+					
+				
+					<div class="application-teaser__text">
+						<div class="text--bigger ">
+							Bewirb dich jetzt bis zum 15. Juli für dein Bachelor- oder Masterstudium an der TU Hamburg.
+						</div>
+					</div>
+					<div class="application-teaser__button">
+						<a href="https://tune.tuhh.de/" class="button button--primary-dash">
+							<span> Jetzt bewerben.</span>
+							<span class="button__dash"></span>
+						</a>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+
+
+			
+
+	<div class="module module--breadcrumbs" data-name="breadcrumbs">
+		<div class="module__content">
+			<div class="container">
+				<div class="breadcrumbs">
+					<a class="button button--link breadcrumbs__item" target="_self" href="/tuhh/startseite">
+						<span>
+							TUHH &gt;
+						</span>
+					</a>
+					
+						<a href="/tuhh/studium" target="_self" class="button button--link breadcrumbs__item">
+							<span>
+								Studium und Lehre &gt;
+							</span>
+						</a>
+					
+						<a href="/tuhh/nach-dem-studium" target="_self" class="button button--link breadcrumbs__item">
+							<span>
+								Nach dem Studium &gt;
+							</span>
+						</a>
+					
+						<a href="/tuhh/nach-dem-studium/promotion-und-habilitation" target="_self" class="button button--link breadcrumbs__item">
+							<span>
+								Promotion und Habilitation &gt;
+							</span>
+						</a>
+					
+						<a href="/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung" target="_self" class="button button--link breadcrumbs__item">
+							<span>
+								Promotionsordnung
+							</span>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			
+
+
+
+	<div class="module module--text-with-image" data-name="text-with-image" id="c122529">
+        <div class="module__content">
+			<div class="container">
+           		<div class="text-with-image">
+					<div class="text-with-image__long-left-text">
+						
+								<div>
+									
+		<div class="module module--text-with-button" data-name="text-with-button" >
+	        <div class="module__content">
+				<div class="container">
+					<div class="text-with-button">
+	                	<div class="text-with-button__inner">
+	                		
+	                    	
+								<div class="text--bigger text-with-button__description">
+	           						<h2 class="align-center"><strong>Promotionsordnung<br> der Technischen Universität Hamburg</strong></h2>
+<p class="align-center"><strong>vom 23. August 2023</strong></p>
+<p>Das Präsidium der Technischen Universität Hamburg (TUHH) hat am 23. August 2023 die vom Akademischen Senat der TUHH am 24. Mai 2023 aufgrund von § 85 Absatz 1 Nummer 1 in Verbindung mit § 70 Absatz 6 des Hamburgischen Hochschulgesetzes (HmbHG) vom 18. Juli 2001 (HmbGVBl. 2001, S. 171), zuletzt geändert am 11. Juli 2023 (HmbGVBl. S. 243), beschlossene Promotionsordnung der Technischen Universität Hamburg gemäß § 108 Absatz 1 HmbHG genehmigt:</p>
+<p><strong>§&nbsp;1 Promotionsrecht</strong></p>
+<p>(1) Auf der Grundlage dieser Ordnung verleiht die Technische Universität Hamburg die akademischen Grade:</p><ul> 	<li>Doktor-Ingenieurin oder Doktor-Ingenieur (Dr.-Ing.),</li> 	<li>Doktorin der Naturwissenschaften oder Doktor der Naturwissenschaften (Dr. rer. nat.),</li> 	<li>Doktorin der Wirtschafts- und Sozialwissenschaften oder Doktor der Wirtschafts- und Sozialwissenschaften (Dr. rer. pol.).</li> </ul><p>(2) Die Promotion wird vollzogen aufgrund einer wissenschaftlichen Abhandlung (Dissertation) und eines öffentlichen Vortrages mit anschließender mündlicher Prüfung.</p>
+<p>(3) Die Technische Universität Hamburg verleiht nach näherer Maßgabe von § 17 auch die akademischen Grade:</p><ul> 	<li>Doktor-Ingenieurin Ehren halber oder Doktor-Ingenieur Ehren halber (Dr.-Ing. E.h.),</li> 	<li>Doktorin der Naturwissenschaften Ehren halber oder Doktor der Naturwissenschaften Ehren halber (Dr. rer. nat. h.c.),</li> 	<li>Doktorin der Wirtschafts- und Sozialwissenschaften Ehren halber oder Doktor der Wirtschafts- und Sozialwissenschaften Ehren halber (Dr. rer. pol. h.c.).</li> </ul><p><strong>§&nbsp;2 Promotionsausschuss</strong></p>
+<p>(1) Der Promotionsausschuss ist ein ständiger Ausschuss des Akademischen Senats. Er ent-scheidet im Einvernehmen mit dem fachlich betroffenen Studiendekanat, ob die Voraussetzungen einer Promotionsbewerberin oder eines Promotionsbewerbers für die Zulassung zur Promotion erfüllt sind. Der Promotionsausschuss entscheidet außerdem über den Antrag auf Eröffnung eines Promotionsverfahrens (§ 5), über die Auswahl der Betreuerin oder des Betreuers (§ 6), die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses (§ 12) sowie im Einvernehmen mit dem fachlich betroffenen Studiendekanat über die Auswahl der Gutachterinnen und Gutachter (§§ 8, 9) und der Prüferinnen und Prüfer (§ 12). Er sorgt für einen ordnungsgemäßen und zügigen Ablauf des Promotionsverfahrens.</p>
+<p>(2) Dem Promotionsausschuss gehören vier Mitglieder aus dem Kreis der Professorinnen und Professoren und zwei promovierte Mitglieder aus der Gruppe der akademischen Mitarbeiterinnen und Mitarbeiter an.</p>
+<p>(3) Die Mitglieder des Promotionsausschusses werden vom Akademischen Senat auf zwei Jahre aus dem Kreis der Angehörigen der Technischen Universität gewählt. Bei der Wahl stellt der Akademische Senat sicher, dass die fachliche Breite der Studiendekanate berücksichtigt wird. Der Akademische Senat bestimmt die Vorsitzende oder den Vorsitzenden aus dem Kreis der professoralen Mitglieder des Promotionsausschusses.</p>
+<p><strong>§&nbsp;3 Voraussetzungen für die Promotion zur/zum Dr.-Ing., Dr. rer. nat.<br> und Dr. rer. pol.</strong></p>
+<p>(1) Voraussetzung für eine Zulassung zur Promotion ist grundsätzlich ein einschlägiges abgeschlossenes wissenschaftliches Studium an einer deutschen wissenschaftlichen Hochschule mit einem Diplom, einem Master-Abschluss oder einem Staatsexamen. Die Bewerberin oder der Bewerber muss die Befähigung zu vertiefter selbständiger wissenschaftlicher Arbeit erkennen lassen. Dies wird durch ein Abschlusszeugnis (Diplom, Master, Staatsexamen) nachgewiesen, das in der Regel mindestens die Gesamtnote „gut“ ausweisen muss.</p>
+<p>(2) Der akademische Grad Dr.-Ing. kann verliehen werden, wenn die Dissertation von ingenieur-wissenschaftlichem Charakter ist und die Promotionsbewerberin oder der Promotionsbewerber über vertiefte wissenschaftliche Kenntnisse auf dem Fachgebiet der Dissertation verfügt.</p>
+<p>(3) Der akademische Grad Dr. rer. nat. kann verliehen werden, wenn die Dissertation von natur-wissenschaftlichem Charakter ist und die Promotionsbewerberin oder der Promotionsbewerber über vertiefte wissenschaftliche Kenntnisse auf dem Fachgebiet der Dissertation verfügt.</p>
+<p>(4) Der akademische Grad Dr. rer. pol. kann verliehen werden, wenn die Dissertation von wirtschafts- oder sozialwissenschaftlichem Charakter ist und die Promotionsbewerberin oder der Promotionsbewerber über vertiefte wissenschaftliche Kenntnisse auf dem Fachgebiet der Dissertation verfügt.</p>
+<p>(5) Sofern sich die in den Absätzen 2 bis 4 geforderten vertieften wissenschaftlichen Kenntnisse auf dem Fachgebiet der Dissertation nicht bereits durch den qualitativ hochwertigen Abschluss eines einschlägigen wissenschaftlichen Studiums im Sinne von Absatz 1 Satz 2 ergeben, weil das Fachgebiet der Dissertation hiervon abweicht, kann der Promotionsausschuss von der Promotionsbewerberin oder von dem Promotionsbewerber den Nachweis verlangen, dass sie oder er gleichwohl über umfassende zusätzliche Kenntnisse auf dem Fachgebiet der Dissertation verfügt. Hierfür kann der Promotionsausschuss auch zusätzliche Kenntnisprüfungen verlangen.</p>
+<p>(6) Absolventinnen/Absolventen von Fachhochschulen mit gutem Fachhochschulabschluss können zur Promotion zugelassen werden, wenn der Promotionsausschuss feststellt, dass die Promotionsbewerberin oder der Promotionsbewerber über vertiefte ingenieurwissenschaftliche, naturwissenschaftliche, wirtschaftswissenschaftliche oder sozialwissenschaftliche Kenntnisse auf dem Fachgebiet ihres/seines Studiums und auf dem Fachgebiet der Dissertation, wenn dieses vom Fachgebiet des Studiums abweicht, verfügt. Zur Feststellung der vertieften Kenntnisse auf dem Fachgebiet des Studiums kann der Promotionsausschuss unter Benennung der Prüferinnen und Prüfer Kenntnisprüfungen verlangen, die aus drei bis sechs Prüfungen des Bachelorstudiums und ein bis drei Prüfungen des Master-Studiums an der Technischen Universität Hamburg bestehen. Die Prüfungen müssen dabei solchen Studiengängen der Technischen Universität zuzuordnen sein, die mit dem von der Promotionsbewerberin oder dem Promotionsbewerber an der Fachhochschule abgelegten Studium am nächsten verwandt sind. Alle Prüfungen sind innerhalb von einem Jahr abzulegen und zu bestehen; die gewichtete Gesamtnote dieser Prüfungen muss „gut” oder besser sein. Bei Nichtbestehen darf jede Prüfung einmal wiederholt werden. Sofern das Fachgebiet der Dissertation vom Fachgebiet des Studiums abweicht, ist zusätzlich entsprechend Absatz 5 zu verfahren.</p>
+<p>(7) Promotionsbewerberinnen und Promotionsbewerber, die ein wissenschaftliches Studium an einer ausländischen wissenschaftlichen Hochschule erfolgreich abgeschlossen haben, können zur Promotion zugelassen werden, sofern Gleichwertigkeit mit einem deutschen wissenschaftlichen Studienabschluss besteht und die Befähigung zu vertiefter selbständiger wissenschaftlicher Arbeit erkennbar ist. Dabei soll ein im Ausland besuchter Master-Studiengang eine regelmäßige Studienzeit von zwei Jahren aufweisen. Für die Gleichwertigkeit und Anrechnung von Studienzeiten und Studienleistungen an ausländischen Hochschulen sind neben den Zeugnissen der Promotionsbewerberinnen und Promotionsbewerber die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen und Empfehlungen, soweit einschlägig vorhanden, maßgebend. Bei bedingungslos positiver Empfehlung der Zentralstelle für Ausländisches Bildungswesen lässt der Promotionsausschuss die Bewerberin oder den Bewerber in der Regel zu. Im Übrigen kann der Promotionsausschuss zur Feststellung der Gleichwertigkeit Zusatzprüfungen fordern. Hierfür gilt:</p><ul> 	<li>Bei geringfügigen Bedenken macht der Promotionsausschuss die Zulassung vom Ergebnis einer formlosen Kenntnisprüfung sowie einer Gleichwertigkeitsbeurteilung der ausländischen Abschlussarbeit (Diplomarbeit, Master-Arbeit) abhängig; diese Kenntnisprüfung und Gleichwertigkeitsbeurteilung sind durch die vorgesehene Betreuerin oder den vorgesehenen Betreuer der Dissertation und durch eine zusätzlich vom Promotionsausschuss bestimmte Professorin oder einen zusätzlich vom Promotionsausschuss bestimmten Professor der Technischen Universität Hamburg durchzuführen.</li> 	<li>Bei leichten Bedenken - besonders im Hinblick auf die Breite und Dauer des Studiums - ordnet der Promotionsausschuss nach Absprache mit der Leiterin oder dem Leiter des zuständigen Studiendekanats zusätzliche Kenntnisprüfungen an. Diese sind innerhalb von einem Jahr abzulegen und zu bestehen; die gewichtete Gesamtnote dieser Prüfungen muss „gut” oder besser sein. Bei Nichtbestehen darf jede Prüfung einmal wiederholt werden.</li> 	<li>Bei stärkeren Bedenken ist eine Zulassung ausgeschlossen.</li> </ul><p><strong>§&nbsp;4 Zulassung zur Promotion</strong></p>
+<p>(1) Die Bewerberin oder der Bewerber hat beim Promotionsausschuss eine Entscheidung einzuholen, ob sie oder er die Voraussetzungen zur Promotion erfüllt (Antrag auf Zulassung zur Promotion). Diese Entscheidung soll vor Beginn der Arbeiten zur Promotion getroffen werden. Die Entscheidung und eventuelle zusätzliche Auflagen sind der Bewerberin oder dem Bewerber schriftlich mitzuteilen.</p>
+<p>(2) Der Antrag auf Zulassung zur Promotion ist schriftlich an die Vorsitzende oder den Vorsitzenden des Promotionsausschusses zu richten. Er soll mindestens zwei Jahre, bei externer Promotion mindestens drei Jahre vor Beantragung der Eröffnung des Promotionsverfahrens gestellt werden. Dem Antrag sind folgende Unterlagen und Erklärungen beizufügen:</p><ul> 	<li>ein tabellarischer Lebenslauf mit ausführlicher Darstellung der Ausbildung,</li> 	<li>die Angabe des vorläufigen Themas der Dissertation,</li> 	<li>eine Erklärung der Betreuerin oder des Betreuers, aus der hervorgeht, dass sie oder er bereit ist, die Betreuung der Arbeit zu übernehmen. In dieser Erklärung ist die Bestätigung des vorläufigen Themas der Dissertation durch die Betreuerin oder den Betreuer erforderlich,</li> 	<li>Nachweise über das abgeschlossene Hochschulstudium sowie ggf. über die in § 3 Absätze 6 oder 7 der Promotionsordnung geforderten Voraussetzungen im Original oder in öffentlich beglaubigten Abschriften oder Kopien,</li> 	<li>eine Erklärung darüber, ob und gegebenenfalls mit welchem Ergebnis die Bewerberin oder der Bewerber bereits Promotionsverfahren durchlaufen oder beantragt hat.</li> </ul><p>(3) Der Antrag muss abgelehnt werden, wenn</p><ul> 	<li>die unter § 3 genannten Voraussetzungen nicht erfüllt sind,</li> 	<li>Tatsachen vorliegen, auf Grund derer die Promotionsbewerberin oder der Promotionsbewerber sich unwürdig erwiesen hat, den akademischen Grad einer Doktorin oder eines Doktors zu führen,</li> 	<li>das Fachgebiet der Promotion an der Technischen Universität Hamburg nicht hinreichend vertreten ist,</li> 	<li>die Bewerberin oder der Bewerber endgültig mit einem Promotionsverfahren zur Erreichung desselben akademischen Grades gescheitert ist,</li> 	<li>die Bewerberin oder der Bewerber bereits über einen Doktorgrad in dem beantragten Fachgebiet (Ingenieurwissenschaften, Naturwissenschaften oder Wirtschafts- und Sozialwissenschaften) verfügt oder</li> 	<li>dem Promotionsausschuss trotz Mahnung und Fristsetzung nicht die mit dem Antrag auf Zulassung zur Promotion vorzulegenden Anlagen vorgelegt werden.</li> </ul><p><strong>§ 4a Dissertation</strong></p>
+<p>(1) Die Dissertation dient dem Nachweis der Befähigung zu vertiefter selbständiger wissen-schaftlicher Arbeit. Sie muss einen Fortschritt der wissenschaftlichen Erkenntnis bringen und kann entweder als Monographie oder publikationsbasiert in kumulativer Form angefertigt werden. Die Entscheidung über die Form der Dissertation wird von dem Betreuer oder der Betreuerin und dem oder der Promovierenden im Einvernehmen getroffen.</p>
+<p>(2) Im Fall einer Monographie sollen Teile der Dissertation vorab veröffentlicht werden.</p>
+<p>(3) Für eine kumulative Dissertation gelten folgende Regelungen:</p><ol> 	<li>Die Dissertation basiert auf thematisch zusammenhängenden wissenschaftlichen Fachartikeln. Die Bewerberin oder der Bewerber muss bei mindestens drei dieser überwiegend mitgewirkt haben. Erfolgt eine gemeinsame Veröffentlichung hat der Bewerber bzw. die Bewerberin von den anderen beteiligten Autoren eine schriftliche Bestätigung über seine bzw. ihre überwiegende Mitwirkung beizubringen.</li> 	<li>Als Publikationsorgane sind in dem jeweiligen Fachgebiet anerkannte Zeitschriften oder Proceedings herausragender internationaler wissenschaftlicher Konferenzen, die einem strikten Peer-Review Verfahren unterliegen, zugelassen.</li> 	<li>Die Publikationen müssen erschienen oder zum Druck angenommen sein.</li> 	<li>Ein angemessenes Peer-Review-Verfahren ist in allen oben genannten Fällen zu belegen.</li> 	<li>Die kumulative Dissertation muss einen selbstständig verfassten, substantiellen Teil enthalten, der über die Veröffentlichungen hinausgeht. Dieser soll eine Länge von ca. 30-50 Seiten umfassen. Inhaltlich soll er den Zusammenhang zwischen den Veröffentlichungen verdeutlichen, die Forschungsergebnisse übergreifend darstellen und ggf.&nbsp; auch für die Dissertation relevante Teilbereiche vertiefen.</li> </ol><p><strong>§ 5 Eröffnung des Promotionsverfahrens</strong></p>
+<p>(1) Das Promotionsverfahren dient der Feststellung, ob der Promotionsbewerberin oder dem Promotionsbewerber einer der in § 1 Absatz 1 genannten Doktorgrade verliehen werden kann.</p>
+<p>(2) Die Eröffnung des Promotionsverfahrens kann frühestens nach Einreichungsreife der Dissertation schriftlich bei der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses durch die Promotionsbewerberin oder den Promotionsbewerber beantragt werden. Dem Antrag sind beizufügen:</p><ol> 	<li>sechs Exemplare der Dissertation in fest gebundener gedruckter Form unter Verwendung eines Deckblatts, dessen Form vom Promotionsausschuss festgelegt wird, und Aufnahme einer Zusammenfassung des Inhalts der Arbeit sowie eines Lebenslaufs in Kurzform am Ende der Dissertation. Diese Exemplare der Dissertation dürfen keine Danksagungen, religiöse Bezüge o.ä. enthalten. Die Dissertation muss in deutscher oder englischer Sprache abgefasst werden.</li> 	<li>eine schriftliche Erklärung der Betreuerin oder des Betreuers, dass die Dissertation einreichungsreif ist,</li> 	<li>im Fall einer kumulativen Dissertation: 	<ul> 		<li>a. eine schriftliche Erklärung der Betreuerin/des Betreuers darüber, dass die vorgelegte Dissertation in ihrer Gesamtheit die Anforderungen an eine kumulative Dissertation entsprechend den Bestimmungen dieser Promotionsordnung uneingeschränkt erfüllt.</li> 		<li>b. eine Bestätigung der anderen beteiligten Autorinnen und Autoren über die überwiegende Mitwirkung der Bewerberin oder des Bewerbers an den betreffenden gemeinsamen Veröffentlichungen gemäß §4a Absatz 3 sowie über die Kenntnisnahme, dass die Veröffentlichung für eine kumulative Promotion verwendet werden soll.<br> 		Der Promotionsausschuss stellt hierfür ein verbindliches Formblatt zur Verfügung.</li> 	</ul> 	</li> 	<li>eine Angabe, welcher Doktorgrad voraussichtlich angestrebt wird.</li> 	<li>eine eidesstattliche Erklärung auf einem vom Promotionsausschuss vorgeschriebenen Formblatt „Eidesstattliche Erklärung (PDF)” darüber, dass 	<ul> 		<li>die Arbeit selbständig angefertigt worden ist,</li> 		<li>die wörtlich oder inhaltlich aus anderen Quellen entnommenen Stellen als solche kenntlich gemacht sind,</li> 		<li>die Inanspruchnahme persönlicher Hilfen namentlich aufgeführt ist,</li> 		<li>bei der inhaltlich-materiellen Erstellung der Arbeit nicht die entgeltliche Hilfe von Vermittlungs- bzw. Beratungsdiensten in Anspruch genommen und</li> 		<li>die Arbeit bisher weder im Inland noch im Ausland in gleicher oder ähnlicher Form einer Prüfungsbehörde vorgelegt wurde,</li> 	</ul> 	</li> 	<li>eine Anzeige von Vorabveröffentlichungen von Teilen der Dissertation. Es sind Titel, Verfasser, Veröffentlichungsorgan und -jahr auf separatem Blatt anzugeben und einzureichen. Falls keine Publikationen vorzuweisen sind, ist dieses ebenfalls anzugeben,</li> 	<li>eine Anzeige von studentischen Arbeiten (Studienarbeit, Project Work, Bachelor-/Master-Thesis), deren Inhalte in die Dissertation eingeflossen sind,</li> 	<li>eine separate Zusammenfassung der Dissertation im Umfang von höchstens einer DIN A4-Seite,</li> 	<li>ein zusätzliches Abstrakt für Bibliothekszwecke von etwa 5 Zeilen Länge in deutscher und englischer Sprache.</li> </ol><p>Der Antrag auf Eröffnung des Promotionsverfahrens und die ihm beizufügenden Anlagen sind der oder dem Vorsitzenden des Promotionsausschusses zuzuleiten.</p>
+<p>(3) Das Promotionsverfahren wird durch Beschluss des Promotionsausschusses eröffnet, wenn die Bewerberin oder der Bewerber nach § 4 zur Promotion zugelassen wurde und die dem Antrag nach Absatz 2 beizufügenden Unterlagen und Erklärungen vollständig und ordnungsgemäß vorliegen.</p>
+<p>(4) Nach Eröffnung des Promotionsverfahrens werden alle Professorinnen, Professoren, habilitierten Wissenschaftlerinnen und habilitierten Wissenschaftler des fachlich betroffenen Studiendekanats über die Einreichung der Dissertation unterrichtet. Dies kann im Umlaufverfahren unter Beifügung der Dissertation geschehen.</p>
+<p>(5) Solange zur Dissertation noch kein Gutachten vorliegt, kann die Promotionsbewerberin oder der Promotionsbewerber auf schriftlichen Antrag vom Promotionsverfahren zurücktreten, ohne dass das Promotionsverfahren als gescheitert gilt.</p>
+<p><strong>§&nbsp;6 Betreuung der Dissertation</strong></p>
+<p>(1) Als Betreuerin oder Betreuer sind alle Professorinnen und Professoren und alle habilitierten Wissenschaftlerinnen und Wissenschaftler zugelassen, die</p><ul> 	<li>hauptberuflich an der Technischen Universität Hamburg tätig sind,</li> 	<li>aus der hauptberuflichen Tätigkeit an der Technischen Universität Hamburg in den Ruhestand übergegangen sind,</li> 	<li>an außeruniversitären Forschungseinrichtungen hauptberuflich tätig sind und von der Technischen Universität Hamburg berufen wurden.</li> 	<li>die Lehrbefugnis als Privatdozent oder Privatdozentin von der Technischen Universität Hamburg verliehen bekommen haben und hauptberuflich an außeruniversitären Forschungseinrichtungen im Großraum Hamburg tätig sind, mit denen eine vertraglich vereinbarte Kooperation in großen Bereichen der Forschung und Lehre besteht.</li> </ul><p>(2) Die Empfängerin oder der Empfänger einer Emmy Noether-Förderung durch die Deutsche Forschungsgemeinschaft kann auf Antrag an den Promotionsausschuss im Einzelfall als Betreuerin oder Betreuer zugelassen werden.&nbsp; &nbsp;</p>
+<p>(3) Im Fall des § 70 Abs. 7 HmbHG (kooperative Promotion mit der Hochschule für Angewandte Wissenschaften Hamburg) wirkt eine neben einer Betreuerin oder einem Betreuer im Sinne von Absatz 1 eine Person aus dem Kreis der hauptberuflichen Professorinnen und Professoren und habilitierten Wissenschaftlerinnen und Wissenschaftler der Hochschule für Angewandte Wissenschaften an der Betreuung der Promotion mit. Gleiches gilt für andere Fachhochschulen.</p>
+<p>(4) Fällt die Betreuerin oder der Betreuer nach der Eröffnung des Promotionsverfahrens aus, so bemüht sich der Promotionsausschuss auf Antrag der Bewerberin oder des Bewerbers, die weitere Betreuung der Dissertation sicherzustellen.</p>
+<p><strong>§ 7 Gemeinsames Promotionsverfahren mit ausländischen wissenschaftlichen Hochschulen</strong></p>
+<p>(1) Zur Förderung der internationalen Kooperation kann die TUHH mit ausländischen wissenschaftlichen Hochschulen oder vergleichbaren Bildungseinrichtungen, die das Promotionsrecht besitzen, ein gemeinsames Promotionsverfahren durchführen.</p>
+<p>(2) Der Rahmen für das gemeinsame Promotionsverfahren ist für den Einzelfall in einer vertraglichen Vereinbarung mit der ausländischen wissenschaftlichen Hochschule oder der nach dortigem Recht zuständigen Stelle festzulegen. In diesem Vertrag kann von Regelungen dieser Promotionsordnung abgewichen werden, wenn hierdurch die wissenschaftliche Qualität und deren objektive Feststellung nicht beeinträchtigt werden und die Änderungen wegen abweichender Regelungen der ausländischen Hochschule oder vergleichbaren Bildungseinrichtung als unverzichtbar anzusehen sind. Der Akademische Senat muss der vertraglichen Regelung zustimmen.</p>
+<p>(3) Die Promotionsunterlagen werden an der wissenschaftlichen Hochschule oder vergleichbaren Bildungseinrichtung, an der die mündliche Promotionsleistung erbracht werden soll, geführt; die andere wissenschaftliche Hochschule oder vergleichbare Bildungseinrichtung erhält Kopien.</p>
+<p>(4) Nach erfolgreicher Promotion soll die Promotionsurkunde in deutscher und englischer Sprache sowie im Einvernehmen mit der kooperierenden Hochschule in der für diese geltenden Amtssprache unter Hinweis auf das gemeinsame Promotionsverfahren ausgefertigt und von beiden wissenschaftlichen Hochschulen oder vergleichbaren Bildungseinrichtungen unterzeichnet und gesiegelt werden.</p>
+<p><strong>§&nbsp;8 Gutachterinnen und Gutachter</strong></p>
+<p>(1) Die Dissertation ist von der Betreuerin oder dem Betreuer und von mindestens einer weiteren Person aus dem Kreis der Professorinnen und Professoren oder habilitierten Wissenschaftlerinnen oder habilitierten Wissenschaftlern zu begutachten. Andere Wissenschaftlerinnen und Wissenschaftler können mit der Begutachtung betraut werden, wenn sie promoviert sind und geeignete Gutachterinnen und Gutachter im Sinne von Satz 1 nicht für diese Aufgabe gewonnen werden können. Mindestens eine Gutachterin oder ein Gutachter muss der Technischen Universität Hamburg als hauptberufliches Mitglied angehören oder an außeruniversitären wissenschaftlichen Forschungseinrichtungen hauptberuflich tätig sein, wenn sie oder er von der Technischen Universität Hamburg in einem Berufungsverfahren zur Professorin oder zum Professor berufen worden sind. Pensionierte Professorinnen und Professoren oder pensionierte habilitierte Wissenschaftlerinnen und habilitierte Wissenschaftler gelten im Sinne dieser Ordnung bis drei Jahre nach ihrem Ausscheiden aus dem aktiven Dienst noch als hauptberufliches Mitglied der Technischen Universität Hamburg.</p>
+<p>(2) Jede Gutachterin oder jeder Gutachter muss auf dem Gebiet der Promotion besonders ausgewiesen sein. Bei Professorinnen und Professoren kann hiervon ausgegangen werden, wenn die Promotion ihrem Schwerpunkt nach auf dem Gebiet ihres Lehrstuhls liegt. Außerdem soll mindestens eine Gutachterin oder ein Gutachter denselben Doktorgrad erworben haben, wie den, welchen die Promotionsbewerberin oder der Promotionsbewerber anstrebt, oder über einen Studienabschluss verfügen, der auf dem fachlichen Gebiet des angestrebten Doktor-Grades liegt.</p>
+<p><strong>§&nbsp;9 Bestellung der Gutachterinnen und Gutachter</strong></p>
+<p>(1) Die Betreuerin oder der Betreuer reicht zeitnah zum Antrag auf Eröffnung des Promotions-verfahrens unter Beifügung einer Kopie der Dissertation oder einer Zusammenfassung über deren Inhalt bei der Leiterin oder dem Leiter des fachlich betroffenen Studiendekanats einen Vorschlag für die Gutachterinnen und Gutachter ein. Hierbei erläutert sie/er den Gutachtervorschlag und äußert sich dazu, ob die Dissertation nach ihrer oder seiner Einschätzung ingenieurwissen¬schaftlichen, naturwissenschaftlichen oder wirtschafts- bzw. sozialwissenschaftlichen Charakter hat. Im Falle einer kumulativen Dissertation muss mindestens ein Gutachter oder eine Gutachterin bestellt werden, der bzw. die an keiner der dort aufgeführten Veröffentlichungen mitgewirkt hat.</p>
+<p>(2) Der Studiendekanatsausschuss des fachlich betroffenen Studiendekanats beschließt einen Gutachtervorschlag zur Vorlage an den Promotionsausschuss. Die Gutachterinnen und Gutachter dürfen in der Regel nicht demselben Institut oder derselben Arbeitsgruppe angehören. Dies gilt insbesondere auch in Bezug auf die Betreuerin oder den Betreuer als Gutachterin oder Gutachter. Der Studiendekanatsausschuss kann zur Vorbereitung seiner Entscheidung die Einschätzung von Sprecherinnen und Sprechern der Forschungsschwerpunkte einholen. Bei Beschlussfassung über den oder die Gutachtervorschläge ist der Studiendekanatsausschuss weder an den Vorschlag der Betreuerin oder des Betreuers noch an eingeholte Einschätzungen von Sprecherinnen oder Sprechern der Forschungsschwerpunkte gebunden.</p>
+<p>(3) Der Promotionsausschuss bestimmt auf der Grundlage des Vorschlages des mit der Angelegenheit befassten Studiendekanatsausschusses die Gutachterinnen und Gutachter. Ist der Promotionsausschuss mit einem Gutachtervorschlag nicht einverstanden, hat der vorlegende Studiendekanatsausschuss unter Beachtung etwaiger Hinweise des Promotionsausschusses einen erneuten Gutachtervorschlag vorzulegen. Bestehen auch gegen den erneuten Vorschlag Bedenken, kann der Promotionsausschuss die Gutachter ohne nochmaligen Vorschlag des Studiendekanatsausschusses bestimmen.</p>
+<p>(4) Der Promotionsausschuss teilt der Bewerberin oder dem Bewerber die Namen der Gutachterinnen und Gutachter mit.</p>
+<p><strong>§&nbsp;10 Begutachtungsverfahren</strong></p>
+<p>(1) Die Gutachterinnen und Gutachter haben das Recht, von der Promotionsbewerberin oder dem Promotionsbewerber über den Promotionsausschuss zusätzlich zur Dissertation weitere Informationen zur Überprüfung der in der Dissertation enthaltenen Ergebnisse zu verlangen.</p>
+<p>(2) Die Gutachten sollen dem Promotionsausschuss von den Gutachterinnen und Gutachtern innerhalb von drei Monaten ab Erhalt der zu begutachtenden Dissertation vorgelegt werden. Hat eine Gutachterin oder ein Gutachter innerhalb dieser Frist noch kein Gutachten vorgelegt, kann die Vorsitzende oder der Vorsitzende des Promotionsausschusses die säumige Gutachterin oder den säumigen Gutachter im Einvernehmen mit dem fachlich betroffenen Studiendekanat durch eine andere Gutachterin oder einen anderen Gutachter ersetzen; § 9 Absatz 2 gilt entsprechend.</p>
+<p>(3) In den Gutachten ist schlüssig darzulegen, welcher Doktorgrad nach § 1 Absatz 1 verliehen werden soll. Der Promotionsausschuss beschließt über den zu verleihenden Grad.</p>
+<p>(4) Die Dissertation kann auf übereinstimmenden Vorschlag der Gutachterinnen und Gutachter durch den Promotionsausschuss zur Umarbeitung an die Bewerberin oder den Bewerber zurückgegeben werden. Die Änderungen im Rahmen der geforderten Umarbeitung müssen klar umrissene, präzise formulierte Gegenstände oder Fragestellungen betreffen und sollen nicht zu einer wesentlichen Änderung der Arbeit führen. Die Vorsitzende oder der Vorsitzende des Promotionsausschusses teilt der Bewerberin oder dem Bewerber die vorzunehmenden Umarbeitungen in schriftlicher Form mit. Die Dissertation ist nach Umarbeitung erneut zu begutachten. Die neuen Gutachten dürfen keine inhaltlichen Änderungswünsche mehr enthalten.</p>
+<p><strong>§&nbsp;11</strong><strong>&nbsp;</strong><strong>Bewertung</strong> <strong>und Annahme der Dissertation</strong></p>
+<p>(1) Die Gutachterinnen und Gutachter geben ein schriftlich begründetes Urteil über die Dissertation ab, das durch eine der folgenden Noten zusammenzufassen ist:</p><ul> 	<li>ausgezeichnet,</li> 	<li>sehr gut,</li> 	<li>gut,</li> 	<li>genügend,</li> 	<li>nicht genügend.</li> </ul><p>(2) Sind die Noten „genügend“ oder besser so ist die Dissertation angenommen. Differieren die Benotungen in den Gutachten um zwei oder mehr Noten oder hat eine Gutachterin oder ein Gutachter die Dissertation mit „nicht genügend“ bewertet, bemüht sich der Promotionsausschuss um eine Klärung. Kann dabei der Unterschied in der Beurteilung nicht beseitigt oder die Differenz der Noten ab der Note „genügend“ oder besser nicht auf unter zwei herabgesetzt werden, holt der Promotionsausschuss mindestens ein weiteres Gutachten an, das im Falle einer Beurteilung von „genügend“ und besser in die Gesamtbeurteilung der Arbeit einzubeziehen ist. Schließt dagegen auch das weitere oder eines der weiteren Gutachten mit der Beurteilung „nicht genügend“, ist die Dissertation abgelehnt und die Prüfung nicht bestanden. Die Vorsitzende oder der Vorsitzende des Promotionsausschusses teilt dies der Promotionsbewerberin oder dem Promotionsbewerber per Bescheid schriftlich mit.</p>
+<p>(3) Die Note „ausgezeichnet“ darf von den Gutachterinnen und Gutachtern nur vergeben werden, wenn die Arbeit eine hervorragende Leistung darstellt, die die wissenschaftliche Erkenntnis entscheidend fördert. Eine Bewertung mit der Note „ausgezeichnet“ muss im Gutachten ausführlich und nachvollziehbar begründet werden.&nbsp; Dabei müssen insbesondere die außergewöhnliche wissenschaftliche Leistung und deren Darstellung sowie die besondere Bedeutung der Arbeit gewürdigt werden.&nbsp; Zudem müssen die besondere Qualität der berücksichtigten Veröffentlichungen sowie der Zeitschriften bzw. Konferenzen, in denen veröffentlicht wurde, ausdrücklich dargestellt werden.</p>
+<p>(4) Die Vergabe der Note „ausgezeichnet“ für die Promotion insgesamt (Gesamtnote) kann nur im Wege und nach Maßgabe von § 14 Absatz 1 Satz 2 vergeben werden.</p>
+<p>(5) Nach Annahme der Gutachten durch den Promotionsausschuss wird die Dissertation für die Dauer von zwei Wochen universitätsöffentlich zur Einsichtnahme durch die Angehörigen der Technischen Universität Hamburg an einer vom Promotionsausschuss bekanntzugebenden Stelle ausgelegt. Der Anfangs- und der Endtermin der Auslegung sind bei der Bekanntgabe anzugeben. Während dieses Zeitraumes können die Professorinnen und Professoren sowie die habilitierten Wissenschaftlerinnen und Wissenschaftler der Technischen Universität Hamburg außerdem auf schriftlichen Antrag auch Einsicht in die Gutachten nehmen. Die Professorinnen und Professoren und die habilitierten Wissenschaftlerinnen und habilitierten Wissenschaftler der Technischen Universität Hamburg können gegenüber dem Promotionsausschuss innerhalb der sich aus den Sätzen 1 und 2 ergebenden Auslegungsfrist zur Dissertation, zu den Gutachten oder zu beidem Stellung nehmen. Die Stellungnahme soll schriftlich, mindestens jedoch in Textform (E-Mail) erfolgen.</p>
+<p>(6) Sobald das Promotionsverfahren abgeschlossen ist, gewährt der Promotionsausschuss der Promotionsbewerberin oder dem Promotionsbewerber auf schriftlichen Antrag Einsicht in die Gutachten; Namen und Adressen der Gutachterinnen und Gutachter werden dabei nicht mitge-teilt, es sei denn, die Promotionsbewerberin oder der Promotionsbewerber macht hierfür ein unabweisbares rechtliches Interesse geltend.</p>
+<p><strong>§&nbsp;12 Prüfungsausschuss</strong></p>
+<p>(1) Für jede Promotion bestellt der Promotionsausschuss einen Prüfungsausschuss. Dem Prüfungsausschuss müssen mindestens zwei Personen aus dem Kreis der Gutachterinnen und Gutachter angehören. Zudem können bis zu drei Personen aus dem Kreis der Professorinnen und Professoren, habilitierten Wissenschaftlerinnen und habilitierten Wissenschaftler benachbarter Fachgebiete der Dissertation eingesetzt werden. Der Promotionsausschuss kann auch promovierte Personen zu Prüferinnen und Prüfern bestellen, die nicht Mitglieder der Technischen Universität Hamburg sind. Bei Promotionen in Kooperation mit der Hochschule für angewandte Wissenschaften Hamburg nach § 70 Abs. 7 HmbHG ist eine Person aus dem Kreis der der Hochschule für angewandte Wissenschaften angehörenden hauptberuflichen Professorinnen und Professoren oder habilitierten Wissenschaftlerinnen und habilitierten Wissenschaftlern als weiteres Mitglied in den Prüfungsausschuss zu bestellen. Eine Prüferin oder ein Prüfer muss hauptberufliches Mitglied der Technischen Universität Hamburg sein. Eine pensionierte Prüferin oder ein pensionierter Prüfer gilt im Sinne dieser Ordnung bis drei Jahre nach ihrem/seinem Ausscheiden aus dem aktiven Dienst an der Technischen Universität Hamburg noch als hauptberufliches Mitglied.</p>
+<p>(2) Die Bewerberin oder der Bewerber kann bis zu zwei nach Absatz 1 in den Prüfungsausschuss zu bestellenden Prüferinnen oder Prüfer vorschlagen. &nbsp;</p>
+<p>(3) Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wird vom Promotionsausschuss aus dem Kreis der von ihm nach Absatz 1 in den Prüfungsausschuss berufenen Professorinnen und Professoren der Technischen Universität Hamburg bestellt. Sie oder er erhält ein Exemplar der Dissertation sowie die Gutachten und äußert sich danach innerhalb eines Monats schriftlich gegenüber der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses über die Annahme und Benotung der Dissertation und begründet abweichende Aussagen. Sofern ihre oder seine Stellungnahme ein von den Gutachten erheblich abweichendes Urteil über die Dissertation ausweist, ist vom Promotionsausschuss eine Klärung herbeizuführen, bevor das Promotionsverfahren fortgeführt wird.</p>
+<p>(4) Der Prüfungsausschuss nimmt die mündliche Prüfung ab (§ 13), beurteilt auf der Grundlage der Gutachterinnen- und Gutachtervorschläge und unter Würdigung etwaiger Äußerungen gemäß § 10 Absatz 3 sowie der Stellungnahme der Vorsitzenden oder des Vorsitzenden des Prüfungs¬ausschusses (§ 12 Absatz 3) die Dissertation und die mündliche Prüfung und legt die Gesamtnote fest (§ 14 Absatz 1).</p>
+<p>(5) Wurde die Dissertation von mindestens einer Gutachterin oder einem Gutachter mit „ausgezeichnet“ bewertet, ist ein Mitglied des Promotionsausschusses aus dem Kreis der ihm angehörenden Professorinnen, Professoren, habilitierten Wissenschaftlerinnen oder habilitierten Wissenschaftler in den Prüfungsausschuss zu bestellen. Sie oder er trägt neben den anderen Prüferinnen und Prüfern im Besonderen dafür Sorge, dass die Gesamtnote „ausgezeichnet“ nur vergeben wird, wenn die hierfür in § 14 Absatz 1 Satz 3 geregelten Voraussetzungen zweifelsfrei erfüllt sind.</p>
+<p><strong>§&nbsp;13 Mündliche Prüfung</strong></p>
+<p>(1) Nach Annahme der Dissertation und Ablauf der Auslegung gem. § 11 Absatz 5 werden die Bewerberin oder der Bewerber und die Prüferinnen und Prüfer von der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses zur mündlichen Prüfung schriftlich eingeladen.</p>
+<p>(2) Die mündliche Prüfung soll spätestens sechs Wochen nach Annahme der Dissertation und möglichst während der Vorlesungszeit des Semesters stattfinden. Sie wird von der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses geleitet. Der Termin der mündlichen Prüfung wird von der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses nach Rücksprache mit der Bewerberin oder dem Bewerber festgelegt.</p>
+<p>(3) Wenn der Prüfungsausschuss nicht vollständig zur mündlichen Prüfung erschienen ist, muss die Prüfung auf einen anderen Termin verschoben werden.</p>
+<p>(4) In begründeten Ausnahmefällen ist es auf Antrag an den Promotionsausschuss möglich, einen im Ausland beheimatete(n) Prüferin oder Prüfer per Videokonferenz zuzuschalten. Der Antrag ist mit dem Antrag auf Eröffnung des Promotionsverfahrens (§ 5) einzureichen. Antragstellerin oder Antragsteller ist die Bewerberin oder der Bewerber nach Rücksprache mit der Betreuerin oder dem Betreuer. Die Prüferin oder der Prüfer hat gegenüber dem Promotionsausschuss schriftlich ihre bzw. seine Einwilligung zu erteilen.</p>
+<p>(5) Versäumt die Bewerberin oder der Bewerber den Termin der mündlichen Prüfung, so gilt diese mit der Rechtsfolge des § 14 Absatz 3 als nicht bestanden, wenn die Bewerberin oder der Bewerber das Säumnis nicht hinreichend entschuldigt; anderenfalls setzt die Vorsitzende oder der Vorsitzende des Prüfungsausschusses zeitnah einen neuen Termin fest.</p>
+<p>(6) Die mündliche Prüfung beginnt mit einem etwa halbstündigen Vortrag der Bewerberin oder des Bewerbers über Ziel, Lösungswege und Ergebnisse der Dissertation; hieran schließt sich eine höchstens 30 Minuten dauernde Diskussion an. Der Vortrag und die Diskussion sind hochschul-öffentlich.</p>
+<p>(7) Im Anschluss an Vortrag und Diskussion nach Absatz 5 wird die mündliche Prüfung für etwa eine Stunde mit dem Ziel einer Überprüfung der wissenschaftlichen Qualifikation der Bewerberin oder des Bewerbers auf dem Gebiet der Dissertation und benachbarten Fachgebieten fortgesetzt. Über die mündliche Prüfung ist ein Protokoll anzufertigen, das von den Mitgliedern des Prüfungsausschusses zu unterzeichnen ist.</p>
+<p><strong>§&nbsp;14 Prüfungsergebnisse</strong></p>
+<p>(1) Unmittelbar nach Abschluss der mündlichen Prüfung entscheidet der Prüfungsausschuss in nichtöffentlicher Sitzung über das Ergebnis der Prüfung und setzt die Noten für die mündliche Prüfung und die Dissertation sowie eine Gesamtnote unter Verwendung des in § 11 Absatz 1 geregelten Notenschemas fest. Die Gesamtnote „ausgezeichnet“ kann nur auf einstimmigen Beschluss des Prüfungsausschusses vergeben werden, wenn besondere Zusatzleistungen der Promotionskandidatin oder des Promotionskandidaten nachgewiesen sind.</p>
+<p>Dies setzt in der Regel die Feststellung einer überwiegenden Mitwirkung der Promotionskandidatin oder des Promotionskandidaten an zwei begutachteten Publikationen in renommierten Fachzeitschriften bzw. an zwei referierten Proceedings herausragender internationaler wissenschaftlicher Konferenzen voraus.</p>
+<p>(2) Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses teilt der Bewerberin oder dem Bewerber unter Ausschluss der Öffentlichkeit das Ergebnis sogleich mit.</p>
+<p>(3) Werden die Leistungen in der mündlichen Prüfung nicht mindestens mit „genügend“ beurteilt, so kann die Promotion nicht vollzogen werden. Die mündliche Prüfung kann frühestens nach Ablauf von drei Monaten, jedoch spätestens nach einem Jahr einmal wiederholt werden. Wird die mündliche Prüfung auch im Wiederholungsfall mit „nicht genügend“ bewertet, so ist die Pro¬motion gescheitert. Mit Eintritt der Bestands- oder Rechtskraft des Scheiterns der Promotion ist das Promotionsverfahren abgeschlossen.</p>
+<p><strong>§&nbsp;15 Veröffentlichung der Dissertation</strong></p>
+<p>(1) Die Dissertation ist innerhalb eines Jahres nach Abschluss der mündlichen Prüfung zu ver-öffentlichen. Zuvor hat die Bewerberin oder der Bewerber das veröffentlichungsreife Manuskript einer oder einem der Gutachter zur Bestätigung der Identität mit der bewerteten Dissertation unter Berücksichtigung etwaiger redaktioneller Auflagen vorzulegen. Die Gutachterin oder der Gutachter leitet ihre oder seine Stellungnahme der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses zu. Kann die Dissertation innerhalb der festgelegten Zeit aus wichtigem Grund nicht veröffentlicht werden, so kann die Vorsitzende oder der Vorsitzende auf begründeten Antrag, der vor Ablauf der Frist einzureichen ist, die Frist verlängern. Versäumt die Bewerberin oder der Bewerber die Ablieferungsfrist in schuldhafter Weise, so verliert sie oder er ihre oder seine Rechte aus der Promotion.</p>
+<p>(2) Die Dissertation ist in angemessener Weise der Öffentlichkeit zugänglich zu machen. Dies ist erfüllt, wenn die Bewerberin oder der Bewerber unentgeltlich</p><ol> 	<li>ein Exemplar für die Prüfungsakten und</li> 	<li>zehn Exemplare für das jeweilige Institut oder die jeweilige Arbeitsgruppe der Technischen Universität Hamburg und</li> 	<li>an die Universitätsbibliothek entweder 	<ul> 		<li>&nbsp;a. 20 Exemplare in Buch- oder Fotodruck zum Zweck der Verbreitung oder</li> 		<li>b. drei Exemplare, wenn ein gewerblicher Verleger die Verbreitung über den Buch-handel übernimmt und eine Mindestauflage von 150 Exemplaren nachgewiesen oder eine fünfjährige Verfügbarkeit garantiert wird, oder</li> 		<li>c. drei Exemplare, wenn eine elektronische Veröffentlichung auf dem Dokumentenserver der Technischen Universität Hamburg erfolgt,</li> 	</ul> 	</li> </ol><p>abgeliefert hat. Die Empfehlungen hinsichtlich technischer und rechtlicher Aspekte des Publizierens auf dem Open Access Repository der TUHH sind bei der Publikationsform gemäß Absatz 2 Satz 1 Buchstabe c Nummer 3 zu berücksichtigen.</p>
+<p>(3) Sämtliche nach Absatz 2 abzuliefernden Exemplare der Dissertation müssen fest eingebunden sein unter Verwendung eines Deckblattes nebst Rückseite, dessen Form vom Promotionsausschuss festgelegt wird. Abweichend von § 5 Absatz 3 Nummer 1 dürfen nach Absatz 2 abgelieferte Exemplare der Dissertation auch Danksagungen in Textform in den Sprachen enthalten, in denen die Dissertation verfasst wurde. Danksagungen und Widmungen mit religiösem Hintergrund sind nicht zulässig. Der Lebenslauf muss nicht zwingend mit veröffentlicht werden. Der Titel der Dissertation darf im Zusammenhang mit ihrer Veröffentlichung nach Absatz 2 nicht geändert werden.</p>
+<p>(4) Auf Antrag kann der Promotionsausschuss genehmigen, dass eine vom Original abweichende (z.B. zur Publikation gekürzte) Fassung der Dissertation veröffentlicht wird, wenn die Gutachter¬innen und Gutachter bestätigen, dass diese Fassung den wesentlichen Inhalt der Dissertation wiedergibt. Die Dissertation kann auch in mehreren aufeinander folgenden Teilen publiziert werden.</p>
+<p><strong>§</strong> <strong>16 Verleihung des Doktorgrades</strong></p>
+<p>(1) Sind die Auflagen gemäß § 15 Absatz 1 Satz 2 erfüllt, erhält der Bewerber die Promotions-urkunde. Mit der Aushändigung der Urkunde gilt das Promotionsverfahren als abgeschlossen.</p>
+<p>(2) Die Urkunde enthält den Titel der Dissertation und die Gesamtnote nach § 14 Absatz 1 Satz 1.<br> Die Urkunde trägt unbeschadet abweichender Vereinbarungen oder Regelungen im Falle gemein¬samer Promotionen mit ausländischen wissenschaftlichen Hochschulen oder der Hochschule für angewandte Wissenschaften Hamburg die Unterschriften der Präsidentin oder des Präsidenten der Technischen Universität Hamburg und der Vorsitzenden oder des Vorsitzenden des Promotionsausschusses, den Abdruck des Siegels der Technischen Universität Hamburg und das Datum des Tages, an dem die mündliche Prüfung mit Erfolg abgelegt worden ist. Im Übrigen wird die Form der Promotionsurkunde vom Promotionsausschuss bestimmt.</p>
+<p>(3) Mit dem Empfang der Urkunde erwirbt die Bewerberin oder der Bewerber das Recht, den Doktorgrad „Doktor-Ingenieurin“ oder „Doktor-Ingenieur“ (Dr.-Ing.), „Doktorin der Natur-wissenschaften“ oder „Doktor der Naturwissenschaften“ (Dr. rer. nat.) oder „Doktorin der Wirtschafts- und Sozialwissenschaften“ oder „Doktor der Wirtschafts- und Sozialwissenschaften“ (Dr. rer. pol.) zu führen.</p>
+<p>Bis zum Empfang der Promotionsurkunde ist die Führung des Doktorgrades, auch mit einem etwaigen Zusatz auf den noch nicht vollzogenen Erwerb des Grades, unzulässig.</p>
+<p><strong>§&nbsp;17 Promotionssupplement</strong></p>
+<p>Promotionsbewerberinnen und Promotionsbewerber können nach erfolgreichem Abschluss ihrer Promotionsvorhabens beantragen, dass ihnen von der an der Technischen Universität Hamburg eingerichteten Graduiertenakademie für Technologie und Innovation neben der in Verantwortung des Promotionsausschusses auszustellenden Promotionsurkunde ein Promotionssupplement ausgestellt wird. Der Erwerb des Promotionssupplements setzt voraus, dass die Promotionsbewerberinnen und Promotionsbewerber im Rahmen ihrer Promotionsphase von der Graduiertenakademie anerkannte Angebote zur Vermittlung und Erweiterung wissenschafts- und berufsrelevanter Schlüsselkompetenzen sowie zur individuellen Karriereplanung in dem zum Zeitpunkt des Antrages auf Zulassung zur Promotion für den Bereich der Graduiertenakademie empfohlenen Mindestumfang wahrgenommen haben. Das Promotionssupplement wird durch die wissenschaftliche Leiterin oder den wissenschaftlichen Leiter der Graduiertenakademie ausge¬stellt, unterschrieben und frühestens zusammen mit der Promotionsurkunde ausgehändigt.</p>
+<p><strong>§&nbsp;18 Ehrenpromotion</strong></p>
+<p>(1) Auf Vorschlag eines Studiendekanatsausschusses oder der Mitgliederversammlung eines Forschungsschwerpunkts kann Personen, die sich um die Ingenieur-, Natur- oder Wirtschafts- und Sozialwissenschaften besonders verdient gemacht haben, als seltene Auszeichnung der akademische Grad „Doktor-Ingenieurin Ehren halber“ oder „Doktor-Ingenieur Ehren halber“ (Dr.-Ing. E.h.), „Doktorin der Naturwissenschaften Ehren halber“ oder „Doktor der Natur-wissenschaften Ehren halber“ (Dr. rer. nat. h.c.) oder „Doktorin der Wirtschafts- und Sozial-wissenschaften Ehren halber“ oder „Doktor der Wirtschafts- und Sozialwissenschaften Ehren halber“ (Dr. rer. pol. h.c.) verliehen werden.</p>
+<p>(2) Der Vorschlag ist nebst einer Begründung dem Akademischen Senat zu unterbreiten. Dieser setzt einen Ausschuss aus mindestens drei Professorinnen und Professoren der Technischen Universität Hamburg ein. Dabei muss eine Professorin oder ein Professor dem Akade¬mischen Senat angehören.</p>
+<p>(3) Der Ausschuss überprüft die vom vorschlagenden Studiendekanatsausschuss oder von der vorschlagenden Mitgliederversammlung des Forschungsschwerpunktes vorgelegte Begründung und erarbeitet eine Stellungnahme. Hierzu kann der Ausschuss weitere Unterlagen anfordern. Empfiehlt dabei der Ausschuss eine Ehrenpromotion, so erstellt er zugleich eine Laudatio.</p>
+<p>(4) Aufgrund der in Absatz 3 genannten Stellungnahme beschließt der Akademische Senat über die Verleihung der Ehrendoktorwürde und die Laudatio.</p>
+<p>(5) Die Präsidentin oder der Präsident händigt der oder dem zu Ehrenden eine die Laudatio ent-haltende Urkunde aus. Die Aushändigung soll im Rahmen einer der Verleihung angemessenen Veranstaltung vorgenommen werden.</p>
+<p><strong>§&nbsp;19 Aberkennung des Doktorgrades</strong></p>
+<p>(1) Stellt sich nach Abschluss des Promotionsverfahrens heraus, dass der Doktorgrad durch Täuschung oder auf sonstige unrechtmäßige Art und Weise erworben worden ist, so spricht der Promotionsausschuss die Unwürdigkeit der Promovierten oder des Promovierten aus. Der Doktorgrad ist dann zu entziehen, so dass der Grad oder Titel nicht mehr geführt werden darf. Unter den Tatbestand der Täuschung oder des unrechtmäßigen Erwerbs sind auch die Fälle zu subsumieren, in denen jemand den Doktorgrad über Dritte erworben, Plagiate verwendet, wissenschaftliche Ergebnisse gefälscht oder in anderer Weise im Zusammenhang mit dem Erwerb des Doktorgrades nicht nur unerheblich gegen die Regeln guter wissenschaftlicher Praxis verstoßen hat.</p>
+<p>(2) Außerhalb der Voraussetzungen von Absatz 1 kann der Akademische Senat der Technischen Universität Hamburg auf Antrag der Präsidentin oder des Präsidenten eine Ehrendoktorwürde gem. § 18 nachträglich aberkennen, wenn sich die Person, der von der Technischen Universität Hamburg der Doktorgrad verliehen wurde, auf Grund ihres späteren Verhaltens der Führung eines akademischen Grades unwürdig erwiesen hat oder die Verleihung des Grades in nicht vorwerfbarer Unkenntnis der Technischen Universität Hamburg von der Unwürdigkeit der Kandidatin oder des Kandidaten vorgenommen wurde. Für diese Aberkennung ist im Akademischen Senat eine 2/3-Mehrheit erforderlich.</p>
+<p>(3) Die Entscheidung des Widerrufs ist den Studiendekanaten der Technischen Universität Hamburg und den anderen Hochschulen der Bundesrepublik Deutschland mitzuteilen.</p>
+<p><strong>§&nbsp;20 Verfahrensmängel</strong></p>
+<p>Rein verfahrensmäßige Mängel des Promotionsverfahrens sind durch einen Beschluss des Promotionsausschusses zu Gunsten der Bewerberin oder des Bewerbers heilbar; der Promotions-ausschuss stellt in diesem Beschluss fest, dass der Verfahrensmangel auf das Ergebnis der Prüfung keinen materiellen Einfluss hat.</p>
+<p><strong>§&nbsp;21 Überprüfung des Promotionsverfahrens</strong></p>
+<p>Auf Antrag einer oder eines am Verfahren Beteiligten oder der Bewerberin oder des Bewerbers ist der Promotionsausschuss zur Überprüfung des Promotionsverfahrens verpflichtet. Der Antrag muss spätestens drei Monate nach Abschluss des Verfahrens gestellt worden sein. Die Über-prüfung ist unverzüglich einzuleiten. Hilft der Promotionsausschuss dem Widerspruch nicht ab, legt er den Widerspruch dem Akademischen Senat zur Entscheidung und Erlass eines Wider-spruchsbescheides vor.</p>
+<p><strong>§&nbsp;22 Inkrafttreten und Übergangsbestimmungen</strong></p>
+<p>Diese Promotionsordnung tritt am Tage nach ihrer Veröffentlichung im Amtlichen Anzeiger in Kraft. Sie gilt erstmals für Promotionskandidatinnen und Promotionskandidaten, die ihren Antrag auf Eröffnung des Promotionsverfahrens nach Inkrafttreten dieser Ordnung gestellt haben. Für alle übrigen Promotionskandidatinnen und Promotionskandidaten gelten die Bestimmungen der für sie bisher maßgebenden Promotionsordnung fort.</p>
+<p><em>Hamburg, den 23. August 2023</em></p>
+<p><em>Technische Universität Hamburg</em></p>
+<hr>
+<p>Diese Version der Promotionsordnung der Technischen Universität Hamburg ist rechtlich nicht bindend. Allein die im Amtlichen Anzeiger der Freien und Hansestadt Hamburg (Nr. 73 vom 15.09.2023,&nbsp; S.1403) veröffentlichte Version ist rechtskräftig.</p><ol> </ol>
+	        					</div>
+	        				
+	    					<div class="text-with-button__wrapper">
+	    						
+	                        </div>
+	                	</div>
+	            	</div>
+	        	</div>
+	    	</div>
+		</div>
+		
+								</div>
+								<div class="text-with-image__wrapper">
+									
+
+
+	
+
+
+
+
+	<div class="module module--image" data-name="image" >
+		<div class="module__content">
+			
+					<div class="image image--landscape-1" data-component='{"component": "overlay-image"}'>
+				
+				<div class="container">
+					
+				</div>
+		   	</div>
+	   	</div>
+   	</div>
+
+
+
+								</div>
+							
+					</div>
+            	</div>
+        	</div>
+    	</div>
+	</div>
+
+		</div>
+		<!-- FOOTER -->
+		
+
+<div class="module module--footer" data-name="footer">
+	<div class="module__content">
+		<div class="container">
+			<div class="footer">
+				<div class="footer__top">
+					<div class="footer__logo">
+						<div class="footer__logo__image">
+							<a href="/tuhh/startseite">
+								<img class="lazyautosizes ls-is-cached lazyloaded"
+											data-sizes="auto"
+											data-srcset="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/images/logo-footer.png 20w"
+											alt="alt Logo" sizes="202px"
+											srcset="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/images/logo_full_de.svg 20w">
+							</a>
+						</div>
+					</div>
+					
+
+
+<div class="footer__contact">
+	<h6 class="headline--h6 footer__title">
+		
+				TU Hamburg
+			
+	</h6>
+	
+		<div class="text--normal ">Technische Universität</div>
+	
+	
+		<div class="text--normal ">Hamburg (TU Hamburg)</div>
+	
+	
+		<div class="text--normal ">Am Schwarzenberg-Campus 1</div>
+	
+	
+		<div class="text--normal footer__contact__city">
+			21073 Hamburg</div>
+	
+	
+	
+	
+</div>
+
+
+					
+						
+<div class="footer__social">
+	<h6 class="headline--h6 footer__title">
+		Soziale Netzwerke
+	</h6>
+	<div class="footer__social__links ">
+		
+		
+			<a href="https://www.instagram.com/tuhamburg" target="_blank"
+				class="button button--round-icon footer__social__item">
+				<div class="icon">
+					<img alt="insta logo" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/social/insta.svg" width="18" height="18" />
+				</div>
+			</a>
+		
+		
+			<a href="https://www.youtube.com/channel/UCo2ZK7mteODffSDzS4zEFjA" target="_blank"
+				class="button button--round-icon footer__social__item">
+				<div class="icon">
+					<img alt="twitter logo" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/social/youtube.svg" width="18" height="18" />
+				</div>
+			</a>
+		
+		
+		
+			<a href="https://de.linkedin.com/school/technische-universit%C3%A4t-hamburg/" target="_blank"
+				class="button button--round-icon footer__social__item">
+				<div class="icon">
+					<img alt="twitter logo" src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/social/linkedin.svg" width="18" height="18" />
+				</div>
+			</a>
+		
+	</div>
+</div>
+
+
+					
+					<div class="footer__quicklinks__left">
+						<h6 class="headline--h6 footer__title">
+							Weiterführende Links
+						</h6>
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/impressum">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Impressum</span>
+							</a>
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/datenschutz">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Datenschutz</span>
+							</a>
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/barrierefreiheit">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Barrierefreiheit</span>
+							</a>
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/suche/sitemap">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Sitemap</span>
+							</a>
+						
+					</div>
+					<div class="footer__quicklinks__right">
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/kontakt">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Kontakt</span>
+							</a>
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/tu-hamburg/campus">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Anfahrt</span>
+							</a>
+						
+							<a class="button button--footer-link footer__quicklinks__item" href="/tuhh/tu-hamburg/newsroom">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Presse und Medien</span>
+							</a>
+						
+							<a class="button button--footer-link footer__quicklinks__item" target="_top" href="/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung?type=1625489126">
+								<div class="icon">
+									<img src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Icons/link_arrow1.svg" width="1000" height="1000" alt="" />
+								</div>
+								<span>Cookie-Einstellungen</span>
+							</a>
+						
+					</div>
+				</div>
+			</div>
+			<div class="footer__bottom">
+
+
+
+	<!-- <div class="footer__bottom__left">
+     	<h6 class="headline--h6 footer__bottom__title">
+			
+		</h6>
+	</div> -->
+    <div class="footer__bottom__partners">
+    	
+			<div class="footer__bottom__partners__image">
+				
+					<img class="lazyload" data-sizes="auto" data-srcset="/t3resources/tuhh/img/footer_logos/audit_fgh_rz_2013_DE_RGB.png 1w" alt="Familiengerechte Hochschule" title="Familiengerechte Hochschule">
+				
+			</div>
+		
+			<div class="footer__bottom__partners__image">
+				
+					<img class="lazyload" data-sizes="auto" data-srcset="/t3resources/tuhh/img/footer_logos/logo_weltoffene_hochschulen_gegen_fremdenfeindlichkeit_quer_2.png 1w" alt="Weltoffenene Hochschulen" title="Weltoffenene Hochschulen">
+				
+			</div>
+		
+			<div class="footer__bottom__partners__image">
+				
+					<img class="lazyload" data-sizes="auto" data-srcset="/t3resources/tuhh/img/footer_logos/Gefoerdert_LOGO_BMWI_2.png 1w" alt="BMWi" title="BMWi">
+				
+			</div>
+		
+			<div class="footer__bottom__partners__image">
+				
+					<img class="lazyload" data-sizes="auto" data-srcset="/t3resources/tuhh/img/footer_logos/exist_Download_Projekttraeger_Juelich_2.png 1w" alt="Exist" title="Exist">
+				
+			</div>
+		
+			<div class="footer__bottom__partners__image">
+				
+					<img class="lazyload" data-sizes="auto" data-srcset="/t3resources/tuhh/img/footer_logos/Logo-ESF_2.png 1w" alt="ESF" title="ESF">
+				
+			</div>
+		
+			<div class="footer__bottom__partners__image">
+				
+					<img class="lazyload" data-sizes="auto" data-srcset="/t3resources/tuhh/img/footer_logos/EU_Logo_links_2.png 1w" alt="Europäische Union" title="Europäische Union">
+				
+			</div>
+		   
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+
+
+   		
+   			
+	<section class="cookie-info" data-component='{"component": "cookie-info"}'>
+		<div class="cookie-info__inner">
+			<div class="cookie-info__texts__title h3">
+				Verwendung von Cookies
+			</div>
+			<div class="cookie-info__content">
+				<div class="cookie-info__texts">
+					<div class="cookie-info__texts__copy copy-bold">
+						Wir nutzen Cookies und Tools zur Bereitstellung unserer Webseite sowie zum Einbinden von Medieninhalten. Mit dem Klick auf „Akzeptieren“ erlauben Sie uns dies. Ihre Einwilligung erstreckt sich auch auf die Datenübermittlung an Anbieter in den USA. Wir weisen darauf hin, dass nach der Rechtsprechung des Europäischen Gerichtshofs die USA derzeit kein mit der EU vergleichbares Datenschutzniveau haben und das Risiko der unbemerkten Datenverarbeitung durch staatliche Stellen besteht. Ihre Zustimmung können Sie jederzeit in den Cookie-Einstellungen widerrufen oder abstufen. Nähere Informationen:
+						<a href="/tuhh/datenschutz">Datenschutzerklärung</a> |
+						<a href="/tuhh/impressum">Impressum</a>
+					</div>
+				</div>
+				<div class="cookie-info__buttons">
+					<button class="button button--primary-dash cookie-info__button js-cookie-info__accept">
+						<span>
+							akzeptieren
+						</span>
+						<span class="button__dash"></span>
+					</button>
+					<a class="button button--primary-empty-dash cookie-info__button js-cookie-info__settings" target="_top" href="/tuhh/nach-dem-studium/promotion-und-habilitation/promotionsordnung?type=1625489126">
+						<span>
+							Einstellungen
+						</span>
+						<span class="button__dash"></span>
+					</a>
+					<button class="button button--primary-empty-dash cookie-info__button js-cookie-info__decline">
+						<span>
+							ablehnen
+						</span>
+						<span class="button__dash"></span>
+					</button>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+   		
+    </div>
+    <script type="text/javascript" nonce="623b3152e9ebd">
+    	window.translations = {
+		"de": {
+            "Search Results" : "Suchergebnisse",
+			"Your search returns no results.": "Mehr",
+			"Search …": "Suche ...",
+			"Search": "Suche",
+			"Clear": "Leeren",
+			"All results": "All results",
+			"Fax": "Fax",
+		},
+		"active": "de"
+	}
+	</script>
+
+</div>
+
+<script src="/typo3conf/ext/tuhhsitepackage2021/Resources/Public/Assets/scripts/main.1719394158.js"></script>
+
+
+</body>
+</html>

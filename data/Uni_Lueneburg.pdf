@@ -1,0 +1,2928 @@
+<!DOCTYPE html>
+<html lang="de" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml" class="no-js">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Promotion Organisieren | Leuphana</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Leuphana Universität Lüneburg" />
+<meta property="og:locale" content="de" />
+<meta property="og:url" content="https://www.leuphana.de/graduate-school/promotion-organisieren.html" />
+<meta property="og:title" content="Promotion Organisieren" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@leuphana" />
+<meta name="google-site-verification" content="NzZwCFeYzS8Z_QFJKxApehcMCJmRwx6zkbrQW_db30E" />
+<meta name="msapplication-config" content="/typo3conf/ext/leuphana_styleguide/Resources/Public/favicons/browserconfig.xml" />
+<meta name="theme-color" content="#7d212a" />
+<meta name="title" content="Promotion Organisieren" />
+
+
+<link rel="stylesheet" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/main.1718701528.css" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/print.1718701528.css" media="print">
+<link rel="stylesheet" href="/typo3conf/ext/dpn_glossary/Resources/Public/css/styles.1681378473.css" media="all">
+
+
+
+
+<script src="/typo3/sysext/frontend/Resources/Public/JavaScript/default_frontend.1708417659.js"></script>
+<script src="/typo3conf/ext/theme_leuphana/Resources/Public/JS/jquery-1.8.2.min.1718700692.js"></script>
+<script src="/typo3conf/ext/leuphana_podcast/Resources/Public/JavaScript/Webplayer/embed.1718701064.js"></script>
+
+
+
+            <link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/favicons/apple-touch-icon.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/favicons/favicon-32x32.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/favicons/favicon-16x16.png">
+            <link rel="manifest" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/favicons/site.webmanifest">
+            <link rel="mask-icon" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/favicons/safari-pinned-tab.svg" color="#7d212a">
+
+            <link rel="preload" as="font" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/fonts/leuphana-icons.71cb3e7.woff" crossorigin>
+            <link rel="preload" as="font" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/fonts/roboto-condensed-v25-latin-300.woff2" crossorigin>
+            <link rel="preload" as="font" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/fonts/roboto-condensed-v25-latin-700.woff2" crossorigin>
+            <link rel="preload" as="font" href="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/fonts/roboto-condensed-v25-latin-regular.woff2" crossorigin>            <script type="text/plain" data-type="application/javascript" data-name="googleanalytics">
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                ga('set', 'anonymizeIp', true);
+                ga('create', 'UA-193330693-1', 'auto');
+                ga('send', 'pageview');
+            </script>            <script type="text/plain" data-type="application/javascript" data-name="googleanalytics" data-src="https://www.googletagmanager.com/gtag/js?id=G-9P977SSXXR"></script>
+            <script type="text/plain" data-type="application/javascript" data-name="googleanalytics" >
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-9P977SSXXR');
+            </script>
+<link rel="canonical" href="https://www.leuphana.de/graduate-school/promotion-organisieren.html"/>
+
+<link rel="alternate" hreflang="de-DE" href="https://www.leuphana.de/graduate-school/promotion-organisieren.html"/>
+<link rel="alternate" hreflang="en" href="https://www.leuphana.de/en/graduate-school/organise-your-doctorate.html"/>
+<link rel="alternate" hreflang="x-default" href="https://www.leuphana.de/graduate-school/promotion-organisieren.html"/>
+<!-- This site is optimized with the Yoast SEO for TYPO3 plugin - https://yoast.com/typo3-extensions-seo/ -->
+<script type="application/ld+json">[{"@context":"https:\/\/www.schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.leuphana.de\/","name":"Leuphana"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.leuphana.de\/graduate-school.html","name":"Graduate School"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.leuphana.de\/graduate-school\/promotion-organisieren.html","name":"Promotion Organisieren"}}]}]</script>
+</head>
+<body id="uid98131">
+    <style>
+        :root,
+        html {
+          --brand-primary: #76547D;
+          --brand-primary-hover: #845E8C;
+        }
+      </style><div class="c-page">
+    
+
+
+<header class="c-header container-fluid" data-nwt-plugin="nwt.stickynav">
+    <div class="c-header__brand">
+        <a href="/" class="c-header__brand-link" title="Leuphana Universität Lüneburg"><img src="/typo3conf/ext/leuphana_styleguide/Resources/Public/images/leuphana_logo.svg" width="216" height="78"  class="c-header__brand-logo" alt="Leuphana Universität Lüneburg"  alt="" ></a>
+    </div>
+    
+        <input class="c-header__search-toggle" id="search-toggle" type="checkbox">
+    
+    <input class="c-header__offcanvas-toggle" id="main-nav-toggle" type="checkbox">
+    <div class="c-header__navigation-wrapper">
+        <div class="c-header__navigation">
+            <nav class="c-navigation c-navigation--main" data-nwt-plugin="nwt.offcanvasnav">
+                <ul class="c-navigation__list c-navigation__list--main c-list"><li class="c-navigation__list-item c-list__item"><a href="/universitaet.html" class="c-navigation__list-item-link">Universität</a></li><li class="c-navigation__list-item c-list__item"><a href="/studium.html" class="c-navigation__list-item-link">Studium & Lehre</a></li><li class="c-navigation__list-item c-list__item"><a href="/forschung.html" class="c-navigation__list-item-link">Forschung</a></li><li class="c-navigation__list-item c-list__item"><a href="/kooperationen.html" class="c-navigation__list-item-link">Kooperationen</a></li><li class="c-navigation__list-item c-list__item"><a href="/einrichtungen/international-center.html" class="c-navigation__list-item-link">International</a></li><li class="c-navigation__list-item c-list__item"><a href="/einrichtungen.html" class="c-navigation__list-item-link">Einrichtungen</a></li></ul>
+            </nav>
+        </div>
+    </div>
+    
+        <div class="c-header__search-wrapper">
+            <div class="c-header__search-overlay"></div>
+            <div class="c-header__search">
+                <button class="c-header__search-close" type="button"></button>
+                
+
+<a data-href="/searchform.html" class="c-search__ajaxuri hidden"></a>
+
+        <div id="tx-solr-search" class="c-search" data-nwt-plugin="nwt.search">
+            
+
+    <div class="tx-solr-search-form">
+        <form method="get" class="c-search__form" id="tx-solr-search-form-pi-results" action="/searchform.html" data-suggest="/suggest.json" data-suggest-header="Top Treffer" accept-charset="utf-8">
+            <div class="input-group c-search__form-input-group">
+                
+
+                
+
+                <div class="c-search__autocomplete">
+                    <input type="text"
+                           class="c-search__form-input c-input form-control tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus"
+                           name="tx_solr[q]"
+                           value=""
+                           autocomplete="off"
+                           placeholder="Suchbegriff eingeben..." />
+                    <div class="c-search__autocomplete-suggestions"></div>
+                </div>
+                <select class="c-search__form-select c-input c-input--select form-control" name="tx_solr[filter][]">
+                    <option class="c-input__option" value="" placeholder="">
+                        Filtern nach
+                    </option>
+                    <option class="c-input__option" value="type:pages">
+                        Seiten
+                    </option>
+                    <option class="c-input__option" value="type:tt_address">
+                        Personen
+                    </option>
+                    <option class="c-input__option" value="type:sys_file_metadata">
+                        Dateien
+                    </option>
+                    <option class="c-input__option" value="type:tx_news_domain_model_news">
+                        Nachrichten
+                    </option>
+                </select>
+
+                <span class="input-group-btn">
+                    <button class="c-search__form-submit c-button tx-solr-submit solr-ajaxified" type="submit">
+                        <i class="c-search__form-submit-icon icon-search"></i>
+                        <span class="c-search__form-submit-label">Suchen</span>
+                    </button>
+                </span>
+            </div>
+        </form>
+    </div>
+
+            <div class="c-search__content">
+                
+                <div class="tx_solr c-search__results">
+                    
+                    
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+
+
+
+            </div>
+        </div>
+    
+    <div class="c-navigation__wrapper--language ">
+        <nav class="c-navigation c-navigation--language">
+
+            
+                <ul class="c-navigation__list">
+
+                    
+                        <li class="c-navigation__list-item">
+                            
+                                    
+                                            <span>
+                                                <abbr class="c-navigation__language" title="Deutsch">
+                                                    <span class="c-navigation__language-short">de</span>
+                                                </abbr>
+                                            </span>
+                                        
+                                
+                        </li>
+                    
+                        <li class="c-navigation__list-item">
+                            
+                                    
+                                            <a href="/en/graduate-school/organise-your-doctorate.html" hreflang="en"
+                                               class="c-navigation__list-item-link" title="English">
+
+                                                <abbr class="c-navigation__language" title="English">
+                                                    <span class="c-navigation__language-short">en</span>
+                                                </abbr>
+                                            </a>
+                                        
+                                
+                        </li>
+                    
+                </ul>
+            
+
+        </nav>
+    </div>
+    <div class="c-header__button-group">
+        
+            <label class="c-header__search-button" for="search-toggle">
+                <i class="icon icon-search"></i>
+            </label>
+        
+        <label class="c-header__offcanvas-button" for="main-nav-toggle">
+            <span class="c-header__offcanvas-button-inner"></span>
+        </label>
+    </div>
+</header>
+
+    <main class="c-main">
+        
+    <!--TYPO3SEARCH_begin-->
+
+
+        
+                
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        <section class="c-section " id="c629157">
+            
+    
+
+
+
+            <div class="c-section__container-content container-fluid">
+                <div class="row">
+                    
+                            <div class="col-4 col-xl-3 d-none d-lg-block">
+                                
+
+<!--TYPO3SEARCH_end-->
+<div class="c-navigation__wrapper--subnavigation">
+    <ul class="c-navigation__list--subnavigation c-navigation__list c-navigation__list--active" id="nav-subnavigation">
+
+        <li class="c-navigation__list-item c-navigation__list-item--pagetitle">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school.html">Graduate School</a>
+            </div>
+        </li>
+
+        
+            
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell.html">Bildungsidee</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-120686&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-120686" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell/komplementaerstudium.html">Komplementärstudium</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell/doctoral-track.html">Doctoral Track</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell/graduate-community.html">Graduate Community</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge.html">Masterstudiengänge</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-98089&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-98089" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/international-economic-law-llm.html">International Economic Law</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-92368&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-92368" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/international-economic-law-llm/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/international-economic-law-llm/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/international-law-of-global-security-peace-development.html">International Law of Global Security, Peace &amp; Development</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-113493&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-113493" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/international-law-of-global-security-peace-development/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/cultural-studies-culture-and-organization.html">Cultural Studies: Culture and Organization</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-111171&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-111171" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/cultural-studies-culture-and-organization/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/cultural-studies-culture-and-organization/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/cultural-studies-culture-and-organization/kultur-sprache-literatur.html">Kultur Sprache Literatur</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-kritik-der-gegenwart.html">Kulturwissenschaften: Kritik der Gegenwart</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-49030&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-49030" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-kritik-der-gegenwart/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-kritik-der-gegenwart/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-kritik-der-gegenwart/kultur-sprache-literatur.html">Kultur Sprache Literatur</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-medien-und-digitale-kulturen.html">Kulturwissenschaften: Medien und Digitale Kulturen</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-111176&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-111176" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-medien-und-digitale-kulturen/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/kulturwissenschaften-medien-und-digitale-kulturen/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/lehramt-an-berufsb-schulen-sozpaed.html">Lehramt berufsb. Schulen - Sozialpädagogik</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/lehramt-an-berufsb-schulen-wirtwiss.html">Lehramt berufsb. Schulen - Wirtschaftswissenschaften</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/lehramt-grundschulen.html">Lehramt Grundschulen</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/lehramt-an-haupt-und-realschulen.html">Lehramt an Haupt- und Realschulen</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-data-science.html">Management &amp; Data Science</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-94652&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-94652" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-data-science/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-data-science/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-engineering.html">Management &amp; Engineering</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-16136&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-16136" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-engineering/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-engineering/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-entrepreneurship.html">Management &amp; Entrepreneurship</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-111166&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-111166" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-entrepreneurship/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell/doctoral-track.html">Doctoral Track</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-entrepreneurship/integriertes-auslandsstudium-an-der-cranfield-university.html">Integriertes Auslandsstudium an der Cranfield University</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-entrepreneurship/integriertes-auslandsstudium-an-der-university-of-glasgow.html">Integriertes Auslandsstudium an der University of Glasgow</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-sustainable-accounting-and-finance.html">Management &amp; Sustainable Accounting and Finance</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-19258&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-19258" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-sustainable-accounting-and-finance/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-sustainable-accounting-and-finance/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-sustainable-accounting-and-finance/doctoral-track.html">Doctoral Track</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/management-sustainable-accounting-and-finance/integriertes-auslandsstudium-an-der-university-of-glasgow.html">Integriertes Auslandsstudium an der University of Glasgow</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/psychology-sustainability.html">Psychology &amp; Sustainability</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-113433&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-113433" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/psychology-sustainability/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/public-affairs-and-democracy.html">Public Affairs and Democracy</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-127057&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-127057" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/public-affairs-and-democracy/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/public-affairs-and-economics.html">Public Affairs and Economics</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-127147&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-127147" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/public-affairs-and-economics/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/rechtswissenschaft.html">Rechtswissenschaft</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-121854&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-121854" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/rechtswissenschaft/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/rechtswissenschaft/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-ecosystems-biodiversity-and-society.html">Sustainability Science: Ecosystems, Biodiversity and Society</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-126969&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-126969" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-ecosystems-biodiversity-and-society/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-entrepreneurship-agency-and-leadership.html">Sustainability Science: Entrepreneurship, Agency and Leadership</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-127135&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-127135" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-entrepreneurship-agency-and-leadership/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-governance-and-law.html">Sustainability Science: Governance and Law</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-127070&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-127070" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-governance-and-law/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-resources-materials-and-chemistry.html">Sustainability Science: Resources, Materials and Chemistry</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-127217&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-127217" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/sustainability-science-resources-materials-and-chemistry/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/work-organizational-psychology.html">Work Organizational Psychology</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-106813&quot;, &quot;parent&quot;: &quot;#nav-98089&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-106813" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/work-organizational-psychology/studieninhalte.html">Studieninhalte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/masterstudiengaenge/work-organizational-psychology/erfahrungsberichte.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung.html">Master Bewerbung</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-14629&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-14629" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/zugangsvoraussetzungen.html">Zugangsvoraussetzungen</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/auswahlverfahren.html">Auswahlverfahren</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/lehrkraeftebildung.html">Lehrkräftebildung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/international-economic-law.html">International Economic Law</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/hoeheres-fachsemester.html">Höheres Fachsemester</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/nach-der-bewerbung-1.html">Nach der Bewerbung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/master-bewerbung/kosten-finanzierung.html">Kosten &amp; Finanzierung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studium-organisieren.html">Master Studienorganisation</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-98263&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-98263" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studium-organisieren/studienstart.html">Studienstart</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung.html">GradSkills</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studium-organisieren/pruefungen.html">Prüfungen</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-77321&quot;, &quot;parent&quot;: &quot;#nav-98263&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-77321" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studium-organisieren/pruefungen/pruefungsordnungen-und-fachspezifische-bestimmungen.html">Prüfungsordnungen und Fachspezifische Anlagen</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studium-organisieren/masterarbeit.html">Masterarbeit</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studium-organisieren/masterarbeit-fuer-lehramt.html">Masterarbeit für Lehramt</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs.html">Promotionskollegs</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-47100&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-47100" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/darstellung.html">Darstellung Visualität Wissen</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/engineering.html">Engineering</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/entrepreneurship-management-innovation.html">Entrepreneurship, Management &amp; Innovation</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/information-systems-data-science.html">Information Systems &amp; Data Science</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/joachim-herz-promotionskolleg-fuer-rechtswissenschaft.html">Joachim Herz Promotionskolleg für Rechtswissenschaft</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/einrichtungen/fakultaet/kulturwissenschaften/forschung/kulturen-der-kritik.html">Kulturen der Kritik</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/management-accounting-finance.html">Management, Accounting &amp; Finance</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/nachhaltigkeitswissenschaft.html">Nachhaltigkeitswissenschaft</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/philosophie.html">Philosophie, Literatur und Geschichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/politik.html">Politikwissenschaft</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/professionalisierungsforschung.html">Professionalisierungsforschung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/psychologie-und-selbstregulation.html">Psychologie und Selbstregulation</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/recht.html">Recht</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/sozialpaedagogik-in-diversen-gesellschaften.html">Sozialpädagogik in diversen Gesellschaften</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/soziologie.html">Soziologie und Kulturorganisation</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/stadt.html">Stadt- und Kulturraumforschung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/unterrichtsforschung.html">Unterrichtsforschung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/verhaltensoekonomik-und-gesellschaftliche-transformation.html">Verhaltensökonomik und gesellschaftliche Transformation</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/vwl.html">VWL</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/wirtschaftspsychologie.html">Wirtschaftspsychologie</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/wissenschaften-der-kuenste.html">Wissenschaften der Künste</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotionskollegs/wissenskulturen.html">Wissenskulturen / Digitale Medien</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-zugang.html">Promotion Zugang</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-110985&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-110985" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-zugang/promotionsthemen.html">Promotionsthemen</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell/doctoral-track.html">Doctoral Track</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-zugang/erfahrungsberichte-promotion.html">Erfahrungsberichte</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item c-navigation__list-item--active">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-organisieren.html">Promotion Organisieren</a>
+                
+                    <span class="c-navigation__list-item-button toggled"
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-98131&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-98131" class="c-navigation__list collapse show">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-organisieren/promotionsstudium.html">Promotionsstudium</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung.html">GradSkills</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-organisieren/qualifizierungsfonds.html">Qualifizierungsfonds</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/postdoc.html">Postdoc</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-88159&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-88159" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung.html">GradSkills</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-organisieren/qualifizierungsfonds.html">Qualifizierungsfonds</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung.html">Karriere &amp; Förderung</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-49799&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-49799" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung/gradskills.html">GradSkills Workshops</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-94625&quot;, &quot;parent&quot;: &quot;#nav-49799&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-94625" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung/gradskills/login-logout.html">Login/Logout</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-95127&quot;, &quot;parent&quot;: &quot;#nav-94625&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-95127" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung/gradskills/login-logout/registrierung.html">Registrierung</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung/leadership-zertifikat.html">Leadership Zertifikat</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-104095&quot;, &quot;parent&quot;: &quot;#nav-49799&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-104095" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung/leadership-zertifikat/curriculum.html">Curriculum</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/studienmodell/doctoral-track.html">Doctoral Track</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/promotion-organisieren/qualifizierungsfonds.html">Qualifizierungsfonds</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/karriere-foerderung/leuphana-dissertationspreise.html">Dissertationspreise</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/beratung-und-coaching.html">Beratung &amp; Coaching</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-125232&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-125232" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/beratung-und-coaching/master-studienberatung.html">Studienberatung Master</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/beratung-und-coaching/beratung-coaching.html">Beratung zu Promotion/Postdoc</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/beratung-und-coaching/schnupperstudium.html">Schnupperstudium Master</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/termine-veranstaltungen.html">Termine &amp; Veranstaltungen</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-28777&quot;, &quot;parent&quot;: &quot;#nav-subnavigation&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-28777" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/termine-veranstaltungen/informationsangebote-master.html">Informationsangebote Master</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/termine-veranstaltungen/infotag-promotion.html">Infotag Promotion</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/termine-veranstaltungen/opening-days.html">Graduate School Opening Days</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/termine-veranstaltungen/graduiertenfeier.html">Graduiertenfeier</a>
+                
+                    <span class="c-navigation__list-item-button "
+                          data-nwt-plugin="nwt.collapse"
+                          data-nwt-plugin-options="&#123;&quot;target&quot;: &quot;#nav-120693&quot;, &quot;parent&quot;: &quot;#nav-28777&quot;, &quot;parentDelay&quot;: 350&#125;">
+                    </span>
+                
+            </div>
+            
+                <ul id="nav-120693" class="c-navigation__list collapse ">
+    
+        
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/termine-veranstaltungen/graduiertenfeier/faq-graduiertenfeier.html">FAQ Graduiertenfeier</a>
+                
+            </div>
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+    
+</ul>
+
+
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/leuphana-campus.html">Campus</a>
+                
+            </div>
+            
+        </li>
+    
+
+        
+            
+        <li class="c-navigation__list-item ">
+            <div class="c-navigation__list-item-content">
+                <a class="c-navigation__list-item-link" href="/graduate-school/team.html">Team</a>
+                
+            </div>
+            
+        </li>
+    
+
+        
+    </ul>
+</div>
+<!--TYPO3SEARCH_begin-->
+
+                            </div>
+                            <div class="col-16 col-lg-10 col-xl-11">
+                                <ul class="c-breadcrumb c-list c-list--unstyled"><li class="c-breadcrumb__item"><a href="/" class="c-breadcrumb__link">Leuphana</a></li><li class="c-breadcrumb__item"><a href="/graduate-school.html" class="c-breadcrumb__link">Graduate School</a></li><li class="c-breadcrumb__item c-breadcrumb__item--current">Promotion Organisieren</li></ul>
+                                <h1 class="c-headline">
+                                    Promotion Organisieren
+                                </h1>
+
+                                
+<div id="c629157" class="frame frame-default frame-type-section_one_col frame-layout-0"></div>
+
+
+                                
+                                    
+                                        
+<div id="c629156" class="frame frame-default frame-type-text frame-layout-0"><p class="lead">Diese Seite ist als Info-Plattform für alle Promovierende der Leuphana Universität Lüneburg konzipiert, sowie für jene, die sich für eine Promotion an der Leuphana Universität Lüneburg interessieren. Auf dieser Seite finden Sie eine Reihe von nützlichen Informationen, die Ihnen helfen, Ihre Promotion effektiv zu gestalten&nbsp;– von der Betreuungsvereinbarung bis zur Veröffentlichung Ihrer Dissertation.</p></div>
+
+                                    
+                                
+                            </div>
+                        
+                </div>
+            </div>
+        </section>
+    
+
+            
+    
+
+
+
+
+    
+            
+
+            <section class="c-section-navigation" data-nwt-plugin="nwt.sectionnav">
+                <div class="c-section-navigation__content c-section">
+                    <div class="c-section-navigation__container c-section__container-content container-fluid">
+                        <div class="row">
+                            <div class="col-16 col-lg-12 col-xl-13 offset-lg-4 offset-xl-3">
+                                <ul class="c-section-navigation__list">
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                                <li class="c-section-navigation__list-item">
+                                                    <a class="c-section-navigation__list-item-link"
+                                                       href="/graduate-school/promotion-organisieren.html#c759002"
+                                                       data-section-uid="c759002">
+                                                        
+                                                                Startphase
+                                                            
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                                <li class="c-section-navigation__list-item">
+                                                    <a class="c-section-navigation__list-item-link"
+                                                       href="/graduate-school/promotion-organisieren.html#c759005"
+                                                       data-section-uid="c759005">
+                                                        
+                                                                Forschungsphase
+                                                            
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                                <li class="c-section-navigation__list-item">
+                                                    <a class="c-section-navigation__list-item-link"
+                                                       href="/graduate-school/promotion-organisieren.html#c759006"
+                                                       data-section-uid="c759006">
+                                                        
+                                                                Abschlussphase
+                                                            
+                                                    </a>
+                                                </li>
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                        
+                                            
+                                            
+                                            
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        
+
+
+
+        
+                
+
+
+
+
+
+
+
+
+
+
+    <section class="c-section c-section--gray" id="c759002" data-nwt-plugin="nwt.contentmenu">
+    <div class="c-section__container">
+        <div class="c-section__container-content container-fluid">
+            <div class="row">
+                <div class="col-16 col-lg-10 col-xl-11 offset-lg-4 offset-xl-3">
+                    
+                        <h3 class="c-headline c-list__headline">Startphase</h3>
+                    
+                    <ul class="c-list">
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629180">Anmeldung zu den Veranstaltungen des Promotionsstudiums</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629186">Betreuungsvereinbarung</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629201">Binational promovieren</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629214">Einschreibung</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c668677">Rechtliche Grundlagen der Einschreibung</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c692667">Ansprechpersonen im Studierendenservice</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c755715">Kumulative Dissertation</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c802207">Kumulative Dissertation - Mindeststandards</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c816369">Planungsgespräch</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629294">Promovierendenvertretung</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c783057">Semesterbeitrag</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c652047">Fachgruppenvertretung</span>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+        
+
+        <section class="c-section " id="c759002">
+            
+
+
+            <div class="c-section__container-content container-fluid">
+                <div class="row">
+                    
+                            <div class="col-16 col-lg-10 col-xl-11 offset-lg-4 offset-xl-3">
+                                
+<div id="c759002" class="frame frame-default frame-type-section_one_col frame-layout-0"><header><h2 class=" c-headline">
+				Startphase
+			</h2></header></div>
+
+
+
+                                
+                                    
+                                        
+<div id="c629180" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Anmeldung zu den Veranstaltungen des Promotionsstudiums
+			</h3></header><p>Die Anmeldung zu den Veranstaltungen des Promotionsstudiums erfolgt über die Plattform myStudy, in der u.a. das Vorlesungsverzeichnis veröffentlicht wird. Zugang zu myStudy erhalten Sie mit Ihrem Leuphana-Account entweder direkt über die Webseite von <a href="https://mystudy.leuphana.de/portal/home" title="Öffnet ein Fenster zur Webseite von myStudy" target="_blank" rel="noreferrer">myStudy</a> oder über das Campus Management System <a href="https://mycampus.leuphana.de/co/ee/ui/ca2/app/desktop/#/login" title="Öffnet ein Fenster zur Webseite von myCampus" target="_blank" rel="noreferrer">myCampus</a>.</p><p>Bitte beachten Sie: Bei der Nutzung von myCampus finden Sie die Applikation "myStudy" unter der Rubrik "Services". Nach einem Klick auf die Applikation öffnet sich ein neues Fenster in dem Sie dann noch den Button "Login starten" auswählen müssen.</p></div>
+
+                                    
+                                        
+<div id="c629186" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Betreuungsvereinbarung
+			</h3></header><p>Während der gesamten Promotionszeit werden Sie von Ihrer Betreuungsperson, die von der Promotionskommission bei Ihrer Zulassung benannt wurde, fachlich begleitet. Diese unterstützt Sie auf dem Weg, Teil der scientific community zu werden.</p><p>Zur Klärung gegenseitiger Erwartungshaltungen und mit dem Ziel, das Betreuungsverhältnis inhaltlich und zeitlich transparent zu gestalten, schließen Sie mit Ihrer Betreuungsperson vor der Zulassung zur Promotion eine <strong><a href="/fileadmin/user_upload/grad_school/files/3Promotion_Postdoc_Juniorprof/BV_PG/Betreuungsvereinbarung.pdf" title="Formular Betreuungsvereinbarung" target="_blank">Betreuungsvereinbarung</a></strong> ab. Dies dient auch der Qualitätssicherung der Planung und Durchführung Ihres Promotionsvorhabens. Die Betreuungsvereinbarung reichen Sie bitte mit Ihren Unterlagen auf Zulassung beim Studierendenservice ein.</p></div>
+
+                                    
+                                        
+<div id="c629201" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Binational promovieren
+			</h3></header><p>Alle In­for­ma­tio­nen und Dokumente zum Co­tu­tel­le-Ver­fah­ren, wie eine Checkliste und eine Mustervereinbarung zur Durchführung eines Co­tu­tel­le-Ver­fah­rens, fin­den Sie auf den Seiten des <a href="/einrichtungen/international-center.html">International Center</a>.</p></div>
+
+                                    
+                                        
+<div id="c629214" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Einschreibung
+			</h3></header><p>Ansprechpartner für alle Fragen zur Einschreibung ist der Studierendenservice der Leuphana.</p><p>Nachdem Sie Ihren Zu­las­sungs­be­scheid er­hal­ten haben, müssen Sie bei diesem noch die Ein­schrei­be­for­ma­litäten er­le­di­gen. Die Frist für die Ein­schrei­bung finden Sie in den Unterlagen, die Ihnen mit dem Zulassungsbescheid übersandt wurden. Diese beträgt in der Regel 14 Tage nach Erhalt der Unterlagen.</p><p>Die Einschreibung endet frühestens mit dem Bestehen Ihrer Disputation. Eine Exmatrikulation erfolgt automatisch zum Ende des laufenden Semesters.&nbsp;Möchten Sie bereits zum Datum Ihrer letzten Prüfungsleistung oder zu einem anderen beliebigen Zeitpunkt im laufenden Semester exmatrikuliert werden, stellen Sie bitte einen Antrag auf Exmatrikulation.</p></div>
+
+                                    
+                                        
+<div id="c668677" class="frame frame-default frame-type-cce_footerlinklist frame-layout-0"><header><h3 class=" c-headline">
+				Rechtliche Grundlagen der Einschreibung
+			</h3></header><ul class="c-list c-list--unordered c-list--arrow"><li><a href="https://voris.wolterskluwer-online.de/browse/document/82dd34dc-f4ed-3063-8084-61de25eefb5b">Niedersächsisches Hochschulgesetz (NHG)</a></li><li><a href="#c629290">Promotionsordnungen</a></li><li><a href="https://www.leuphana.de/fileadmin/user_upload/Aktuell/files/Gazetten/Gazette_2024_84_2024-05-28.pdf" title="Link zur Immatrikulationsordnung" target="_blank">Immatrikulationsordnung (Gazette 84/24)</a></li></ul></div>
+
+                                    
+                                        
+<div id="c692667" class="frame frame-default frame-type-shortcut frame-layout-0"></div><div id="c692660" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Ansprechpersonen im Studierendenservice
+			</h3></header><p>Melanie Maselkowski | Fon: 04131-677-1407<br> Svenja Rehder | Fon: 04131-677-1417<br> Johanna Wille | Fon: 04131-677-1409<br><br> E-Mail: adminpromotion@leuphana.de</p></div><span id="c692667-to-menu"></span>
+
+
+                                    
+                                        
+<div id="c755715" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Kumulative Dissertation
+			</h3></header><p>Bei einer kumulativen Promotion wird die Dissertation in Form von mindestens drei Fachartikeln bzw. Manuskripten sowie einem Rahmenpapier erbracht. Das Rahmenpapier dient dabei der Einbettung der Fachartikel und Manuskripte in die Forschungsfrage. Die Qualitätsanforderungen bei einer kumultativen Dissertation entsprechen denjenigen, die auch an eine monographische Dissertation gestellt werden.</p><p>Die konkreten Mindeststandards für kumulative Dissertationen an der Leuphana sind in den Promotionsordnungen der Fakultäten für alle Promovierenden einheitlich geregelt. Von einigen Fakultäten werden diese zusätzlich in Richtlinien zu kumulativen Dissertationen für die Bedarfe der jeweiligen Fächer und Doktorgrade spezifiziert.</p><p>Die Entscheidung für oder gegen eine kumulative Dissertation hängt häufig vom Fachgebiet ab und sollten Sie mit Ihrer Betreuungsperson besprechen.</p></div>
+
+                                    
+                                        
+<div id="c802207" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Kumulative Dissertation - Mindeststandards
+			</h3></header><p>Unabhängig vom gewählten Fachgebiet oder Doktorgrad gelten folgende einheitliche Qualitätsanforderungen für kumulative Dissertationen an der Leuphana:</p><p>a. Die Anzahl der vorgelegten Fachartikel bzw. Manuskripte darf drei nicht unterschreiten.</p><p>b. Sind vorgelegte Fachartikel bzw. Manuskripte in Ko-Autor*innenschaft mit anderen Autor*innen geschrieben, so muss der jeweilige eigene Anteil der*des Promovierenden erkennbar und erläutert sowie von den Ko-Autor*innen bestätigt sein.</p><p>c. Zur Dokumentation des jeweils eigenen Anteils sollen die Kategorien der Contributor Roles Taxonomy (CRediT) genutzt werden.</p><p>d. Mindestens eine*r der gem. § 3b bestellten drei Gutachter*innen darf nicht zugleich Ko-Autor*in der für die Promotion maßgeblichen Fachartikel bzw. Manuskripte sein.</p><p>e. Der Publikationsstatus der vorgelegten Artikel fungiert als (ein) Indikator für die Qualität der wissenschaftlichen Arbeit, ersetzt jedoch nicht den eigenständigen Begutachtungsprozess des Begutachtungsausschusses.</p><p>f. Die Promotionskommissionen können bzgl. des verlangten Publikationsstatus und der Wertigkeit der Zeitschriften eigene Richtlinien festlegen.</p><p>g. Wichtiger Bestandteil des Begutachtungsprozesses einer kumulativen Dissertation ist das Rahmenpapier und die Einbettung der Fachartikel bzw. Manuskripte entlang der Fragestellung.</p></div>
+
+                                    
+                                        
+<div id="c816369" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Planungsgespräch
+			</h3></header><p>Bis spätestens zum Ende des ersten Semesters führen Sie mit Ihrer Betreuungsperson ein sogenanntes <strong><a href="/fileadmin/user_upload/grad_school/files/3Promotion_Postdoc_Juniorprof/BV_PG/Planungsgespraech.pdf" title="Formular Planungsgespräch" target="_blank">Planungsgespräch</a></strong>. Dieses beinhaltet gemeinsame Absprachen z.B. zu den Punkten Zeit- und Arbeitsplan, Finanzierung, konkretet Betreuung, Fortschrittsgespräche sowie (Weiter-)Qualifizierung und Karriereplanung.</p></div>
+
+                                    
+                                        
+<div id="c629294" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Promovierendenvertretung
+			</h3></header><p>Die Promovierendenvertretung vertritt mit beratender Stimme die Interessen der Promovierenden im Senat und den Fakultätsräten der Leuphana Universität Lüneburg. Sie berät über Fragen und Bedarfe, die Promovierende betreffen und gibt hierzu gegenüber den Organen der Hochschule Empfehlungen ab.</p><p>Aktuell gewählte Mitglieder sind:</p><ul class="c-list--unordered"><li>Esther-Marie Verbücheln für die Fakultät Bildung</li><li>N.N. für die Fakultät Kulturwissenschaften</li><li>Maximilian Wagenknecht für die Fakultät Management und Technologie</li><li>Simon Norris für die Fakultät Nachhaltigkeit</li><li>Jan Dorwig für die Fakultät Staatswissenschaften</li></ul><p>Promovierende können sich unter dieser E-Mail an die Mitglieder wenden:<br><a href="#" data-mailto-token="ocknvq,rtqoqxkgtgpfgpxgtvtgvwpiBngwrjcpc0fg" data-mailto-vector="2">promovierendenvertretung<span>@</span>leuphana.de</a></p></div>
+
+                                    
+                                        
+<div id="c783057" class="frame frame-default frame-type-shortcut frame-layout-0"><header><h3 class=" c-headline">
+				Semesterbeitrag
+			</h3><h4 class="">
+                Der Semesterbeitrag muss erst nach der Zulassung zur Promotion überwiesen werden.
+            </h4></header></div><div id="c448249" class="frame frame-default frame-type-text frame-layout-0"><ul class="c-list--unordered"><li>Studentenwerksbeitrag : 114,00 €</li><li>Verwaltungskostenbeitrag: 75,00 €</li><li>Studierendenschaftsbeitrag: 204,09 €<br> 	(davon 176,40 € für das Semesterticket, 17,90 € Beitrag für die studentische Selbstverwaltung, 9,79 € für StadtRad u.ä.)</li><li><strong>SUMME: 393,09 €</strong></li></ul><p>Für Promotionsstudierende, die ein Stipendium aus öffentlichen Mitteln erhalten, gilt ein verminderter Semesterbeitrag:</p><ul class="c-list--unordered"><li>Studentenwerksbeitrag : 114,00 €</li><li>Studierendenschaftsbeitrag: 204,09 €<br> 	(davon 176,40 € für das Semesterticket, 17,90 € Beitrag für die studentische Selbstverwaltung, 9,79 € für StadtRad u.ä.)</li><li><strong>SUMME: 318,09 €</strong></li></ul><p>Um die Ermäßigung in Anspruch nehmen zu können, müssen Sie einen Nachweis über Ihr Stipendium beim Studierendenservice vorlegen (Kopie der Bewilligung des Stipendiums reicht hier aus).</p></div><span id="c783057-to-menu"></span>
+
+
+                                    
+                                        
+<div id="c652047" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Fachgruppenvertretung
+			</h3></header><p>Die Fachgruppenvertretung Promotion ist ein studentisches Gremium und vertritt die Interessen der Promovierenden aller Fakultäten. Außerdem organisiert die Fachgruppenvertretung verschiedene Veranstaltung zur Vernetzung der Promovierenden. Informationen zu den Aktivitäten erhalten Sie über den Newsletter der Fachgruppenvertretung, der unter myStudy abonniert werden kann, oder über die <a href="http://www.fgv-promotion.de/fgv-promotion.de/index.php/de/index.html" title="Website der Fachgruppenvertretung Promotion" target="_blank" rel="noreferrer">Webseite der Fachgruppenvertretung</a>.</p><p>Per E-Mail sind die Mitglieder erreichbar unter: <a href="#" data-mailto-token="ocknvq,hix/rtqoqvkqpBngwrjcpc0fg" data-mailto-vector="2">fgv-promotion<span>@</span>leuphana.de</a></p><p>&nbsp;</p></div>
+
+                                    
+                                
+                            </div>
+                        
+                </div>
+            </div>
+        </section>
+    
+
+            
+    
+
+
+
+
+
+
+        
+                
+
+
+
+
+
+
+
+
+
+
+    <section class="c-section c-section--gray" id="c759005" data-nwt-plugin="nwt.contentmenu">
+    <div class="c-section__container">
+        <div class="c-section__container-content container-fluid">
+            <div class="row">
+                <div class="col-16 col-lg-10 col-xl-11 offset-lg-4 offset-xl-3">
+                    
+                        <h3 class="c-headline c-list__headline">Forschungsphase</h3>
+                    
+                    <ul class="c-list">
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629176">Anerkennung externer Leistungen</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c634147">Antrag für die Anerkennung externer Leistungen</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c783190">Teilnahmebescheinigung Promotionsstudium</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c798194">Forschungsdatenmanagement</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629253">Gute wissenschaftliche Praxis</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629278">Promotionskollegs</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c751099">Promotionskommissionen</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629290">Promotionsordnung</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c797844">Promotionsordnungen der Fakultäten</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629255">Promovieren mit Kind </span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c634155">Promovieren mit Kind: Weiterführende Webseiten</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c747951">Studierendenservice</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c692660">Ansprechpersonen im Studierendenservice</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c629335">Vorlesungsverzeichnis</span>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+        
+
+        <section class="c-section " id="c759005">
+            
+
+
+            <div class="c-section__container-content container-fluid">
+                <div class="row">
+                    
+                            <div class="col-16 col-lg-10 col-xl-11 offset-lg-4 offset-xl-3">
+                                
+<div id="c759005" class="frame frame-default frame-type-section_one_col frame-layout-0"><header><h2 class=" c-headline">
+				Forschungsphase
+			</h2></header></div>
+
+
+
+                                
+                                    
+                                        
+<div id="c629176" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Anerkennung externer Leistungen
+			</h3></header><p>Falls Sie sich Leistungen für das Promotionsstudium an der Leuphana anerkennen lassen wollen, die Sie in Lehrveranstaltungen anderer Einrichtungen (wie zum Beispiel aus dem Angebot des <a href="https://hermes.hsu-hh.de/doctoralstudy/" target="_blank" rel="noreferrer">PhD Networks</a>) erbracht haben, müssen Sie einen <strong><a href="/fileadmin/user_upload/services/studierendenservice/Promotion/Administration/DE_EN/D_EN_recognition_external_credits.pdf" title="Leitet Herunterladen der Datei ein" class="download">Antrag</a></strong> bei der Sprecher*in Ihres Promotionskollegs stellen.</p><p>Dem Antragsformular sind ein entsprechender Nachweis der externen Einrichtung über die erfolgreiche Teilnahme sowie eine kurze schriftliche Bestätigung Ihrer Betreuungsperson beizufügen. Aus dieser muss hervorgehen, dass die anzuerkennende Leistung zu Ihrer wissenschaftlichen Qualifizierung als Doktorand*in hinsichtlich Fachlichkeit und Kompetenzerwerb beigetragen hat. Der Antrag kann nur dann positiv beschieden werden, wenn die externen Leistungen mit den an der Leuphana geforderten mindestens vergleichbar sind.<br><br> Den bewilligten Antrag auf Anerkennung reichen Sie bitte im Studierendenservice ein.</p><p>Bitte beachten Sie: Es ist <em>nicht </em>möglich, sich Leistungen anrechnen zu lassen, die Sie im Rahmen eines Bachelor- oder Masterstudiums erbracht haben.</p><p>Einige Beispiele anrechenbarer Kurse und Summer Schools für Promovierende finden Sie hier:</p><p><strong>PhD Network - Netzwerk für PhD Kurse</strong></p><p>Das Ph.D. Network ist eine Kooperation zwischen deutschen (u.a. der Leuphana) und dänischen Unviersitäten und Forschungseinrichtungen, sowie dem Inter-University-Center Dubrovnik in Kroatien.<br> Die gemeinsamen Ziele sind der Aufbau, die Entwicklung und die Konsolidierung eines Netzwerks für Promotionsstudiengänge. Das Netzwerk bietet einen gegenseitigen Informationsaustausch über Aktivitäten im Bereich der Doktorand*innenausbildung über die Website an, die auch den Zugang zu diesen Aktivitäten ermöglicht. Finanzielle Verpflichtungen entstehen durch die Teilnahme an diesen Aktivitäten nicht. Die Partner des Netzwerks unterstützen sich gegenseitig bei der Beschaffung von Mitteln für den Ausbau der weiteren Zusammenarbeit.<br> Eine Übersicht über die angebotenen Kurse für Promovierenden finden Sie hier: <a href="https://hermes.hsu-hh.de/doctoralstudy/courses/" target="_blank" rel="noreferrer">https://hermes.hsu-hh.de/doctoralstudy/courses/</a></p><p><strong>VHB - pro dok</strong></p><p>Der Verband der Hochschullehrerinnen und Hochschullehrer für Betriebswirtschaft e.V. (VHB) bietet verschiedene Kurse für Promovierende an, die auch überfachliche Kurse anbieten, z.B. Methodenkurse und Diversity-Kurse. Die aktuelle Kursübersicht finden Sie <a href="https://vhbonline.org/fileadmin/user_upload/ProDok_Kursuebersicht_2023_aktuell.pdf" target="_blank" rel="noreferrer">hier</a>.</p></div>
+
+                                    
+                                        
+<div id="c634147" class="frame frame-default frame-type-uploads frame-layout-0"><header><h3 class=" c-headline">
+				Antrag für die Anerkennung externer Leistungen
+			</h3></header><ul class="c-link-list"><li class="c-link-list__item"><a href="/fileadmin/user_upload/services/studierendenservice/Promotion/Administration/DE_EN/D_EN_recognition_external_credits.pdf" class="c-link c-link--icon c-link--icon-document u-transform--uppercase" >Antrag / Anerkennung</a></li></ul></div>
+
+                                    
+                                        
+<div id="c783190" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Teilnahmebescheinigung Promotionsstudium
+			</h3></header><p>Damit Ihre Teilnahme an den Veranstaltungen des Promotionsstudiums in myCampus dokumentiert werden kann, müssen Sie sich in myStudy für die von Ihnen gewünschte/n Veranstaltung/en anmelden. Spätestens sechs Monate nach Ende des jeweiligen Semesters können Sie in <a href="https://mycampus.leuphana.de/co/ee/ui/ca2/app/desktop/#/login?$ctx=lang=de" title="Hier geht es zu myCampus" target="_blank" rel="noreferrer">myCampus</a> einsehen, für welche Veranstaltungen Ihre Teilnahme bereits bescheinigt wurde.<br> Im Promotionsstudium schließen Sie die sechs Module jeweils mit einem Leistungsnachweis ab (jeweils 5 CP). Mögliche Leistungsnachweise sind 1) Vortrag und 2) Bericht. Die Module werden nicht benotet.</p><p>Bei der Abgabe Ihrer Dissertation müssen Sie nachweisen, dass Sie alle Module erfolgreich (mit insgesamt 30 CP) absolviert haben.</p></div>
+
+                                    
+                                        
+<div id="c798194" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Forschungsdatenmanagement
+			</h3></header><p>Das Forschungsdatenmanagement der Leuphana bietet einen professionellen Umgang mit Forschungsdaten in allen Phasen des Forschungsprozesses. Er bietet Beratungs- und Unterstützungsleistungen, eine Infrastruktur zur Archivierung und Veröffentlichung von Forschungsdaten (PubData). Dabei orientiert er sich an den Leuphana Leitlinien zur Archivierung von Forschungsdaten.</p></div>
+
+                                    
+                                        
+<div id="c629253" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Gute wissenschaftliche Praxis
+			</h3></header><p>Wie lauten die (Spiel)Regeln guter wissenschaftlicher Praxis? Wie gehen die Mitglieder einer Universität mit Fällen von wissenschaftlichem Fehlverhalten um?</p><p>Informationen zu den Ombudspersonen und den Mitgliedern der Ethikkommission sowie die Richtlinie der Leuphana Universität Lüneburg zur Si­che­rung gu­ter wis­sen­schaft­li­cher Pra­xis und zum Verfahren zum Umgang mit wissenschaftlichem Fehlverhalten (sog. Ethikrichtlinie) finden Sie auf den <a href="/forschung/forschungskultur.html" class="link-internal">Seiten des Forschungsservice</a>.<br> Die semesterweise angebotene Veranstaltung im Promotionsstudium "The Good Scientist" gibt einen vertieften Überblick.</p></div>
+
+                                    
+                                        
+<div id="c629278" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Promotionskollegs
+			</h3></header><p>Mit der Zu­las­sung zur Pro­mo­ti­on werden alle Promovierenden Mit­glied ei­nes der aktuellen <a href="/graduate-school/promotionskollegs.html">Promotionskollegs </a>der Leuphana. Die inhaltliche Ausrichtung der Kollegs orientiert sich an den fünf Fakultäten der Uni­ver­sität: Bil­dung, Kul­tur, Nach­hal­tig­keit, Management &amp; Technologie und Staatswissenschaften.<br> Gemäß der Promotionsordnung entscheidet die Betreuungsperson in Absprache mit der Promotionskommission über einen Kollegwechsel. Bitte reichen Sie gemeinsam mit Ihrer Betreuungsperson einen formlosen Antrag über das Dekanat bei der für Sie zuständigen Promotionskommission ein.</p></div>
+
+                                    
+                                        
+<div id="c751099" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Promotionskommissionen
+			</h3></header><p>Die Verantwortung für die Durchführung aller Promotionsverfahren liegt bei den fünf Fakultäten. Die Fakultäten ernennen die Mitglieder der Promotionskommissionen, deren Aufgabe es ist</p><ul class="c-list--unordered"><li>&nbsp; die eingegangenen Zulassungsanträge nach ihrer wissenschaftlichen Qualität zu beurteilen und die Zulassungen auszusprechen;</li><li>&nbsp; die zugelassenen Personen einem Promotionskolleg zuzuweisen;</li><li>&nbsp; über Anträge auf Verlängerung zu entscheiden;</li><li>&nbsp; über Anträge auf Änderung der zugewiesenen Promotionsordnung oder des Promotionskollegs zu entscheiden;</li><li>&nbsp; den Begutachtungsausschuss für die Beurteilung der Dissertation zu ernennen.</li></ul><p>Informationen zu den Sitzungsterminen und Mitgliedern der Promotionskommissionen finden Sie hier:</p><p>&nbsp; &nbsp; <a href="/einrichtungen/fakultaet/bildung/kommissionen.html">Fakultät Bildung </a><br> &nbsp;&nbsp;&nbsp; <a href="/einrichtungen/fakultaet/kulturwissenschaften/ueber-die-fakultaet/kommissionen.html">Fakultät Kulturwissenschaften</a><br> &nbsp;&nbsp;&nbsp; Fakultät für Management und Technologie (Bitte kontaktieren Sie das Dekanat)<br> &nbsp;&nbsp;&nbsp; <a href="/einrichtungen/fakultaet/nachhaltigkeit/ueber-die-fakultaet/kommissionen-beauftragte.html">Fakultät für Nachhaltigkeit</a><br> &nbsp;&nbsp;&nbsp; Fakultät für Staatswissenschaften (Bitte wenden Sie sich an das Dekanat)</p></div>
+
+                                    
+                                        
+<div id="c629290" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Promotionsordnung
+			</h3></header><p>Die Promotionsordnung ist die rechtliche Grundlage Ihres Promotionsvorhabens, bitte machen Sie sich gründlich damit vertraut. Die Promotionsordnung beschreibt ausführlich die Voraussetzungen und das Verfahren zur Durchführung einer Promotion an der Leuphana Universität Lüneburg. In der Promotionsordnung sind daher festgelegt:</p><ul class="c-list--unordered"><li>Die Voraussetzungen zur Zulassung,&nbsp;</li><li>das Verfahren zur Einreichung der Dissertation sowie</li><li>der Ablauf der Disputation und</li><li>Vorgaben für die Veröffentlichung der Dissertation.&nbsp;</li></ul><p>Des Weiteren beschreibt die Promotionsordnung die Struktur des Promotionsstudiums, die Aufgaben der Promotionskommissionen und Begutachtungsausschüsse sowie der Promotionskollegs an der Leuphana Universität Lüneburg.</p></div>
+
+                                    
+                                        
+<div id="c797844" class="frame frame-default frame-type-cce_footerlinklist frame-layout-0"><header><h3 class=" c-headline">
+				Promotionsordnungen der Fakultäten
+			</h3></header><ul class="c-list c-list--unordered c-list--arrow"><li><a href="https://www.leuphana.de/fileadmin/user_upload/Aktuell/files/Gazetten/Gazette_2023_69_2023-07-20.pdf" title="Link zur Promotionsordnung Fakultät Bildung" target="_blank">Fakultät Bildung (Gazette 69/23)</a></li><li><a href="https://www.leuphana.de/fileadmin/user_upload/Aktuell/files/Gazetten/Gazette_2023_70_2023-07-20.pdf" title="Link zur Promotionsordnung Fakultät Kulturwissenschaften" target="_blank">Fakultät Kulturwissenschaften (Gazette 70/23)</a></li><li><a href="https://www.leuphana.de/fileadmin/user_upload/Aktuell/files/Gazetten/Gazette_2023_71_2023-07-20.pdf" title="Link zur Promotionsordnung Fakultät Management und Technologie" target="_blank">Fakultät Management und Technologie (Gazette 71/23)</a></li><li><a href="https://www.leuphana.de/fileadmin/user_upload/Aktuell/files/Gazetten/Gazette_2023_72_2023-07-20.pdf" title="Link zur Promotionsordnung Fakultät Nachhaltigkeit" target="_blank">Fakultät Nachhaltigkeitswissenschaften (Gazette 72/23)</a></li><li><a href="https://www.leuphana.de/fileadmin/user_upload/Aktuell/files/Gazetten/Gazette_2023_86_08-11-2023.pdf" title="Link zur Promotionsordnung Fakultät Staatswissenschaften" target="_blank">Fakultät Staatswissenschaften (Gazette 86/23)</a></li></ul></div>
+
+                                    
+                                        
+<div id="c629255" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Promovieren mit Kind 
+			</h3></header><p>Im Familienservice des Gleichstellungsbüros erhalten Sie Informationen zu relevanten Fragen bezüglich der Vereinbarkeit von Promotion und Familie sowie zu Kinderbetreuungsangeboten. So können beispielsweise in der Kindergroßtagespflege "Villa Milchzahn" bis zu acht Kinder von Studierenden oder Beschäftigten der Leuphana durch Tagesmütter betreut werden.</p><p>Das Eltern-Kind-Arbeitszimmer – GradKids – in der Graduate School ermöglicht Ihnen kurzfristiges bzw. zeitlich begrenztes Arbeiten mit dem Kind auf dem Campus, ohne das Kind in eine Betreuung zu geben. Der Raum kann sowohl für individuelles Arbeiten mit Kind/ern als auch für Gruppenarbeiten, Besprechungen sowie für Beratungssitzungen mit Mitarbeiterinnen und Mitarbeitern der Graduate School genutzt werden. Der Schlüssel für den Raum kann nach vorheriger Anmeldung im Büro des Familienservice abgeholt werden.</p><p>Das Studentenwerk OstNiedersachsen führt an der Leuphana darüber hinaus zwei eigene Kindertagesstätten. Unterstützung erhalten Sie auch beim Studierendenprojekt EliStu (Eltern im Studium), das eine Kinderbetreuung organisiert und darüber hinaus studierende Eltern berät und vernetzt.</p></div>
+
+                                    
+                                        
+<div id="c634155" class="frame frame-default frame-type-cce_footerlinklist frame-layout-0"><header><h3 class=" c-headline">
+				Promovieren mit Kind: Weiterführende Webseiten
+			</h3></header><ul class="c-list c-list--unordered c-list--arrow"><li><a href="/einrichtungen/gleichstellung/familienservice/eltern-kind-arbeitszimmer.html" target="_blank">Eltern-Kind-Arbeitszimmer</a></li><li><a href="https://asta-lueneburg.de/service/elistu/">Elternreferat des AStA</a></li><li><a href="https://stw-on.de/l%C3%BCneburg/kinder" title="Seite des Studierendenwerks OstNiedersachsen zum Studium mit Kind">Kitas des Studierendenwerks</a></li><li><a href="/einrichtungen/gleichstellung.html">Gleichstellungsbüro</a></li></ul></div>
+
+                                    
+                                        
+<div id="c747951" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Studierendenservice
+			</h3></header><p>Da Sie als Promovierende*r an der Leuphana als Promotionsstudent*in eingeschrieben sind, ist der Studierendenservice der Leuphana die Serviceeinrichtung, die bei Fragen rund um Einschreibung, Rückmeldung, Beurlaubung und Exmatrikulation zur Verfügung steht.</p></div>
+
+                                    
+                                        
+<div id="c692660" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Ansprechpersonen im Studierendenservice
+			</h3></header><p>Melanie Maselkowski | Fon: 04131-677-1407<br> Svenja Rehder | Fon: 04131-677-1417<br> Johanna Wille | Fon: 04131-677-1409<br><br> E-Mail: adminpromotion@leuphana.de</p></div>
+
+                                    
+                                        
+<div id="c629335" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Vorlesungsverzeichnis
+			</h3></header><p>Das Vorlesungsverzeichnis wird zwölf Wochen vor Vorlesungsbeginn in myCampus über die Applikation <a href="https://mystudy.leuphana.de/portal/home" target="_blank" class="link-external" rel="noreferrer">myStudy</a> veröffentlicht. Der Userguide auf der Startseite von myStudy erklärt Ihnen, wie Sie Ihren Stundenplan online erstellen oder sich für Veranstaltungen anmelden. Es kann vorkommen, dass einige Veranstaltungen eine begrenzte Teilnehmendenanzahl haben. Schauen sie daher rechtzeitig ins Vorlesungsverzeichnis für das kommende Semester.</p></div>
+
+                                    
+                                
+                            </div>
+                        
+                </div>
+            </div>
+        </section>
+    
+
+            
+    
+
+
+
+
+
+
+        
+                
+
+
+
+
+
+
+
+
+
+
+    <section class="c-section c-section--gray" id="c759006" data-nwt-plugin="nwt.contentmenu">
+    <div class="c-section__container">
+        <div class="c-section__container-content container-fluid">
+            <div class="row">
+                <div class="col-16 col-lg-10 col-xl-11 offset-lg-4 offset-xl-3">
+                    
+                        <h3 class="c-headline c-list__headline">Abschlussphase</h3>
+                    
+                    <ul class="c-list">
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c630666">Abgabe der Dissertation und Bewertung</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c630654">Disputation</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c751107">Forschungsdatenmanagement</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c751108">Weiterführende Informationen zum Forschungsdatenmanagement</span>
+                            </li>
+                        
+                            <li>
+                                <span class="c-content-menu__link" data-content-menu-target="c630669">Veröffentlichung der Dissertation</span>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+        
+
+        <section class="c-section " id="c759006">
+            
+
+
+            <div class="c-section__container-content container-fluid">
+                <div class="row">
+                    
+                            <div class="col-16 col-lg-10 col-xl-11 offset-lg-4 offset-xl-3">
+                                
+<div id="c759006" class="frame frame-default frame-type-section_one_col frame-layout-0"><header><h2 class=" c-headline">
+				Abschlussphase
+			</h2></header></div>
+
+
+
+                                
+                                    
+                                        
+<div id="c630666" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Abgabe der Dissertation und Bewertung
+			</h3></header><p>Wenn Sie Ihre Dissertation fertiggestellt haben, müssen Sie diese für die Eröffnung des Promotionsverfahrens zusammen mit weiteren Unterlagen in Ihrem Dekanat einreichen. Promovierende der Fakultät Nachhaltigkeit reichen die Unterlagen im Studierendenservice ein. Informationen zu den Unterlagen, die zusätzlich zur Dissertation abgegeben werden müssen, finden Sie in Ihrer <a href="#c629290" class="link-internal">Promotionsordnung</a> im Abschnitt „Eröffnung des Promotionsverfahrens“.</p><p>Nachdem Sie Ihre Dissertation abgegeben haben, eröffnet die Promotionskommission formal das Promotionsverfahren und benennt spätestens zu diesem Zeitpunkt auch die Mitglieder des Begutachtungsausschusses. Die Gutachter*innen haben für die Begutachtung der Dissertation drei Monate Zeit. Spätestens nach Ablauf dieses Zeitraums erhalten Sie die Gutachten und Ihre Dissertation wird inklusive der Gutachten im Dekanat zur Einsicht ausgelegt.</p><p>Ist die Dissertation mindestens mit befriedigend bewertet worden, gilt diese als angenommen und die <a href="#c630654" class="link-internal">Disputation</a> findet nach Ende der Auslegefrist statt.</p><p>Für den Zeitraum vom Moment der Abgabe der Dissertation bis zur Disputation sollten Sie etwa vier bis sechs Monate einplanen.</p></div>
+
+                                    
+                                        
+<div id="c630654" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Disputation
+			</h3></header><p>Die Disputation ist die mündliche Verteidigung Ihrer Dissertation. Sie dient dazu, Ihre Forschungsergebnisse zu vertreten, gegen kritische Einwände zu verteidigen sowie sich mit gegenteiligen Auffassungen theoretisch fundiert auseinanderzusetzen. Inhaltlich knüpft die Disputation somit an Ihr Dissertationsthema an, wobei die schriftlichen Gutachten mit einbezogen werden sollen. Auch ist es möglich, dass die Disputation auf angrenzende Bereiche des jeweiligen Fachbereichs ausgeweitet werden kann.</p><p>Die Disputation findet <strong>in deutscher oder englischer Sprache in der Regel vier Wochen nach Annahme der Dissertation</strong> statt. Der Termin wird von der oder dem Vorsitzenden des Begutachtungsausschusses festgelegt. Als Promovierende*r eröffnen Sie die insgesamt etwa 90 Minuten dauernde Disputation mit einem Vortrag von 20 bis 30 Minuten.</p><p>Direkt im Anschluss an die Disputation findet eine Sitzung des Begutachtungsausschusses statt, in der über das Ergebnis der Disputation entschieden wird.</p><p>Weitere Informationen und Details zur Disputation, u.a. zur Möglichkeit der Disputation als datenschutzsichere Video/Online-Konferenz, finden Sie in der <a href="#c629290" class="link-internal">Promotionsordnung</a>.</p><p><strong>Vorbereitung auf die Disputation</strong></p><p>Für Promovierende kurz vor oder nach Abschluss der Dissertation wird in den GradSkills Workshops (Stichwort: Forschung und Wissenschaft managen) regelmäßig ein Disputationstraining angeboten. Das Veranstaltungskonzept ist workshoporientiert angelegt und soll neben den notwendigen Input-Phasen viel Raum für die eigene Disputationsvorbereitung bieten. Die Möglichkeit dabei Anregungen und Rückmeldungen einer größeren Gruppe zu nutzen, soll Sie in die Lage versetzen, die erarbeiteten Ansätze vor Publikum zu erproben und sich mit der unkalkulierbaren "Fragesituation" einer Disputation vertraut zu machen. <a href="/graduate-school/karriere-foerderung/gradskills.html" class="link-internal">Zum Angebot GradSkills </a></p></div>
+
+                                    
+                                        
+<div id="c751107" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Forschungsdatenmanagement
+			</h3></header><p>Das Forschungsdatenmanagement der Leuphana bietet einen professionellen Umgang mit Forschungsdaten in allen Phasen des Forschungsprozesses. Er bietet Beratungs- und Unterstützungsleistungen, eine Infrastruktur zur Archivierung und Veröffentlichung von Forschungsdaten (PubData). Dabei orientiert er sich an den Leuphana Leitlinien zur Archivierung von Forschungsdaten.</p></div>
+
+                                    
+                                        
+<div id="c751108" class="frame frame-default frame-type-cce_footerlinklist frame-layout-0"><header><h3 class=" c-headline">
+				Weiterführende Informationen zum Forschungsdatenmanagement
+			</h3></header><ul class="c-list c-list--unordered c-list--arrow"><li><a href="/services/miz/forschen-publizieren/forschungsdatenmanagement.html" title="Research Data Management" target="_top">Service Forschungsdatenmanagement</a></li><li><a href="https://pubdata.leuphana.de/" title="PubData" target="_top">PubData</a></li><li><a href="https://pubdata.leuphana.de/guidelines.jsp?locale=de" title="PubData Guidelines" target="_top">PubData Leitlinien</a></li></ul></div>
+
+                                    
+                                        
+<div id="c630669" class="frame frame-default frame-type-text frame-layout-0"><header><h3 class=" c-headline">
+				Veröffentlichung der Dissertation
+			</h3></header><p>Nachdem Sie Ihre Disputation bestanden haben und damit das Promotionsverfahren beendet ist, müssen Sie Ihre Dissertation innerhalb eines Jahres veröffentlichen. Die Art und Anzahl der in der Bibliothek einzureichenden Pflichtexemplare hängt u.a. davon ab, ob Sie kumulativ oder monographisch promoviert haben. Die genauen Regelungen zur Veröffentlichung Ihrer Dissertation finden Sie in Ihrer <a href="#c629290" class="link-internal">Promotionsordnung</a>.</p><p>Bitte beachten Sie auch die Hinweise zur Veröffentlichung auf den Seiten der Bibliothek, auf denen Sie u.a. auch das Formular zur Abgabe elektronischer Dissertationen finden.</p><p>Nach Abgabe der Pflichtexemplare erhalten Sie von der Bibliothek einen Nachweis über die Veröffentlichung. Um Ihre Promotionsurkunde zu erhalten, reichen Sie diesen in Ihrem Dekanat ein. Mit dem Erhalt der Promotionsurkunde ist die Promotion vollzogen und Sie sind berechtigt den Doktortitel zu führen. Hier erhalten Sie <a href="/services/miz/forschen-publizieren.html" title="Beim Medien- und Informationszentrum (MIZ) erhalten Sie weitere Informationen zur elektronischen Veröffentlichung Ihrer Arbeit an der Leuphana Universität Lüneburg.">weitere Informationen zur elektronischen Veröffentlichung Ihrer Arbeit</a> an der Leuphana Universität Lüneburg.</p></div>
+
+                                    
+                                
+                            </div>
+                        
+                </div>
+            </div>
+        </section>
+    
+
+            
+    
+
+
+
+<!--TYPO3SEARCH_end-->
+
+    </main>
+    
+
+
+
+        
+    
+
+<footer class="c-footer">
+    <div class="c-section c-section--author">
+        <div class="c-section__container">
+            <div class="c-section__container-content container-fluid">
+                <div class="row">
+                    <div class="c-footer__author-container col-16 col-lg-12 col-xl-9 offset-lg-4 offset-xl-3" itemscope="author" itemtype="https://schema.org/WebPage">
+                        
+                            <span class="c-footer__author-name" itemprop="name">
+                                
+                                        <span itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                                            Graduate School
+                                        </span>
+                                    
+                            </span>
+                            &nbsp;/&nbsp;
+                        
+                        <time class="c-footer__author-date" itemprop="dateModified">24.06.2024</time>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="c-section__container collapse" id="contact-author">
+            <div class="c-section__container-content container-fluid">
+                <div class="col-16 col-md-12 col-lg-10 col-xl-8 col-xl-9 offset-lg-4 offset-xl-3">
+                    <div class="c-contact-form c-contact-form--loading"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="c-footer__lower">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="c-footer__navigation col-8 col-lg-9 col-xl-9 offset-lg-4 offset-xl-3">
+                    <ul class="c-footer__link-list c-footer__link-list--navigation c-list c-list--unstyled"><li class="c-footer__link-list-item"><a href="/kontakt.html" class="c-footer__link-list-link">Kontakt</a></li><li class="c-footer__link-list-item"><a href="/universitaet/jobs-und-karriere.html" class="c-footer__link-list-link">Leuphana als Arbeitgeber</a></li><li class="c-footer__link-list-item"><a href="/intranet.html" class="c-footer__link-list-link">INTRANET</a></li><li class="c-footer__link-list-item"><a href="/impressum.html" class="c-footer__link-list-link">Impressum</a></li><li class="c-footer__link-list-item"><a href="/datenschutz.html" class="c-footer__link-list-link">Datenschutz</a></li><li class="c-footer__link-list-item"><a href="/barrierefreiheit.html" class="c-footer__link-list-link">Barrierefreiheit</a></li><li class="c-footer__link-list-item"><a class="c-footer__link-list-link" href="" onClick="klaro.show();return false;">Cookie-Einstellungen</a></li></ul>
+                </div>
+                <div class="c-footer__social-media col-8 col-lg-3">
+                    <ul class="c-footer__link-list c-footer__link-list--social-media c-list c-list--unstyled"><li class="c-footer__link-list-item"><a href="https://facebook.com/leuphana" title="zum Facebook Profil der Leuphana" class="c-hexagon-button c-hexagon-button--facebook-f" target="_blank" rel="noreferrer"><svg class="c-hexagon-button__svg" viewBox="0 0 97 97" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path class="c-hexagon-button__svg-inner" d="M48.395 3.473l38.9 22.463v44.917l-38.9 22.463L9.49 70.853V25.936L48.395 3.473z" fill="#949b8b"></path><path class="c-hexagon-button__svg-outer" d="M90.303 24.177v48.388l-41.908 24.2-41.912-24.2V24.177l41.912-24.2c13.97 8.07 27.941 16.13 41.908 24.2zM9.608 25.979v44.784l38.787 22.398 38.79-22.398V25.98L48.396 3.58C35.466 11.043 22.537 18.517 9.608 25.979z" fill="#fff"></path></svg></a></li><li class="c-footer__link-list-item"><a href="https://twitter.com/leuphana" title="zum Twitter Profil der Leuphana" class="c-hexagon-button c-hexagon-button--twitter" target="_blank" rel="noreferrer"><svg class="c-hexagon-button__svg" viewBox="0 0 97 97" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path class="c-hexagon-button__svg-inner" d="M48.395 3.473l38.9 22.463v44.917l-38.9 22.463L9.49 70.853V25.936L48.395 3.473z" fill="#949b8b"></path><path class="c-hexagon-button__svg-outer" d="M90.303 24.177v48.388l-41.908 24.2-41.912-24.2V24.177l41.912-24.2c13.97 8.07 27.941 16.13 41.908 24.2zM9.608 25.979v44.784l38.787 22.398 38.79-22.398V25.98L48.396 3.58C35.466 11.043 22.537 18.517 9.608 25.979z" fill="#fff"></path></svg></a></li><li class="c-footer__link-list-item"><a href="https://youtube.com/leuphana" title="zum Youtube Profil der Leuphana" class="c-hexagon-button c-hexagon-button--youtube" target="_blank" rel="noreferrer"><svg class="c-hexagon-button__svg" viewBox="0 0 97 97" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path class="c-hexagon-button__svg-inner" d="M48.395 3.473l38.9 22.463v44.917l-38.9 22.463L9.49 70.853V25.936L48.395 3.473z" fill="#949b8b"></path><path class="c-hexagon-button__svg-outer" d="M90.303 24.177v48.388l-41.908 24.2-41.912-24.2V24.177l41.912-24.2c13.97 8.07 27.941 16.13 41.908 24.2zM9.608 25.979v44.784l38.787 22.398 38.79-22.398V25.98L48.396 3.58C35.466 11.043 22.537 18.517 9.608 25.979z" fill="#fff"></path></svg></a></li><li class="c-footer__link-list-item"><a href="https://instagram.com/leuphana/" title="zum Instagram Profil der Leuphana" class="c-hexagon-button c-hexagon-button--instagram" target="_blank" rel="noreferrer"><svg class="c-hexagon-button__svg" viewBox="0 0 97 97" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path class="c-hexagon-button__svg-inner" d="M48.395 3.473l38.9 22.463v44.917l-38.9 22.463L9.49 70.853V25.936L48.395 3.473z" fill="#949b8b"></path><path class="c-hexagon-button__svg-outer" d="M90.303 24.177v48.388l-41.908 24.2-41.912-24.2V24.177l41.912-24.2c13.97 8.07 27.941 16.13 41.908 24.2zM9.608 25.979v44.784l38.787 22.398 38.79-22.398V25.98L48.396 3.58C35.466 11.043 22.537 18.517 9.608 25.979z" fill="#fff"></path></svg></a></li><li class="c-footer__link-list-item"><a href="https://linkedin.com/school/600057?pathWildcard=600057" title="zum LinkedIn Profil der Leuphana" class="c-hexagon-button c-hexagon-button--linkedin-in" target="_blank" rel="noreferrer"><svg class="c-hexagon-button__svg" viewBox="0 0 97 97" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path class="c-hexagon-button__svg-inner" d="M48.395 3.473l38.9 22.463v44.917l-38.9 22.463L9.49 70.853V25.936L48.395 3.473z" fill="#949b8b"></path><path class="c-hexagon-button__svg-outer" d="M90.303 24.177v48.388l-41.908 24.2-41.912-24.2V24.177l41.912-24.2c13.97 8.07 27.941 16.13 41.908 24.2zM9.608 25.979v44.784l38.787 22.398 38.79-22.398V25.98L48.396 3.58C35.466 11.043 22.537 18.517 9.608 25.979z" fill="#fff"></path></svg></a></li></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <div id="cookieconsent"></div>
+</div>
+
+<script src="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/footer.1718701528.js" defer="defer"></script>
+<script src="/fileadmin/cookiebanner/config.1673617913.js" defer="defer"></script>
+<script src="/typo3conf/ext/leuphana_styleguide/Resources/Public/assets/klaro-0.7.18.1718701528.js" defer="defer"></script>
+<script src="/typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.1699011205.js" defer="defer"></script>
+<script async="async" src="/typo3temp/assets/js/cfd16b174d7f7b046e20adbc2e0a1094.1712744376.js"></script>
+
+
+</body>
+</html>
