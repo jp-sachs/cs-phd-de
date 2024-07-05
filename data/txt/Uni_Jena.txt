@@ -1,0 +1,837 @@
+  
+Seite 1 
+Der Präsident  
+ 
+ 
+Promotionsordnung  
+der Fakultät für Mathematik und Informatik  
+der Friedrich Schiller Universität Jena  
+vom 17. Juli 2018  
+(Verkündungsblatt der Friedrich Schiller Universität Jena Nr. 5/2018 S.224)  
+ 
+Gemäß § 3 Abs. 1 i.V. §38 Abs. 3 Thüringer Hochschulgesetz (ThürHG) vom 10.Mai 2018 (GVBI. 2018 
+S. 149), geändert durch Artikel 27 des Gesetzes vom 6. Juni 2018 (GVBI. S. 229), erlässt die Friedrich 
+Schiller Universität Jena folgende Promoti onsordnung der Fakultät für Mathematik und Informatik der 
+Friedrich Schiller Universität Jena. Der Rat der Fakultät für Mathematik und Informatik hat am 
+16.05.2018 die Promotionsordnung beschlossen. Der Senat der Friedrich Schiller Universität Jena hat 
+am 17.07.2018 die Promotionsordnung zustimmend zur Kenntnis genommen. Der Präsident hat die 
+Ordnung am 17.07.2018 genehmigt.  
+Inhalt  
+ 
+I.  Promotionsrecht   
+II.  Zulassungsvoraussetzungen zur Promotion   
+III.  Annahme zur Promotion und Betreuung   
+IV.  Eröffnung des Promotionsverfahrens   
+V.  Promotionskommission   
+VI.  Dissertation   
+VII.  Mündliche Prüfungsleistungen   
+VIII.  Gesamtprädikat der Promotion   
+IX.  Vollzug der Promotion und Urkunde   
+X. Gemeinsame Promotion mit anderen Hochschulen   
+XI.  Täuschung und Aberkennung der Promotion   
+XII.  Einsichtnahme   
+XIII.  Widerspruch gegen Entscheidungen im Promotionsverfahren   
+XIV.  Ehrenpromotion und Doktorjubiläum   
+XV.  Ombudsverfahren   
+XVI. Inkrafttreten und Übergangsregelungen   
+   
+ 
+Seite 2 
+I. Promotionsrecht  
+ 
+§ 1 
+ 
+(1) Die Fried richSchiller Universität verleiht durch die Fakultät für Mathematik und Informatik 
+folgende Doktorgrade:  
+ 
+ doctor rerum naturalium  (Dr.rer.nat.)  
+ Doktor Ingenieur   (Dr.Ing.)  
+ 
+(2) 1Die Friedrich Schiller Universität kann durch die Fakultät für Mathematik und In formatik für 
+ihre Fachgebiete auch Grad und Würde eines "Doktor ehrenhalber" (doctor honoris causa, Dr. 
+h. c.) nach § 23 verleihen. 2Die nach Absatz 1 zu vergebenden Doktorgrade werden dann mit 
+dem Zusatz "honoris causa" (h. c.) versehen. 3Der Doktorgrad d es "Dr. Ing." wird davon 
+abweichend mit dem Zusatz "Ehren halber" (E. h.) versehen.  
+ 
+(3) 1Ein Doktorgrad gleicher Bezeichnung kann, außer im Fall einer Ehrenpromotion, nur einmal 
+verliehen werden. 2Frauen können die Funktionsbezeichnungen, die akademischen 
+Bezeichnungen und Hochschulgrade, die in dieser Ordnung genannt werden, in weiblicher 
+Form führen.  
+ 
+§ 2 
+ 
+(1) Die Promotion dient dem Nachweis der Befähigung zu vertiefter wissenschaftlicher Arbeit auf 
+einem an der Fakultät für Mathematik und Informatik vertretene n Fachgebiet.  
+ 
+(2) Der Nachweis wird, außer im Falle der Ehrenpromotion nach § 23, durch eine schriftliche 
+wissenschaftliche Abhandlung (Dissertation) gemäß § 8 und eine Disputation nach § 9 
+erbracht.  
+ 
+II. Zulassungsvoraussetzungen zur Promotion  
+ 
+§ 3 
+ 
+(1) 1Die Zulassung zur Promotion setzt in der Regel ein mit einem qualifizierten Prädikat 
+abgeschlossenes Diplom , Magister , Staatsexamens  oder Masterstudium an einer 
+Universität oder Masterstudium an einer Fachhochschule in der Fachrichtung voraus, für die 
+die Promotion gewünscht wird. 2Das Fachgebiet der angestrebten Promotion muss Lehr  oder 
+Forschungsgebiet der Fakultät für Mathematik und Informatik sein.  
+ 
+(2) 1Studienabschlüsse, die in einem universitären Studium an ausländischen Hochschulen 
+erworben wurden, werden anerkannt, wenn sie einem der in Absatz 1 genannten Abschlüsse  
+gleichwertig sind. 2Die Prüfung der Gleichwertigkeit erfolgt durch die Dekanin/den Dekan auf 
+Basis der von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten 
+Äqui valenzabkommen.  
+ 
+ 
+ 
+Seite 3 
+(3) 1Bewerber, die die Zugangsvoraussetzungen nach Absatz 1 und 2 nicht erfüllen, insbesondere 
+besonders qualifizierte Absolventen von Bachelor Studiengängen, werden zur Promotion 
+zugelassen, wenn der Nachweis erbracht worden ist, dass die Qu alifikation zu 
+wissenschaftlicher Arbeit im Promotionsfach vorhanden ist. 2Diese Qualifikation wird mithilfe 
+eines Eignungsfeststellungsverfahrens gemäß Anlage 1 überprüft. 3Unabhängig davon kann 
+die Beauflagung mit weiteren Studien  und Prüfungsleistungen  nach Absatz 4 erfolgen.  
+ 
+(4) 1Für den Erwerb des „Dr. Ing.“ wird ein abgeschlossenes Studium in einem 
+ingenieurwissenschaftlichen Studiengang oder ein praktisch bzw. technisch orientiertes 
+Informatikstudium vorausgesetzt. 2Der Dr. Ing. wird nur vergeben, wenn  das Thema der 
+Dissertation dem ingenieurwissenschaftlichen Aspekt der Informatik gerecht wird. 
+3Abweichungen davon sind nur mit der Zustimmung der Mehrheit der bei der Abstimmung 
+anwesenden promovierten Mitglieder des Fakultätsrates möglich, sofern eine g leichwertige 
+Vorbildung nachgewiesen wird. 4Der Fakultätsrat erteilt gegebenenfalls Auflagen für weitere 
+Studien  und Prüfungsleistungen, die in der Regel den Studien  und Prüfungsordnungen der 
+Fakultät für Mathematik und Informatik entsprechen. 5Diese Auf lagen sind als Bestandteil im 
+Bescheid zur Annahme zur Promotion nach § 4 Abs. 7 aufzunehmen. 6Die Bewerberin/der 
+Bewerber hat die Auflagen bis zur Eröffnung des Promotionsverfahrens zu erfüllen.  
+ 
+(5) Sind für die Zulassung zur Promotion und zur Promotion selb st zusätzliche Leistungen 
+erforderlich, so sind diese auch mit dem erfolgreichen Abschluss eines anerkannten 
+strukturierten Promotionsprogramms innerhalb der Graduierten Akademie erbracht, das von 
+den betreuenden Hochschullehrerinnen/Hochschullehrern, Hoch schul  oder 
+Privatdozentinnen/Hochschul  oder Privatdozenten oder Leiterinnen/Leitern einer 
+Nachwuchsgruppe der Fakultät für Mathematik und Informatik mitgetragen wird.  
+ 
+(6) Zur Promotion kann in der Regel nicht zugelassen werden, wer im gleichen Fachgebiet an  
+anderer Stelle bereits die Annahme zur Promotion beantragt hat, als Doktorand/Doktorandin 
+angenommen oder in einem Promotionsverfahren endgültig gescheitert ist.  
+ 
+III. Annahme zur Promotion und Betreuung  
+ 
+§ 4 
+ 
+(1) 1Wer die Zulassungsvoraussetzungen nach § 3 e rfüllt und die Anfertigung einer Dissertation 
+beabsichtigt, hat bei der Fakultät für Mathematik und Informatik die Annahme zur Promotion 
+zu beantragen.  
+2Die Beantragung erfolgt in der Regel über das durch die FSU zur Verfügung gestellte 
+elektronische Port al. 3Im Antrag sind das in Aussicht genommene Thema der Dissertation und 
+das Promotionsfach zu benennen. 4Dem Antrag sind beizufügen:  
+1. die Nachweise der Zulassungsvoraussetzungen nach § 3, dies sind Urkunden und 
+Zeugnisse in Form von Kopien (bei Bewerberin nen/Bewerbern, die ihren 
+Hochschulabschluss nicht an der FSU erlangt haben, in Form amtlich beglaubigter 
+Kopien),  
+2. die Betreuungs  oder Qualifizierungsvereinbarung gemäß Absatz 5,  
+3. ein aktueller Lebenslauf mit der Darstellung des persönlichen und beruflichen  
+Werdegangs,  
+ 
+ 
+Seite 4 
+4. eine Erklärung über laufende oder vorausgegangene Promotionsgesuche; dabei 
+ist anzugeben, wann, mit welchem Thema und bei welcher Fakultät die Promotion 
+beantragt und ob ein Promotionsverfahren eröffnet oder abgeschlossen wurde. 
+5Bei vollzogener Promotion ist eine Kopie der Promotionsurkunde vorzulegen.  
+ 
+6Sofern die Bewerberin/der Bewerber kein Mitglied der FSU ist, muss er/sie sich durch ein 
+gülti ges Personaldokument ausweisen.  
+(2) Die Annahme zur Promotion kann nur erfolgen, wenn mindestens eine wissenschaftliche 
+Betreuerin/ein wissenschaftlicher Betreuer der Fakultät die Betreuung der Dissertation 
+zugesichert hat, die Bereitstellung der materiellen Ausstattung zur Durchführung des 
+Arbeitsvorhabens gesichert ist und die Fakultät di e fertiggestellte Dissertation als 
+wissenschaftliche Arbeit bewerten kann.  
+ 
+(3) 1Betreuungsberechtigt sind Hochschullehrinnen/Hochschullehrer, Habilitierte oder 
+Leiterinnen/Leiter von Nachwuchsgruppen. 2Leiterinnen /Leiter von Nachwuchsgruppen sind 
+jedoch nur d ann betreuungsberechtigt, wenn in einem in der Regel externen 
+wissenschaftlichen Begutachtungsverfahren, dessen Qualitätskriterien durch den 
+Forschungsausschuss des Senates bestätigt werden, ihre wissenschaftliche Befähigung 
+festgestellt wurde.  
+ 
+(4) 1Wird die Betreuung in Kooperation mit anderen wissenschaftlichen Einrichtungen, 
+insbesondere Hochschulen und außeruniversitären Forschungseinrichtungen, durchgeführt, 
+sind weitere Personen, die über eine gleichwertige wissenschaftliche Qualifikation wie die in 
+Absa tz 3 genannten Personen verfügen, betreuungsberechtigt. Grundlage der Kooperation 
+muss eine entsprechende Vereinbarung zwischen der FSU und der kooperierenden 
+Einrichtung sein. 2In diesen Fällen soll mindestens eine Betreuerin/ein Betreuer Mitglied der 
+Fakultät sein. 3In begründeten Ausnahmefällen kann nach Zustimmung durch den Fakultätsrat 
+eine Betreuung auch ohne eine Mitbetreuung durch ein Mitglied der Fakultät erfolgen.  
+ 
+(5) Zwischen der wissenschaftlichen Betreuerin/dem wissenschaftlichen Betreuer (oder d en 
+Betreuerinnen/Betreuern) und der Doktorandin/dem Doktorand wird eine 
+Betreuungsvereinbarung geschlossen, die mindestens die folgenden Inhalte haben muss: die 
+Verpflichtung der Doktorandin/des Doktoranden, den Betreuerinnen/Betreuern regelmäßig 
+über den Bearbeitungsstand der Dissertation zu berichten, die Verpflichtung der 
+Betreuerinnen/Betreuern, sich regelmäßig über den Bearbeitungsstand der Dissertation 
+berichten zu lassen, die Art der Kooperation (wenn zutreffend), die Festlegung auf die 
+Monographie a ls die Art der Dissertation und die Teilnahme an einem strukturierten 
+Promotionsprogramm.  
+ 
+(6) Aus der Annahme zur Promotion ergibt sich kein Rechtsanspruch auf Eröffnung des 
+Promotionsverfahrens.  
+ 
+(7) 1Die Dekanin/der Dekan entscheidet in der Regel innerhalb von zwei Monaten über den Antrag. 
+2Die Entscheidung über Annahme oder Ablehnung des Antrages ist der antragstellenden 
+Person schriftlich mitzuteilen. 3Eine Ablehnung ist zu begründen und mit einer 
+Rechtsbehelfsbelehrung zu versehen. 4Der Annahmebescheid muss d as Fachgebiet der 
+Promotion, das vorläufige Thema, die wissenschaftlichen Betreuerinnen/Betreuer der 
+Dissertation sowie erteilte Auflagen nach § 3 Abs. 3 und 4 enthalten.  
+ 
+ 
+Seite 5 
+(8) Das Promotionsverhältnis kann auf Antrag der Doktorandin/des Doktoranden ausgesetzt 
+werden, wenn das Promotionsvorhaben aufgrund besonderer familiärer Belastung, Krankheit, 
+Schwangerschaft, Elternzeit, Pflege von Angehörigen, Behinderung oder aus einem anderen 
+wichtigen Grund nicht in angemessenem Umfang verfolgt werden kann.  
+ 
+(9) 1Die Doktor andin/der Doktorand verpflichtet sich, Änderungen der Daten des Antrags auf 
+Annahme sowie Änderungen hinsichtlich der Betreuungsvereinbarung unverzüglich der 
+Fakultät zu melden. 2Die Doktorandin/der Doktorand hat die Fortführung der Arbeit an seinem 
+Promot ionsvorhaben jährlich auf Aufforderung zu bestätigen. 3Ab dem vierten Jahr nach 
+Annahme zur Promotion ist eine Bestätigung durch die verantwortliche Betreuerin/den 
+verantwortlichen Betreuer erforderlich.  
+ 
+(10) 1Die Annahme zur Promotion kann insbesondere widerr ufen werden, wenn keine Aussicht 
+besteht, dass die Dissertation in angemessener Zeit erfolgreich abgeschlossen werden kann 
+oder die Betreuungsvereinbarung nach Absatz 5 aufgehoben wurde. 2Der Doktorandin/ dem 
+Doktoranden ist vor einer entsprechenden Entsch eidung durch den Fakultätsrat Gelegenheit 
+zur Anhörung zu geben. 3Im Übrigen kann die Doktorandin/der Doktorand durch schriftliche 
+Erklärung das Promotionsverhältnis beenden.  
+ 
+IV. Eröffnung des Promotionsverfahrens  
+ 
+§ 5 
+ 
+1Der Antrag auf Eröffnung des Promo tionsverfahrens ist schriftlich an die Dekanin/den Dekan zu 
+richten. 2Dem Antrag sind beizufügen:  
+1. der Nachweis über die Erfüllung erteilter Auflagen nach § 3 Absatz 3 und 4,  
+2. vier gedruckte Exemplare der Dissertation sowie eine elektronische Version (PDF Format),  
+3. eine (ehrenwörtliche) Erklärung, aus der hervorgeht,  
+3.1 dass der antragstellenden Person die geltende Promotionsordnung der Fakultät bekannt ist,  
+3.2 dass die antragstellende Person die Dissertation selbst angefertigt hat 
+(Selbständigkeitserklärung), keine Textabschnitte eines/einer Dritten oder eigener 
+Prüfungsarbeiten ohne Kennzeichnung übernommen und alle von ihr benutzten Hilfsmittel, 
+persönlichen Mitteilungen und Quellen in ihrer Arbeit angegeben hat,  
+3.3 welche Person en die antragstellende Person bei der Auswahl und Auswertung des Materials 
+sowie bei der Herstellung des Manuskripts unterstützt haben,  
+3.4 dass die Hilfe einer kommerziellen Promotionsvermittlerin/eines kommerziellen 
+Promotionsvermittlers nicht in Anspruc h genommen wurde und dass Dritte weder unmittelbar 
+noch mittelbar geldwerte Leistungen von der Doktorandin/dem Doktoranden für Arbeiten erhalten 
+haben, die im Zusammenhang mit dem Inhalt der vorgelegten Dissertation stehen,  
+3.5 dass die antragstellende Per son die Dissertation noch nicht als Prüfungsarbeit für eine 
+staatliche oder andere wissenschaftliche Prüfung eingereicht hat,  
+3.6 ob die antragstellende Person die gleiche, eine in wesentlichen Teilen ähnliche oder eine 
+andere Abhandlung bei einer anderen  Hochschule als Dissertation eingereicht hat und 
+gegebenenfalls mit welchem Ergebnis,  
+ 
+Seite 6 
+4. ein amtliches Führungszeugnis, falls die antragstellende Person nicht im öffentlichen Dienst steht,  
+5. den Nachweis über die Zahlung der Promotionsgebühr, deren Höhe sich na ch der Allgemeinen 
+Gebührenordnung der FSU in der jeweils geltenden Fassung richtet,  
+6. ein Lebenslauf, der über den Bildungsweg und die wissenschaftliche Entwicklung Auskunft gibt,  
+7. eine Liste der wissenschaftlichen Publikationen und gegebenenfalls der wissen schaftlichen 
+Vorträge.  
+ 
+§ 6 
+ 
+(1) Über die Eröffnung des Promotionsverfahrens entscheidet der Fakultätsrat auf seiner 
+nächsten Sitzung nach Eingang des Antrages mit der Mehrheit der Stimmen seiner 
+anwesenden promovierten Mitglieder.  
+ 
+(2) Über die Eröffnung des Prom otionsverfahrens erhält die Doktorandin/der Doktorand durch die 
+Dekanin/den Dekan einen schriftlichen Bescheid.  
+ 
+(3) Die Zurücknahme des Antrages auf Eröffnung des Promotionsverfahrens ist solange zulässig, 
+bis im Promotionsverfahren der Termin für Disputation  angesetzt ist oder das Verfahren durch 
+eine ablehnende Entscheidung über die Dissertation beendet ist.  
+ 
+V. Promotionskommission  
+ 
+§ 7 
+ 
+(1) 1Mit der Entscheidung über die Eröffnung eines Promotionsverfahrens bestellt der 
+Fakultätsrat auf Vorschlag der Dekanin/d es Dekans eine Promotionskommission und deren 
+Vorsitzende/Vorsitzenden. 2Die Kommission setzt sich in der Regel aus den 
+Gutachterinnen/Gutachtern für die Dissertation, mindestens einem Mitglied des 
+Fakultätsrates, einem promovierten Vertreter der akademis chen Mitarbeiter und weiteren 
+Mitgliedern der Fakultät zusammen. 3Eine Häufung der Funktionen in einer Person ist 
+zulässig. 4Die Kommission muss aus mindestens sieben Mitgliedern bestehen. 5Mit 
+Ausnahme der akademischen Mitarbeiterin/des akademischen Mitar beiters sollen die 
+Mitglieder der Kommission betreuungsberechtigt gemäß § 4 Absatz 3 sein. 6Die 
+Vorsitzende/der Vorsitzende der Kommission muss Professorin/Professor und Mitglied des 
+Fakultätsrates sein. 7Die Betreuerin/der Betreuer der Doktorandin/des Dok toranden soll nicht 
+zum Kommissionsvorsitzenden bestimmt werden.  
+ 
+(2) 1Der Fakultätsrat bestellt mindestens zwei unabhängige Betreuungsberechtigte gemäß § 4 
+Absatz 3 als Gutachterinnen/Gutachter. 2Mindestens eine Gutachterin/ein Gutachter muss 
+Professorin/Prof essor und mindestens eine Gutachterin/ein Gutachter Mitglied der Fakultät 
+sein. 3Eine Gutachterin/ein Gutachter soll nicht Mitglied der Fakultät sein. 4Die Betreuerin/der 
+Betreuer der Dissertation soll in der Regel eine Gutachterin/ein Gutachter werden. 5Der 
+Fakultätsrat kann weitere Gutachterinnen/Gutachter bestellen.  
+ 
+(3) 1Die Promotionskommission berät auf der Grundlage schriftlicher Gutachten über die 
+Annahme und Benotung oder Ablehnung einer Dissertation. 2Sie führt auch die Disputation 
+durch und bewertet  die hierbei erbrachte Leistung. 3Sie legt die Gesamtnote und das 
+Gesamtprädikat der Promotion fest und informiert den Fakultätsrat.  
+ 
+Seite 7 
+(4) 1Promotionskommissionen tagen in nichtöffentlicher Sitzung. 2Ihre Beschlüsse sind in einem 
+Verfahrensprotokoll aktenkundig zu machen. 3Die Kommission ist beschlussfähig, wenn die 
+Mehrheit ihrer Mitglieder anwesend ist. 4Die Kommission beschließt mit der Mehrheit der 
+abgegebenen Stimmen. 5Stimmenthaltung, geheime Abs timmung und 
+Stimmrechtsübertragung sind unzulässig. 6Bei Stimmengleichheit entscheidet die Stimme des 
+Vorsitzenden.  
+ 
+(5) 1Die Mitglieder der Promotionskommission sind verpflichtet, über Tatsachen Stillschweigen 
+zu bewahren, die ihnen in nichtöffentlicher Sitzu ng bekannt geworden sind, es sei denn, dass 
+eine Tatsache bereits offenkundig ist oder ihrer Bedeutung nach keiner Geheimhaltung bedarf. 
+2Verschwiegenheitspflichten aufgrund des Dienst  und Arbeitsverhältnisses bleiben unberührt.  
+ 
+(6) 1Mitwirkungsrechte von Be treuerinnen/Betreuern, von Gutachterinnen/Gutachtern sowie von 
+Mitgliedern der Promotionskommissionen in Promotionsverfahren werden durch ihren 
+Ruhestand nicht berührt. 2Über sonstige Mitwirkungsrechte, insbesondere von Personen, die 
+an einer anderen Einri chtung tätig sind oder dorthin wechseln, entscheidet der Fakultätsrat.  
+ 
+VI. Dissertation  
+ 
+§ 8 
+ 
+(1) Mit der Dissertation weist die Doktorandin/der Doktorand ihre/seine Fähigkeit nach, durch 
+selbständige wissenschaftliche Arbeit Ergebnisse zu erzielen, die der Weiterentwicklung des 
+Fachgebietes dienen, aus dem die Dissertation stammt.  
+ 
+(2) 1Kumulative Dissertationen sind nicht zugelassen. 2Die Dissertation darf aber bereits 
+veröffentlichte Ergebnisse enthalten.  
+ 
+(3) 1Die Dissertation ist in deutscher oder englischer Sp rache abzufassen und 
+maschinenschriftlich und in gebundener Form vorzulegen. 2In begründeten Fällen kann der 
+Fakultätsrat auch eine andere Sprache zulassen. 3Einer nicht in deutscher Sprache 
+abgefassten Dissertation ist eine Zusammenfassung in deutscher Sp rache beizufügen.  
+ 
+(4) Die Dissertation ist mit einem Titelblatt (z.B. gemäß Anlage 2) sowie einem kurzen, den 
+wissenschaftlichen Bildungsgang enthaltenden Lebenslauf zu versehen.  
+ 
+(5) 1Die Gutachterinnen/Gutachter werden vom Fakultätsrat bestellt. 2Die Gutachteri nnen/ 
+Gutachter prüfen eingehend und unabhängig voneinander, ob die vorgelegte Dissertation als 
+Promotionsleistung angenommen werden kann. 3Sie beurteilen die wissenschaftliche 
+Leistung einer anzunehmenden Arbeit in ihren schriftlichen Gutachten und vergeb en folgende 
+Prädikate:  
+ 
+Ausgezeichnete Arbeit   (0, summa cum laude)  
+Sehr gute Arbeit   (1, magna cum laude)  
+Gute Arbeit    (2, cum laude)  
+Genügende Arbeit   (3, rite).  
+ 
+ 
+ 
+Seite 8 
+(6) 1Die Gutachten sollen der Dekanin/dem Dekan nicht später als zwei Monate nach Eröffnung 
+des Promotionsverfahrens zugeleitet werden. 2Ist eine Gutachterin/ein Gutachter nicht in der 
+Lage, ein Gutachten in angemessener Frist zu erstellen, kann vom Fakultätsrat eine neue 
+Gutachterin/ein neuer Gutachter bestellt werden.  
+ 
+(7) 1Die Dekanin/der Dekan ben achrichtigt die Betreuungsberechtigten nach § 4 Absatz 3 der 
+Fakultät darüber, dass die Dissertation mit den Gutachten drei Wochen im Dekanat ausliegt. 
+2Während dieser Frist sind die Genannten berechtigt, gutachterlich zur Dissertation Stellung zu 
+nehmen. 3Bei Vorliegen solcher Stellungnahmen kann die Promotionskommission dem 
+Fakultätsrat die Bestellung einer weiteren Gutachterin/eines weiteren Gutachters empfehlen.  
+ 
+(8) 1Empfehlen  alle Gutachterinnen/Gutachter die Annahme der Dissertation, entscheidet die 
+Promotionskommission nach Ablauf der Auslagefrist auf der Grundlage sämtlicher Gutachten 
+über Gesamtnote und Prädikat der Dissertation. 2Empfehlen zwei Gutachterinnen/Gutachter 
+das Prädikat „summa cum laude“ und liegt kein drittes Gutachten vor, so ist ein we iteres 
+Gutachten einzuholen.  
+3Stimmen die Noten der Gutachterinnen/Gutachter überein, gilt das Prädikat der 
+vorgeschlagenen Note als Gesamtnote der Dissertation. 4In allen anderen Fällen wird aus den 
+Noten eine Durchschnittsnote bestimmt. 5Aus dieser wird das Prädikat der Dissertation wie 
+folgt berechnet:  
+Ausgezeichnete Arbeit   (0, summa cum laude)  
+Sehr gute Arbeit   (> 0 bis ≤ 1,5, magna cum laude)  
+Gute Arbeit    (> 1,5 bis ≤ 2,5, cum laude)  
+Genügende Arbeit   (> 2,5, rite).  
+ 
+(9) 1Empfiehlt eine der Gutachterinnen/einer der Gutachter die Ablehnung der Dissertation, 
+können durch den Fakultätsrat zusätzliche Gutachten eingeholt werden. 2Die Entscheidung 
+über die Annahme oder Ablehnung wird unter Berücksichtigung aller Gutachten getrof fen. 
+3Entscheidet die Kommission sich für die Annahme der Arbeit, so geht ein ablehnendes 
+Gutachten mit dem Wert 4,0 in die Berechnung der Note ein. 4Lehnen zwei der 
+Gutachterinnen/Gutachter die Dissertation ab, so gilt der Promotionsversuch als gescheiter t 
+und das Verfahren wird eingestellt. 5Ist die Dissertation abgelehnt worden, so kann lediglich 
+ein weiterer Promotionsversuch unternommen werden.  
+ 
+(10) Bei einem eingestellten Promotionsverfahren verbleiben ein Exemplar der Dissertation und die 
+Gutachten bei den Akten der Fakultät.  
+ 
+(11) 1Über die Einstellung des Promotionsverfahrens erteilt die Dekanin/der Dekan der 
+Doktorandin/dem Doktoranden einen schriftlichen Bescheid. 2Der Doktorandin/dem 
+Doktoranden ist in diesem Fall Einsicht in die Akten zu gewähren.  
+ 
+(12) Wird  das Promotionsverfahren nach Annahme der Dissertation fortgeführt, können die 
+Gutachten von der Doktorandin/dem Doktoranden nach Festsetzung des Termins für die 
+Disputation eingesehen werden.  
+ 
+ 
+ 
+ 
+Seite 9 
+VII. Mündliche Prüfungsleistungen  
+ 
+§ 9 
+ 
+(1) Die mündliche Prüfun g wird in Form einer öffentlichen Disputation abgehalten.  
+ 
+(2) Die Disputation dient der Vorstellung der wichtigsten Ergebnisse der Dissertation in einem 
+halbstündigen Vortrag und in einer anschließenden etwa halbstündigen wissenschaftlichen 
+Diskussion mit den  Mitgliedern der Promotionskommission, in der die Doktorandin/der 
+Doktorand die Ergebnisse der Dissertation verteidigt.  
+ 
+(3) 1Die Disputation soll in einem Zeitraum von einem Monat nach Annahme der Arbeit 
+stattfinden. 2Der Termin wird von der Vorsitzenden/dem  Vorsitzenden der 
+Promotionskommission festgelegt und der Doktorandin/dem Doktorand, den Mitgliedern der 
+Promotionskommission sowie öffentlich schriftlich bekanntgegeben. 3Die Disputation wird 
+von der Vorsitzenden/dem Vorsitzenden der Promotionskommission geleitet. 4In einer Sitzung 
+der Promotions kommission in unmittelbarem Anschluss wird entschieden, ob die Disputation 
+den Anforderungen genügt, und gegebenenfalls eine Note festgelegt. 5Außerdem werden die 
+Gesamtnote der Dissertation und das Gesamtprädikat  der Promotion festgelegt. 6Die 
+Bewertung der Disputation sowie das Gesamtprädikat der Promotion werden unmittelbar nach 
+der Sitzung der Doktorandin/dem Doktorand mündlich bekanntgegeben.  
+ 
+(4) Die Prädikate bei bestandener Prüfung sind  
+ 
+magna cum laude  =       1 
+cum laude                      =       2  
+rite                                   =       3.  
+ 
+(5) Über den Verlauf der Disputation fertigt die Vorsitzende /der Vorsitzende der 
+Promotions kommission ein Protokoll an, aus dem das Prädikat der Dissertation, eine 
+Einschätzung des Vortrages und der Diskussion, sowie die Note der Promotion hervorgehen.  
+ 
+(6) 1Eine nichtbestandene mündliche Prüfung kann innerhalb von zwölf Monaten, frühestens aber 
+nach zwei Monaten auf Antrag einmal wiederholt werden. 2Bei abermaligem Nicht bestehen 
+gilt der Promotionsversuch endgültig als gescheitert. 3Die Doktorandin/der Doktorand erhält 
+von der Dekanin/dem Dekan der Fakultät einen entsprechenden Bescheid.  
+ 
+VIII. Gesamtprädikat der Promotion  
+ 
+§ 10  
+ 
+(1) 1Das Gesamtprädikat der Promotion ergibt sich aus dem gewichteten arithmetischen Mittel 
+aus der nichtgerundeten Durchschnittsnote der Dissertation und der Note für die Disputation. 
+2Die mündliche Prüfung erhält dabei das Gewicht 1, die Durchschnittsnote der  Dissertation 
+das Gewicht 3. 3In Zweifelsfällen wird nach dem Grundsatz verfahren, dass die schriftliche 
+Leistung den Vorrang hat.  
+ 
+ 
+ 
+Seite 10 
+(2) Für das Gesamtprädikat gilt folgende Bewertungsskala:  
+ 
+magna cum laude  ≤ 1,5; eine sehr gute Leistung  
+cum laude   ≤ 2,5; ein e gute, den Durchschnitt überragende Leistung  
+rite   ≤ 3,5; eine Leistung, die den durchschnittlichen Anforderungen  
+genügt  
+ungenügend   > 3,5  
+ 
+(3) Abweichend von Absatz (2) kann das Gesamtprädikat "summa cum laude" vergeben werden, 
+wenn das Prädikat der Dissert ation „summa cum laude“ und das Prädikat der Disputation 
+„magna cum laude“ ist.  
+ 
+IX. Vollzug der Promotion und Urkunde  
+ 
+§ 11  
+ 
+1Die Promotionskommission kann auf Vorschlag der Gutachterinnen/Gutachter für die 
+Veröffentlichung der Dissertation Auflagen zur B eseitigung von Mängeln erteilen. 2Der Dekanin/dem 
+Dekan obliegt es, ihre Erfüllung festzustellen.  
+§ 12  
+ 
+Die Dekanin/der Dekan teilt der Bewerberin/dem Bewerbe r die Beschlüsse der Promotions kommission 
+schriftlich mit und weist bei erfolgreicher Erbringung aller Promotionsleistungen auf die Pflicht zur 
+Veröffentlichung der Dissertation und die Bestimmungen der Promotionsordnungen über den Vollzug 
+der Promotion hin.  
+§ 13  
+ 
+(1) Nach der Annahme der Dissertation und dem erfolgreichen Abschluss der mündlichen 
+Promoti onsleistung ist die Doktorandin/der Doktorand verpflichtet, die Dissertation in 
+angemessener Weise zu veröffentlichen und nach Absatz 2 zu übergeben.  
+ 
+(2) 1Der Pflicht zur Veröffentlichung der Dissertation ist Genüge getan, wenn über die vier 
+eingereichten Exemplare der Dissertation hinaus der Thüringer Universitäts  und 
+Landesbibliothek (ThULB) Pflichtexemplare wie folgt übergeben werden:  
+1. eine elektronische Version im Dateiformat PDF/A auf einer CD ROM sowie 
+zusätzlich drei identische gedruckte Exemplare od er 
+2. acht gedruckte und dauerhaft gebundene Exemplare oder  
+3. acht gedruckte Exemplare, wenn die Dissertation in einer Zeitschrift oder einer 
+wissenschaftlichen Schriftenreihe publiziert worden ist oder  
+4. acht gedruckte Exemplare, wenn ein gewerblicher Verleger die Verbreitung über 
+den Buchhandel übernimmt, eine Mindestauflage von 150 Exemplaren 
+nachgewiesen wird und die Veröffentlichung auf der Titelblattrückseite als 
+Dissertation ausgewiesen ist.  
+ 
+ 
+ 
+ 
+Seite 11 
+2In den Fällen von Satz 1 Nr. 1 und 2 überträgt die Doktorandi n/der Doktorand der Universität 
+das Recht, weitere Kopien der Dissertation herzustellen und zu verbreiten. 3Im Fall von Satz 1 
+Nr. 1 ist der Universität und der Deutschen Nationalbibliothek ferner das Recht einzuräumen, 
+die Dissertation in Datennetzen öffe ntlich zugänglich zu machen. 4Hierfür kann die ThULB 
+weitere, insbesondere technische Anfor derungen an die Abgabe stellen.  
+(3) 1Die Pflichtexemplare sind spätestens ein Jahr nach der Disputation in der Fakultät zu 
+hinterlegen. 2Eine Verlängerung dieser Abliefe rungsfrist ist nur mit Genehmigung der 
+Dekanin/des Dekans möglich.  
+ 
+§ 14  
+ 
+(1) 1Sobald die nach § 11 Abs. 1 erteilten Auflagen erfüllt sind und der Pflicht zur 
+Veröffentlichung der Dissertation gemäß § 13 nachgekommen worden ist, wird die Promotion 
+durch die Au shändigung einer von Präsidentin/Präsident und Dekanin/Dekan unterzeichneten 
+und mit dem Siegel der Friedrich Schiller Universität versehenen Urkunde vollzogen. 2Als 
+Promotionsdatum gilt der Tag der letzten mündlichen Leistung.  
+ 
+(2) 1Mit der Aushändigung der U rkunde hat die Promovendin/der Promovend das Recht, den 
+Doktorgrad zu führen. 2Abweichend davon kann der Bewerberin/dem Bewerber bereits vor 
+Aushändigung der Urkunde die vorläufige Befugnis zur Führung des Doktorgrades erteilt 
+werden, wenn die Erfüllung de r übrigen Voraussetzungen nachgewiesen ist. 3Den Bescheid 
+erlässt die Dekanin/der Dekan.  
+ 
+(3) Auf Antrag der Promovendin/des Promovenden kann die Promotionsurkunde in englischer 
+Sprache ausgestellt werden.  
+ 
+(4) Bei gemeinsamen Promotionen im Rahmen von Kooperation en gemäß § 16 wird eine Urkunde 
+gemäß § 19 ausgegeben.  
+ 
+X. Gemeinsame Promotionsverfahren mit anderen Hochschulen  
+ 
+§ 15  
+ 
+(1) Im Rahmen einer kooperativen Promotion (Art. 61 Abs. 5 Satz 4 ThürHG) werden 
+Hochschullehrerinnen/Hochschullehrer einer Fachhochschule oder einer anderen Hochschule 
+ohne Promotionsrecht vom Fakultätsrat zu Betreuerinnen /Betreuern, Gutachterinnen/ 
+Gutachtern und Prüferinnen/Prüfern bestellt.  
+ 
+(2) Voraussetzung ist der Abschluss einer Rahmenvereinbarung zwischen der Friedrich Schiller 
+Universit ät und der betreffenden Hochschule über die Durchführung kooperativer 
+Promotionen.  
+ 
+§ 16  
+ 
+(1) 1Die Durchführung von gemeinsamen Promotionsverfahren mit einer anderen in  oder 
+ausländischen Hochschule mit Promotionsrecht erfolgt auf der Grundlage einer Vereinba rung 
+zwischen der FSU und der betreffenden Hochschule. 2Diese Kooperationsvereinbarung ist von 
+der Promovendin/dem Promovenden und auf Seiten der FSU von der Betreuerin/dem Betreuer, 
+der Dekanin/dem Dekan sowie der Präsidentin/dem Präsidenten zu unterzeich nen.  
+ 
+Seite 12 
+(2) In der Kooperationsvereinbarung sind insbesondere folgende Inhalte zu regeln:  
+ 
+1. die Durchführung der wissenschaftlichen Betreuung, die durch mindestens je eine  
+Betreuerin/einen Betreuer der beteiligten Universitäten erfolgen soll,  
+2. der Mindestumfang der Forschungsaufenthalte an der Partnerhochschule, der 12  
+Monate nicht unterschreiten soll,  
+3. die Prüfungsmodalitäten einschließlich der zu verwendenden Sprache, der Besetzung 
+der Promotionskommission und des anzuwendenden Notensystems,  
+4. die Übernahme von Reisekosten,  
+5. die Modalitäten der Verleihung der Promotionsurkunde,  
+6. die Pflicht zur Veröffentlichung der Dissertation.  
+ 
+§ 17  
+ 
+(1) 1Soll die Dissertation an der FSU vorgelegt werden, so wird sie durch eine Betreuerin/einen 
+Betreuer gemäß § 4 Abs . 2 und ein prüfungsberechtigtes Mitglied der Partnerhochschule 
+gemeinsam betreut. 2Die nähere Ausgestaltung der gemeinsamen Betreuung ergibt sich aus 
+der Vereinbarung nach § 16 Abs. 1 und 2.  
+ 
+(2) Stimmt der Fakultätsrat nach §6 der Eröffnung des Promotionsver fahrens zu, so wird die 
+Dissertation der Partnerhochschule zur Zustimmung über den Fortgang des Verfahrens 
+übermittelt.  
+ 
+(3) 1Erteilt die Partnerhochschule diese Zustimmung, so ist der Fortgang des Verfahrens gemäß 
+dieser Ordnung. 2Dabei bestellt der Fakultäts rat mindestens eine nach den Bestimmungen der 
+Partnerhochschule prüfungsberechtigte Person zum Mitglied der Promotionskommission.  
+ 
+(4) 1Erteilt die Partnerhochschule diese Zustimmung nicht, so ist das gemeinsame Verfahren 
+beendet. 2Das Promotionsverfahren wird  nach den Bestimmungen dieser Ordnung fortgesetzt.  
+ 
+(5) Veröffentlichung der Dissertation und Ablieferung der Pflichtexemplare richten sich nach § 13 
+sowie den gemäß § 16 Abs. 1 und 2 getroffenen Vereinbarungen.  
+ 
+§ 18  
+ 
+(1) 1Soll die Dissertation an der Partnerhoc hschule vorgelegt werden, so wird sie durch ein 
+prüfungsberechtigtes Mitglied der Partnerhochschule und eine Betreuerin/einen Betreuer 
+gemäß § 4 Abs. 2 gemeinsam betreut. 2Dabei findet das Verfahren nach der 
+Promotionsordnung der Partnerhochschule Anwendun g. 3Die nähere Ausgestaltung der 
+gemeinsamen Betreuung ergibt sich aus der Vereinbarung nach § 16 Abs. 1 und 2.  
+ 
+(2) 1Wurde die Dissertation von der Partnerhochschule angenommen, so wird sie dem 
+Fakultätsrat zur Zustimmung über den Fortgang des Verfahrens über mittelt. 2Erteilt der 
+Fakultätsrat diese Zustimmung, so findet die mündliche Prüfung an der Partnerhochschule 
+nach Maßgabe der dortigen Bestimmungen statt. 3In der Vereinbarung nach § 16 Abs. 1 und 2 
+ist vorzusehen, dass in diesem Fall die Betreuerin/der B etreuer von der FSU dem die 
+mündliche Prüfung abnehmenden Gremium als Prüferin/ Prüfer angehören muss.  
+ 
+ 
+ 
+Seite 13 
+(3) 1Wird die Dissertation von der Partnerhochschule angenommen, verweigert jedoch der 
+Fakultätsrat die Zustimmung zum Fortgang des Verfahrens, so ist das gemeinsame Verfahren 
+beendet. 2Das Promotionsverfahren kann nach den Bestimmungen der Partnerhochschule 
+fortgesetzt werden.  
+ 
+(4) 1Für die Veröffentlichung der schriftlichen Promotionsleistung und Ablieferung der 
+Pflichtexemplare gelten die für die Partnerhochs chule maßgeblichen Bestimmungen. 2Die 
+Vereinbarung nach § 16 Abs. 1 und 2 legt darüber hinaus fest, wie viele Exemplare der FSU zur 
+Verfügung zu stellen sind. 3In jedem Fall bleibt ein Exemplar de r Dissertation bei den 
+Prüfungs akten. 4Die Fakultät kann die  Ausfertigung der gemäß § 19 ausgestellten 
+Promotionsurkunde von der Ablieferung dieses Exemplars abhängig machen.  
+ 
+§ 19  
+ 
+(1) 1Nach der Durchführung eines gemeinsamen Promotionsverfahrens wird von der Fakultät und 
+der Partnerhochschule eine gemeinsame Urkunde über die Verleihung des Doktorgrades 
+ausgestellt, aus der sich ergibt, dass die Promotion in gemeinsamer Betreuung entstand en ist. 
+2Sie trägt die Unterschriften und Siegel, die nach den Bestimmungen dieser 
+Promotionsordnung sowie denen der Partnerhochschule erforderlich sind.  
+ 
+(2) An die Stelle einer gemeinsamen Urkunde können auch Einzelurkunden der Fakultät und der 
+Partnerhochschule treten, aus denen deutlich hervorgeht, dass beide Urkunden zusammen 
+eine gemeinsame Promotionsurkunde darstellen.  
+ 
+(3) Aus der gemeinsamen Promotionsurkunde geht hervor, dass die/der Promovierte berechtigt 
+ist, in Deutschland den Doktorgrad g emäß § 1 Abs. 1 und in dem ausländischen Staat den dort 
+verliehenen Doktorgrad zu führen.  
+ 
+(4) 1Das Nähere über die Ausgestaltung der Urkunde regelt die Vereinbarung nach § 16 Abs. 1 
+und 2. Ihr ist auch die Notenäquivalenz zu entnehmen. 2Auf der gemeinsamen 
+Promotionsurkunde sollen die äquivalenten ausländischen Noten mit entsprechender 
+Kennzeichnung aufgeführt werden.  
+ 
+(5) Vereinbarungen, die die FSU mit anderen promotionsberechtigten Hochschulen über 
+gemeinsame Promotionsverfahren trifft, können in Ausnahmefällen  von den Bestimmungen in 
+§§ 1 bis 19 abweichen, soweit gesetzliche Regelungen nicht entgegenstehen.  
+ 
+XI. Täuschung und Aberkennung der Promotion  
+ 
+§ 20  
+ 
+(1) 1Die Verleihung des Doktorgrades ist zurückzunehmen, wenn die Doktorandin/der Doktorand 
+beim Nachweis de r Zulassungsvoraussetzungen oder bei Promotionsleistungen getäuscht hat 
+oder wenn Tatsachen bekannt werden, die eine Verleihung des Doktorgrades ausgeschlossen 
+hätten. 2Die Entscheidung trifft der Fakultätsrat mit der Mehrheit der Stimmen seiner 
+promoviert en Mitglieder nach Anhörung der/des Promovierten.  
+ 
+ 
+ 
+Seite 14 
+(2) Waren die Voraussetzungen für die Zulassung zur Promotion nicht erfüllt, ohne dass die 
+Doktorandin/der Doktorand hierüber täuschen wollte, und wird diese Tatsache erst nach der 
+Aushändigung der Urkunde be kannt, so wird dieser Mangel durch das Bestehen der 
+Doktorprüfung behoben.  
+ 
+(3) Für die Aberkennung des Doktorgrades gelten im Übrigen die gesetzlichen Bestimmungen.  
+ 
+XII. Einsichtnahme  
+ 
+§ 21  
+ 
+Die Bewerberin/der Bewerber hat das Recht, nach dem Abschluss des P romotionsverfahrens die 
+Promotionsunterlagen einzusehen. § 8 Abs. 12 bleibt unberührt.  
+ 
+XIII. Widerspruch gegen Entscheidungen im Promotionsverfahren  
+ 
+§ 22  
+ 
+(1) 1Der Bewerberin/dem Bewerber sind die Entscheidungen über die Zulassung zum 
+Promotionsverfahren, üb er die Annahme oder Ablehnung der Dissertation und über die 
+mündliche Promotionsleistung schriftlich mitzuteilen. 2Jeder belastende Bescheid des 
+Fakultätsrates und/oder der Promotionskommission ist zu begründen und mit einer 
+Rechtsbehelfsbelehrung zu verse hen.  
+ 
+(2) 1Gegen die Entscheidung kann die/der Betroffene binnen eines Monats nach Bekanntgabe 
+schriftlich bei der Präsidentin/dem Präsidenten der Friedrich Schiller Universität Widerspruch 
+einlegen. 2Über den Widerspruch entscheidet der zuständige Fakultätsra t mit der Mehrheit der 
+Stimmen seiner promovierten Mitglieder nach Einholung einer Stellungnahme der 
+Rechtsabteilung der Universität. 3Den Widerspruchsbescheid erlässt die Präsidentin/der 
+Präsident nach Gegenzeichnung durch die Dekanin/den Dekan.  
+ 
+(3) 1Für den  Widerspruch und das Widerspruchsverfahren gelten die Vorschriften der 
+Verwaltungsgerichtsordnung. 2Im Übrigen gilt § 133 ThürHG.  
+ 
+XIV. Ehrenpromotion und Doktorjubiläum  
+ 
+§ 23  
+ 
+(1) In Anerkennung hervorragender wissenschaftlicher Leistungen oder anderer besonderer 
+Verdienste kann die Friedrich Schiller Universität durch die Fakultät für Mathematik und 
+Informatik für ihre Fachgebiete den Doktor ehrenhalber nach § 1 Abs. 2 als seltene 
+Auszeichnung verleihen.  
+ 
+(2) 1Das Ehrenpromotionsverfahren setzt einen förmli chen Antrag an die Dekanin/den Dekan 
+voraus, der von mindestens einem Drittel aller Professorinnen/Professoren eines Bereiches 
+(Mathematik bzw. Informatik) der Fakultät unterzeichnet ist. 2Dem Antrag ist eine Würdigung 
+der besonderen Verdienste der zu ehre nden Persönlichkeit beizufügen.  
+ 
+ 
+ 
+Seite 15 
+(3) 1Unter Würdigung der vorgelegten Stellungnahmen entscheidet der Fakultätsrat mit drei 
+Viertel der Stimmen seiner promovierten Mitglieder über den Antrag auf Verleihung der 
+Ehrendoktorwürde. 2Vor dem Beschluss des Fakultäts rates ist dem Senat Gelegenheit zur 
+Stellungnahme zu geben. 3Im Falle einer positiven Entscheidung benennt der Fakultätsrat eine 
+Professorin/einen Professor, der eine Laudatio erarbeiten soll.  
+ 
+(4) Präsidentin/Präsident und Dekanin/Dekan vollziehen die Verleih ung der Ehrendoktorwürde in 
+der Regel in einer Veranstaltung, zu der der Senat und die Mitglieder der Fakultät geladen sind, 
+durch Überreichung einer von Präsidentin/Präsident und Dekanin/Dekan unterzeichneten 
+Urkunde, in der die Leistungen der geehrten Pe rsönlichkeit gewürdigt werden.  
+ 
+§ 24  
+ 
+(1) Die Promotionsurkunde kann zur 50. Wiederkehr des Promotionstages erneuert werden, wenn 
+dies mit Rücksicht auf die wissenschaftlichen Verdienste oder auf die enge Verbindung der 
+Jubilarin/des Jubilars mit der Friedrich Schiller Universität angebracht erscheint.  
+ 
+(2) 1Die Jubiläumsurkunde wird auf Antrag der Dekanin/des Dekans und nach Zustimmung des 
+Fakultätsrates verliehen. 2Sie trägt die Unterschriften der Präsidentin/des Präsidenten und der 
+Dekanin/des Dekans.  
+ 
+XV. Ombud sverfahren  
+ 
+§ 25  
+ 
+Die Fakultät führt ein Ombudsverfahren nach §25 Abs. 1 bis 3 der allgemeinen Bestimmungen für die 
+Promotionsordnungen der Fakultäten der Friedrich Schiller Universität Jena durch.  
+ 
+XVI. Inkrafttreten und Übergangsregelungen  
+ 
+§ 26  
+ 
+(1) Für Bew erberinnen/Bewerber, die ein neuberufenes Fakultätsmitglied an der Hochschule, der 
+dieses Mitglied vor seiner Berufung angehörte, als Doktorandin/Doktorand angenommen bzw. 
+betreut hat, gelten die Zulassungsvoraussetzungen zur Annahme zur Promotion bzw. zur  
+Eröffnung des Promotionsverfahrens der Herkunftshochschule ebenfalls für die Friedrich 
+Schiller Universität Jena.  
+ 
+(2) Das Promotionsverfahren wird unter Beachtung von Abs. 1 grundsätzlich nach der 
+Promotionsordnung der Fakultät für Mathematik und Informatik der Friedrich Schiller 
+Universität durchgeführt.  
+ 
+ 
+ 
+ 
+ 
+ 
+Seite 16 
+§ 27  
+ 
+(1) 1Die Promotionsordnung tritt am ersten Tag des auf ihre Bekanntmachung im 
+Verkündungsblatt der Friedrich Schiller Universität Jena folgenden Monats in Kraft. 
+2Gleichzeitig tritt die Promotionsordnung vom 8.Juli 2009 (Verkündungsblatt der FSU 
+13/2009, S.1258) außer Kraft, mit der Ausnahme, dass sie für Doktorandinnen/Doktoranden, 
+die ihr Wahlrecht nach Absatz 2 ausüben, die Gültigkeit behält.  
+ 
+(2) Antragstellerinnen/Antragssteller, die vor  dem Inkrafttreten dieser Promotionsordnung bereits 
+auf der Grundlage der Promotionsordnungen der Friedrich Schiller Universität Jena vom 8. Juli 
+2009 als Doktorandin/Doktorand angenommen wurden, sind berechtigt, zwischen der 
+geltenden Ordnung und der Prom otionsordnung der Fakultät für Mathematik und Informatik 
+zu wählen, die bei der Annahme als Promotion gültig war.  
+ 
+Jena, den 17. Juli 2018  
+ 
+Prof. Dr. Walter Rosenthal        Prof. Dr. David Green   
+Präsident der Friedrich Schiller Universität Jena      Dekan  der Fakultät für Mathematik und Informatik  
+     
+ 
+  
+ 
+Seite 17 
+Anlage 1:  
+Eignungsfeststellungsverfahren für die Promotion gemäß § 3  
+ 
+(1) Absolventinnen/Absolventen, die nicht die Regelvoraussetzungen für die Zulassung zur 
+Promotion an der Fakultät für Mathematik und In formatik der Friedrich Schiller Universität 
+Jena gemäß § 3 Absatz 1, erfüllen, können zum Zwecke der Erlangung der Promotion zu 
+einem Eignungsfeststellungsverfahren zugelassen werden.  
+ 
+(2) Über den Antrag entscheidet der Fakultätsrat; er kann im Einzelfall auc h Abweichungen von 
+den Zulassungsbedingungen festlegen.  
+ 
+(3) Für die Zulassung zum Eignungsfeststellungsverfahren sind folgende Nachweise erforderlich:  
+ die Gesamtnote des existierenden Abschlusses muss besser als 1,5 sein;  
+ die Abschlussarbeit wurde mit der Note „sehr gut“ bewertet.  
+ es liegt eine Empfehlung einer Hochschullehrerin/eines Hochschullehrers der Fakultät 
+für Mathematik und Informatik vor.  
+ 
+(4) Die Prüfung im Rahmen des Eignungsfeststellungsverfahrens  soll Stoff umfassen, der in 
+Modulen des einschlägig en Masterstudienganges mit einem Gesamtumfang von maximal 30 
+ECTS  gelehrt wird.  
+ 
+(5) Der Fakultätsrat bestellt Prüferinnen/Prüfer, die die entsprechende Prüfung abnehmen, und 
+legt im Einvernehmen mit diesen Prüferinnen/Prüfern den abzuprüfenden Stoff fest.   
+ 
+(6) Alle Fächer sind mit einer Note gleich oder besser als 2,3 abzuschließen.  
+ 
+(7) Dem Antrag zur Eröffnung eines Eignungsfeststellungsverfahrens müssen beigefügt sein:  
+ ein Lebenslauf mit den Unterlagen über den Werdegang sowie ein Exemplar der 
+Abschlussarbeit u nd des Abschlusszeugnisses,  
+ eine Erklärung, ob bereits an einer Hochschule eine Promotionseignungsprüfung oder 
+eine vergleichbare Prüfung stattgefunden hat,  
+ ein amtliches Führungszeugnis, sofern die Bewerberin/der Bewerber nicht im 
+öffentlichen Dienst steh t, 
+ eine Erklärung darüber, ob ein akademischer Grad entzogen wurde oder ein 
+staatsanwaltliches Ermittlungsverfahren eingeleitet wurde.  
+  
+  
+ 
+Seite 18 
+Anlage 2:  
+Muster für die Titelseite der Dissertation  
+ 
+ 
+T i t e l   d e r   D i s s e r t a t i o n  
+ 
+Dissertation  
+zur Erlangung des akademischen Grades  
+(der zutreffende Grad ist einzusetzen)  
+doctor rerum naturalium (Dr. rer. nat.)  
+Doktor Ingenieur (Dr. Ing.)  
+ 
+ 
+vorgelegt dem Rat der Fakultät für Mathematik und Informatik  
+der Friedrich Schiller Universität Jena  
+ 
+ 
+von ......................... (bereits erworbener akad. Grad, Vor  und Zuname)  
+geboren am ............. in ....................  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seite 19 
+Muster der Titelblattrückseite (unten)  
+ 
+(alle Angaben ..... auf der Titelblattrückseite erst in den Pflichtexemplaren ausfüllen)  
+ 
+Gutachter  
+1.      ....................  
+2.      ....................  
+3.      ....................  
+Tag der öffentlichen Verteidigung: ....................  
+ 
+ 
+ 
+ 

@@ -1,0 +1,849 @@
+ 
+1 
+ Promotionsordnung  
+der Fakultät für Mathematik und Informatik  
+der Universität Leipzig  
+ 
+vom 2. Mai 2013   
+ 
+in der Fassung der  Ersten Änderungssatzung vom 16. Oktober 2017  
+ 
+ 
+Aufgrund von § 40 in Verbindung mit § 88 Abs. 1 des Gesetzes über die Freiheit der Hoch
+schulen im Freistaat Sachsen (Sächsisches Hochschulfreiheitsgesetz  SächsHSFG) vom 10. 
+Dezember 2008 (SächsGVBl. S. 900), rechtsbereinigt mit Stand vom 18. November 201 2 
+hat der Rat der Fakultät für Mathematik und Informatik der Universität Leipzig am 17. De
+zember 2012  nachfolgende Promotionsordnung beschlossen.  
+ 
+ § 1 Promotionsrecht  
+ § 2 Promotionsgremien  
+ § 3 Grundlagen der Promotion  
+ § 4 Doktorandenliste  
+ § 5 Zulassungsvoraussetzungen für ein Promotionsverfahren  
+ § 6 Eignungsfeststellungsprüfung  
+ § 7 Antrag  
+ § 8 Dissertation  
+ § 9 Eröffnung des Verfahrens  
+ § 10 Gutachter  
+ § 11 Gutachten  
+ § 12 Annahme der Dissertation  
+ § 13 Annahme  im binationalen Verfahren  
+ § 14 Verteidigung  
+ § 15 Bewertung  
+ § 16 Pflichtexemplare  
+ § 17 Verleihung  
+ § 18 Nichtvollzug der Promotion, Entzug des Doktorgrades  
+ § 19 Promotionsakte  
+ § 20 Ehrenpromotion  
+ § 21 Doktorjubiläum  
+ § 22 Übergangsregelungen  
+ § 23 InKraft Treten  
+ 
+ Anlage 1:  Titelseite für die einzureichende Arbeit  
+ Anlage 2:  Selbständigkeitserklärung  
+  Anlage 3:  Titelseite für die einzureichenden Pflichtexemplare  
+ Anlage 4:  Muster der Promotionsurkunde  
+ Anlage 5:  Muster der Promotionsurkunde im binationalen Verfahren  
+ 
+In dies er Ordnung gelten grammatisch maskuline Personenbezeichnungen gleichermaßen für Personen weiblichen und 
+männlichen Geschlechts.  
+  
+ 
+2 
+ § 1 
+Promotionsrecht  
+(1) Die Fakultät für Mathematik und Informatik der Universität Leipzig verleiht auf der 
+Grundlage eines ordnungsgemäßen Promotionsverfahrens namens der Universität 
+Leipzig auf den Fachgebie ten Mathemati k, Didaktik der Mathematik und Didaktik der 
+Informatik den Doktorgrad Doctor rerum natu ralium (Dr. rer. nat.) sowie  auf den Fach
+gebie ten Informatik und Digita l Humanities mit Schwerpunkt Informatik je nach inhalt
+licher Schwerpunktsetzung der eingereichten Dissertation den Doktorgrad Doctor rerum 
+naturalium (Dr. rer. nat.) oder Doktor Ingenieur (Dr. Ing.) . Der Grad Doktor Ingenieur 
+kann auch in der weiblichen Fo rm Doktor Ingenieurin (Dr. Ing.) verliehen werden.  
+ 
+(2) In Ausnahmefällen kann bei entsprechender inhaltlicher Schwerpunktsetzung der einge
+reichten Dissertation der akademische Grad Doctor philosophiae (Dr. phil.) vergeben 
+werden.  
+ 
+(3) Die Fakultät kann gemeinsam mit einer Fakultät einer ausländischen Universität aufgrund 
+einer gemeinsamen Betreuung einen binationalen Doktorgrad verleihen . In diesem Falle 
+setzt die Promotion in gemeinsamer Betreuung voraus, dass die Fakultät mit der wissen
+schaftlichen Partnereinrichtung eine Rahmenvereinbarung geschlossen hat, die die 
+Grundlagen der Verleihung des binationalen Doktorgrades regelt. Die Rahm envereinba
+rungen soll insbesondere Regelungen enthalten über die Durchführung der Betreuung, die 
+Promotionsprüfung einschließlich der Notengebung, den Vollzug der Promotion sowie 
+die dabei entstehenden Kosten . Für binationale Promotionsverfahren gelten, so weit in der 
+Rahmenvereinbarung nichts Abweichendes vereinbart wurde,  die Regelungen dieser Ord
+nung.  
+ 
+(4) Die Fakultät verleiht die Ehrendoktorwürde (Doctor honoris causa) gemäß § 20. Zur fach
+gebundenen Bezeichnung des Doktorgrades tritt der Zusatz "h. c.".  
+ 
+(5) Der mehrfache Erwerb eines Doktorgrades gleicher Bezeichnung und auf demselben 
+Fachgebiet ist nicht möglich.  
+ 
+§ 2 
+Promotionsgremien  
+ 
+(1) Das für Promotionen zuständige Gremium ist der Fakultätsrat. Für die Entscheidung über 
+die Zulassung zur Promotion und die Durchführung von Promotionsverfahren beruft der 
+Fakultätsrat auf Vorschlag des Dekans einen Promotionsausschuss Mathematik für die  
+Fachgebiet e Mathematik und Didaktik der Mathematik sowie einen Promotionsausschuss 
+Informatik für die Fachgebiet e Informatik , Didaktik der Informatik  und Digital Humani
+ties mit  Schwerpunkt Informatik  und bestellt jeweils ein Ausschussmitglied zum Aus
+schussvorsitzenden.  
+ 
+(2) Die Promotionsausschüsse bestehen aus jewe ils fünf Mitgliedern. Jedes Mitglied hat ei
+nen ständigen Vertreter. Ausschussmitglieder und ihre Vertreter müssen Hochschullehrer 
+der Fakultät für Mathematik und Informatik sein. Der Promotionsausschuss bestimmt ei
+nen Stellvertreter des Vorsitzenden. Mitgl ieder wirken bei Promotionen, deren Betreuer 
+sie sind, im Promotionsausschuss nicht mit.  
+ 
+3 
+  
+(3) Der Dekan bestimmt für die beiden Promotionsausschüsse der Fakultät jeweils einen Mit
+arbeiter der Fakultät zum ständigen Sekretär. Ihm obliegt die Gewährleistung des organi
+satorischen Ablaufs der Verfahren.  
+ 
+(4) Entscheidungen in Promotionsverfahren sind Kollegialentscheidungen. Sie bedürfen der 
+Zustimmung der Mehrheit der beschlussfähig zusammengetretenen Gremien. Der Promo
+tionsausschuss ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend sind. 
+Der Promotionsausschuss beschließt mit der Mehrheit der Stimmen der Anwesenden.  
+ 
+(5) Die Beratungen der Gremien zu Promotionsfragen sind nicht öffentlich. Die Mitglieder 
+der Gremien sind zur Verschwiegenheit verpflichtet. Kommissionsmitglieder, die nicht 
+im öffentlichen Dienst stehen, sind durch den Kommissionsvorsitzenden aktenkundig zur 
+Verschwiegenheit zu verpflichten.  
+ 
+(6) Die abschließende Entscheidung in strittigen Promotionsangelegenheiten obliegt dem Fa
+kultätsrat.  
+ 
+§ 3 
+Grundlagen der Promotion  
+(1) Der Doktorgrad wird auf der Grundlage einer selbständig erstellten schriftlichen wissen
+schaftlichen Arbeit, die das Wissenschaftsgebiet weiterentwickelt (Dissertation), und ei
+ner öffentlichen Verteidigung verliehen.  
+ 
+(2) Die Dissertation ist in der Regel eine Einzelleistung.  
+ 
+(3) Beim Erwerb eines weiteren Doktorgrades werden Leistungen aus vorherigen Verfahren 
+nicht angerechnet.  
+ 
+(4) Die für das Promotionsverfahren geforderten Leistungen können in deutscher oder engli
+scher Sprach e erbracht werden. Andere Sprachen können auf Antrag vom Fak ultätsrat 
+zugelassen werden. In binationalen Verfahren sollen die Leistungen in englischer Sprache 
+erbracht werden; zusätzlich ist eine Zusammenfassung der Dissertation in deutscher Spra
+che und in  der Landesprache der ausländischen Universität erforderlich.  
+ 
+ 
+§ 4 
+Doktorandenliste  
+(1) Die Fakultät führt eine gemeinsame Doktorandenliste.  
+ 
+(2) Der Eintrag in die Doktorandenliste erfolgt auf formlosen Antrag des Doktoranden. Der 
+Antrag bedarf keiner Genehmigung, jedoch der Unterstützung des Betreuers. Ist der Be
+treuer kein Hochschullehrer der Fakultät oder hat der Antragsteller keinen Betreuer, ist es 
+Voraussetzung, dass ein Hochschullehrer der Fakultät den Antrag befürwortet.  
+ 
+(3) Der Eintrag in die Dokt orandenliste erlischt mit Abschluss bzw. Beendigung des Promo
+tionsverfahrens, spätestens jedoch fünf Jahre nach Eintrag in die Liste. Eine Verlängerung 
+ 
+4 
+ um ein Jahr ist auf Antrag möglich. Über diesen Antrag entscheidet der Promotionsaus
+schuss des betreffen den Fachgebietes.  
+ 
+ 
+§ 5 
+Zulassungsvoraussetzungen für ein Promotionsverfahren  
+(1) Zum Promotionsverfahren wird zugelassen, wer  
+ 
+1. einen Diplom , Master  oder Magistergrad oder das Staatsexamen in einem dem 
+Promotionsgebiet zuord enbaren  Studiengang an einer Universität oder Fachhoch
+schule erwor ben hat,  
+ 
+2. nicht zuvor ein gleichartiges Promotionsverfahren nicht bestanden hat bzw. nicht in 
+einem schwe bende n Verfahren steht,  
+ 
+3. gemäß § 7 einen Antrag auf Durchführung eines Promotionsverfahrens mit allen 
+erforderlichen Unterlagen einreicht und  
+ 
+4. bei der Anfertigung der Dissertation von einem Hochschullehrer der Fakultät für 
+Mathematik und Informatik betreut wurde oder dessen Antrag auf Durchführung ei
+nes Promotionsverfahrens durch einen Hochschull ehrer der Fakultät für Mathematik 
+und Informatik befürwortet wird, der auf dem Fachgebiet des Promotionsverfahrens 
+ausgewiesen ist. Im eines binationalen  Verfahren s muss zusätzlich die Einverständ
+niserklärung eines Hochschullehrers der Partneruniversität v orliegen.  
+ 
+(2) Zum Promotionsver fahren  kann zugelassen werden, wessen an einer Universität oder 
+Fachhochschule erworbener Diplom , Master , Magister  oder Staatsexamensabschluss 
+die Vor aussetzung der Zuordenbarkeit des Studienganges in Abs. 1 Ziffer  1 nicht er füllt. 
+Dabei gilt, dass   
+ 
+1. für eine Promotion in Mathematik o der Didaktik der Mathematik erfolgreich ein 
+Eignungsfeststellungsverfahren gemäß § 6  durchlaufen  worden sein muss,   
+ 
+2. für eine Promotion in In formatik , Didaktik der Informatik  oder Digital Humanities  
+mit Schwerpunk Informatik die Zulassung  mit der Auflage zur Erbringung zusätzli
+cher Studienleistungen verbunden werden  kann . Hierüber entscheidet der Promoti
+onsausschuss Informatik in Absprache mit dem Betreuer bzw. dem befürwortenden 
+Hochschull ehrer. Dabei werden auch  der Inhalt und Umfang der zusätzlich zu er
+bringenden Studienleistungen festgelegt. Der Gesamtumfang der zusätzlichen Stu
+dienleistungen soll ein Semester nicht überschreiten.  
+ 
+Über die Zu lassung entscheidet  der zuständige Promotionsausschuss.  
+ 
+(3) Zum Promotionsverfahren kann zugelassen werden, wer einen Bachelorgrad einer 
+Hochschule  erworben und erfolgreich ein Eignungsfeststellungsverfahren gemäß § 6  
+durchlaufen hat. Über die Zulassung entscheidet  der zuständige Promotionsausschuss . 
+ 
+ 
+5 
+ (4) Über die Anerkennung der Gleichwertigkeit ausländischer Examina und Studienab
+schlüsse entscheidet der Promotionsausschuss unter Berücksichtigung von Äquivalenz
+abkommen. In Zweifelsfällen ist eine Stellungnahme des Sächsischen Staatsministeri
+ums für Wissenschaft und Kunst einzuholen. In Fällen, in denen Antragsteller die Füh
+rung eines im Ausland erworbenen akademischen Grades in der Form eines deutschen 
+zur Promotion berechtigenden Grades genehmigt wurde, ist dieser Grad als gleichwertig 
+anzuerkennen.  
+ 
+§ 6 
+Eignungsfeststellungs verfahren  
+(1) Die Durchführung eines Eignungsfeststellungsverfahrens ist schriftlich beim zuständigen 
+Promotionsausschuss zu beantragen.  
+ 
+(2) Der Promotionsausschuss legt die für die Eignungsfeststellung zu erbringenden zusätzli
+chen Studienleistun gen und die abzulegenden Prüfungen fest. Die zusätzlichen Studienle
+istungen haben einen Gesamtumfang von mindestens zwei Semestern  eines  inhalt lich ent
+sprechenden Masterstudien gang es. Früher erbrachte Stu dien und Prüfu ngsleistungen 
+könne n auf Antrag angerechnet werden.  
+ 
+(3) Nicht bestandene Prüfungen können höchstens einmal wiederholt werden.   
+ 
+ 
+§ 7 
+Antrag  
+(1) Der schriftliche Antrag auf Durchführung eines Promotionsverfahrens ist mit Angabe des 
+Fachgebietes und des angestrebten Doktorgrades an den Dekan der Fakultät für Mathe
+matik und Informatik zu richten.  
+ 
+Dem Antrag sind folgende Unterlagen beizufügen:  
+ 
+1. drei gebundene Exemplare der Dissertation, ein Exemplar in elektronischer Form (vor
+zugsweise im pdf Format) sowie 30 Exemplare der maximal vierseitigen Zusammen
+fassung. Werden im Verlaufe des Promotionsverfahrens zusätzliche Exemplare der 
+Dissertation benö tigt, sind diese durch den Antragsteller nachzureichen;  
+ 
+2. tabellarischer Lebenslauf mit Darstellung des wissenschaftlichen Werdeganges und 
+Lichtbild;  
+ 
+3. Verzeichnis der wissenschaftlichen Veröffentlichungen und Vorträge;  
+ 
+4. amtlich beglaubigte Kopien der urkundlichen Nachweise über die Erfüllung der Vo
+raussetzungen gemäß § 5 zur Zulassung zu einem Promotionsverfahren;  
+ 
+5. Erklärungen des Antragstellers,  
+ 
+ über die Anerkennung der Promotionsordnung,  
+ darüber, dass die eingereichte Arbeit in gleicher oder ähnlicher Form nicht einer 
+ 
+6 
+ anderen Prüfungsbehörde zum Zwecke einer Promotion oder eines anderen Prü
+fungsverfahrens vorgelegt wurde;  
+ darüber, ob und wenn ja, wo, wann und mit welchem Thema frühere erfolglose 
+Promotionsversuche stattgefunden haben.  
+ 
+6. gegebenenfalls die Befürwortung des Antrages durch einen Hochschullehrer der Fa
+kultät für Mathematik und Informatik (§ 5 Abs. 1 Ziffer 4);  
+ 
+7. gegebenenfalls Genehmigung des Antrags auf Zulassung einer anderen Sprache als 
+Deutsch oder Englisch.  
+ 
+8. sofern es sich um eine binationale  Promotion handelt, die Rahmenvereinbarung mit 
+der ausländischen Universität.  
+ 
+Ohne Anspruch auf Berücksichtigung sollen mindestens vier Gutachter vorgeschlagen 
+werden.  
+ 
+(2) Bei im Ausland erworbenen Abschlüssen sind neben den  beglaubigten Kopien der Origi
+nalurkunden auch beglaubigte Kopien autorisierter Übersetzungen ins Deutsche einzu
+reichen. Für im Ausland erworbene akademische Grade ist die durch das zuständige Mi
+nisterium erteilte Genehmigung zur Führung dieses Grades in D eutschland vorzulegen.  
+ 
+(3) Als Datum der Antragstellung gilt der Tag, an dem die geforderten Unterlagen vollständig 
+im Dekanat der Fakultät vorliegen. Vor diesem Zeitpunkt erfolgt keine Bearbeitung des 
+Antrags.  
+ 
+(4) Stellt der Dekan die Gültigkeit der eingereichten Unterlagen und die fachliche Zuständig
+keit der Fakultät fest, so übergibt er den Antrag gemäß § 2 an den zuständigen Promoti
+onsausschuss. Andernfalls weist er den Antrag zurück und teilt dies dem Antragsteller 
+schriftlich mit. Die Mitteilung ist zu begründen und mit einer Rechtsbehelfsbelehrung zu 
+versehen. Der Antrag gilt in diesem Falle als nicht gestellt.  
+ 
+(5) Bis zur Eröffnung des Promotionsverfahrens nach § 9 kann der Antrag durch den Antrag
+steller jederzeit zurückgezogen werden. Der Antrag g ilt in diesem Falle als nicht gestellt.  
+ 
+ 
+§ 8 
+Dissertation  
+(1) Mit der Dissertation ist die Fähigkeit des Kandidaten auszuweisen, selbständig wissen
+schaftliche Ergebnisse zu erzielen, die einen Beitrag zur Entwicklung des Wissenschafts
+zweiges, seiner Theorien oder Methoden bedeuten, und diese korrekt darzustellen. Die 
+mit der Dissertation vorgelegten Forschungsergebnisse sollen dem neuesten Stand des 
+Fachgebiets entsprechen und einen Erkenntniszuwachs darstellen. Inhalt und Darstellung 
+der Arbeit müssen den Maß stäben für eine Veröffentlichung in einem angesehenen Pub
+likationsorgan des gewählten Fachgebietes genügen.  
+ 
+(2) Die Dissertation ist als monographische Einzelschrift einzureichen. Ausnahmsweise kann 
+ 
+7 
+ die eingereichte Dissertation von mehreren Autoren verfasst sein. In diesem Falle hat je
+der Autor einen eigenen Antrag auf Durchführung eines Promotionsverfahrens zu stellen 
+und die eigenen Anteile an der Dissertation auszuweisen. Dies ist der Selbständigkeitser
+klärung nach Anlage 2  zuzufügen.  
+ 
+(3) Die Dissertation enthält neben dem Textteil sowie dem Inhalts  und Literaturverzeichnis  
+ 
+ ein Titelblatt gemäß Anlage 1,  
+ eine Darstellung des wissenschaftlichen Werdeganges des Verfassers,  
+ dissertationsbezogene bibliographische Daten und  
+ eine Selbständigkeitserklärung gemäß  Anlage 2.  
+ 
+ 
+§ 9 
+Eröffnung des Verfahrens  
+(1) Der Promotionsausschuss beschließt über die Eröffnung des Promotionsverfahrens. Im 
+Falle der Verfahrenseröffnung legt der Ausschuss die Gutachter fest. Der Ausschuss kann 
+die Überarbeitung der Zusammenfassung sowie  die Präzisierung eingereichter Unterlagen 
+fordern. Die Eröffnung des Verfahrens kann von der Erfüllung der Auflagen abhängig 
+gemacht werden. Die Erfüllung der Auflagen ist vom Promotionsausschuss zu prüfen.  
+ 
+(2) Im Falle der Eröffnung des Verfahrens bestimmt der Promotionsausschuss fachbezogen 
+eine Verteidigungskommission. Dieser gehören als Vorsitzender ein Mitglied des Promo
+tionsausschusses sowie zwei weitere Hochschullehrer der Fakultät an; ein Mitglied kann 
+ein habilitierter Mitarbeiter der Fakultät sein.  
+ 
+(3) Die Entscheidung über die Eröffnung oder Nichteröffnung des Verfahrens sowie die nach 
+Absatz 1 geforderten Auflagen sind dem Promovenden innerhalb von 14 Tagen nach Be
+schlussfassung durch den Vorsitzenden des Promotionsausschusses mitzuteilen. Eine 
+Nichte röffnung ist zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.  
+ 
+(4) Wird ein Promotionsverfahren nicht eröffnet, verbleiben der Antrag des Bewerbers und 
+ein Exemplar der Dissertation an der Fakultät. Alle weiteren eingereichten Unterlagen 
+werden dem Antragsteller zurückgegeben. Das Promotionsverfahren ist damit beendet.  
+ 
+(5) Im Zeitraum zwischen der Eröffnung des Verfahrens und der Verteidigung besteht für die 
+Mitglieder der Fakultät die Möglichkeit zur Einsichtnahme in die Dissertation. Ort und 
+Begin n für die Einsichtnahme sind anzuzeigen.  
+ 
+ 
+§ 10 
+Gutachter  
+(1) Die Dissertation ist von mindestens zwei Gutachtern zu beurteilen, welche auf dem be
+treffenden Fachgebiet ausgewiesen sein müssen. Ein Gutachter muss ein nach § 60 oder 
+§ 62 des SächsHSFG  berufener Professor einer Universität sein. Mindestens ein Gutachter 
+muss Hochschullehrer der Fakultät für Mathematik und Informatik sein. Er kann im Aus
+ 
+8 
+ nahmefall die Fakultät innerhalb der vergangenen zwei Jahre verlassen haben oder Pro
+fessor im Ruhestan d sein. Weitere Gutachter können Fachhochschul  oder Juniorprofes
+sor sein oder müssen mindestens habilitationsäquivalente Leistungen nachweisen können.  
+ 
+(2) Bezüglich des Ausschlusses eines Gutachters wegen persönlicher Beteiligung gelten die 
+Vorschriften der §§ 20 und 21 Verwaltungsverfahrensgesetz.  
+ 
+ 
+§ 11 
+Gutachten  
+(1) Die Gutachten werden vom Vorsitzenden des Promotionsausschusses im Auftrage des 
+Dekans eingeholt. Mit den Gutachten ist festzustellen, ob die Dissertation den Anforde
+rungen an die Verleihung des Doktorgrades genügt. Sie dienen der Entscheidungsfindung 
+der Promotionsgremien.  
+ 
+(2) Die in den Gutachten gegebenen Bewertungen dürfen nicht von der Erfüllung von Aufla
+gen abhängig gemacht werden. Die Dissertation ist durch den Gutachter neben der verba
+len Ein schätzung nach § 15 Abs. 1 dieser Ordnung zu bewerten.  
+ 
+(3) Gutachten sollen innerhalb von zwei Monaten in der Fakultät eingehen. Verzögert sich 
+die Erstellung von Gutachten trotz wiederholter Erinnerung über Gebühr, kann der Pro
+motionsausschuss an Stelle säum iger Gutachter andere Gutachter bestellen.  
+ 
+ 
+§ 12 
+Annahme der Dissertation  
+(1) Jeder Hochschullehrer und habilitierte Mitarbeiter der Fakultät für Mathematik und In
+formatik, in kooperativen Promotionsverfahren auch jeder Hochschullehrer der entspre
+chenden Fakultät der betreffenden Fachhochschule, hat im Zeitraum zwischen der Er
+öffnun g des Promotionsverfahrens und der Annahme der Dissertation, mindestens je
+doch innerhalb von drei Wochen ab Verfahrenseröffnung, das Recht, ein Votum für oder 
+gegen die Annahme der Dissertation in schriftlicher Form dem Vorsitzenden des Pro
+motionsausschuss es zu übermitteln. Beginn und Ende des Zeitr aums zur Abgabe von 
+Voten sind anzuzeigen. Die gewählten Mitglieder des Fakultätsrates haben das Recht 
+zur Einsicht in die Gutachten. Die Möglichkeit zur Einsichtnahme ist den Fakultätsrats
+mitgliedern mitzuteile n. 
+ 
+(2) Der Promotionsausschuss  entscheidet frühestens drei Wochen nach Eröffnung des Pro
+motionsverfahrens auf  Grundlage der erbetenen Gutachten und unter Berücksichtigung 
+von Stellungnahmen gemäß Absatz 1 über die Annahme oder Empfehlung zur Nichtan
+nahme der Dissertation . 
+ 
+(3) Mit Annahme  der Dissertation können Auflagen zur Beseitigung formaler Mängel be
+schlossen werden. Diese Auflagen müssen in den Pflichtexemplaren erfüllt sein (s.a. § 
+16). Die Erfüllung der Auflagen ist vom Vorsitzenden des Promotions ausschusses zu 
+bestätigen. Bei Nichterfüllung wird das Promotionsverfahren als nicht durchgeführt be
+endet.  
+ 
+9 
+  
+(4) Erteilt lediglich ein Gutachter die Note "non sufficit", oder weichen die Gutachten um 
+mindestens zwei Noten voneinander ab, kann der Promotionsausschuss einmalig einen 
+weiteren Guta chter bestellen. Bewertet von allen Gutachtern mehr als einer die Disser
+tation mit "non sufficit", führt dies zur Empfehlung der Nichtannahme an den Fakultäts
+rat. 
+ 
+(5) Empfiehlt der Promotionsausschuss die Nichtannahme der Dissertation, beschließt der 
+Fakultät srat über den weiteren Verlauf des Promotionsverfahrens.  
+ 
+(6) Die Entscheidung über die Annahme oder Nichtannahme der Dissertation ist dem Pro
+movenden innerhalb von 14 Tagen durch den Vorsitzenden des Promotionsausschusses 
+schriftlich mitzuteilen. Diese Mittei lung enthält einen Hinweis auf die Möglichkeit zur 
+Einsichtnahme in die Gutachten, bei Nichtannahme der Dissertation unter Wahrung der 
+Anonymität der Gutachter. Die Nichtannahme der Dissertation ist zu begründen und mit 
+einer Rechtsbehelfsbelehrung zu vers ehen.  
+ 
+(7) Die nicht angenommene Dissertation kann frühestens nach sechs Monaten, spätestens 
+aber zwei Jahre nach dem Beschluss über die Nichtannahme in überarbeiteter Fassung 
+unter Beachtung aller nach dieser Ordnung erforderlichen Formalia  erneut eingereicht 
+werden. Eine an der Fakultät für Mathematik und Informatik erfolgreich abgelegte Eig
+nungsfeststellungsprüfung wird anerkannt. Bis zur Einreichung einer überarbeiteten 
+Fassung der Dissertation ruht das Promotionsverfahren. Ist nach zwei Jahren die Wie
+dereinreichung nicht erfolgt, gilt das Verfahren als endgültig beendet. Ebenso endgültig 
+beendet ist das Verfahren, wenn eine erneut eingereichte Dissertation wiederholt nicht 
+angenommen wird.  
+ 
+§ 13 
+Annahme im binationalen Verfahren  
+ 
+(1) Nach Ann ahme einer an der Fakultät für Mathematik und Informatik eingereichten Dis
+sertation wird diese zusammen mit den Gutachten der ausländischen Partneruniversität 
+zur Zustimmung über den Fortgang des Verfahrens übermittelt.  
+ 
+(2) Im Falle der Versagung der Zustimmu ng zum Fortgang des Verfahrens durch die aus
+ländische Partneruniversität ist das gemeinsame Verfahren beendet. Das Promotions
+verfahren wird nach den Vorschriften dieser Ordnung fortgesetzt. Der Fakultätsrat ent
+scheidet ggf. über eine veränderte Zusammenset zung der Verteidigungskommission.  
+ 
+(3) Wird eine Dissertation an der ausländischen Partneruniversität eingereicht, entscheidet 
+zunächst diese über Annahme und Fortführung des Verfahrens. Danach erhält die Fa
+kultät für Mathematik und Informatik die Dissertation  und die Gutachten zur eigenen 
+Entscheidung über die Fortführung des Verfahrens. Nach erfolgter Zustimmung kann 
+das gemeinsame Verfahren nach den Bestimmungen der Ordnung der Partneruniversität 
+fortgesetzt werden.  
+ 
+(4) Wird eine Dissertation in einem binationa len Verfahren durch die Fakultät für Mathe
+matik und Informatik abgelehnt, ist das gemeinsame Verfahren beendet.  
+ 
+ 
+10 
+  
+§ 14 
+Verteidigung  
+(1)  Der Promovend hat die mit der Dissertation erzielten Ergebnisse in einem öffentlichen 
+Vortrag von ca. 45 Minuten Dauer darzustellen und in einer anschließenden Diskussion 
+Fragen aus dem Auditorium zu beantworten. Die Diskussion soll sich auf die Dissertation 
+und ihr wissenschaftliches Um feld beziehen.  
+ 
+(2)  Der Termin der Verteidigung ist nach Annahme der Dissertation vom Vorsitzenden der 
+Verteidigungskommission in Abstimmung mit den Mitgliedern der Verteidigungskom
+mission festzulegen und dem Dekan zu übermitteln.  
+ 
+(3)  Der Termin ist dem Promovenden vom Vorsitzenden der Verteidigungskommission in 
+der Regel mindestens zwei Woch en vor der Verteidigung mitzuteilen. Auf Antrag des 
+Promovenden kann der Vorsitzende der Verteidigungskommission auch einen früheren 
+Termin festlegen. Mit gleicher Frist kündigt er die Verteidigung in der Fakultät und in 
+anderen fachlich relevanten Einrich tungen der Universität an, in kooperativen Promoti
+onsverfahren auch der betreffenden Fakultät der Fachhochschule. Darüber hinaus sind die 
+Gutachter und nach Maßgabe der Verteidigungskommission weitere Fachvertreter einzu
+laden. 
+ 
+(4)  Die Verteidigung kann zum festgesetzten Termin stattfinden, wenn  
+ 
+ der Kandidat keine zeitweilige Beeinträchtigung seiner geistigen oder körperlichen 
+Verfassung geltend macht und  
+ die Mehrheit der Mitglieder der Verteidigungskommission anwesend ist.  
+ 
+(5)  Der Vorsitzende der Verteidigungskommission oder ein von ihm beauftragtes Mitglied 
+der Verteidigungskommission leitet die Verteidigung. Dabei sind  
+ 
+ die Zusammenfassungen auszulegen,  
+ die Zusammensetzung der Verteidigungskommission bekanntzugeben,  
+ der Kandidat vorzustellen,  
+ Fragen zurückzuweisen, die nicht auf den wissenschaftlichen Gegenstand bezogen 
+sind.  
+ 
+(6)  In nichtöffentlicher Beratung entscheidet die Verteidigungskommission unmittelbar nach 
+der Verteidigung über das Bestehen der Verteidigung sowie die Benotung gemäß § 15 
+Abs. 1. An dieser Beratung können die Hochschullehrer der Fakultät, Betreuer und Gut
+achter sowie in binationalen Verfahren die Hochschullehrer der ausländischen Fakultät 
+mit Stimmrecht teilnehmen. Ihre Mitwirkung ist aktenkundig zu machen. Die Mitglieder 
+des Fakultätsrates, in kooperativen Promotionsverfahren auch die Hochschullehrer der 
+entsprechenden Fakultät der Fachhochschule, können ohne Stimmrecht mitwirken. Ent
+scheidet sich die Kommission für das Bestehen der Verteidigung, beschließt sie auf 
+Grundlage von § 15 Abs. 1 die Note der Verteidigung. Bei Stimmengleichheit zum Be
+schluss über B estehen und Note der Verteidigung entscheidet die Stimme des Vorsitzen
+den der Verteidigungskommission. Die Ergebnisse der Beratung und die Bewertung der 
+Dissertation werden anschließend dem Promovenden und  bei dessen Einverständnis  
+ 
+11 
+ öffentlich bekanntge geben . 
+ 
+(7)  Eine nicht bestandene Verteidigung kann auf Antrag des Promovenden innerhalb eines 
+Jahres, jedoch frühestens nach drei Monaten wiederholt werden. Eine bestandene wieder
+holte Verteidigung ist mit der Note "rite" zu bewerten.  
+ 
+(8) Eine Verteidigung ist endgültig nicht bestanden und das Promotionsverfahren ohne Erfolg 
+beendet, wenn  
+ 
+1. innerhalb von vier Wochen nach nicht bestandener Verteidigung kein schriftlicher An
+trag des Promovenden auf Wiederholung der Verteidigung beim Dekan eingeht,  
+2. die Wiederholung der Verteidigung durch Verschulden des Kandidaten nicht fristge
+recht erfolgen konnte oder  
+3. die wiederholte Verteidigung nicht bestanden wird.  
+ 
+(9) In binationalen Verfahren kann die Verteidigung auch an der ausländischen Partneruni
+versität gemäß deren Promotionsordnung durchgeführt werden.  
+ 
+§ 15 
+Bewertung  
+(1) Im Promotionsverfahren sind nach dieser Ordnung zu erbringende Leistungen mit folgen
+den Noten zu bewerten:  
+ 
+ magna cum laude   sehr gut   1 
+ cum laude   gut  2 
+ rite  genügend   3 
+ non sufficit   nicht genügend   5 
+ 
+Stellt die Dissertation oder die Verteidigung eine außergewöhnliche wissenschaftliche 
+Leistung dar, so kann sie auch mit der Note  
+ 
+ summa cum laude   ausgezeichnet   0 
+    bewertet werden.  
+(2)  Mit Bestehen der Verteidigung ist das Prom otionsverfahren bestanden. Das Gesamtprä
+dikat der Promotion wird auf Grundlage des arithmetischen Mittels aus den Einzelnoten 
+für die Begutachtung der Dissertation und der Note für die Verteidigung in folgender 
+Weise ermittelt:  
+ 
+ summa cum laude    ausgezeichnete Leistung   0,0 
+ magna cum laude   sehr gute Leistung    0,10 – 1,49 
+ cum laude   gute Leistung    1,50 – 2,49 
+ rite  genügende Leistung     2,50.  
+ 
+ 
+ 
+ 
+12 
+ § 16 
+Pflichtexemplare  
+(1) Die angenommene Dissertation ist  durch Hochladen auf den Publikationsserver der Uni
+versität Leipzig (http://ul.qucosa.de) oder durch unentgeltliche Übergabe von vier Pflicht
+exemplaren in gedruckter und gebundener Form an die Universitätsbibliothek zu veröf
+fentlichen . 
+ 
+(2) Bestandteil der Pfl ichtexemplare sind alle mit der Dissertation eingereichten Materialien 
+(z.B. Bilder, Karten, elektronische Datenträger usw.). Die gestellten Auflagen gemäß § 
+12 müssen erfüllt und überprüft sein.  
+ 
+(3) Die Titelseite der Pflichtexemplare ist gemäß Anlage 3 zu g estalten.  
+ 
+(4) Der Fakultät und  in Abhängigkeit vom Fachgebiet  der Zweigstelle Mathematik oder 
+der Zweigstelle Informatik der Universitätsbibliothek sind jeweils ein Pflichtexemplar in 
+gedruckter und gebundener Form zu überlassen. Weiterhin ist eine Zusamm enfassung 
+von maximal 500 Wörtern in elektronischer Form zur Veröffentlichung in Internetseiten 
+und Berichten der Fakultät abzugeben.  
+ 
+(5) Die Pflichtexemplare sind innerhalb von sechs Monaten nach Bekanntgabe des Verlei
+hungsbeschlusses zu übergeben. Die Ablie ferungsfrist kann auf begründeten Antrag hin 
+um weitere drei Monate verlängert werden. Die Abgabebescheinigungen der Universi
+tätsbibliothek sowie der Zweigstellen Mathematik und Informatik sind dem Dekanat der 
+Fakultät für Mathematik und Informatik zuzuste llen. 
+ 
+(6) Verstreichen die in (5) festgesetzten Fristen ohne Abgabe der Pflichtexemplare, endet das 
+Promotionsverfahren ohne Vollzug der Promotion. Darüber ist der Promovend schriftlich 
+und verbunden mit einer Rechtsbehelfsbelehrung zu informieren.  
+ 
+ 
+§ 17 
+Verleihung  
+(1) Nach Bestehen des Promotionsverfahrens fertigt der Dekan die Promotionsurkunde ge
+mäß Anlage 4 bzw. in binationalen Promotionsverfahren gemäß Anlage 5 aus.  
+ 
+(2) Die Übergabe der Promotionsurkunde erfolgt, wenn die in § 16 genannten Vorgaben zur 
+Abgabe der Pflichtexemplare in der Universitätsbibliothek und der Fakultät sowie der 
+Zusammenfassung nach § 16 Abs. 5 nachweislich erfüllt sind.  
+ 
+(3) Mit der Übergabe der Promotionsurkunde wird die Promotion vollzogen. Damit beginnt 
+für den Promovenden das Rec ht zur Führung des ihm verliehenen akademischen Doktor
+grades . 
+ 
+§ 18 
+Nichtvollzug der Promotion, Entzug des Doktorgrades  
+(1) Promotionsleistungen können für ungültig erklärt und die Promotion nicht vollzogen 
+ 
+13 
+ oder der Doktorgrad entzogen werden, wenn bekannt wird, dass  
+ 
+ Promotionsleistungen unter Täuschung erbracht wurden oder  
+ nach der Verleihung des Doktorgrades Tatsachen bekannt werden, die seine Verlei
+hung ausgeschlossen hätten.  
+ 
+(2) Über den Nichtvollzug oder Entzug entscheidet der Fakultätsrat. Vor der Beschlussfas
+sung ist dem Betroffenen Gelegenheit zur Stellungnahme zu geben.  
+ 
+§ 19 
+Promotionsakte  
+(1) Die zusammengefassten Promotionsunterlagen bilden die Promotionsakte. Sie werden 
+während des Verfahrens vom Sekretär der Promotionsausschüsse geführt.  
+ 
+(2) Über alle Beratungen und Entscheidungen in einem Promotionsverfahren ist durch die 
+beteiligten Promotionsgremien ein Protokoll anzufertigen, das der Promotionsakte nach 
+Unterzeichnung durch den jeweiligen Vorsitzenden beizufügen ist.  
+ 
+(3) Die Promotionsakte verblei bt im Dekanat bis sie gemäß Archivordnung dem Archiv der 
+Universität Leipzig übergeben wird.  
+ 
+§ 20 
+Ehrenpromotion  
+(1) Die Fakultät hat im Benehmen mit dem Senat das Recht zur Verleihung der Würde eines 
+Ehrendoktors für besondere Verdienste um die von ihr vertretenen Wissenschaftsgebiete.  
+ 
+(2) Ein begründeter Antrag auf Verleihung der Würde eines Ehrendoktors muss von mindes
+tens drei Professoren, die Mitglieder der Fakultät für Mathematik und Informatik sind, 
+eingebracht werden. Der Fakultätsrat beschließt in g eheimer Abstimmung mit Zweidrit
+telmehrheit über die Verleihung.  
+ 
+(3) Die Verleihung der Würde eines Ehrendoktors ist durch Aushändigung einer vom Rektor 
+und vom Dekan unterzeichneten Urkunde in einer dem Anlass entsprechenden würdigen 
+Form zu vollziehen. In de r Urkunde sind der Grund der Verleihung und die Verdienste in 
+Kurzform zu nennen.  
+ 
+(4) Der Grad "Doctor honoris causa" muss entzogen werden, wenn der Inhaber des Grades 
+wegen eines Verbrechens rechtskräftig verurteilt wurde. Er kann nach einem Absatz 2 
+analoge n Entscheidungsverfahren entzogen werden, wenn der Inhaber wegen  eines Ver
+gehens rechtskräftig verurteilt wurde.  
+ 
+§ 21 
+Doktorjubiläum  
+ 
+Die Fakultät kann die 50. Wiederkehr der Verleihung des Doktorgrades würdigen, wenn dies 
+mit Rücksicht auf die besonderen wissenschaftlichen Verdienste oder die besonders enge 
+ 
+14 
+ Verknüpfung des zu Ehrenden mit der Fakultät oder der Universität Leipzig als Ga nzes an
+gebracht erscheint. Die Wahl des Anlasses und die Form der Ehrung obliegen der Fakultät. 
+Die Entscheidung hierüber trifft der Fakultätsrat mit absoluter Mehrheit.  
+ 
+ 
+§ 22 
+Übergangsregelungen  
+ 
+Laufende Promotionsverfahren, die vor In Kraft Treten dieser Promotionsordnung eröffnet 
+wurden, werden nach den zum Zeitpunkt der Eröffnung geltenden Bestimmungen durchge
+führt.  
+ 
+§ 23 
+InKraft Treten  
+(1) Der Fakultätsrat der Fakultät für Mathematik und Informatik hat diese Promotionsord
+nung am 17. Dezember 2012  beschlossen. Das Rektorat hat sie am 18. April 2013  geneh
+migt. Sie tritt am Tage nach ihrer Bekanntmachung in den Amtlichen Bekanntmachungen 
+der Universität Leipzig in Kraft.  
+ 
+(2) Gleichzeitig verliert  unter Beachtung von § 22  die Promotionsordnung der Fakultät für 
+Mathematik und Informatik vom 22. Juli 2009 ihre Gültigkeit.  
+ 
+Leipzig, den 2. Mai 2013  
+ 
+ 
+ gez. Rademacher                               
+Professor D r. Hans Bert Rademacher  
+Dekan  
+ 
+ gez. Schücking  
+Professorin Dr. med. Beate Schücking  
+Rektorin   
+ 
+15 
+  
+ 
+Anlage 1 
+Titelseite für die einzureichende Arbeit  
+ 
+ 
+ 
+.........................................................................................  
+ 
+.........................................................................................  
+ 
+.........................................................................................  
+(Titel)  
+ 
+Der Fakultät für Mathematik und Informatik  
+der Universität Leipzig  
+eingereichte  
+ 
+D I S S E R T A T I O N  
+ 
+zur Erlangung des akademischen Grades  
+ 
+DOCTOR ...................  
+(Dr. ................)  
+ 
+im Fachgebiet  
+ 
+............................................  
+ 
+vorgelegt  
+ 
+von ……………………………………………  
+(akad. Grad Vorname Name)  
+ 
+geboren am ………………….. in ………………………………..  
+ 
+ 
+Leipzig, den ……………………………  
+           (Einreichungsd atum)  
+ 
+ 
+ 
+  
+ 
+16 
+  
+ 
+Anlage 2  
+Selbständigkeitserklärung  
+ 
+ 
+Hiermit erkläre ich, die vorliegende Dissertation selbständig und ohne unzulässige 
+fremde Hilfe angefertigt zu haben. Ich habe keine anderen als die angeführten Quel
+len und Hilfsmittel benutzt und sämtliche Textstellen, die wörtlich oder sinngemäß 
+aus veröffentlichten oder unveröffentlichten Schriften entnommen wurden, und alle 
+Angaben, die auf mündlichen Auskünften beruhen, als solche kenntlich gemacht. 
+Ebenfalls sind alle von anderen Personen bere itgestellten Materialen oder erbrachten 
+Dienstleistungen als solche gekennzeichnet.  
+ 
+…………………………………  
+ (Ort, Datum)  
+ 
+..........................................  
+ (Unterschrift)  
+ 
+ 
+ 
+  
+ 
+17 
+ Anlage 3  
+Titelseite für die einzureichenden Pflichtexemplare  
+ 
+...............................................................................................  
+...............................................................................................  
+................................................................ ...............................  
+(Titel)  
+ 
+Von der Fakultät für Mathematik und Informatik  
+der Universität Leipzig  
+angenommene  
+ 
+D I S S E R T A T I O N  
+ 
+zur Erlangung des akademischen Grades  
+ 
+DOCTOR ..................................................  
+(Dr. .. ......................)  
+im Fachgebiet  
+............................................  
+ 
+Vorgelegt  
+ 
+von    .............................................................  
+(akad. Grad   Vorname  Nachname)  
+ 
+geboren am  ..........................   in  ...............................  
+ 
+Die Annahme der Dissertation wurde empfohlen von:  
+ 
+1. [Titel  akad. Grade  Vorname  Nachname  Einrichtung]  
+2. [Titel  akad. Grade  Vorname  Nachname  Einrichtung]  
+ 
+Die Verleihung des akademischen Grades erfolgt mit Be stehen  
+der Verteidigung am ……… mit dem Gesamtprädikat …………..  
+ 
+Anlage 4  
+ 
+18 
+  Muster der Promotionsu rkunde  
+ 
+UNIVERITÄTS  
+SIEGEL  
+ 
+Unter dem Rektorat des Professors/der Professorin  (akad. Grad Vorname Name)  
+und dem Dekanat des Professors/der Professorin (akad. Grad Vorname Name)  
+ 
+verleiht die Fakultät für Mathematik und Informatik  
+Herrn/Frau  (akad. Grad Vorname Name)  
+geboren am  (Geb. Datum)  in  (Geburtsort)  
+ 
+den akademischen Grad  
+ 
+DOCTOR ...........................................  
+(Dr. ........ )  
+ 
+für das Fachgebiet ........................................  
+nachdem er/sie in einem ordentlichen Promotionsverfahren durch die Dissertation über das Thema  
+–  Titel der Dissertation   
+seine/ihre wissenschaftliche Befähigung nachgewiesen hat.  
+ 
+Für die Gesamtleistung wird das Prädikat  
+.................................  
+erteilt.  
+Leipzig, den (Datum der Verteidigung)  
+ 
+Der Rektor                         (Universitäts                      Der Dekan  
+    prägesiegel)  
+ 
+ 
+
+ 
+19 
+ Anlage 5  
+Muster der Promotionsurkunde im binationalen Verfahren  
+ 
+UNIVERITÄTSSIEGEL  
+Unter dem Rektorat des Professors/der Professorin  (akad. Grad Vorname Name)  
+und dem Dekanat des Professors/der Professorin (akad. Grad Vorname Name)  
+ 
+verleiht die Fakultät für Mathematik und Informatik  
+ 
+Herrn/ Frau  (akad. Grad Vorname Name)  
+geboren am  (Geb. Datum)  in  (Geburtsort)  
+den akademischen Grad  
+DOCTOR ...........................................  
+(Dr. ........ )  
+ 
+für das Fachgebiet ........................................  
+nachdem er/sie in einem ordnung sgemäßen, binationalen Promotionsverfahren mit der  
+[zweite Einrichtung] durch die Dissertation über das Thema  
+ 
+–  Titel der Dissertation   
+ 
+seine/ihre wissenschaftliche Befähigung nachgewiesen hat.  
+Für die Gesamtleistung wird das Prädikat  
+.................................  
+erteilt.  
+Leipzig, den (Datum der Verteidigung)  
+Der Rektor                         (Universitäts                      Der Dekan  
+    prägesiegel)  
+Frau/Herr [Vorname Name] hat das Recht, den Doktortitel in deutscher oder in ……. Form zu führen. 
+Dieser Doktorgrad bedarf zur Führung in der Bundesrepublik Deutschland keiner weiteren Genehmi
+gung. Diese Urkunde ist nur gemeinsam mit d er von der [Partnereinrichtung] ausgestellten Promotionsur
+kunde gültig.  
+

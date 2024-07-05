@@ -1,0 +1,849 @@
+  
+Promotionsordnung der Fakultät für Informatik und Data Science  
+ zum Erwerb des akademischen Grades eines Doktors oder einer Doktorin der Na
+turwissenschaften (Dr. rer. nat.), eines Doktor Ingenieurs oder einer Doktor Inge
+nieurin (Dr.Ing.), eines Doktors oder einer Doktorin der Philosophie (Dr. phil.) 
+und eines Doktors  oder einer Doktorin der Wirtschaftswissenschaft (Dr. rer. pol.)  
+an der Universität Regensburg  
+ 
+Vom 12. September 2023 
+ 
+ 
+Aufgrund von Art. 9 Satz 1 in Verbindung mit Art. 97 Abs. 1 Satz 6 und Art. 84 Abs. 2 Satz 1 des 
+Bayerischen Hochschulinnovationsgesetzes (BayHIG) in der jeweils geltenden Fassung erlässt die 
+Universität Regensburg folgende Promotionsordnung:  
+ 
+Vorbemerkung zum Sprachgebrauch:  
+Die in dieser Ordnung verwendeten Amts , Personen und Funktionsbezeichnungen schließen alle 
+Geschlechter (männlich, weiblich, divers) ein. Dies gilt auch, wenn nur die weibliche und männliche 
+Form angesprochen wird.  
+ 
+ 
+ 
+Inhaltsübersicht 
+ 
+Präambel 
+§ 1 Geltungsbereich, Verleihung des Doktorgrades  
+§ 2 Promotionsfächer  
+§ 3 Promotionsorgane, Zuständigkeiten und Aufgaben  
+§ 4 Betreuende, Prüfende  
+§ 5 Allgemeine Voraussetzungen für die Promotion  
+§ 6 Promotionseignungsprüfung  
+§ 7 Promotionsgesuch 
+§ 8 Betreuung 
+§ 9 Wissenschaftliche Aussprache  
+§ 10 Dissertation 
+§ 11 Zulassung zum Promotionsverfahren  
+§ 12 Mündliche Prüfung 
+§ 13 Bewertung der Promotionsleistungen, Gesamtnote der Promotion  
+§ 14  Veröffentlichung, Pflichtexemplare  
+§ 15 Einsichtnahme 
+§ 16 Binationales Promotionsverfahren (Cotutelle)  
+§ 17 Inkrafttreten, Übergangsbestimmungen  
+ 
+Anlage 1 Muster der Betreuungsvereinbarung  
+Anlage 2 Autorenanteile für die Vergabe des Doktorgrades der Wirtschaftswissenschaft  
+ 
+ 
+ 
+ 
+ 
+2 Präambel 
+Mit dieser Fakultätspromotionsordnung schafft die Fakultät für Informatik und Data Scie nce die 
+Promotionsmöglichkeit für die von ihr vergebenen Doktorgrade. Der spätere Anschluss an gemein
+same und fakultätsübergreifende Promotionsordnungen für einzelne Doktorgrade, die im Zuge der 
+Überarbeitung bisheriger Promotionsordnungen nach Verabschied ung der Rahmenpromotionsord
+nung (RPromO) entstehen, ist ausdrücklich beabsichtigt.  
+ 
+§ 1 
+Geltungsbereich, Verleihung des Doktorgrades  
+[Zu §§ 1, 2, 3 und 37 RPromO]  
+(1) 1Diese Promotionsordnung gilt für alle an der Fakultät für Informatik und Data Science durch
+geführten Promotionsverfahren. 2Sie ergänzt die Rahmenpromotionsordnung für die Universi
+tät Regensburg (RPromO) vom 16. Januar 2023. 3Die RPromO hat Vorrang.  
+ 
+(2) Aufgrund einer nach dieser Promotionsordnung bestandenen Doktorprüfung verleiht die Uni
+versität Regensburg an der Fakultät für Informatik und Data Science den Grad eines Doktors 
+oder einer Doktorin der Naturwissenschaften (Dr. rer. nat.), den Grad eines Doktor Ingenieurs 
+oder einer DoktorIngenieurin (Dr.Ing.), den Grad eines Doktors oder einer Doktorin der Philo
+sophie (Dr. phil.) oder den Grad eines Doktors oder einer Doktorin der Wirtschaftswissenschaft 
+(Dr. rer. pol.).  
+ 
+(3) Die Universität Regensburg verleiht an der Fakultät für Informatik und Data Science den Grad 
+eines Doktors der Naturwissenschaften oder einer Doktorin der Naturwissenschaften, wenn die 
+Prüfungskommission feststellt, dass die Dissertation hinreichend viele inno vative wissenschaft
+liche Beiträge enthält, die auf dem Gebiet der mathematischen, algorithmischen oder statisti
+schen Methodenentwicklung liegen müssen oder unmittelbar in einer der Naturwissenschaften, 
+und der Promovend oder die Promovendin über hinreichende mathematische, algorithmische 
+und statistische Kenntnisse auf dem Fachgebiet der Dissertation verfügt.  
+ 
+(4) Die Universität Regensburg verleiht an der Fakultät für Informatik und Data Science den Grad 
+eines DoktorIngenieurs oder einer Doktor Ingenieurin, wenn die Prüfungskommission fest
+stellt, dass die Dissertation eine substantielle technische Forschungsleistung beinhaltet oder 
+eine ingenieurwissenschaftliche Entwicklung liefert oder wenn die angewendete Forschungs
+methode ingenieurwissenschaftlic hen Charakter hat. 
+ 
+(5) Der Fakultätsrat der Fakultät für Informatik und Data Science kann die Würde eines Doktors 
+oder einer Doktorin der Naturwissenschaften ehrenhalber (Dr. rer. nat. h.  c.), eines Doktors 
+oder einer Doktorin der Ingenieurwissenschaften ehrenhalber (Dr. Ing. e. h.), eines Doktors 
+oder einer Doktorin der Philosophie ehrenhalber (Dr. phil. h.  c.) oder eines Doktors oder einer 
+Doktorin der Wirtschaftswissenschaften ehrenhalber (Dr. rer. pol. h.  c.) im entsprechenden Fach 
+als besondere Auszeichnung an Persönlichkeiten verleihen, die sich durch außergewöhnliche 
+wissenschaftliche Leistungen in an der Fakultät für Informatik und Data Science vertretenen 
+Fächern ausgezeichnet haben.  
+ 
+ 
+ 
+3 § 2  
+Promotionsfächer  
+ 
+(1) Die Prüfung zur Erlangung des akademischen Grades eines Doktors oder einer Doktorin der 
+Naturwissenschaften kann in folgenden Fächern abgelegt werden:  
+ Informatik 
+ Data Science 
+ Computational Science  
+(2) Die Prüfung zur Erlangung des akademischen Grades eines Doktor Ingenieurs oder einer Dok
+torIngenieurin kann in folgenden Fächern abgelegt werden:  
+ Informatik 
+ Data Science 
+(3) Die Prüfung zur Erlangung des akademischen Grades eines Doktors oder einer Doktorin der 
+Philosophie kann in fol genden Fächern abgelegt werden:  
+ Medieninformatik 
+ Informationswissenschaft  
+(4) Die Prüfung zur Erlangung des akademischen Grades eines Doktors oder einer Doktorin der 
+Wirtschaftswissenschaft kann in folgenden Fächern abgelegt werden:  
+ Wirtschaftsinformatik 
+ Informatik mit wirtschaftswissenschaftlichem Themenschwerpunkt  
+ Data Science mit wirtschaftswissenschaftlichem Themenschwerpunkt  
+(5) 1Ein in den Absätzen 1 bis 4 nicht genanntes Fach kann zugelassen werden, wenn es planmäßig 
+durch einen Professor o der eine Professorin der Fakultät für Informatik und Data Science  an der 
+Universität Regensburg vertreten ist. 2Über die Zulassung entscheidet der Fakultätsrat.  
+ 
+§ 3  
+Promotionsorgane, Zuständigkeiten und Aufgaben  
+[Zu §§ 4, 11, 15 RPromO]  
+(1) Der Fakultätsrat setzt für die Entscheidung über die Vergabe des akademischen Grades eines 
+Doktors oder einer Doktorin der Naturwissenschaften einen eigenen Promotionsausschuss gem. 
+§ 4 Abs. 1 Satz 2 RPromO bestehend aus allen promotionsberechtigte n Mitgliedern der Fakultät 
+ein, die selbst den Grad eines Dr. rer. nat. oder einen vergleichbaren Grad des Auslandes tragen 
+und deren aktueller Forschungsschwerpunkt entweder im Bereich der mathematischen, algo
+rithmischen oder statistischen Methodenent wicklung oder unmittelbar in einer Naturwissen
+schaft liegt. 
+ 
+(2) 1Der Fakultätsrat setzt für die Entscheidung über die Vergabe des akademischen Grades eines 
+Doktors oder einer Doktorin der Ingenieurwissenschaften einen eigenen Promotionsausschuss 
+gem. § 4 Abs. 1 Satz 2 RPromO bestehend aus den promotionsberechtigten Mitgliedern der 
+Fakultät ein. 2Diese müssen im Rahmen  ihrer eigenen Qualifizierung einen ingenieurwissen
+schaftlichen Schwerpunkt vorweisen können (auf dem Gebiet der Informatik oder in einem an
+deren ingenieurwissenschaftlichen Fach promoviert haben oder den Grad eines Dr. Ing. oder 
+einen vergleichbaren Grad des Auslandes tragen). 3Weiterhin müssen die Mitglieder des Promo
+tionsausschusses einen aktuellen Forschungsschwerpunkt im Bereich der Ingenieurwissenschaf
+ten haben (ingenieurwissenschaftlichen Methoden verwenden oder Forschungsfragestellungen 
+der Ingenieurswissenschaften bearbeiten).  
+ 
+4 (3) Der Fakultätsrat setzt für die Entscheidung über die Vergabe des akademischen Grades eines 
+Doktors oder einer Doktorin der Philosophie einen eigenen Promotionsausschuss gem. § 4 Abs. 
+1 Satz 2 RPromO bestehend aus den promot ionsberechtigten Mitgliedern der Fakultät ein, die 
+die Fächer Informationswissenschaft und Medieninformatik vertreten.  
+ 
+(4) 1Der Fakultätsrat setzt für die Entscheidung über die Vergabe des akademischen Grades eines 
+Doktors oder einer Doktorin der Wirtschaftsw issenschaft einen eigenen Promotionsausschuss 
+gem. § 4 Abs. 1 Satz 2 RPromO ein. 2Er setzt sich aus allen promotionsberechtigten Mitgliedern 
+der Fakultät zusammen, sofern sie an der Universität Regensburg beschäftigt sind und die unter 
+§ 2 Abs. 4 genannten Fächer vertreten.  
+ 
+(5) 1Jeder Promotionsausschuss benennt aus seiner Mitte einen Vorsitzenden oder eine Vorsitzende 
+und eine Stellvertretung. 2Die Amtszeit der Mitglieder des Promotionsausschusses beträgt vier 
+Semester; eine Wiederbestellung ist möglich. 3Bei vorzeitigem Ausschei den eines Mitglieds er
+folgt eine Nachbestellung. 4Die Amtszeit beginnt in diesem Fall mit dem Zeitpunkt der Nachbe
+stellung und endet mit dem Ablauf der Amtszeit der anderen Mitglieder.  
+ 
+(6) 1Der zuständige Promotionsausschuss bestimmt für jedes Promotionsverfahren eine eigene Prü
+fungskommission, die aus folgenden Mitgliedern besteht:  
+1. Einem oder einer promotionsberechtigten Vorsitzenden, der oder die nicht zugleich Gutach
+ter oder Gutachterin sein darf,  
+2. den beiden Gutachtern oder Gutachterinnen,  
+3. für die Promotion zum Dr. rer. nat. einem oder einer weiteren zur Abnahme von Promotio
+nen berechtigten Prüfenden, der oder die einer anderen Fächergruppe als die Gutachter 
+oder Gutachterinnen angehören mu ss. 
+2Darüber hinaus können weitere Mitglieder in die Prüfungskommission aufgenommen werden, 
+sofern dies aus fachlichen Gründen sinnvoll erscheint.  
+ 
+(7) 1Der Promotionsausschuss kann auf der Grundlage der RPromO Richtlinien beschließen, die nä
+here Anforderungen an das Exposé, zusätzliche Anforderungen zur Anzahl eingereichter Schrif
+ten, zur Behandlung von Koautorenschaften bei kumulativen Dissertationen und Empfehlungen 
+zur Erstellung von Gutachten  umfassen. 2Die Richtlinien werden durch Aushang bekan nt ge
+macht. 3Der Aushang kann auch durch Veröffentlichung im Internet geschehen.  
+ 
+ 
+§ 4    
+Betreuende, Prüfende  
+[Zu § 5 RPromO] 
+ 
+(1) 1Zu Betreuenden und Prüfenden können alle Hochschullehrer und Hochschullehrerinnen der Fa
+kultät für Informatik und Data Science bestellt werden, die das Fach vertreten, in das die Disser
+tation fällt. 2Es können ferner alle aus dem Promotionsfach stammenden entpflichteten Profes
+soren und Professorinnen sowie Professoren und Professorinnen im Ruhestand, die Mitglied 
+oder Zweitmitglied der Fakultät für Informatik und Data Science waren, zu Betreuenden und 
+Prüfenden bestellt werden.  
+ 
+(2) 1Betreuende und Prüfende in einem Promotionsverfahren, das zur Vergabe des akademischen 
+Grades eines Doktors oder einer Doktorin der Naturwissenschaften führt, sollen den Grad eines 
+Doktors der Naturwissenschaften (Dr. rer. nat.) oder einen fachlich äquival enten Doktorgrad 
+besitzen. 2Über Ausnahmen entscheidet der zuständige Promotionsausschuss.  
+ 
+ 
+5 (3) 1Mit Zustimmung de s Promotionsausschusses können auch besonders qualifizierte, nicht habili
+tierte Wissenschaftler und Wissenschaftlerinnen die Betreuung übernehmen, die eine eigenstän
+dige Forschungsgruppe leiten oder die aufgrund ihres laufenden Habilitationsverfahrens ent
+sprechende Erfahrungen n achweisen können. 2Darunter fallen insbesondere Nachwuchswissen
+schaftler und Nachwuchswissenschaftlerinnen, die durch das Emmy Noether Programm, das 
+Sofja KovalevskajaProgramm, das Heisenberg Programm oder gleichwertige Eliteprogramme 
+gefördert werden. 
+ 
+(4) 1Die Mitbetreuung durch einen weiteren Hochschullehrer oder eine weitere Hochschullehrerin 
+ist möglich; dieser oder diese kann auch einer anderen Fakultät oder Universität angehören. 2Art 
+und Umfang der Mitbetreuung werden in der Betreuungsvereinbarung fest gelegt. 
+ 
+(5) Bei einer kooperativen Promotion mit einer Hochschule für angewandte Wissenschaften (HAW) 
+muss der betreuende Professor oder die betreuende Professorin an der HAW seinen oder ihren 
+Doktortitel im Promotionsfach des Bewerbers oder der Bewerberin oder einem dem Promotions
+fach eng verwandten Fach erworben haben.  
+ 
+(6) Die Möglichkeit der gemeinsamen Betreuung von Promotionsvorhaben mit ausländischen Uni
+versitäten im Rahmen besonderer Vereinbarungen nach § 16 bleibt hiervon unberührt.  
+ 
+ 
+§ 5 
+Allgemeine Voraussetzungen für die Promotion  
+[Zu § 9 RPromO] 
+ 
+(1) Für den Erwerb des Grades eines Doktors oder einer Doktorin der Naturwissenschaften bestehen 
+neben den in § 9 RPromO genannten folgende Zugangsvoraussetzungen:  
+      
+1. 1Nachweis eines Diplom  oder Masterabschlusses im für das Promotionsvorhaben einschlä
+gigen Fach oder eines abgeschlossenen wissenschaftlichen Hochschulstudiums im für das 
+Promotionsvorhaben einschlägigen Fach mit einer Regelstudienzeit von mindestens acht S e
+2,50). 2Zusätzlich muss für den Nachweis des überdurchschnittlichen Erfolgs die Abschluss
+ 
+ 
+2. Erbringt ein Bewerber oder eine Bewerberin die Voraussetzungen des überdurchschnittli
+chen Erfolges im Studienabschluss und/oder der Abschlussarbeit nicht, so kann der Promo
+tionsausschuss auf begründeten Antrag des Bewerbers oder der Bewerberin die Zugangs
+voraussetzung dennoch als erfüllt ansehen, wenn folgende Voraussetzungen vorliegen:  
+ 
+a) Der Bewerber oder die Bewerberin muss  die für die Arbeit an der Dissertation nötigen 
+Vorkenntnisse nachweisen (Buchst b und c) und der Promotionsausschuss befürwortet 
+unter Darlegung der besonderen Gründe die Annahme als Doktorand oder Doktorandin.  
+b) 1Bei einem Promotionsverfahren im Fac h Informatik muss die erfolgreiche Teilnahme an 
+Informatiklehrveranstaltungen im Umfang von zwölf SWS aus dem Diplomhaupt  oder 
+Masterstudium der Informatik erfolgen. 2Die entsprechenden Nachweise müssen nach 
+der Studienabschlussprüfung erbracht werden und  
+oder besser bewertet sein. 3Die Leistungsnachweise können auch durch eine mündliche 
+Prüfung erbracht werden.  
+c) Bei einem Promotionsverfahren im Fach Data Science muss die erfolgreiche Teilnahme 
+an Lehrveranstaltungen im Umf ang von zwölf SWS aus dem Masterstudium oder einem 
+ 
+6 vergleichbaren Studium einschlägiger mathematischer oder naturwissenschaftlicher 
+Studiengänge nachgewiesen werden.  
+ 
+3. 1Nachweis eines Diplom  oder Masterabschlusses in einem anderen Fach an einer wissen
+schaftlichen Hochschule des In  oder Auslands oder eines Masterabschlusses an einer HAW, 
+der Promotionsausschuss unter Beachtung von  Art. 86 Abs. 1 BayHIG festst ellt, dass ein 
+vergleichbarer Studienabschluss vorliegt. 2Nrn. 1 und 2 gelten entsprechend. 3Eine Anerken
+nung erfolgt, sofern keine wesentlichen Unterschiede hinsichtlich der nachzuweisenden 
+Kenntnisse und Fähigkeiten bestehen.  
+4. 1Nachweis eines Diplomabschl usses an einer HAW in einem Fach, welches in einem engen 
+lich 1,50) und wenn die Fähigkeit zu wissenschaftlichem Arbeiten durch Prüfungen im Um
+fang eines zusätzlichen  fachlich einschlägigen zweisemestrigen Masterstudiums an der Uni
+versität Regensburg nachgewiesen wurde, wobei im Durchschnitt aller dieser Prüfungen 
+2Die Modalitäten dieser Prü
+fungen legt ein Prüfungsgremium, bestehend aus drei Hochschullehrern und Hochschulleh
+rerinnen, fest.  
+ 
+(2) Für den Erwerb des Grades eines Doktors oder einer Doktorin der Ingenieurwissenschaften be
+stehen neben den in § 9 RPromO genannten folgende Zugangsvoraussetzungen:  
+ 
+1. 1Nachweis eines Diplom  oder Masterabschlusses im für das Promotionsvorhaben einschlä
+gigen Fach oder eines abgeschlossenen wissenschaftlichen Hochschulstudiums im für das 
+Promotionsvorhaben einschlägigen Fach mit  einer Regelstudienzeit von mindestens acht Se
+2,50). 2Zusätzlich muss für den Nachweis des überdurchschnittlichen Erfolgs die Abschluss
+arbeit mit mindestens der No
+  
+ 
+2. Erbringt ein Bewerber oder eine Bewerberin die Voraussetzungen des überdurchschnittli
+chen Erfolges im Studienabschluss und/oder der Abschlussarbeit nicht, so kann der Promo
+tionsausschuss auf begründeten Antrag des Bewerbers oder der Bewerberin die Zugangs
+voraussetzung dennoch als erfüllt ansehen, wenn folgende Voraussetzungen vorliegen:  
+ 
+a) Der Bewerber oder die Bewerberin muss die für die Arbeit an der Dissertation nötigen 
+Vorkenntnisse nachweisen (Buchst b und c) und  der Promotionsausschuss befürwortet 
+unter Darlegung der besonderen Gründe die Annahme als Doktorand oder Doktorandin.   
+b) 1Bei einem Promotionsverfahren im Fach Informatik muss die erfolgreiche Teilnahme an 
+Informatiklehrveranstaltungen im Umfang von z wölf SWS aus dem Diplomhaupt  oder 
+Masterstudium der Informatik erfolgen. 2Die entsprechenden Nachweise müssen nach 
+oder besser bewertet sein. 3Die Leistungsnachweise können auch durch eine mündliche 
+Prüfung erbracht werden.  
+c) Bei einem Promotionsverfahren im Fach Data Science muss die erfolgreiche Teilnahme 
+an Lehrveranstaltungen im Umfang von zwölf SWS aus dem Masterstudium erfolgen.  
+d) 1Die entsprechenden Nachweise müssen nach d er Studienabschlussprüfung erbracht 
+2Die Leistungs
+nachweise können auch durch eine mündliche Prüfung erbracht werden.  
+ 
+3. 1Nachweis eines Diplom  oder Masterabschlusses in einem anderen Fach an einer wissen
+schaftlichen Hochschule des In  oder Auslands oder eines Masterabschlusses an einer      
+ 
+7 HAW
+ einschließlich 2,50) erzielt worden 
+ist und der Promotionsausschuss unter Beachtung von  Art. 86 Abs. 1 BayHIG feststellt, dass 
+ein vergleichbarer Studienabschluss vorliegt. 2Nrn. 1 und 2 gelten entsprechend. 3Eine An
+erkennung erfolgt, sofern keine wesent lichen Unterschiede hinsichtlich der nachzuweisen
+den Kenntnisse und Fähigkeiten bestehen.  
+4. 1Nachweis eines Diplomabschlusses an einer HAW in einem Fach, welches in einem engen 
+inschließ
+lich 1,50) und wenn die Fähigkeit zu wissenschaftlichem Arbeiten durch Prüfungen im Um
+fang eines zusätzlichen fachlich einschlägigen zweisemestrigen Masterstudiums an der Uni
+versität Regensburg nachgewiesen wurde, wobei im Durchschnitt aller diese r Prüfungen 
+2Die Modalitäten dieser Prü
+fungen legt ein Prüfungsgremium, bestehend aus drei Hochschullehrern und Hochschulleh
+rerinnen, fest.  
+ 
+(3) Für den Erwerb des Grades eines Doktors oder einer Dok torin der Philosophie bestehen neben 
+den in § 9 RPromO genannten folgende Zugangsvoraussetzungen:  
+ 
+1. Nachweis eines Masterabschlusses im Promotionsfach oder eines abgeschlossenen wissen
+schaftlichen Hochschulstudiums im Promotionsfach mit einer Regelstudienzeit von mindes
+bis 
+einschließlich 2,50).  
+2. 1Auf begründeten Antrag des Bewerbers oder der Bewerberin und im Einvernehmen mit 
+dem Promotionsausschuss kann ein Abschluss gemäß Nr. 1 in einem anderen Fach aner
+kannt werden. 2In diesem Fall kann der Bewerber oder die Bewerberin als Doktorand oder 
+Doktorandin angenommen werden, wenn er oder sie die für die Arbeit an der Dissertation 
+nötigen Vorkenntnisse nachweist und die Fachvertreter und Fachvertreterinnen unter Dar
+legung der besonderen Gründe die Annahme als Doktorand oder Doktorandin befürworten.  
+3. 1Abweichend von Nr. 1 und 2 kann als Doktorand oder Doktorandin vorläufig angenommen 
+werden, wer ein mit mindestens der Prüfungsgesamtnote 1,5 abgeschlossenes Diplomstu
+dium in einem einschlägigen HAWStudiengang nachweist und als Promotionsfach ein Fach 
+wählt, dessen Inhalte wesentlicher Gegenstand der Abschlussprüfung an der HAW gewesen 
+sind. 2Die Annahme erfolgt zunächst vorläufig für ein Jahr unter der Auflage, dass der Be
+werber oder die Bewerberin dem Promotionsausschuss innerhalb dieser Frist einen Leis
+tungsnachweis über ein Hauptseminar oder eine äquivalente forschungsnahe Lehrveranstal
+tung im Promotionsfach sowie eine begründete Befürwortung des betreuenden Hochschul
+lehrers oder der betreuenden Hochschullehrerin vorlegt. 3Sie endet automatisch, wenn der 
+Bewerber oder die Bewerberin die in Satz  2 genannte Auflage nicht erfüllt.  
+4. 1Nachweis eines Diplomabschlusses an einer HAW in einem Fach, welches in einem engen 
+lich 1,50) und wenn die Fähigkeit zu wissenschaftlichem Arbeiten durch Prüfungen im Um
+fang eines zusätzlichen fachlich einschlägig en zweisemestrigen Masterstudiums an der Uni
+versität Regensburg nachgewiesen wurde, wobei im Durchschnitt aller dieser Prüfungen 
+2Die Modalitäten dieser Prü
+fungen legt ein Prüfungsgremium, bestehe nd aus drei Hochschullehrern und Hochschulleh
+rerinnen, fest.  
+ 
+(4) Für den Erwerb des Grades eines Doktors oder einer Doktorin der Wirtschaftswissenschaft be
+stehen neben den in § 9 RPromO genannten folgende Zugangsvoraussetzungen:  
+ 
+ 
+8 1. Nachweis eines Diplom oder Masterabschlusses in einem für das Promotionsvorhaben ein
+schlägigen Fach oder eines abgeschlossenen wissenschaftlichen Hochschulstudiums im für 
+schließlich 2,50), zudem müssen im gesamten Studienverlauf Leistungen im Umfang von 
+mindestens 300 LP erbracht worden sein, oder  
+2. Nachweis eines Diplom  oder Masterabschlusses in einem anderen Fach oder eines abge
+schlossenen wissenschaftlichen Hochschulstudiums in einem  anderen Fach mit mindestens 
+; zudem müssen im gesamten Studienverlauf 
+Leistungen im Umfang von mindestens 300 LP erbracht worden sein und es ist nachzuwei
+sen, dass die Promotionsvoraussetzungen der Fakultät er füllt sind, an der die Abschlussprü
+fung abgelegt wurde, sofern sie vom Promotionsausschuss unter Beachtung von Art. 86 
+Abs. 1 BayHIG als gleichwertig zu einem Abschluss nach Nr. 1 anerkannt wurde;  
+3. Nachweis eines Abschlusses nach Nr. 1 und 2 mit der Gesamtn
+durchschnitt von über 2,50 bis einschließlich 3,50) und Feststellung der besonderen wissen
+schaftlichen Eignung durch den Promotionsausschuss; die besondere wissenschaftliche Eig
+nung zeigt sich insbesondere durch entsprechende akade mische Leistungen, wie z.  B. her
+ausragende Abschlussarbeiten, Veröffentlichungen  etc. 
+4. 1Bewerber und Bewerberinnen, deren fachliche Qualifikation nach Nr. 1 bis 3 nicht zweifels
+frei festgestellt worden ist, können vom Promotionsausschuss unter Auflagen ange nommen 
+werden. 2Der Promotionsausschuss kann hierfür die Erbringung näher zu bestimmender Stu
+dien und Prüfungsleistungen, wie das Absolvieren von Modulen und Lehrveranstaltungen 
+aus dem Lehrangebot der Fakultät für Informatik und Data Science oder aus dem  Lehran
+gebot der Fakultät für Wirtschaftswissenschaften, innerhalb eines Jahres festlegen.  
+ 
+ 
+§ 6     
+Promotionseignungsprüfung  
+[Zu § 10 RPromO] 
+ 
+(1) In folgenden Fällen lässt der Promotionsausschuss für den Erwerb des Grades eines Doktors oder 
+einer Doktorin der Naturwissenschaften den Bewerber oder die Bewerberin zu einer  Promo
+tionseignungsprüfung zu:  
+ nicht erreichte Notengrenzen; 
+ ein für das Promotionsvorhaben nicht einschlägiges Fach;  
+ ausländische Abschlüsse, deren Anerkennungsfähigkeit nach den geltenden rechtlichen 
+Bestimmungen nicht zweifelsfrei festgestellt werden kann . 
+ 
+(2) 1Promotionseignungsprüfungen werden mind estens einstündig mündlich abgehalten, wobei die 
+mündliche Prüfung einen etwa 20 minütigen Fachvortrag des Kandidaten oder der Kandidatin 
+zum geplanten Promotionsthema enthält.  2Der Kandidat oder die Kandidatin kann bei der 
+mündlichen Eignungsprüfung Prüfer oder Prüferinnen vorschlagen; ein Rechtsanspruch auf be
+stimmte Prüfer oder Prüferinnen besteht nicht. 3Der Prüfungstermin wird dem Kandidaten oder 
+der Kandidatin spätestens zwe i Wochen vorher mitgeteilt.  
+ 
+(3) 1Mindestens zwei hauptberuflich an der Fakultät tätige und vom Promotionsausschuss bestellte 
+Professoren oder Professorinnen beurteilen unabhängig voneinander die Leistungen des Kandi
+daten oder der Kandidatin und teilen spätest ens zwei Wochen nach der Prüfung das Ergebnis 
+schriftlich mit. 2
+ 
+ 
+ 
+9 (4) 1Promotionseignungsprüfungen sind in fachlich nachvollziehbarer Weise durch ein Prüfungspro
+tokoll zu dokumentieren. 2Es enthält Ort, Zeit, Dauer, Gegenstand und Ergebnis der Prüfung, die 
+Namen der Prüfenden und des oder der Geprüften sowie besondere Vorkommnisse.  
+ 
+(5) Nicht bestandene Promotionseignungsprüfungen können einmal wiederholt werden.  
+ 
+(6) Bestandene Promotionseignungsprüfungen sind als V oraussetzung für den Beginn eines Promo
+tionsvorhabens höchstens fünf Jahre lang gültig.  
+ 
+(7) 1In Ausnahmefällen kann die Promotionseignungsprüfung auf Antrag des Kandidaten oder der 
+Kandidatin und mit Einverständnis des Promotionsausschusses durch das Erbring en von indivi
+duell mit dem Kandidaten oder der Kandidatin zuvor vereinbarten Studien  und Prüfungsleistun
+gen im Umfang von bis zu 12 ECTS Leistungspunkten, die in den ersten sechs Monaten der 
+Promotionsarbeiten zu erbringen sind, ersetzt werden, sofern die ses Vorgehen aufgrund an
+sonsten sehr guter Leistungen des Kandidaten oder der Kandidatin mit hoher Wahrscheinlichkeit 
+Erfolg verspricht und der Kandidat oder die Kandidatin zuvor nicht bereits eine Promotionseig
+nungsprüfung nicht bestanden hat. 2Bis zum Nachweis der erworbenen Leistungspunkte gilt die 
+entsprechende Zugangsvoraussetzung als vorläufig erfüllt. 3Eine Anrechnung der in Satz 1 ge
+nannten Leistungspunkte auf weitere Leistungsnachweise ist ausgeschlossen .  
+ 
+ 
+§ 7 
+Promotionsgesuch  
+[Zu § 11 RPromO] 
+ 
+(1) 1Das Exposé gemäß § 11 Abs. 2 Satz 1 RPromO muss wie folgt gegliedert sein und soll ohne 
+Literaturverzeichnis nicht mehr als fünf Seiten umfassen : 
+1. Angestrebter Doktorgrad  
+2. Arbeitstitel 
+3. Problemstellung 
+a) Wissenschaftlicher Schwerpunkt der Arbeit  
+b) Forschungsfragen sowie erwarteter Beitrag für die Wissenschaft und für die Praxis  
+4. Forschungsmethodik, d. h.  
+a) bei empirischen Arbeiten das geplante Forschungsdesign einschließlich der empiri
+schen Methoden, 
+b) bei theoretischen Arbeiten eine Skizze des theoretischen Ansatzes,  
+c) bei ingenieurwissenschaftlichen Arbeiten eine Skizze des methodischen Ansatzes  
+5. Bei einer kumulativen Dissertation: Darstellung der geplanten wissenschaftlichen 
+Schriften sowie beispielhafte Publikationsmedien für diese Schr iften, die das geplante 
+Niveau beschreiben 
+6. Zeitplan zur Erstellung der Arbeit  
+7. Literatur 
+8. Betreuende 
+ 
+2Sollte ein Betreuer oder eine Betreuerin nicht Mitglied der Fakultät für Informatik und Data 
+Science oder einer anderen Fakultät an der Universität Regensb urg sein, ist dem Exposé ein 
+Lebenslauf und ein Schriftenverzeichnis des externen Betreuers oder der externen Betreuerin als 
+Anhang beizufügen.  
+ 
+(2) Das Exposé kann in deutscher oder englischer Sprache eingereicht werden.  
+ 
+ 
+10 (3) 1Bei Promotionsverfahren, die zum Erwerb des Grades eine s Doktors der Naturwissenschaften 
+oder einer Doktorin der Naturwissenschaften führen, muss das Promotionsgesuch zu Beginn des 
+Promotionsprojekts gestellt werden. 2Der zuständige Promotionsausschuss prüft anhand des Ex
+posés die wissenschaftliche Qualität des Promotionsprojekts und entscheidet, ob dessen wis
+senschaftliche Ausrichtung den in §  1 Absatz 3 genannten Erfordernissen für die Erlangung des 
+Grades eines Doktors der Naturwissenschaften oder eine r Doktorin der Naturwissenschaften 
+entspricht. 3Ist dies nicht der Fall, kann der Promotionsausschuss das Prom otionsgesuch ableh
+nen, auch wenn die in §  5 genannten Voraussetzungen erfüllt sind.  
+ 
+(4) 1Bei Promotionsverfahren, die zum Erwerb des Grades eine s Doktors der Ingenieurwissenschaf
+ten oder einer Doktorin der Ingenieurwissenschaften führen, muss das Promotionsge such zu 
+Beginn des Promotionsprojekts gestellt werden. 2Der zuständige Promotionsausschuss prüft an
+hand des Exposés die wissenschaftliche Qualität des Promotionsprojekts und entscheidet, ob 
+dessen wissenschaftliche Ausrichtung den in §  1 Absatz 4 genannten  Erfordernissen für die Er
+langung des Grades eine s Doktors der Ingenieurwissenschaften oder eine r Doktorin der Ingeni
+eurwissenschaften entspricht. 3Ist dies nicht der Fall, kann der Promotionsausschuss das Promo
+tionsgesuch ablehnen, auch wenn die in §  5 genannten Voraussetzungen erfüllt sind.  
+ 
+ 
+§ 8    
+Betreuung 
+[Zu § 13 RPromO] 
+ 
+(1) In der Betreuungsvereinbarung müssen über die in § 13 Abs. 3 Satz 4 RPromO genannten Inhalte 
+hinaus folgende Punkte geregelt werden:  
+ 
+1. 1Bei Promotionsverfahren, die zum Grad eines Doktors oder einer Doktorin der Naturwissen
+schaften führen, bestimmt der Promotionsausschuss zu Beginn des Promotionsprojektes ein      
+dreiköpfiges Thesis Advisory Board (TAB), das d en Promovierenden oder die Promovierende 
+während der gesamten Promotionszeit begleitet. 2Die Ausgestaltung des TAB obliegt dem 
+zuständigen Promotionsausschuss.  
+2. 1Bei Promotionsverfahren, die zum Grad eine s Doktors oder einer Doktorin der Ingenieur
+wissenschaften führen, bestimmt der Promotionsausschuss zu Beginn des Promotionspro
+jektes ein dreiköpfiges Thesis Advisory Board (TAB), das d en Promovierenden oder die Pro
+movierende während der gesamten Promotionszeit begleitet. 2Der oder die Promovierende 
+kann einen Vorschlag zur Besetzung des T AB beim zuständigen Promotionsausschuss einrei
+chen. 3Die Ausgestaltung des TAB obliegt dem Promotionsausschuss.  
+      
+(2) 1Das TAB begleitet den Doktoranden oder die Doktorandin während der Promotion. 2Es berät 
+den Doktoranden oder die Doktorandin wissenschaftlich, gewährleistet die Überprüfung des 
+Fortschritts der Promotionsarbeit, sorgt für Transparenz von Bewertungskriterien und kann im 
+Konfliktfall zwischen dem Doktorand en oder der Doktorandin und dessen/deren Betreuer oder 
+Betreuerin schlichten. 3Die weitere Ausgestaltung des TAB obliegt dem zuständigen Promoti
+onsausschuss. 
+ 
+ 
+§ 9    
+     Wissenschaftliche Aussprache  
+[Zu § 14 RPromO] 
+ 
+(1) 1Die wissenschaftliche Aussprache soll spätestens sechs Monate nach dem Promotionsgesuch 
+(gemäß § 7) und zwölf Monate vor Einreichung des Zulassungsantrages (gemäß § 16 Abs. 2 
+ 
+11 Satz 1 RPromO) stattfinden. 2Der Promotionsausschuss kann auf Antrag des Promovenden  oder 
+der Promovendin eine Abweichung von diesen Fristen beschließen. 3Der oder die Vorsitzende 
+des Promotionsausschusses bestimmt im Benehmen mit dem Promovenden ode r der Promo
+vendin den Termin und teilt ihm oder ihr diesen mit. 4Der oder die Vorsitzende des Promotions
+ausschusses lädt den Promovenden oder die Promovendin und die Mitglieder des Prüfungsgre
+miums mit einer Frist von mindestens zehn Tagen schriftlich ein.  5Der Termin ist durch das De
+kanat hochschulöffentlich bekannt zu machen.  
+ 
+(2) 1Die wissenschaftliche Aussprache besteht aus einem Vortrag und einer Diskussion. 2Der wissen
+schaftliche Vortrag dauert etwa 30 Minuten und findet vor einem vom Promotionsausschuss 
+einzusetzenden Prüfungsgremium, bestehend aus zwei promotionsberechtigten Mitgliedern im 
+Sinne von § 5 Abs. 1 und 2 RPromO statt. 3Der Betreuer oder die Betre uerin ist Mitglied des 
+Prüfungsgremiums. 4Die wissenschaftliche Aussprache dauert insgesamt bis zu 60 Minuten.  
+ 
+(3) 1Die wissenschaftliche Aussprache ist bestanden, wenn beide Prüfer oder Prüferinnen dies auf
+grund des Vortrages des Kandidaten oder der Kandidat in und der anschließenden Diskussion 
+schriftlich bestätigen, andernfalls ist diese Prüfung nicht bestanden. 2Eine Benotung erfolgt 
+nicht. 
+ 
+(4) 1Ist die wissenschaftliche Aussprache bestanden, wird die schriftliche Bestätigung zum Promo
+tionsakt genommen. 2Ein Zeugnis wird nicht ausgestellt.  
+ 
+(5) Ist die wissenschaftliche Aussprache nicht bestanden oder gilt sie gemäß § 14 Abs. 4 Satz 2 
+RPromO als nicht bestanden, so teilt der oder die Vorsitzende des Promotionsausschusses dies 
+dem Promovenden oder der Promovendin s chriftlich mit.  
+ 
+(6) 1Eine nicht bestandene wissenschaftliche Aussprache kann einmal wiederholt werden. 2Der An
+trag ist innerhalb eines halben Jahres nach Bekanntgabe des Nichtbestehens an den oder die 
+Vorsitzende des Promotionsausschusses zu richten. 3Für die Wiederholung gelten die Absätze 1 
+bis 5 entsprechend. 
+ 
+(7) Bei Promotionsverfahren, die zum Grad eine s Doktors oder einer Doktorin der Naturwissen
+schaften oder zum Grad eine s Doktors oder einer Doktorin der Ingenieurwissenschaften führen, 
+in denen ein Thesis Advisory Board eingesetzt wurde, entfällt die wissenschaftliche Aussprache.  
+ 
+ 
+§ 10    
+Dissertation 
+[Zu § 15 RPromO] 
+ 
+(1) 1Die in der Dissertation angewendeten Methoden müssen in den Bereich einer in der Fakultät 
+vertretenen Fachwissenschaft fallen. 2Die Promotionsfächer ergeben sich aus § 2.  
+ 
+(2) Die Dissertation ist als Monographie oder kumulative Schrift abzufassen.  
+ 
+(3) 1Ist der Doktorand oder die Doktorandin im Fall einer kumulativen Dissertation nicht alleiniger      
+Autor oder alleinige Autorin der Schriften, so muss die Anzahl der Schriften mindestens drei 
+betragen. 2Verschiedene Doktoranden und Doktorandinne n dürfen keine identischen Disserta
+tionen einreichen.  
+ 
+ 
+12 (4) 1Die Schriften einer kumulativen Dissertation müssen in referierten wissenschaftlichen Zeitschrif
+ten, referierten, hochrangigen Konferenzen oder vergleichbaren Publikationsmedien veröffent
+licht oder eingereicht und zur Begutachtung angenommen worden sein. 2Die Einreichung ist 
+den Gutachtern und Gutachterinnen der Dissertation durch Vorlage einer Kopie der Eingangs
+bestätigung des Publikationsmediums nachzuweisen.  
+ 
+(5) 1Die Arbeiten einer kumulativen Dissertation müssen im Wesentlichen während der Betreuung 
+durch den Betreuer oder die Betreuerin entstanden sein. 2Sofern die Schriften bereits veröffent
+licht sind, ist der Beginn der Betreuung nachzuweisen. 3Der Nachweis erfolgt regelmäßig durch 
+die Einschreibung als Doktorand oder Doktorandin. 4Ersatzweise ist eine Erklärung des Dokto
+randen oder der Doktorandin vorzuleg en.  
+ 
+(6) 1Sind eine oder mehrere Schriften einer kumulativen Dissertation nicht allein vom Doktoranden 
+oder von der Doktorandin verfasst, so ist den Gutachtern und Gutachterinnen für jede dieser 
+Schriften eine gemeinsame Erklärung aller Verfasser vorzulegen, wie hoch der Anteil des Dok
+toranden oder der Doktorandin an dieser Schrift ist. 2Kommt eine Einigung unter den Autoren 
+und Autorinnen trotz der schriftlichen Aufforderung des Doktoranden oder der Doktorandin 
+unter angemessener Fristsetzung oder aus einem a nderen Grunde, den der Doktorand oder die 
+Doktorandin nicht zu vertreten hat, nicht zustande, so ist im Zweifelsfall davon auszugehen, 
+dass der Anteil des Doktoranden oder der Doktorandin an der Schrift dem Kehrwert der Anzahl 
+der Autoren und Autorinnen en tspricht. 
+ 
+(7) Die Summe der Anteile an den Schriften einer kumulativen Dissertation muss den Betrag von 
+1,50 überschreiten.  
+ 
+(8) Auf Antrag des Doktoranden oder der Doktorandin kann der Promotionsausschuss in begrün
+deten Fällen, insbesondere bei weit übe rdurchschnittlicher Qualität der Beiträge einer kumulati
+ven Dissertation, beschließen, von den Anforderungen gemäß Abs. 3, 5 und 7 abzuweichen.  
+ 
+(9) 1Der kumulativen Arbeit ist eine Einleitung voranzustellen. 2Am Ende der Schriften ist eine über
+greifende Schlussbetrachtung anzufügen. 3Die Einleitung und die Schlussbetrachtung sind vom 
+Doktoranden oder der Doktorandin allein zu verfassen . 
+ 
+(10) Gemeinschaftsdissertationen sind nicht zulässig.  
+ 
+(11) Die Dissertation ist grundsätzlich in deutscher oder englischer Sprache abzufassen.   
+ 
+(12) Die elektronische Fassung der Dissertation kann einer gesonderten Überprüfung unterzogen 
+werden. 
+ 
+ 
+§ 11  
+Zulassung zum Promotionsverfahren  
+[Zu § 16 RPromO] 
+ 
+(1) Der Promovend oder die Promovendin hat mit dem Antrag auf Zulassung zum Promotionsver
+fahren zusätzlich zu den in § 16 Abs. 2 Satz 3 RPromO geforderten Unterlagen folgende Erklä
+rungen und Unterlagen einzureichen:  
+ Im Fall einer kumulativen Dissertation Erklärungen zu Autorschaftsanteilen im Sinne von § 
+10 Abs. 6 Satz 1.  
+ 
+ 
+13 (2) Der Lebenslauf nach § 16 Abs. 2 Satz 3 Nr. 2 RPromO kann auch auf Englisch eingereicht wer
+den. 
+ 
+(3) Bei dem Doktorgrad der Wirtschaftswissenschaft und bei dem Doktorgrad der Philosophie muss 
+für die Zulassung zusätzlich eine schriftliche Bestätigung über die bestandene wissenschaftliche 
+Aussprache vorliegen.  
+ 
+ 
+§ 12  
+Mündliche Prüfung  
+[Zu § 19 RPromO] 
+ 
+(1) Die mündliche Prüfung ist hochschulöffentlich und besteht aus zwei Teilen.  
+ 
+(2) Der erste Teil der Prüfung besteht aus einem Vortrag des Doktoranden oder der Doktorandin, 
+in welchem er oder sie die wichtigsten Ergebnisse der Arbeit erläutert.  
+ 
+(3) 1Der zweite Teil der Prüfung besteht aus einer vertieften wissenschaftlichen Aussprache zum  
+Fachgebiet sowie angrenzender Fachgebiete des Themas der Dissertation und zum Forschungs
+stand des Fachgebietes. 2Die Stellungnahmen der Gutachter und Gutachterinnen können in die 
+mündliche Prüfung einbezogen werden. 3Prüfungsrelevantes Frage  und Rederecht haben die 
+Mitglieder der Prüfungskommission, ferner diejenigen, die gemäß § 17 Abs. 4 und § 18 Abs. 1 
+Satz 4 RPromO Stellungnahmen abgegeben haben.  
+ 
+(4) 1Die Gesamtdauer der Prüfung beträgt ca. 90 Minuten. 2Der erste Teil der Prüfung soll in der 
+Regel ca. 30 Minuten betragen. 3Der zweite Teil der Prüfung soll 60 Minuten nicht überschreiten.  
+ 
+(5) Die Prüfung wird in deutscher oder englischer Sprache abgehalten.   
+ 
+ 
+§ 13  
+Bewertung der Promotionsleistungen, Gesamtnote der Promotion  
+[Zu §§ 17, 18, 19 und 21 RPromO] 
+ 
+(1) Wird gemäß § 17 Abs. 4 RPromO ein dritter Gutachter oder eine dritte Gutachterin hinzugezo
+gen, errechnet sich die Note der Dissertation aus dem arithmetischen Mittel der drei Gutachten.  
+ 
+(2) Entscheidet der Promotionsausschuss nach § 18 Abs. 5 RPromO, dass die Dissertation ange
+nommen wird, so ergibt sich die Note der Dissertation aus dem arithmetischen Mittel aller vor
+liegenden Gutachten.  
+ 
+(3) Bei der Bildung der Gesamtnote wird die Note der Dissertation im Sinne des § 17 RPromO zwei
+fach und die Note der mündlichen Prüfung im Sinne des § 19 RPromO einfach gewichtet.  
+ 
+(4) 1Die Gesamtnote wird auf die lateinische Notenstufe gerundet, und zwar bei Dezimalen kleiner 
+gleich 0,5 auf die vor dem Komma stehende Note, bei Dezimalen größer als 0,5 auf die nächst
+folgende Note. 2
+eben werden, 
+wenn 
+1. 
+  
+2. 
+bewertet haben. 
+ 
+ 
+14 (5) 1Bei dem Doktorgrad der Wirtschaftswissenschaft können zur differenzierten Bewertung der 
+Prüfungsleistungen die Noten um 0,3 vermindert oder erhöht werden. 2Diese Zwischenwerte 
+sind nur im Bereich von 0,0 bis 4,0 zulässig.  
+ 
+ 
+§ 14  
+Veröffentlichung, Pflichte xemplare 
+[Zu § 22 RPromO] 
+ 
+(1) 1Zusätzlich bzw. ergänzend zu den in § 22 Abs. 4 RPromO genannten Varianten kann die Dis
+sertation auf folgendem Weg der Öffentlichkeit zugänglich gemacht werden: 2Bei einer Verbrei
+tung über den Buchhandel ist die Veröffentlichung bei einem gewerblichen Verl ag im Printon
+demandVerfahren zulässig. 3Der Verlag muss die Lieferbarkeit für mindestens fünf Jahre garan
+tieren. 4Die Ablieferung der Pflichtexemplare gemäß § 22 Abs. 4 Satz 1 Nr. 1 RPromO bleibt 
+davon unberührt. 
+ 
+(2) Bei Ablieferung der Pflichtexemplare hat der oder die Vorsitzende des Promotionsausschusses 
+festzustellen, dass die geforderten Auflagen erfüllt sind.  
+ 
+(3) 1Bei kumulativen Promotionen gelten die Absätze 1 und 2 entsprechend. 2Die Originalveröffent
+lichungen werden unter Nennung der bibliografischen Angaben aufgeführt. 3In den Exemplaren 
+für die Mitglieder der Prüfungskommission sind alle Originalveröffentlichungen separat dazu 
+abzugeben. 
+ 
+ 
+§ 15  
+Einsichtnahme 
+[Zu § 26 RPromO] 
+ 
+Der Promovend oder die Promovendin erhält auf Antrag an den Promotionsausschuss die Möglich
+keit zur Akteneinsicht in seine oder ihre Promotionsunterlagen.  
+ 
+ 
+§ 16  
+Binationales Promotionsverfahren  (Cotutelle) 
+[Zu §§ 30  35 RPromO] 
+ 
+(1) 1Die mündliche Prüfung soll entsprechend der in der RPromO und der vorliegenden Ordnung 
+getroffenen Regelungen durchgeführt werden. 2Die Kooperationsvereinbarung kann davon ab
+weichende Regelungen vorsehen.  
+ 
+(2) 1Prüfungssprachen der Dissertation sind Deutsch od er nach Entscheidung des Promotionsaus
+schusses auf Antrag Englisch oder die Landessprache der Partneruniversität. 2Wird die Disserta
+tion in einer anderen Sprache verfasst, ist eine ausführliche Zusammenfassung der Dissertation 
+in deutscher oder englischer Sprache vorzulegen. 3Sämtliche Gutachten sind in englischer Spra
+che oder deutscher Übersetzung vorzulegen.  
+ 
+(3) 1Prüfungssprachen in der mündlichen Prüfung sind Deutsch, Englisch und die Landessprache der 
+Partneruniversität. 2Die Kooperationsvereinbarung kann vorsehen, dass bei Verwendung der 
+Landessprache der Partneruniversität Teile der mündlichen Prüfung in deutscher oder englischer 
+Sprache durchgeführt werden müssen.  
+ 
+ 
+15 (4) Es werden Einzelurkunden gemäß § 3 4 Abs. 1 RPromO ausgestellt.  
+ 
+ 
+§ 17 
+Inkrafttreten, Übergangsbestimmungen  
+[Zu § 37 RPromO] 
+ 
+(1) Diese Ordnung tritt am Tag nach ihrer Bekanntmachung  in Kraft. 
+ 
+(2) Sie gilt für alle Doktoranden und Doktorandinen, die ihr Promotionsverfahren zur Erlangung des 
+akademischen Grades eines Doktors oder einer Doktorin der Naturwissenschaften oder zur Er
+langung des akademischen Grades eines Doktor Ingenieurs oder einer Doktor Ingenieurin ab 
+dem Sommersemester 2022 begonnen haben.  
+ 
+(3) 1Sie gilt ferner für alle Doktoranden und Doktorandinnen der übrigen Fächer,  die nach dem in 
+Absatz 1 genannten Zeitpunkt zur Promotion angenommen werden. 2Doktoranden und Dokto
+randinnen, die vor diesem Zeitpunkt zur Promotion angenommen wurden, können auf Antrag 
+an den Promotionsausschuss das Promotionsverfahren nach den Bestimmu ngen dieser Ordnung 
+fortsetzen; der schriftliche Antrag ist bis zum 31. März 2024 einzureichen. 3Doktoranden und 
+Doktorandinnen, die bereits zum Promotionsverfahren zugelassen wurden, schließen das Ver
+fahren nach den bisherigen Regeln der einschlägigen Fac hpromotionsordnung ( Ordnung zum 
+Erwerb des akademischen Grades eines Doktors der Naturwissenschaften (Dr. rer. nat.) an der 
+Universität Regensburg vom 18. Juni 2019 in der jeweils geltenden Fassung oder Promotions
+ordnung der Fakultät für Philosophie, Kunst , Geschichts und Gesellschaftswissenschaften, der 
+Fakultät für Psychologie, Pädagogik und Sportwissenschaft und der Fakultät für Sprach , Litera
+tur und Kulturwissenschaften an der Universität Regensburg vom 31. Januar 2014 in der jeweils 
+geltenden Fassung oder Ordnung zur Erlangung des Doktors der Wirtschaftswissenschaft an der 
+Universität Regensburg vom 24. Juli 2009 in der jeweils geltenden Fassung) ab. 
+ 
+(4) 1Doktoranden und Doktorand innen, die ein Promotionsverfahren bereits an einer anderen Hoch
+schule begonnen haben und mit ihre m Betreuer oder ihrer Betreuerin an die Fakultät für Infor
+matik und Data Science der Universität Regensburg wechseln, können sich auf Antrag an den 
+zuständigen Promotionsausschuss bereits an diesen Hochschulen erbrachte Vorleistungen und 
+Auflagen anerkennen lassen. 2Dies gilt auch für ei ne bereits erfolgte grundsätzliche Zulassung 
+zur Promotion. 3Näheres regelt der zuständige Promotionsausschuss.  
+  
+ 
+16 Anlage 1 
+MUSTER DER BETREUUNGSVEREINBARUNG  
+Betreuungsvereinbarung  
+(zum Antrag auf Annahme als Doktorand bzw. Doktorandin gem. § 11 Abs. 2 Satz 2 Nr. 7 Rah
+menpromotionsordnung der Universität Regensburg)  
+Frau/Herr ................................................................................ (Doktorand/in) und  
+Fr
+  
+schließen folgende Vereinbarung:  
+ 
+ 
+ 
+ 
+zu erstellen. 
+Zu diesem Zweck wird folgendes vereinbart:  
+(1) Die/der Doktorand/in erstellt in Absprache mit dem Betreuer/der Betreuerin innerhalb der ers
+ten drei Monate nach Annahme als Doktora nd/in einen Arbeits und Zeitplan. Soweit später we
+sentliche Änderungen notwendig werden, teilt sie/er diese der/dem Betreuer/in rechtzeitig mit.  
+(2) Die Beteiligten tauschen sich regelmäßig (möglichst einmal im Semester) über Gang und Zwi
+schenergebnisse des Vorhabens aus. 
+(3) Vor der AntragsteIlung auf Zulassung zum Promotionsverfahren gemäß § 16 RPromO hat 
+die/der Doktorand/in ihr/sein Projekt mindestens einmal einer wissenschaftlichen Öffentlichkeit 
+(Doktorandenkolloquium oder Fachtagung) vorgestellt.  
+(4) Im Laufe der Promotionszeit erbringt die/der Doktorand/in folgende weitere Leistungen:**  
+ 
+ 
+(5) Die/der Betreuer/in verpflichtet sich zur regelmäßigen fachlichen Beratung. Sie/er kontrolliert 
+die Fortschritte der Arbeit un d unterstützt die/den Doktorand/in auf dem Weg in die wissenschaft
+liche Selbständigkeit und bei der Karriereplanung.  
+(6) Das hier vereinbarte Betreuungsverhältnis besteht fort, so lange die/der Doktorand/in von der 
+Fakultät als Doktorand/Doktorandin angeno mmen ist; es ist unabhängig von der Dauer einer fi
+nanziellen Förderung des Promotionsvorhabens oder einem Anstellungsverhältnis. Die Betreuungs
+vereinbarung hat auch dann Fortbestand, wenn die/der Betreuer/in die Universität Regensburg 
+verlässt; es sei denn , eine andere, gleichwertige Betreuungsvereinbarung tritt an ihre Stelle.  
+(7) Die Unterzeichneten verpflichten sich zur Einhaltung der Grundsätze guter wissenschaftlicher 
+Praxis. 
+ 
+  
+  
+ Doktorand/in Betreuer/in 
+**      Unter (4) lassen sich spezielle, im Einzelfall notwendige Anforderungen wie z.B. Sprachkurse, Auslandsaufenthalte 
+oder Sonderregelungen für Quereinsteiger definieren.   
+ 
+17 Anlage 2 Autorenanteile       
+ 
+Gemeinsame Erklärun
+  
+ 
+Koautoren zuzurechnen ist:"  
+1. ..................................... % dem Autor [Name 1]  
+Optional 
+2. ..................................... % dem Autor [Name 2]  
+3. ..................................... % dem Autor [Name 3]  
+.........................................  
+ 
+ 
+ 
+ 
+Ort, Datum Unterschrift aller Koautoren  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Regensburg vom 19. Juli 2023 und 
+der Genehmigung des Präsidenten der Universität Regensburg vom 12. September 2023. 
+ 
+Regensburg, den 12. September 2023 
+Universität Regensburg  
+Der Präsident  
+ 
+ 
+ 
+i.V. 
+Prof. Dr. Nikolaus Korber  
+Vizepräsident für Studium, Lehre und Weiterbildung  
+ 
+ 
+ 
+ 
+Diese Satzung wurde am 12.09.2023 in der Hochschule niedergelegt; die Niederlegung wurde am 
+12.09.2023 durch Aushang in der Hochschule bekannt gegeben. Tag der Bekannt machung ist daher 
+der 12.09.2023.  
+ 

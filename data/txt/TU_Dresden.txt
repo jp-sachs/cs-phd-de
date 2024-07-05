@@ -1,0 +1,967 @@
+ 
+194 Technische Universität Dresden  
+Fakultät Informatik  
+Promotionsordnung   
+Vom  21. April 2023  
+Aufgrund von §§ 40, 88 Absatz 1 Nummer 2, 13 Absatz 4 Satz 1 des Gesetzes über die Freiheit 
+der Hochschulen im Freistaat Sachsen (Sächsisches Hochschulfreihei tsgesetz  SächsHSFG) vom 
+15. Januar 2013 (SächsGVBl. S. 3), das zuletzt durch das Gesetz vom 1. Juni 2022 (SächsGVBl. S. 381)  
+geändert worden ist , hat der Fakultätsrat der Fakultät Informatik d er Technischen Universität 
+Dresden nachstehende Promotionsordnung als Satzung erlassen.  
+Inhalts übersicht  
+§1  Geltungsbereich  
+§ 2  Akademische Grade  
+§ 3  Promotion  
+§ 4  Promotionsgremien  
+§ 5  Allgemeine Verfahrensregelungen und Widerspruchsverfahren  
+§ 6  Zulassung zur Promotion  
+§ 7  Annahme als Doktorandin bzw. Doktorand  
+§ 8  Zusätzliche Studienleistungen  
+§ 9  Statusvortrag  
+§ 10   Eröffnung des Promotionsv erfahrens  
+§ 11   Dissertation  
+§ 12   Verteidigung  
+§ 13   Wiederholung nicht bestandener Promotionsleistungen  
+§ 14   Veröffentlichung der Dissertation  
+§ 15   Abschluss de s Promotionsverfahrens  
+§ 16   Abbruch des Promotionsverfahrens  
+§ 17   Entzug des akademischen Grades  
+§ 18   Strukturierte Promotionsprogramme und gemeinsame bination ale Promotionsverfahren  
+§ 19   Ehrenpromotion  
+§ 20   Promotionsjubiläum  
+§ 21   Inkrafttreten, Außerkrafttreten und Übergangsregelungen  
+Anlage 1:   Hinweis zu Betreuungsvereinbarungen  
+Anlage 2:   Erklärungen zur Eröffnung des Promotionsverfahrens  
+Anlage 3:   Antrag auf Sperrvermerk zur Dissertation  
+Anlage 4:   Genehmigung des Antrags auf einen Sperrvermerk zur Dissertation  
+  
+ 
+195 §1  
+Geltungsbereich  
+Diese Ordnung  regelt die Durchführung der Promotionsverfahren an der Fakultät Informatik.  
+§ 2  
+Akademische G rade  
+(1) Die Fakultät Informatik verleiht für die Technische Universität Dresden aufgrund  eines 
+Promotionsverfahrens den akademischen Grad  
+Doktoringenieurin bzw.  Doktoringenieur (Dr. Ing.) oder  
+Doktorin bzw. Doktor rerum naturalium (Dr. rer. nat.) oder  
+Doctor of Philosophy (Ph.  D.). 
+(2) Nach Beschluss des Fakultätsrates verleiht die Technische Universität Dresden außerdem 
+den akademischen Grad  
+Doktoringenieur in bzw. Doktoringenieur honoris causa (Dr. Ing. h.  c.) oder  
+Doktor in bzw. Doktor rerum naturalium honoris causa (Dr. rer. nat. h.  c.). 
+§ 3  
+Promotion  
+(1) Die Promotion dient dem Nachweis sowohl der besonderen Befähigung zu selbständiger 
+wissenschaftlicher Arbeit als auch dem Nachweis einer über das allgemeine Studienziel 
+hinausgehenden wissenschaftlichen Bildung auf dem Gebiet der Informatik.  
+(2) Der Nachweis wird, außer im Falle der Ehrenpromotion gemäß § 19, durch die Dissertation 
+gemäß § 11 und die mündliche Promotionsleistung gemäß § 12 erbracht.  
+(3) Voraussetzung für die Promotion zum Dr. Ing. ist die Feststellung der Fakultät, dass die 
+Dissertation wesentlich ingenieurwissenschaftliche Aspekte der Informatik behandelt. 
+Voraussetzung für die Promot ion zum Dr. rer. nat. ist die Feststellung der Fakultät, dass die 
+Dissertation wesentlich mathematisch strukturwissenschaftliche Aspekte der Informatik 
+behandelt. Voraussetzung für die Promotion zum Ph.  D. ist die Absolvierung des 
+Promotionsstudienganges I nformatik nach der dafür gültigen Studienordnung . 
+§ 4  
+Promotionsgremien  
+(1) Das für Promotionen zuständige Gremium ist der Fakultätsrat. Hierfür bildet er einen 
+Promotionsausschuss als ständiges Gremium der Fakultät. Ihm gehören die Dekanin bzw. der 
+Dekan  oder ein e bzw. ein von ihr bzw. ihm vorgeschlagene Hochschullehrerin bzw. 
+vorgeschlagener Hochschullehrer als vorsitzende Person , mindestens drei weitere 
+Hochschullehr erinnen und Hochschullehrer  und ein e promovierte wissenschaftlich mitarbeitende 
+Person d er Fakultät an. Aus dem Kreis der Hochschullehrerinnen und Hochschullehrer des 
+Promotionsausschusses bestimmt der Fakultätsrat eine erststellvertretende und eine 
+zweitstellvertretende Person der vorsitzenden Person des Promotionsausschusses. Die Mitglieder  
+des Promotionsausschusses werden vom Fakultätsrat für eine Amtszeit von drei Jahren bestellt. 
+Eine Wiederbestellung ist möglich.  
+ 
+196 (2) Der Promotionsausschuss bestellt nach Eröffnung des konkreten Promotionsverfahrens 
+eine Promotionskommission für die ihr n ach dieser Ordnung zugewiesenen Aufgaben, bestimmt  
+die vorsitzende Person und  bestellt die Gutachterinnen  und Gutachter . Die Promotions 
+kommission besteht aus mindestens fünf Mitgliedern, unter denen die Gutachterinnen  und 
+Gutachter  und die Fachreferen tin bzw. der Fachreferent  sein müssen. Die vorsitzende Person der 
+Promotionskommission muss eine Hochschullehrerin bzw. ein Hochschullehrer  der Fakultät sein; 
+für die Gutachterinnen  und Gutachter  gilt § 1 1 Absatz 6. Zu weiteren Mitgliedern der 
+Promotionskommis sion sind in der Regel Hochschullehrerinnen und Hochschullehrer  der Fakultät 
+zu bestellen. Die Bestellung von außerplanmäßig en Profess orinnen und außerplanmäßigen 
+Professoren sowie  Honorarprofess orinnen und Honorarprofessoren , habilitierte n Mitarbeite nden  
+der Fakultät, TUD Young Investigators, fakultätsfremde n Hochschullehre rinnen und 
+fakultätsfremde n Hochschullehrer n oder qualifizierten wissenschaftlich Forschenden  ist möglich, 
+wenn es das Thema erforderlich macht. Bei der Durchführung von kooperativen 
+Promotionsverfahren  mit einer Fachhochschule  muss ein Mitglied der Promotionskommission 
+eine Hochschullehrerin bzw. ein Hochschullehrer  der zuständigen Fachhochschule sein.  
+(3) Die Sitzungen des Promotionsausschusses und der Promotionskommission sind nicht 
+öffentlich  und können vollständig in Präsenz (physisch vor Ort), vollständig per Videokonferenz 
+(virtuell) oder im Mixed Mode (hybrid) mittels Durchführung einer Präsenzsitzung unter 
+Zuschaltung von Teilnehmenden per Videokonferenz stattfinden. Die Mitglied er beider Gremien 
+sind zur Verschwiegenheit verpflichtet. Für die Beschlussfähigkeit des Promotionsausschusses und 
+der Promotionskommission ist jeweils die Anwesenheit von mindestens vier Mitgliedern 
+einschließlich der vorsitzenden Person erforderlich. Für  die Beschlussmehrheit gelten die 
+Vorschriften des Sächsischen  Hochschulfreiheitsgesetzes und die Bestimmungen der 
+Geschäftsordnungs  und Verfahrensgrundsätze für Hochschulgremien der T U Dresden  i.d.j.g.F.  
+Über die Beratungen und Beschlüsse in Promotionsangelegenheiten ist ein Protokoll zu führen.  
+§ 5  
+Allgemeine Verfahrensregelungen und  
+Widerspruchsverfahren  
+(1) Die Verwaltung des Promotionsverfahrens kann  soweit zulässig und umsetzbar über das an 
+der Technischen Universität Dresden dafür einge richtete, softwarebasierte Promovierenden 
+management System  erfolgen . Die Kommunikation zwischen den Promotionsgremien, 
+promotionsverwaltenden Struktureinheiten der Fakultät untereinander und mit der bzw. dem 
+Promovierenden kann ausschließlich  elektronisch  erfolgen, soweit diese Ordnung nichts Anderes 
+vorsieht  und die jeweilige Kandidatin bzw.  der jeweilige Kandidat keine  Hinderungsgründe für eine 
+elektronische Kommunikation bei der dem Promotionsausschuss vorsitzenden Person geltend 
+macht. Für die erforder liche Datenverarbeitung gilt die Ordnung zur Verarbeitung von 
+personenbezogenen Daten in der Promotionsphase an der Technischen Universität Dresden.  
+(2) Soweit für Erklärungen, Entscheidungen und Verwaltungsakte nach dieser Ordnung die 
+schriftliche oder elektronische Form vorgesehen ist, bestimm en sich diese nach §  37 
+Verwaltungsverfahrensgesetz.  Ist für Dokumente mindestens eine fortgeschrittene elektronische 
+Signatur erforderlich,  ist dies ausdrücklich in dieser Ordnung benannt. Ei ne fortgeschrittene  
+elektronische  Signatur wird mit Mitteln erzeugt, welche  die nutzende Person unter ihrer alleinige n 
+Kontrolle halten kann und eine eindeutige Zuordnung der nutzenden Person als ihre Inhaberin 
+bzw. ihr Inhaber als auch die Integrität des Dokuments sicherstellt. Eine fortgeschrittene 
+elektronische Signatur eines Gruppenzertifikats ist nicht ausreichend.  
+ 
+197 (3) Entscheidungen der zuständigen Gremien im Promotionsverfahren werden den jeweiligen 
+Kandidatinnen und Kandidaten schriftlich oder elekt ronisch mitgeteilt . Belastende Entscheidungen 
+gibt die vorsitzende Person  des zuständigen Gremiums durch rechtsmittelfähigen Bescheid, der 
+zu begründen ist und eine Rechtsbehelfsbelehrung zu enthalten hat, bekannt.  
+(4) Gegen Entscheidungen im Promotionsverfahren, denen Verwaltungsaktqualität zukommt, 
+findet ein  förmliches Widerspruchsverfahren  statt.  Widerspruchsbehörde ist der Fakultätsrat. 
+Entscheidungen im Promotionsverfahren mit Verwaltungsaktqualität sind insbesondere:  
+1. die Nichtzulassung z ur Promotion und die Ablehnung als Doktorandin  bzw. Doktorand  sowie 
+der Widerruf der Annahme,  
+2. die Nichteröffnung des Promotionsverfahrens,  
+3. die Nichtannahme der Dissertation,  
+4. die Bewertung der zusätzlichen Studienleistungen, des Statusvortrages und der  Prom otions 
+leistungen,  
+5. die Nichtzulassung zur Wiederholung von Promotionsleistungen,  
+6. die ergebnislose Beendigung (Abbruch) des Promotionsverfahrens und  
+7. die Nichtverleihung des akademischen Grades . 
+(5) Den jeweiligen Kandid ierenden  wird auf Antrag nach Abschluss des Promotionsverfahrens 
+Einsicht in die Promotionsakte gewährt.  
+§ 6  
+Zulassung zur Promotion  
+(1) Zum Promotionsverfahren wird zugelassen, wer  
+1. einen Diplom , Master  oder Magistergrad an einer Hochschule oder das Staatsexamen 
+mindestens mit der jeweiligen Note „gut“ und in der Regel mit einer mindestens mit der Note 
+„gut“ bewerteten Abschlussarbeit in einem für das Promotionsgebiet einschlägigen 
+Studiengang erworben hat,  
+2. die persönlichen Voraussetzungen zu Führung des akademischen Grades  erfüllt , 
+3. nicht bereits zweimal ein Promotionsverfahren erfolglos beendet hat bzw. wer sich nicht in 
+einem anhängigen Promotionsverfahren befindet und  
+4. gemäß § 7 einen Antrag auf Annahme als Doktorandin bzw. Doktorand mit allen erforderlichen 
+Unterlagen eingereicht hat. 
+(2) Zum Promotionsverfahren wird weiterhin zugelassen, wer einen Bachelorgrad einer 
+Hochschule mindestens mit der Note „sehr gut“ und eine mindestens mit der Note „sehr gut“ 
+bewerteten Abschlussarbeit erworben hat. Absatz 1 Nummer  2 bis 4 gelten entsprechend.  
+(3) Universität und Fachhochschulen  wirken im kooperativen Promotionsverfahren zusammen, 
+indem sie die Promotionsleistungen gemeinsam betreuen.  
+(4) Zur Promotion wird nicht zugelassen, wer  
+1. die Voraussetzungen des Absatzes 1 od er Absatzes 2 nicht erfüllt,  
+2. zwecks Aufzeigens von Promotionsmöglichkeiten vermittelnde Personen  gegen Entgelt 
+einschaltet oder eingeschaltet hat,  
+3. im Zusammenhang mit dem Promotionsverfahren und seiner Vorbereitung Entgelte zahlt sowie 
+Dienste unentgeltlic h in Anspruch nimmt, die dem Sinn und Zweck eines Prüfungsverfahrens 
+widersprechen,  oder  
+ 
+198 4. im Zusammenhang mit dem Promotionsverfahren und seiner Vorbereitung entgeltliche 
+Leistungen erbringt oder erbracht hat, die dem Sinn und Zweck eines Prüfungsverfahrens  
+widersprechen.  
+(5) Über die Anerkennung der Gleichwertigkeit ausländischer Examina und Studienabschlüsse 
+entscheidet der Promotionsausschuss unter Berücksichtigung von Äquivalenzabkommen. In 
+Zweifelsfällen ist eine Stellungnahme des Sächsischen Staatsmini steriums für Wissenschaft, Kultur 
+und Tourismus einzuholen. In Fällen, in denen den sich bewerbenden Personen  die Führung eines 
+im Ausland erworbenen akademischen Grades in der Form eines deutschen zur Promotion 
+berechtigenden Grades genehmigt wurde, ist d ieser Grad als gleichwertig anzuerkennen.  
+(6) Die Zulassungsentscheidung ergeht im Rahmen der Entscheidung über die Annahme als 
+Doktorandin  bzw. Doktorand  gemäß § 7.  
+§ 7  
+Annahme als Doktorandin  bzw. Doktorand  
+(1) Wer die Zulassungsvoraussetzungen nach § 6  erfüllt und die Promotion an der Fakultät 
+Informatik beabsichtigt, muss vor oder spätestens mit Aufnahme des Promotionsvorhabens die 
+Annahme als Doktorandin  bzw. Doktorand beantragen. Dieser  Antrag ist die Äußerung der Absicht 
+gegenüber der Fakultät, inne rhalb der nächsten sechs Jahre dort promovieren zu wollen.  
+(2) Der Antrag ist  mittels des von der T echnischen Universität D resden verwendeten 
+softwarebasierten Promovierendenmanagement System s elektronisch zu erstellen und  schriftlich 
+oder elektronisch an die vorsitzende Person des Promotionsausschusses zu richten. Mit dem 
+Antrag sind einzureichen:  
+1. der Nachweis der Zulassungsvoraussetzungen gemäß § 6 , im Zweifelsfall kann die Vorlage im 
+Original oder in amtlich beglaubigter Form verlangt werden,  
+2. das geplante Thema der Dissertation,  
+3. ein tabellarischer Lebenslauf mit Darstellung des wissenschaftlichen Werdegangs einschließlich 
+der Nachweise über bereits absolvierte zusätzliche Studien oder Examina; im Zweifelsfall kann 
+die Vorlage im Original oder in am tlich beglaubigter Form verlangt werden , 
+4. die Betreuungsvereinbarung nach Absatz 3 in Kopie,  
+5. einen Vorschlag für eine Fachreferentin bzw. einen Fachreferenten,  
+6. eine Erklärung über gegebenenfalls zurückliegende erfolglose Promotionsverfahren,  
+7. eine schriftlic he oder mindestens fortgeschritten signierte Erklärung, dass diese Promotions 
+ordnung und die an der Technischen Universität Dresden geltende  „Satzung zur Sicherung 
+guter wissenschaftlicher Praxis, zur Vermeidung wissenschaftlichen  Fehlverhaltens und für d en 
+Umgang mit Verstößen “ anerkannt werden  und 
+8. die Erklärung darüber, dass ein an die Fakultät zu übersendendes Führungszeugnis gemäß §  30 
+Absatz 5 Bundeszentralregistergesetz (BZRG) bei der zuständigen Meldebehörde beantragt 
+worden ist.  
+(3) Die Betreuung d er Doktorandinnen und Doktoranden  erfolgt gemäß § 4 Absatz 1 bis 5 der 
+an der Technischen Universität Dresden geltenden „Satzung zur Sicherung guter 
+wissenschaftlicher Praxis, zur Vermeidung wissenschaftlichen Fehlverhaltens und für den Umgang 
+mit Verstößen “. Danach ist die Betreuung von Doktorandinnen und Doktoranden insbesondere 
+wie folgt zu gestalten:  
+1. Die Betreuung erfolgt durch ein  Betreuungsteam ; dieses  besteht aus der hauptbetreuenden 
+Person und der Fachreferentin bzw. dem Fachreferenten. Dar über hinaus können weitere 
+Personen mit Fachexpertise beratend in die Betreuung und das Betreuungsteam eingebunden 
+ 
+199 werden.  Die betreuenden Personen (die hauptbetreuende Person  und die Fachreferentin bzw. 
+der Fachreferent) sollen in der Regel Hochschullehre rinnen und Hochschullehrer  sein. Eine 
+Person davon kann  auch  eine habilitationsadäquat qualifiziert wissenschaftlich  tätige Person 
+sein, beispielsweise außerplanmäßige Professorin bzw. außerplanmäßiger Professor , 
+Honorarprofessorin bzw. Honorarprofessor , Privatdozentin bzw. Privatdozent  oder TUD Young 
+Investigator oder erfahren e promovierte wissenschaftliche Mitarbeiterin bzw.  erfahren er 
+promovierte r wissenschaftliche r Mitarbeiter . 
+2. Die Betreuungsteams treffen sich mindestens einmal pro Jahr mit der Doktorandin bzw. dem 
+Doktoranden , um den Arbeitsfortschritt zu diskutieren und Empfehlungen zu geben.  
+3. Um das Verhältnis zwischen dem Betreuungsteam und der Doktorandin bzw. dem 
+Doktoranden  inhaltlich und zeitlich transparent zu gestalten und zu gewährleis ten, dass das 
+Promotionsvorhaben mit hoher Qualität innerhalb eines angemessenen Zeitraumes 
+abgeschlossen werden kann, ist bereits zu Beginn des Promotionsvorhabens eine 
+Betreuungsvereinbarung zwischen der hauptbetreuenden Person , der Fachreferentin bzw. 
+dem Fachreferenten  und der Doktorandin bzw. dem Doktoranden  abzuschließen (vgl. 
+Anlage  1). Die Betreuungsvereinbarung berücksichtig t mindestens folgende Aspekte:  
+a) Beteiligte ( Doktorandin bzw. Doktorand , haupt betreuende  Person , Fachreferentin bzw. 
+Fachreferent , ggf. Mentorin bzw.  Mentor  und weitere Beteiligte),  
+b) Informationen zum Dissertationsprojekt und Thema der Dissertationsarbeit (ggf. Arbeits 
+titel),  
+c) inhaltlich strukturierter Zeit  und Arbeitsplan bzw. dessen Weiterentwicklung,  
+d) Regelungen zur regelmäßigen Diskussion des Stands und Fortgangs des Dissertations 
+projektes,  
+e) begleitende Qualifikationen zur Unterstützung der frühen wissenschaftlichen 
+Selbständigkeit und Karriereförderung,  
+f) Regelungen zu Arbeitsbedingungen der Doktorandin bzw. des Dokto randen  (z.B. Arbeits 
+platz, Zugang zu Ressourcen, Integration in eine Arbeitsgruppe, in einen Forschungs 
+verbund oder in ein Graduiertenprogramm),  
+g) die jeweilige Verpflichtung der Beteiligten auf die Einhaltung der Grundsätze guter wissen 
+schaftlicher Praxi s, 
+h) Regelung zum Verhalten bei Konfliktfällen,  
+i) besondere Maßnahmen oder Regelungen zur Vereinbarkeit von Familie und Beruf.  
+4. Der Abschluss der Promotion innerhalb eines angemessenen Zeitraumes wird durch die 
+Betreuenden gefördert.   
+5. Für die verpflichtende Tei lnahme der Doktorandinnen und Doktoranden  an einer Schulung zum 
+Thema gute wissenschaftliche Praxis stellt die Technischen Universität Dresden 
+semesterbegleitend Kursangebote im Umfang von vier Unterrichtseinheiten zu je 45 Minuten 
+zur Verfügung.  
+(4) Der P romotionsausschuss befindet auf Basis der in Absatz 2 genannten Dokumente über 
+die Annahme oder Ablehnung der Doktorand innen und Doktorand en. Mit der Annahme wird die 
+hauptb etreue nde Person  bestätigt und die Fachreferent in bzw. der Fachreferent  festgelegt. Die 
+Annahme als Doktorandin  bzw. Doktorand  ist abzulehnen, wenn die fachlichen 
+Zulassungsvoraussetzungen nach § 6 nicht erfüllt sind. Die Annahme ist außerdem abzulehnen, 
+wenn die persönlichen Voraussetzungen zur Führung eines akademischen Gra des bei der sich 
+bewerbe nden Person  nicht vorliegen. Die Entscheidung ist auch unter Würdigung des 
+Führungszeugnisses zu treffen. Die Entscheidung zur Annahme kann mit der Erteilung von 
+Auflagen, etwa zusätzlichen  Studienleistungen  nach  § 8 oder zusätzlich er im Rahmen eines 
+Promotionsstudiums zu erbringen den Prüfungen, verbunden werden. Im Falle der Annahme wird 
+die sich bewerbende Person  in die von der Fakultät zu führende Liste der Doktorand innen und 
+Doktoranden  aufgenommen; es entsteht ein Rechtsv erhältnis zwischen der Fakultät und der 
+ 
+200 Doktorandin bzw. dem Doktoranden ; die promovierende Person erhält den Status als Doktorandin  
+bzw. Doktorand . 
+(5) Die Annahme als Doktorandin  bzw. Doktorand  kann widerrufen werden, wenn der Stand der 
+Anfertigung der D issertation oder die bis dahin vorliegenden Ergebnisse einen erfolgreichen 
+Abschluss des Promotionsverfahrens nicht erwarten lassen. Dazu muss eine Stellungnahme der 
+hauptbetreue nden Person vorliegen. Vor dem Widerruf der Annahme hat eine Anhörung  der 
+Dokt orandin bzw. des Doktorand en zu erfolgen . Die Entscheidung trifft der Promotionsausschuss, 
+nicht jedoch vor Ablauf von drei Jahren. Auch die Doktorandin  bzw. der Doktorand  kann nach der 
+Annahme als Doktorandin  bzw. Doktorand  der Dekanin bzw. dem Dekan  der Fakultät bzw. der 
+oder dem Vorsitzenden des Promotionsausschusses eine  Erklärung , nicht mehr promovieren zu 
+wollen , einreichen . Alle oben genannten Fälle beenden das Rechtsverhältnis mit der Fakultät und 
+haben die ergebnislose Beendigung des Promotionsverfahrens zur Folge. Es erfolgt  die Streichung 
+der Doktorandin bzw. des Doktoranden  von der Liste der Doktorandin nen und Doktoranden . 
+(6) Die Annahme als Doktorandin  bzw. Doktorand  ist z wingende Voraussetzung für die 
+Eröffnung des Promotionsverfahrens.  
+(7) Ist das Ziel des Promotionsverfahrens ein Ph. D. Abschluss , muss spätestens drei Monate 
+nach  Aufnahme in die Liste der Doktorandinnen und Doktoranden  dem Promotionsausschuss die 
+Beschei nigung über die Immatrikulation im Promotionsstudiengang Informatik eingereicht  
+werden . 
+(8) Die Fachreferentin bzw. der Fachreferent  begleitet die Promotion und berät die Doktorandin 
+bzw. den Doktoranden  in fachlichen und außerfachlichen die Promotion betreffenden Frage 
+stellungen. Die Fachreferentin bzw. der Fachreferent  bewertet zusammen mit der haupt 
+betreuenden Person den Statusvortrag gemäß § 9 und hat als Mitglied der Promotionskommission 
+vertiefte fachliche Fragen im Rahmen der Verteidigung gem äß § 12 Abs atz 3 zu stellen.  
+§ 8  
+Zusätzliche Studienleistungen  
+(1) Mit der Entscheidung über die Annahme als Doktorandin bzw. Doktorand  gem äß § 7 können 
+zusätzliche Studienleistungen als Auflagen für eine erf olgreiche Promotion festgelegt werden. Ziel 
+ist es dabei , das Promotionsvorhaben inhaltlich zu fördern und eine breite fachliche Fundierung, 
+insbesondere auf bisher noch nicht oder nur geringfügig abgedeckten Fachgebieten,  zu 
+gewährleisten.  
+(2) Liegt ein D iplom , Magister  oder Master Abschluss einer Hochschule oder das 
+Staatsexamen in einem für das Promotionsgebiet einschlägigen Studiengang mit mindestens 50 % 
+Informatik Inhalten vor, dessen Regelstudienzeit mindestens neun  Semester umfasst hat, werden 
+keine zusätzlichen Studienleistungen gefordert. Umfasste die Regelstudienzeit bei den in Satz 1 
+genannten Abschlüssen weniger als neun  Semester oder handelt es sich um einen 
+ingenieurwissenschaftlichen, naturwissenschaftlichen  oder mathematischen Diplom , Magister  
+oder Master Abschluss einer Hochschule oder das Staatsexamen mit weniger als 50  % Informatik 
+Inhalten, soll der Umfang der geforderten zusätzlichen Studienleistungen in der Regel zwischen 
+9 LP und 18 LP liegen. In al len anderen Fällen kann der Umfang der zusätzlichen Studienleistungen 
+bis zu 27 LP umfassen. Für die Bewertung des Umfanges der nach Satz 1 und 2 notwendigen 
+Informatik Inhalte und der Regelstudienzeit werden bei Master Abschlüssen der vorangegangene 
+Bache lor und der betroffene Masterstudiengang zusammen betrachtet.  
+ 
+201 (3) Die Festlegung der zusätzlichen Studienleistungen erfolgt durch den Promotionsausschuss 
+in Abstimmung mit der hauptbetreuenden Person . Die zusätzlichen Studienleistungen können aus 
+einer Pr üfung oder mehreren Teilprüfungen bestehen und sind in der Regel in deutscher Sprache 
+oder englischer Sprache zu erbringen . Die zusätzlichen Studienleistungen werden von mindestens 
+zwei  prüfenden Personen  oder von einer prüfenden Person  und einer fachkundi g beisitzenden 
+Person  abgenommen . Zu Prüferinnen und Prüfern der zusätzlichen Studienleistungen bestellt der 
+Promotionsausschuss Hochschullehr erinnen und Hochschullehrer  der Fakultät und zu fachkundig 
+beisitzenden Personen in der Regel promovierte wissenschaftliche Mitarbeitende der Fakultät . 
+(4) Die Bewertung der zusätzlichen Studienleistungen  wird von den jeweilig  prüfenden 
+Person en und gegebenenfalls der fachkundig beisitzenden Person festgesetzt. Dafür werden 
+folgende Noten verwendet : 
+1 = sehr gut  = eine besonders anzuerkennende Leistung , 
+2 = gut  = eine noch zu würdigende Leistung,  
+3 = befriedigend  = eine noch akzeptable Leistung,  
+4 = ausreichend  = eine Leistung mit größeren Mängeln  und  
+5 = nicht ausreichend  = eine nicht genügende Leistung . 
+Ist nur eine Prüfung abzulegen, muss diese mindestens mit der Note „gut“ abgeschlossen werden. 
+Werden mehrere Teilp rüfungen abgelegt, muss der Durchschnitt der Noten der Teilprüfungen 
+mindestens die rechnerische Note „gut“ erreichen. Der Durchsch nitt der Noten der Teilprüfungen  
+wird nach dem f olgend en Schema ermittelt:  
+Durchschnitt bis einschließlich 1,5  = sehr gut,  
+Durchschnitt von 1,6 bis einschließlich 2,5  = gut,  
+Durchschnitt von 2,6 bis einschließlich 3,5  = befriedigend,  
+Durchschnitt von 3, 6 bis einschließlich 4,0  = ausreichend  und 
+Durchschnitt ab 4,1  = nicht ausreichend.  
+Eine  förmliche Festsetzung der Gesamtnote findet nicht statt. Die prüfenden Personen  teilen die 
+Bewertung der Einzel  bzw. Teil prüfungen de r vorsitzenden Person  des Promoti onsausschusses 
+mit; diese gibt das Ergebnis gegenüber de r bewerbenden Person  schriftlich oder elektronisch 
+bekannt. Wurden mehrere Teilp rüfungen abgelegt, ermittelt d ie vorsitzende Person des  
+Promotionsausschuss es auch den Durchschnitt der Noten der Teilpr üfungen nach Satz 5.  
+(5) Die zusätzlichen Studienleistungen sind spätestens zwei Jahre nach der Annahme als 
+Doktorandin  bzw. Doktorand  zu erbringen. Eine Wiederholung ist ungeachtet dieser Frist innerhalb 
+eines halben Jahres nach Bekanntgabe des Prüfungsergebnisses einmal möglich, wenn die 
+geforderte Note oder der geforderte Notendurchschnitt im Erstversuch nicht erreicht wurde. Wird 
+das erforderliche Prüfungsergebnis auch nach der Wiederholung nicht erreicht, hat dies die 
+ergebnislose Beendigung des Promotionsverfahrens zur Folge. Es erfolgt die Streichung der 
+promovierenden Person von der Liste der Doktorandinnen und Doktoranden . Das gl eiche gilt, 
+wenn die zusätzlichen Studienleistungen nicht innerhalb der dafür vorgesehenen Fristen abgelegt 
+oder wiederholt werden, es sei denn, es liegen Gründe vor, aus denen das Fristversäumnis von der 
+Doktorandin  bzw. dem Doktoranden  nicht zu vertreten  ist. Die Frist zur Erbringung der 
+zusätzlichen Studienleistungen kann auf begründeten Antrag um bis zu ein Jahr vom 
+Promotionsausschuss verlängert werden.  
+  
+ 
+202 § 9  
+Statusvortrag  
+(1) Vor der Eröffnung des Promotionsverfahrens hat die Doktorandin bzw. der Dok torand einen 
+wissenschaftlichen Vortrag in deutscher oder englischer Sprache zum Stand ihrer bzw. seiner  
+Forschung auf dem entsprechenden  Arbeitsgebiet (Statusvortrag) mit anschließender Fach 
+diskussion zu halten. Ziel ist  es, das in der Dissertation angestrebte Fachgebiet fundiert 
+aufzuarbeiten , die wesentlichen offenen Fragestellungen hieraus abzuleiten  und bis dahin 
+erbrachte eigene Beiträge zur Lösung vorzustellen . Die Fachdiskussion kann dabei auch über das 
+Kerngebiet des Dissertationsthemas hinausgehen und verwandte Themenbereiche adressieren.  
+(2) Der Statusvortrag soll in der Regel ein Jahr vor der beabsichtigten Verteidigung der 
+Dissertation stattfinden. Er dauert höchstens 45 Minuten, die Gesamtdauer von Statusvortrag u nd 
+Fachdiskussion soll zwei  Stunden nicht überschreiten. Der Statusvortrag und die anschließende 
+Fachdiskussion sind fakultätsöffentlich und müssen eine Woche vor ihrem  Stattfinden in 
+geeigneter Weise angekündigt werden. Die hauptbetreue nde Person  und die Fachreferentin  bzw. 
+der Fachreferent,  gemäß § 7 Abs atz 2 Nummer  3 und Abs atz 3 Satz 3 , müssen vor Ort oder per 
+Videokonferenz anwesend sein.  
+(3) Im Anschluss an den Statusvortrag und die Fachdiskussion bewerten die h auptbetreu ende 
+Person  und die Fachrefere ntin bzw. der Fachreferent  die Gesamtleistung de r sich bewerbe nden 
+Person  mit „bestanden“ oder „nicht bestanden“  und teilen das Ergebnis der vorsitzenden Person 
+des Promotionsausschusses mit; diese gibt das Ergebnis gegenüber der sich bewerbe nden Person  
+schriftlich  oder elektronisch  bekannt. Wird der Statusvortrag nicht bestanden, kann er frühestens 
+nach drei Monaten einmal wiederholt werden. Wird der Statusvortrag erneut nicht bestanden, hat 
+dies die ergebnislose Beendigung des Promotionsverfahrens zur Fol ge. Es erfolgt die Streichung 
+der Doktorandin bzw. des Doktoranden  von der Liste der Doktorandinnen und Doktoranden.  
+§ 10  
+Eröffnung des Promotionsverfahrens  
+(1) Promotionsverfahren werden auf förmlichen Antrag der Dok torand innen und Doktoranden  
+eröffnet. Der Antrag auf Eröffnung eines Promotionsverfahrens ist  mittels des von der T echnischen 
+Universität Dresden verwendeten softwarebasierten Promovierendenmanagement System s zu 
+erstellen und schriftlich  oder elektronisch an die vorsitzende  Person  des Promotionsausschusses 
+der Fakultät zu richten. Dem Antrag sind  beizufügen:  
+1. ein tabellarischer Lebenslauf mit Darstellung des wissenschaftlichen Werdegangs,  
+2. der Bescheid über die Annahme als Doktorandin  bzw. Doktorand  gemäß § 7 in Kopie und der 
+Nachweis über die Erfüllung der dabei gegebenenfalls gemachten Auflagen , im Zweifelsfall kann 
+die Vorlage des Original s oder  einer Kopie  in amtlich beglaubigter Form  verlangt werden , 
+3. die Dissertation als ein  gebundene s Druckexemplar , in der Regel in deutscher Sprache oder in 
+englischer Sprache , sowie in elektronischer Form, sowie die elektronische Version einer 
+Kurzfassung im Umfang von ein bis drei  Seiten in deutscher Sprache oder in englischer Sprache , 
+4. ein Verzeichnis der wissenscha ftlichen Veröffentlichungen der Doktorandin  bzw. des 
+Doktorand en, aus dem in der Regel die Herausgabe von mindestens zwei internationale n 
+Publikationen mit einschlägiger Beteiligung der Doktorandin bzw. des Doktoranden  auf 
+Fachtagungen oder in Fachzeitschr iften mit Peer Review Verfahren  hervorge hen soll ,  
+5. die schriftliche oder mit mindestens fortgeschritte ner elektronischer Signatur unterzeichnete  
+Erklärung der Doktorandin  bzw. des Doktorand en nach dem in der Anlage 2 beigefügten 
+Muster , 
+ 
+203 6. ein Nachweis über die Teilnahme an einer Schulung zum Thema gute wissenschaftliche Praxis, 
+mindestens im Umfang von vier U nterrichtseinheiten,  
+7. die Erklärung darüber, dass ein an die Fakultät zu übersendendes Führungszeugnis gemäß § 30 
+Absatz 5 BZRG bei der zuständigen Melde behörde beantragt worden ist  und 
+8. der Nachweis über den erfolgreichen Abschluss de r erforderlich zu erbringenden Leistungen 
+des Promotionsstudienganges Informatik im Falle eines angestrebten Ph . D.Abschlusses ; im 
+Zweifelsfall kann die Vorlage des Nachweis es in beglaubigter Form oder im Original gefordert 
+werden.  
+Ohne Anspruch auf Berücksichtigung können dem Antrag darüber hinaus Vorschläge für die 
+Gutachter innen und Gutachter beigefügt werden. Unterlagen, die bereits Bestandteil des Antrages 
+zur Annahme als  Doktorandin  bzw. Doktorand  waren und keine Veränderungen erfordern, können 
+als gültig anerkannt werden.  
+(2) Die Rücknahme des Antrages auf Eröffnung eines Promotionsverfahrens ist statthaft, 
+solange es noch nicht eröffnet wurde. Der Antrag gilt in diesem Fall als nicht gestellt. Zeigt die 
+Doktorandin  bzw. der Doktorand  nach Eröffnung des Promotionsverfahrens an, dieses nicht weiter 
+durchführen zu wollen, hat dies die Beendigung des Promotionsverfahrens zur Folge und gilt als 
+erfolgloser Promotionsversuch.  
+(3) Der Promotionsausschuss entscheidet über die Eröffnung des Promotionsverfahrens. Die 
+hauptbetreue nde Person  kann im Vorfeld um eine ergänzende Stellungnahme hierzu gebeten 
+werden.  Die Eröffnung ist abzulehnen, wenn die Erfüllung der gegebenenfalls mit der Annahme 
+als Doktorandin  bzw. Doktorand  verbundenen Auflagen oder das Bestehen des Statusvortrages 
+gemäß § 9 oder beides nicht nachgewiesen ist. Die Eröffnung des Promotionsverfahrens ist 
+außerdem abzulehnen, wenn die persönlichen Voraussetzungen zur Fü hrung eines akademischen 
+Grades  bei der Doktorandin  bzw. de m Doktorand en nicht mehr vorliegen. Die Entscheidung ist 
+auch unter Würdigung des Führungszeugnisses nach Absatz 1 N ummer  7 zu treffen.  Die Eröffnung  
+des Promotionsverfahrens ist schließlich abzulehnen, wenn Gründe vorliegen, die darüber hinaus 
+zum Entzug des akademischen Gra des führen würden. Wird das Promotionsverfahren aus 
+Gründen nach Satz 3 bis 5 nicht eröffnet, gilt § 16. Mit der Eröffnung des Pro motionsverfahrens 
+bestellt der Promotionsausschuss die Gutachterinnen und Gutachter gemäß § 10 Absatz 6 und die 
+Promotionskommission. Die Erklärung  über die Eröffnung des Promotionsverfahrens an die 
+Doktorand in bzw.  den Doktoranden  gibt gleichzeitig Auskun ft über die Zusammensetzung der 
+Promotionskommission und über die Gutachterinnen  und Gutachter . 
+(4) Die vorsitzende Person des Promotionsausschusses überweist das Promotionsverfahren 
+nach seiner Eröffnung an die Promotionskommission zu dessen vollständiger  Weiterführung . 
+§ 11  
+Dissertation  
+(1) Mit der Dissertation wird der Nachweis zu selbstständiger wissenschaftlicher Arbeit 
+erbracht. Sie soll einen bedeutenden Beitrag zur Forschung auf dem Gebiet der Informatik 
+erbringen und muss neue wissenschaftliche Er kenntnisse enthalten.  
+(2) Die Dissertation ist in der Regel eine abgeschlossene Einzelarbeit der Doktorand in bzw.  des 
+Doktorand en. Si e kann auch aus gemeinschaftlicher Forschungsarbeit hervorgegangen sein. Eine 
+von mehreren  Personen  verfasste wissenschaftliche Arbeit kann in Ausnahmefällen als 
+Dissertation angenommen werden, sofern der individuelle Anteil der Doktorandinnen und 
+Doktorand en deutlich kenntlich gemacht, abgrenzbar und bewertbar ist. Für die Eigenschaft als 
+verfassende P erson  gilt § 8 der an der Technischen Universität  Dresden geltenden „Satzung zur 
+ 
+204 Sicherung guter wissenschaftlicher Praxis, zur Vermeidung wissenschaftlichen Fehlverhaltens und 
+für den Umgang mit Verstößen “. 
+(3) Abweichend von Absatz 2 kann im Einzelfall die Doktorandin bzw. der Doktorand  mit 
+Zustimmung der hauptbetreuenden Person und der jeweiligen  Fachreferentin  bzw. des jeweiligen 
+Fachreferenten  auch das Format der publikationsorientierten Dissertation wählen. Die se Art von  
+Dissertationsschrift u mfasst m indestens drei Publikationen von der Doktorand in bzw. de m 
+Doktorand en als alleinig verfassende Person  oder zumindest als verfassende Person Arbeiten mit 
+einem besonders signifikanten Eigenanteil , die in den letzten fünf Jahren in anerkannten 
+internationale n wissenschaftlichen Fachzeitschriften oder auf einschlägigen internationalen 
+Fachtagungen mit selektiver Annahmequote im Rahmen eines Peer Review Verfahrens publiziert 
+oder  die zumindest bereits entsprechend zur Veröffentlichung  angenommen sind  und einer 
+erweiterten Zusammenfassung  nach Abs atz 3 Nummer  3. Jede Publikation muss alle Details der 
+verwendeten wissenschaftlichen Methodik enthalten, auch Experimente, empirische Studien und 
+Beweise. Jede Publikation ist mit fortlaufender Seitennummerie rung vollumfänglich einzubinden 
+und hinsichtlich ihres Erscheinungsmediums eindeutig zu referenzieren mit Verfassenden , Verlag, 
+Erscheinungsjahr und ort, Ausgabennummer sowie originalen Seitennummern. Es obliegt der 
+Verantwortung der Doktorandin bzw. des Doktorand en die Genehmigung des jeweiligen Verlages 
+für die bei der Sächsischen Landesbibliothek  – Staats  und Universitätsbibliothek Dresden ( SLUB ) 
+erforderliche Zweitpublikation einzuholen.  
+1. Für eingebundene Publikationen mit mehreren Verfassenden  muss d ie Doktorand in bzw. der 
+Doktorand  jeweils in einer separaten Erklärung darlegen, welche Teile hiervon sie bzw. er selbst 
+im Sinne der wissenschaftlichen Urheberschaft beigetragen hat. Die Co Verfassenden  geben 
+zusätzlich eine übereinstimmende Erklärung ab.  
+2. Die Auswahl der Publikationen wird vom Promotionsausschuss im Vorfeld der Eröffnung des 
+Promotionsverfahrens überprüft.  
+3. Die eingebundenen Publikationen müssen in einem geschlossenen konzeptionellen Gesamt 
+zusammenhang dargestellt werden. Dazu ist ihnen ei n ausführlicher einleitender Teil 
+voranzustellen, in dem das Forschungsthema insgesamt eingeführt, motiviert und gegenüber 
+dem Stand der Forschung abgegrenzt wird. Ferner ist eine abschließende Zusammenfassung 
+zu ergänzen, in der die Forschungsergebnisse d er Publikationen zusammenhängend gewürdigt 
+und im Hinblick auf ihren möglichen Einfluss auf die zukünftige Forschung bewertet werden. 
+Außerdem ist jedes der auf Publikationen basierenden Kapitel durch eine geeignete Einleitung 
+und ein Fazit in den geschlos senen Gesamtzusammenhang einzubetten. Diese Textteile 
+müssen – zusätzlich zu den eingebundenen Publikationen, der Literaturliste und etwaigen 
+Anhängen – insgesamt mindestens 30 A4Seiten umfassen. Die umfassende Einbettung der 
+Publikationen in einen wissen schaftlichen Gesamtzusammenhang hat, insbesondere auch den 
+Empfehlungen des Wissenschaftsrats „Anforderungen an die Qualitätssicherung der 
+Promotion“ , den hohen  Qualitätsanspruch der Fakultät zu unterstreich en. 
+4. Zweitg utachterin nen und Zweitg utachter  gemäß  Absatz 6 einer publikationsorientierten 
+Dissertation d ürfen  nicht CoVerfassende  der eingebundenen Publikationen sein.  
+5. Mit dem Antrag auf Eröffnung des Promotionsverfahrens ist eindeutig auf die Wahl des Formats 
+einer publikationsorientierten Promotion hin zuweisen, um den Promotionsausschuss und die 
+Promotionskommission entsprechend in Kenntnis zu setzen.  
+6. Der Promotionsausschuss prüft die Einhaltung der o ben genannten  Kriterien bei Eröffnung des 
+Promotionsverfahrens.  
+(4) Die Dissertation soll in der Regel in deutscher Sprache oder englischer Sprache abgefasst 
+sein. Über Ausnahmen entscheidet der Promotionsausschuss, sofern die Doktorandin  bzw. der 
+Doktorand  dies vor der Eröffnung des Promotionsverfahrens beantragt. Das zur Anfertigung 
+verwendete Quellenmate rial sowie andere Hilfsmittel sind vollständig anzugeben. Arbeiten, die 
+ 
+205 bereits früheren Prüfungen oder Graduierungen dienten, dürfen nicht als Dissertation verwendet 
+werden.  
+(5) Mit der Abgabe einer Dissertation ist eine Versicherung ab zugeben , dass die Doktorandin 
+bzw. der Doktorand  die Regeln  der „Satzung zur Sicherung guter wissenschaftlicher Praxis, zur 
+Vermeidung wissenschaftlichen Fehlverhaltens und für den Umgang mit Verstößen“ eingehalten, 
+die Arbeit selbständig verfasst , keine anderen Quellen und  Hilfsmittel als die angegebenen 
+verwendet und eine phasenübergreifende Qualitätssicherung für sämtliche der im Rahmen der 
+Dissertation entstandenen relevanten Daten betrieben hat.  Zugleich wird erklärt  die 
+datenschutzrechtlichen Vorgaben einzuhalten und p ersonenbezogene Daten von Dritten ohne 
+deren Einwilligung nur zu veröffentlichen, soweit dies für die Darstellung von 
+Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist und überwiegende 
+schutzwürdige Interessen der betroffenen Person (en) nicht entgegenstehen.  
+(6) Die Dissertation wird von mindestens zwei  Gutachterinnen  und Gutachtern , die für die 
+wissenschaftlichen Fragestellungen ausgewiesen sind, bewertet. Die Dissertation muss von 
+mindestens einer bzw. einem externen, hauptamtlich außerhalb der Technischen Universität  
+Dresden tätigen Gutachter in bzw. Gutachter  beurteilt werden, die bzw. der nicht an der 
+inhaltlichen Betreuung der Dissertation beteiligt war und nicht im selben Institut wie d ie 
+Hauptbetreuer in bzw. de r Hauptbetreuer tätig ist. Eine Gutachterin bzw. ein Gutachter  
+(Erstgutachter in bzw. Erstgutachter ) muss eine bzw. ein nach § 60 oder § 62 SächsHSFG berufene 
+Profess orin bzw. berufener Professor d er Fakultät  Informatik der Technischen Universität Dresden 
+sein. Weitere Gutachterinnen  und Gutachter  (Zweitgutachterinnen  und Zweitgutachter  und 
+weitere bzw. externe Gutachterinnen  und externe Gutachter ) können Fachhochschul  oder 
+Juniorprofess orinnen und Fachhochschul  oder Juniorprofessoren  oder TUD Young Investigators, 
+außerplanmäßige Profess orinnen und Honorarprofess orinnen oder außerplanmäßige 
+Professor en und Honorarprofessor en jeweils mit mitgliedschaftlichen Rechten , oder Personen , die 
+mindestens habilitationsadäquate Leistungen nachweisen können, sein.  Zur Zweitg utachter in bzw. 
+zum Zweitg utachter  darf nicht  bestellt werden  wer:  
+1. vorsitzende  Person  der Promotionskommission ist , 
+2. eine  wissenschaftliche Kooperation mit der Doktorandin  bzw. dem Doktoran den oder mit der 
+hauptbetreuenden Person in den letzten drei Jahren seit Einreichung der Dissertation 
+eingegangen ist, 
+3. im selben Institut wie die hauptbetreuende Person tätig ist und  
+4. Anlass einer Befangenheit unter entsprechender Anwendung der § 21 und § 22 des Verwal 
+tungsverfahrensgesetzes , der Geschäftsordnungs  und Verfahrensgrundsätze für Hochschul 
+gremien der TU Dresden oder  der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der 
+DFG gibt.  
+In begründeten Fällen kann ein drittes Gutachten einer  Hochschullehrerin bzw. eines Hochschul 
+lehrers oder einer Gutachterin bzw. eines Gutachters mit mindestens habilitationsäquivalenten 
+Leistungen eingeholt werden. Für die Einholung  diese s dritten  Gutachtens gelten die gleichen 
+Regelungen wie für die B estellung zur Zweitgutachterin bzw. zum Zweitgutachter. Die Gutachten 
+können auch in elektronischer Form mit mindestens fortgeschrittener  elektronischer  Signatur  
+eingereich t werden . 
+(7) Die Gutachterinnen und Gutachter  empfehlen der Promotionskommission in persönlichen 
+und unabhängigen Gutachten die Annahme oder die Ablehnung der Arbeit als Dissertation. Wenn 
+die Arbeit aus Sicht einer Gutachterin bzw. eines Gutachters eine herausragende, 
+außergewöhnliche Leistung darst ellt, kann diese  bzw. dieser  zusätzlich die Vergabe einer 
+Auszeichnung vorschlagen.  Ein solcher Vorschlag soll nur erfolgen,  wenn insbesondere neben 
+einer sehr guten Publikationslage auch weitere Leistungen vorliegen, wie etwa ganz besonders 
+hochrangige Pu blikationen, der erfolgreiche Transfer der Ergebnisse in die Praxis, die 
+ 
+206 nachgewiesene breite Nutzung von Ergebnissen durch die Forschungsgemeinschaft, die 
+Patentierung wichtiger Resultate, Preise wie etwa Best Paper Awards oder andere besondere 
+Anerkennun gen. Der Auszeichnungsvorschlag ist im Gutachten unter Angabe der besonderen 
+Leistungen ausdrücklich zu begründen . Das Gutachten der Erstgutachterin bzw. des Erstgutachters 
+soll auch Aussagen zur Einhaltung der „Satzung zur Sicherung guter wissenschaftlich er Praxis, zur 
+Vermeidung wissenschaftlichen Fehlverhaltens und für den Umgang mit Verstößen“ und bei 
+experimentellen bzw. empirischen Teilen der Dissertation Aussagen zur Gewinnung und Qualität 
+der Daten enthalten.  
+(8) Die Gutachten sollen möglichst inne rhalb eines Monats, spätestens innerhalb von drei 
+Monaten bei der  vorsitzenden  Person  der Promotionskommission eingehen. Verzögert sich die 
+Erstellung der Gutachten trotz wiederholter Erinnerung über Gebühr, kann der Promotions 
+ausschuss die Bestellung der  säumigen Gutachterin  bzw. des säumigen Gutachters  widerrufen und 
+eine neue Gutachterin  bzw. einen neuen Gutachter  bestellen.  
+(9) Die eingereichte Dissertation kann, insbesondere mit Hilfe von Plagiatssoftware, auf 
+möglicherweise nicht kenntlich gemachte, übernommene Textpassagen oder sonstige nicht 
+angegebene Quellen hin überprüft werden. Die Überprüfung kann stichprobenartig oder 
+anlassbezogen erfolgen.  
+1. Im Rahmen der stichprobenartigen Überprüfung soll mindestens jede fünfte  Dissertation der 
+Fakultät, zwi schen Einreichen der Dissertation und Abschluss des Promotionsverfahrens unter 
+Zuhilfenahme einer Plagiatssoftware überprüft werden. Die zu überprüfenden Dissertationen 
+werden zufällig und anonymisiert bestimmt. Sofern ein gemeinsames Promotionsbüro besteh t, 
+erfolgt die Prüfung mittels Plagiatssoftware auf Ebene des Bereichs durch das gemeinsame 
+Promotionsbüro. Eine Beteiligung der Prüfstelle für gute wissenschaftliche Praxis ist möglich. 
+Existiert kein gemeinsames Promotionsbüro auf Bereichsebene, erfolgt die Prüfung mittels 
+Plagiatssoftware durch das  Promotionsamt der Fakultät. Das Promotionsbüro bzw. das 
+Promotionsamt informiert die Promotionskommission über das Prüfergebnis. Die vorsitzende 
+Person  der Promotionskommission beauftragt im Verdachtsfall mindestens eine bestellte 
+Gutachterin  bzw. einen bestellten Gutachter  mit der Auswertung bzw. wissenschaftlichen 
+Einschätzung der Überprüfungsergebnisse einer  Plagiatssoftware. Diese Gutachterin  bzw. 
+dieser Gutachter  kann, sofern dies für notwendig erachte t wird , zur Beurteilung weitere 
+Gutachterinnen und Gutachter nach Absatz 5 einbeziehen. Über das Ergebnis der Überprüfung 
+ist die Promotionskommission zu informieren. Bei Anzeichen von Verstößen gegen die gute 
+wissenschaftliche Praxis informiert die vorsit zende Person der Promotionskommission die 
+vorsitzende Person des Promotionsausschusses der Fakultät. Erwächst im Rahmen der 
+Überprüfung ein begründeter Verdacht auf einen Verstoß gegen die gute wissenschaftliche 
+Praxis, ist zusätzlich die Prüfstelle für gu te wissenschaftliche Praxis zu involvieren.  
+2. Hegen am Promotionsverfahren beteiligte Personen, etwa Gutachterinnen  und Gutachter , 
+Zweifel an der Erstellung der Dissertation unter Wahrung der wissenschaftlichen Redlichkeit, ist 
+die Dissertation anlassbezogen  unter Zuhilfenahme einer  Plagiatssoftware zu überprüf en. Die 
+Überprüfungsergebnisse einer  Plagiatssoftware bedürfen im Verdachtsfall einer Auswertung 
+bzw. einer wissenschaftlichen Einschätzung durch mindestens eine Gutachterin  bzw. einen 
+Gutachter . Diese  bzw. dieser  kann, sofern dies für notwendig erachtet  wird , zur Beurteilung 
+weitere Gutachterinnen und Gutachter nach Absatz 5 einbeziehen. Über das Ergebnis der 
+Überprüfung ist die Promotionskommission zu informieren. Bei Anzeichen von Verstößen 
+gegen die gute wissenschaftliche Praxis informiert die vorsitzende Person der Promotions 
+kommission die vo rsitzende Person des Promotionsausschusses der Fakultät. Erwächst im 
+Rahmen der Überprüfung ein begründeter Verdacht auf einen Verstoß gegen die gute 
+wissenschaftliche Praxis, ist zusätzlich die Prüfstelle für gute wissenschaftliche Praxis zu 
+involvieren.  
+ 
+207 3. Betroffene einer Überprüfung ihrer  Dissertation nach Nummer  1 und Nummer  2 sind darüber 
+in Kenntnis zu setzen .  
+4. Die datenschutzrechtlichen Bestimmunge n sind zu beachten. Beim Einsatz von Plagiats 
+software werden personenbezogene Daten (z.  B. des Deckblattes) bei der technischen 
+Überprüfung nicht angegeben, es sei denn, die Daten sind erforderlich, um die Einhaltung der 
+Vorgaben zur wissenschaftlichen Re dlichkeit zu überprüfen.  
+5. In Fällen des Verdachtes auf wissenschaftliches Fehlverhalten gilt für das Verfahren die „Satzung 
+zur Sicherung guter wissenschaftlicher Praxis, zur Vermeidung wissenschaftlichen Fehlverhal 
+tens und für den Umgang mit Verstößen “. 
+(10) Empfiehlt eine Gutachterin  bzw. ein Gutachter  lediglich redaktionelle Änderungen  so 
+können diese durch die Promotionskommission als redaktionelle Auflagen an die Doktorandin  
+bzw. den Doktorand en formuliert werden. D eren  Erfüllung ist v or Veröffentlichu ng und 
+Drucklegung der Dissertation unter Einbeziehung der betreffenden Gutachterin  bzw. des 
+betreffenden Gutachters  von der Promotionskommission zu prüfen. Das Ergebnis dieser Prüfung 
+wird dem Promotionsausschuss mitgeteilt. Wird die Rückgabe zur inhaltlichen Ergänzung oder 
+Umarbeitung empfohlen, so entscheidet auch darüber die Promotionskommission. In diesem Fall 
+ist die Verteidigung erst nach Wiedereinreichung der überarbeiteten Dissertation möglich. Wird in 
+der Promotionskommission hierüber kein e Einigung erzielt, so ist eine weitere Hochschullehr erin 
+bzw. ein weiterer Hochschullehrer  als Gutachterin  bzw. Gutachter  hinzu ziehen , die bzw. der auf 
+Vorschlag vom Promotionsausschuss bestellt wird. Die Promotionskommission kann eine 
+angemessene Frist b is zu sechs Monaten zur Wiedereinreichung der überarbeiteten Dissertation 
+festsetzen. Die Wiedereinreichung einer zurückgegebenen Dissertation ist nur einmal möglich. Für 
+eine wiedereingereichte Dissertation sind neue Gutachten bzw. Ergänzungen der vorlieg enden 
+Gutachten anzufordern.  
+(11) Nach Eingang aller Gutachten  werden die Dissertation und die Gutachten für die Dauer von 
+zwei Wochen in elektronischer Form an der Fakultät zugänglich gemacht und die elektronische 
+Auslage fakultätsöffentlich angezeigt. Bei Bedarf kann die Auslage auch in Papierform erfolgen. Die 
+Mitglieder des Promotionsausschusses  und der Promotionskommission sowie die übrigen 
+Hochschullehr erinnen und Hoch schullehrer  sowie Habilitierte der Fakultät haben das Recht, die 
+Dissertation und die Gutachten einschließlich der Empfehlung en der Gutachterinnen und 
+Gutachter einzusehen , innerhalb der Auslegefrist eine  Stellungnahme für oder gegen die Annahme 
+der Dissertation anzumelden und diese  innerhalb von weiteren vierzehn Tagen in schriftlich oder 
+mindestens fortgeschritten elektronisch signierter Form und mit Begründung  an die Dekanin bzw. 
+den Dekan einzureichen.  Die Kandidatin bzw. der Kandidat hat das Recht die Gutachten mit 
+Auslage an der Fakultät in elektronischer Form einzusehen.  
+(12) Nach Ablauf der Ausl age und, sofern eine Stellungnahme für oder gegen die Annahme der 
+Dissertation ordnungsgemäß angezeigt wurde, nach Ablauf der Stellungnahmefrist nach Absatz 11 
+entscheidet die Promotionskommission auf der Grundlage der Gutachten und der eingegangenen 
+Stellungnahmen  über die Annahme oder Ablehnung der Dissertation. Wird die Dissertation 
+abgelehnt, wird das Promotionsverfahren beendet; es gilt § 13 Absatz 1. Das elektronische  
+Exem plar der nicht angenommenen Dissertation verbleibt zusammen mit den Gutachten in der 
+Promotionsakte.  Das Druckexemplar wird zurückgegeben.  
+  
+ 
+208 § 12  
+Verteidigung  
+(1) Ist die Dissertation angenommen, hat die Doktorandin  bzw. der Doktorand  die mit der 
+Dissertation erzielten Ergebnisse in einem öffentlichen Vortrag darzustellen und sich in einer 
+anschließenden wissenschaftlichen Diskussion Fragen aus dem Auditorium zur Verteidigung der 
+Ergebnisse zu stellen (Verteidigung). Der Vortrag soll 45 Minuten, die Verteidigung insgesamt  zwei 
+Stunden nicht überschreiten. Die Verteidigung  kann vollständig in Präsenz  (physisch vor Ort) , 
+vollständig per Videokonferenz (virtuell) oder im Mixed Mode (hybrid) mittels Füh rung einer 
+Präsenzverteidigung unter Z uschaltung von Teilnehme nden  per Videokonferenz , erfolgen . 
+(2) Den Termin für die Verteidigung setzt die vorsitzende nde Person  der Promotions 
+kommission der Dissertation fest und lädt die Doktorandin  bzw. den Doktorand en hierzu in 
+schriftlicher Form. Die L adungsfrist beträgt zwei Wochen. Darüber hinaus lädt die vorsitzende 
+Person der Promotionskommission die Mitglieder der Promotionskommission ein und gibt den 
+Termin der Verteidigung einschließlich Ort bzw. Einwahldaten öffentlich bekannt.  
+(3) Die Verteidigung wird von der vorsitzenden  Person  der Promotionskommission geleitet. Sie 
+ist in der Regel in deutscher oder englischer Sprache durchzuführen. In Ausnahmefällen kann 
+hiervon durch Entscheidung des Promotionsausschusses abgewichen werden, wenn  die 
+Doktorandin  bzw. der Doktorand  dies im Einvernehmen mit der Promotionskommission 
+rechtzeitig bei der vorsitzenden Person des Promotionsausschusses beantragt. In der 
+wissenschaftlichen Diskussion sind alle Anwesenden frageberechtigt. Die vorsitzende Pe rson d er 
+Promotionskommission kann Fragen zurückweisen, die nicht auf die fachliche Ausrichtung auf 
+dem Gebiet der Informatik oder den wissenschaftlichen Gegenstand der Dissertation bezogen 
+sind.  
+(4) Unverzüglich nach der Verteidigung entscheidet die Promo tionskommission, ob die 
+Verteidigung bestanden ist und die Leistung der Doktorandin bzw. des Doktorand en in der 
+Verteidigung ebenfalls herausragend war . Wurde die Verteidigung nicht bestanden gilt  § 13 
+Absatz  2.  
+(5) Wurden die Dissertation angenommen und die Verteidigung bestanden  gilt das 
+Promotionsverfahren insgesamt als bestanden . Wurde von mindestens einer Gutachterin bzw. 
+einem Gutachter die Vergabe einer Auszeichnung vorgeschlagen, war die Leistung der 
+Doktorandin bzw. des Doktorand en in der Verteidi gung ebenfalls herausragend und hat die 
+Doktorandin bzw. der Doktorand außergewöhnliche wissenschaftliche Leistungen nachgewiesen, 
+kann die Promotion  insgesamt durch die Promotionskommission in geheimer Abstimmung mit 
+einfacher Mehrheit für die Vergabe ein er Auszeichnung dem Promotionsausschuss vorgeschlagen  
+werden . 
+(6) Der wesentliche  Verlauf der Verteidigung ist zu protokollieren. Die protokollführende Person 
+wird von der vorsitzenden Person der Promotionskommission bestell t; das Protokoll ist von der 
+protokollführe nden Person  und von der vorsitzenden Person der Promotionskommission zu 
+unterschreiben und in die Promotionsakte aufzunehmen.  
+§ 13  
+Wiederholung nicht bestandener  Promotionsleistungen  
+(1) Nach Beendigung des Promotionsverfahrens gemäß § 11 Absa tz 12 in Folge der Ablehnung 
+der Dissertation kann ein weiter er Promotionsversuch absolvier t werden . Hierzu kann frühestens 
+nach einem halben Jahr ein neue r Antrag auf Eröffnung des Promotionsverfahrens gemäß § 10 
+ 
+209 gestellt werden . Mit dem Antrag ist eine a ndere Dissertation oder eine grundlegend überarbeitete 
+Fassung der ersten Arbeit mit dem gleichen Thema einzureichen. Im Falle der Eröffnung des 
+Promotionsverfahrens soll diejenige Promotionskommission bestellt werden, die bereits im ersten 
+Promotionsversu ch eingesetzt war. Wird auch das zweite Promotionsverfahren erfolglos beendet, 
+sind weitere Promotionsgesuche an die Fakultät unzulässig.  
+(2) Wird die Verteidigung nicht bestanden, kann die Verteidigung auf Antrag im gleichen 
+Promotionsverfahren einmal inn erhalb eines Jahres wiederholt werden. Der Antrag kann 
+frühestens nach drei Monaten gestellt werden. Wird die Wiederholung nicht bestanden oder nicht 
+fristgemäß durchgeführt, wird das Promotionsverfahren beendet.  
+§ 14  
+Veröffentlichung der Dissertation  
+(1) Die Dissertation ist innerhalb einer Frist von einem Jahr zu veröffentlichen und in 
+angemessener Weise der wissenschaftlichen Öffentlichkeit durch Vervielfältigung und 
+unentgeltliche Übergabe an die SLUB zugänglich zu machen.  
+(2) Zur Erfüllung der Verpfli chtung nach Absatz 1 ist eine vollständige elektronische Version der 
+Dissertation an die SLUB in einem von dieser vorgegebenen , nach Möglichkeit barrierefreie n 
+Format , zu übergeben. Diese Fassung der Dissertation wird durch die SLUB mittels Open Access 
+veröffentlicht. Zusätzlich kann die Dissertation über gewerblich Verlege nde publiziert und 
+vertrieben werden, wenn die Auflagenhöhe mindestens einhundertfünfzig  Exemplare beträgt und 
+mindestens auf der Rückseite des Titelblattes der Titel der Dissertation sow ie Ort und Datum der 
+Promotion ausgewiesen sind. In diesem Falle sind fünf gedruckte Exemplare an die SLUB zu 
+übergeben, die dort unverzüglich  zur Einsicht und Ausleihe verfügbar gemacht werden.  
+(3) Wird die gesetzte Frist schuldhaft durch die Bewerbenden versäumt, so erlöschen alle durch 
+Leistungen im Promotionsverfahren erworbenen Rechte und das Promotionsverfahren  wird ohne 
+die Verleihung des akademischen Grades beendet. Die vorsitzende Person des 
+Promotionsausschusses hat die Bewerbenden hiervon schriftlich oder elektronisch in Kenntnis zu 
+setzen. Auf Antrag und nur i m besonders zu begründenden Ausnahmefall kann die Dekanin  bzw. 
+der Dekan  der Fakultät oder der Promotionsausschuss eine Überschreitung der Abgabefrist 
+genehmigen und eine Nachfrist setzen .  
+(4) Die Gewährung einer Sperrfrist, bis zu deren Ablauf eine Veröffentlichung der Dissertation 
+aufgrund von Vereinbarungen der Promov ierenden mit Dritten nicht erfolgen darf, muss schriftlich 
+mit Beantragung auf Eröffnung der Promotion gem äß § 10 Abs atz 1 beim Promotionsausschuss 
+unter Verwendung des Musters der Anlage 3 dieser Ordnung beantrag t werden . Der Antrag soll 
+eine Begründung für di e beantragte Sperrung enthalten. Der Antrag ist von der Doktorandin  bzw. 
+dem Doktorand en sowie von der hauptbetreue nden Person  zu unterschreiben. Beantragt werden 
+kann eine Sperrfrist von bis zu einem Jahr. Vor Ablauf der Frist kann im begründeten Ausnahme fall 
+eine Verlängerung der Sperrfrist um höchstens ein weiteres Jahr beantragt werden. Die 
+Entscheidung des Promotionsausschusses wird den Antragstelle nden  schriftlich bekanntgegeben. 
+Erteilt der Promotionsausschuss die Zustimmung unter Verwendung des als Anlage 4 beigefügten 
+Musters, wird diese durch die Doktorandin  bzw. den Doktorand en zusammen mit den 
+Pflichtexemplaren der Dissertationen bei der SLUB eingereicht. Damit ist die Verpflichtung zur 
+Ablieferung der Pflichtexemplare erfüllt.  
+ 
+210 § 15  
+Abschluss de s Promotionsverfahrens  
+(1) Die vorsitzende Person der Promotionskommission empfiehlt dem Promotionsausschuss 
+nach bestandenem  Promotionsverfahren die Verleihung des akademischen Grades nach § 2 
+Absatz 1.  Der Promotionsausschuss veranlasst die Ausfertigung der Promotionsurkunde und die 
+Aktualisierung der Liste der Doktorand innen und Doktoranden .  
+(2) Die Promotionsurkunde enthält neben dem Namen, Vornamen, akademischen Grad, Tag 
+und Ort der Geburt der Doktorand in bzw. des Doktorand en den Titel der Dissertation, den zu 
+verleihenden akademischen Grad und gegebenenfalls die verliehene Auszeichnung . Sie wird auf 
+den Tag der Verteidigung ausgestellt und trägt die Unterschrift der Rektorin  bzw. des Rektors  und 
+der Dekanin  bzw. des Dekan s der Fakultät sowie das Siegel der Technischen Universität Dresden.  
+(3) In einer dem Anlass gemäßen Form überreicht die Dekanin  bzw. der Dekan  der Fakultät der 
+Doktorandin  bzw. dem Doktor anden die Urkunde, sobald die Erfüllung der Verpflichtung der 
+Veröffentl ichung nach § 14 Abs atz 2 von der SLUB und daraufhin  vom Promotionsausschuss 
+bestätigt worden ist. Damit ist das Promotionsverfahren abgeschlossen. Der Abschluss des 
+Verfahrens ist der Fakultätsöffentlichkeit bekannt zu geben.  
+(4) Mit Abschluss des Promoti onsverfahrens  entsteht die Berechtigung , den mit der Urkunde 
+verliehenen akademischen Grad zu führen.  
+(5) Nach Abschluss des Promotionsverfahrens können Promotionen durch die Fakultät 
+ausgezeichnet und weitere Dissertationspreise vergeben werden. Über die  Vergabe entscheidet  
+eine vom Fakultätsrat dafür eingesetzte Kommission in einer nicht öffentlichen Sitzung. Bei der 
+Entscheidung sind neben der Dissertation und den Gutachten insbesondere auch die 
+Publikationslage , zusätzliche wissenschaftliche Leistungen  und bei Bedarf auch ein zu 
+referierender Kurzvortrag der Kandidatin bzw. des Kandidaten zu berücksichtigen.  
+§ 16  
+Abbruch des Promotionsverfahrens  
+(1) Das Promotionsverfahren kann jederzeit nach der Entscheidung über die Annahme 
+ergebnislos beendet werden, wenn Tatsachen bekannt werden, die die Verleihung des 
+akademischen Grades ausschließen. Dies gilt insbesondere für die Täuschung beim Nachweis von 
+Zulassungsvoraussetzungen oder Promotionsleistungen sowie für Umstände, die die persönlichen 
+Vorausse tzungen der Kandidatin  bzw. des Kandidaten  zur Führung des Doktorgrades betreffen. 
+Mit der ergebnislosen Beendigung des Promotionsverfahrens erlöschen alle Rechtspositionen und 
+Ansprüche, die bis dahin im Promotionsverfahren erworben wurden . Es erfolgt die  Streichung der 
+Doktorandin bzw. des Doktoranden v on der Liste der Doktorandinnen und Doktoranden. Die 
+Entscheidung über die Beendigung trifft der Promotionsausschuss nach pflichtgemäßem 
+Ermessen.  
+(2) Vor der ergebnislosen Beendigung des Promotionsverfahre ns hat eine Anhörung der 
+Doktorandin bzw. des Doktoranden durch den Promotionsausschuss zu erfolgen . In Fällen des 
+Verdachtes auf wissenschaftliches Fehlverhalten gelten für das Verfahren die Vorschriften der an 
+der Technischen Universität Dresden geltende n „Satzung zur Sicherung guter wissenschaftlicher 
+Praxis, zur Vermeidung wissenschaftlichen Fehlverhaltens und für den Umgang mit Verstößen “. 
+ 
+211 § 17  
+Entzug des akademischen Grades  
+(1) Die Verleihung des akademischen Grades  ist zu widerrufen, wenn beim Nachw eis der 
+Zulassungsvoraussetzungen oder bei der Erbringung der Promotionsleistungen getäuscht wurde  
+oder darüber hinaus Tatsachen bekannt werden, die eine Verleihung des akademischen Grades  
+ausgeschlossen hätten. Die Entscheidung trifft der Promotionsaussch uss. 
+(2) Waren die fachlichen Voraussetzungen für die Zulassung zur Promotion nicht erfüllt, ohne 
+dass hierüber getäusch t werden  wollte und wird diese Tatsache erst nach Verleihung des 
+akademischen Grades bekannt, wird dieser Mangel durch das Bestehen der Promotionsleistungen 
+geheilt.  
+(3) In Fällen des Verdachtes auf wissenschaftliches Fehlverhalten gelten für das Verfahren die 
+Vorschriften der an der Technischen Universität  Dresden geltenden „Satzung zur Sicherung guter 
+wissenschaftlicher Praxis, zur Vermeidung wissenschaftlichen Fehlverhaltens und für den Umgang 
+mit Verstößen “. 
+§ 18  
+Strukturierte Promotions programme und  
+gemeinsame binationale Promotionsverfahren  
+Die Promotion kann auch im Rahmen eines strukturierten Promotionspro gramms oder eines 
+gem einsamen binationalen Promotionsverfahren s erfolgen, soweit die Fakultät Informatik oder 
+einzelne ihrer Hochschullehr innen und Hochschullehrer  hieran beteiligt sind. Hierfür können 
+ergänzende Regelungen getroffen werden. Dabei ist sicherzustellen, dass die  Promovierenden die 
+nach dieser Promotionsordnung geforderte Qualifikation erw erben und nachweisen . Im 
+Zweifelsfall entscheidet der Promotionsausschuss, ob diese Gleichwertigkeit vorliegt.  
+§ 19  
+Ehrenpromotion  
+(1) Mit der Verleihung eines  akademischen Grad es ehrenhalber , gemäß § 2 Absatz 2, können 
+Persönlichkeiten geehrt werden, die sich besondere Verdienste um Wissenschaft, Technik, Kultur 
+und Kunst auf dem Gebiet der Informatik erworben haben und darüber hinaus der Fakultät 
+besonders verbunden sind. Die z u ehrende Persönlichkeit darf nicht hauptamtlich an der 
+Technischen Universität Dresden tätig sein.  
+(2) Ein Antrag auf Verleihung eines  akademischen Grad es ehrenhalber nach § 2 Absatz 2 kann 
+durch mindestens zwei eine Profess ur innehabenden Personen  der Fakultät mit hinreichender 
+Begründung an den Fakultätsrat gestellt werden. Eine von diesem einzusetzende Promotions 
+kommission mit mindestens fünf Hochschullehr erinnen und Hochschullehrer n als Mitgliedern, der 
+die antragstelle nden Personen nicht angeh ören, prüft die Verdienste der zu ehrenden  
+Persönlichkeit , holt mindestens zwei weitere Gutachten ein, davon mindestens eines von 
+außerhalb der T echnischen Universität Dresden, und unterbreitet dem Fakultätsrat einen 
+Entscheidungsvorschlag.  
+(3) Der Fakultä tsrat entscheidet in geheimer Abstimmung über den Antrag. Zur betreffenden 
+Sitzung des Fakultätsrates sind alle Hochschullehr erinnen und Hochschullehrer  der Fakultät 
+Informatik fristgerecht einzuladen. Stimmberechtigt sind alle dem Fakultätsrat angehörende n 
+Mitglieder und die zur Sitzung anwesenden weiteren  Hochschullehr erinnen und Hochschullehrer . 
+ 
+212 Zur Annahme des Antrags ist eine Dreiviertelmehrheit  des Fakultätsrates und eine  
+Zweidrittelmehrheit aller  Stimmberechtigten erforderlich.  
+(4) Der Beschluss des Fakultätsrates über die Verleihung eines akademischen Grad es gemäß 
+§ 2 Absatz 2 ist vom Senat zu bestätigen.  
+(5) Die Verleihung eines akademischen Grad es gemäß § 2 Absatz 2  ist durch die Aushändigung 
+einer von der Rektorin bzw. dem Rektor und von der Dekanin bzw. dem Dekan unterzeichneten 
+Urkunde in einer dem Anlass entsprechenden würdigen Form zu vollziehen. In der Urkunde sind 
+die Gründe und Verdienste in einer Kurzfassung zu nennen. Die Verleihung vollzieht die Rektorin 
+bzw. der Rektor. Dieses R echt kann der Dekanin  bzw. dem Dekan der Fakultät übertragen  werden . 
+(6) Die Verleihung  eines akademischen Grad es nach § 2 Absatz 2  ist dem Sächsischen Staats 
+ministerium für Wissenschaft , Kultur und Tourismus anzuzeigen.  
+§ 20  
+Prom otionsjubiläum  
+Die Fakultät kann die 50. Wiederkehr der Verleihung des akademischen G rades würdigen, wenn 
+dies mit Rücksicht auf die besonderen wissenschaftlichen Verdienste, die besonders enge 
+Verknüpfung der zu ehrenden  Person  mit der Fakultät oder der T echnischen Universität Dresden 
+als Ganzes, angebracht erscheint. Die Wahl des Anlasses und die Form der Ehrung ist eine 
+Angelegenheit der Fakultät. Die Entscheidung hierüber trifft der Fakultätsrat.  
+§ 21  
+Inkrafttreten , Außerkrafttreten  und Übergangsregelungen  
+(1) Diese Ordnung tritt einen Tag nach der Veröffentlichung in den Amtlichen 
+Bekanntmachungen der TU Dresden in Kraft . Mit Inkrafttreten dieser Ordnung  tritt die 
+Promotionsordnung der Fakultät Informatik  vom 23. Februar 2011  (Amtliche Bekanntmachungen 
+der TU Dresden Nr. 2/2011 vom 27. April 2011, S. 17) zuletzt geändert durch Satzung vom 
+27. Oktober 2014 ( Amtliche Bekanntmachung der TU Dresden Nr. 7/2014 vom 19. November 2014, 
+S. 51 ) außer Kraft.  
+(2) Alle nach ihrem Inkrafttr eten  mit Eintragung in die Liste der Doktorandinnen und 
+Doktoranden beginnenden Promotionsvorhaben sind auf der Grundlage dieser Ordnung 
+durchzuführen. Entscheidungen über die Annahme als Doktorandin  bzw. Doktorand , die bereits 
+vor Inkrafttreten dieser Ord nung getroffen wurden, behalten ihre Gültigkeit; darüber hinaus findet  
+diese Ordnung Anwendung. Im Zeitpunkt des Inkrafttretens dieser Ordnung bereits eröffnete 
+Promotionsverfahren werden auf der Grundlage der Bestimmungen der Promotionsordnung der 
+Fakultä t Informatik vom 23.  Februar  2011 (Amtliche Bekanntmachungen der TU Dresden 
+Nr. 2/2011 vom 27. April 2011, S. 17) zuletzt geändert durch Satzung vom 27. Oktober 2014 
+(Amtliche Bekanntmachung der TU Dresden Nr. 7/2014 vom 19. November 2014, S. 51) zu Ende 
+geführt.  
+(3) Zum  Zeitpunkt des Inkrafttretens dieser Ordnung bereits laufende Promotionsvorhaben, in 
+denen bereits über die Annahmen als Doktorandin  bzw. Doktorand  entschieden wurde, kann der 
+Promotionsausschuss bis zu sechs Monate nach Inkrafttreten dieser Ordnung mit der Eröffnung 
+des Promotionsverfahrens gemäß § 10 Absatz 3 entscheiden, dieses auf der Grundlage der 
+Bestimmungen der Promotionsordnung der Fakultät Informatik vom 23.  Februar  2011 (Amtliche 
+Bekanntmachungen der TU Dresden Nr. 2/2011 vom 27. April 2011, S. 17) zuletzt geändert durch 
+ 
+213 Satzung vom 27. Oktober 2014 (Amtliche Bekanntmachung der TU Dresden Nr.  7/2014 vom 
+19. November 2014, S. 51) zu Ende zu führen.  
+Ausgefertigt aufgrund des Beschlusses des Fakultätsrates der Fakultät Informatik vom 
+18. Januar 2023 und der Genehmigung des Rektorats vom 14. März 2023.  
+Dresden, den 21. April 2023  
+Die Rektorin  
+der Technischen Universität Dresden  
+Prof. Dr. Ursula M. Staudinger  
+  
+ 
+214 Anlage 1:   
+Hinweis zu Betreuungsvereinbarungen  
+• Ein Muster für eine Vereinbarung zur Betreuung von Doktorandinnen und Doktoranden – 
+Betreuungsvereinbarung – wird in der jeweils aktuellen Fassung und in Form eines 
+ausfüllbaren Dokumentes von der Graduiertenakademie bereitgestellt. Die 
+Musterbetreuungsvereinbarung kann unter:  
+https://tu 
+dresden.de/ga/ressourcen/dateien/mitgliedschaft/mitgliedschaftsdokumente/Betreuungs
+vereinbarung.pdf?lang=de   
+eingesehen und verwendet werden.  
+• Im Falle von Promotionen in Kooperation mit Unternehmen (Industriekooperationen) wird 
+zudem die Nutzung der von der Graduiertenakademie bereitgestellten, diesbezüglichen 
+Anlage zur Betreuungsvereinbarung empfohlen. Die Vereinbarung ergänzt die 
+Betreuungsvereinbarung und trägt zur geg enseitigen Handlungssicherheit bei. Ein 
+diesbezügliches Muster kann ebenfalls auf dem Webauftritt der Graduiertenakademie  
+https://tu 
+dresden.de/ga/ressourcen/dateien/mitgliedschaft/mitgliedschaftsdokumente/BV_Anlage_
+Industriepromotion_Formular.pdf?lang=de   
+abgerufen werden.  
+  
+ 
+215 Anlage 2:   
+Erklärungen zur Eröffnung des Promotionsverfahrens  
+Hiermit versichere ich,  dass ich die vorliegende Arbeit ohne unzulässige Hilfe Dritter und ohne 
+Benutzung anderer als der angegebenen Hilfsmittel angefertigt habe; die aus fremden Quellen 
+direkt oder indirekt übernommenen Gedanken sind als solche kenntlich gemacht.  
+Bei der Auswa hl und Auswertung des Materials sowie bei der Herstellung des Manuskripts habe 
+ich Unterstützungsleistungen von folgenden Personen erhalten: …  
+Weitere Personen waren an der geistigen Herstellung der vorliegenden Arbeit nicht beteiligt. 
+Insbesondere habe i ch nicht die Hilfe einer kommerziellen Promotionsberaterin  bzw. eines 
+kommerziellen Promotionsberaters  in Anspruch genommen. Dritte haben von mir weder 
+unmittelbar noch mittelbar geldwerte Leistungen für Arbeiten erhalten, die im Zusammenhang mit 
+dem Inhal t der vorgelegten Dissertation stehen.  Die Arbeit wurde bisher weder im Inland noch im 
+Ausland in gleicher oder ähnlicher Form einer anderen Prüfungsbehörde vorgelegt und ist auch 
+noch nicht veröffentlicht worden.  
+Ort, Datum  
+Unterschrift der Doktorandin bz w. des Doktoranden  
+  
+ 
+216 Anlage 3:   
+Antrag auf Sperrvermerk zur Dissertation  
+An 
+Fakultät Informatik  
+Promotionsaussch uss 
+Kontaktdaten der Antragstellerin bzw. des Antragstellers *  
+ 
+  
+Name  
+ Vorname  
+ 
+  
+Geburtsdatum  
+ Geburtsort und land  
+ 
+  
+Wohnanschrift  Straße und Hausnummer  Wohnanschrift – PLZ und Ort  
+ 
+  
+Telefonnummer  EMail Adresse  
+* Sollten sich meine Kontaktdaten vor Veröffentlichung der Dissertation ändern, werde ich die Fakultät 
+darüber informieren.  
+Dissertation  
+ 
+ 
+Titel der Dissertation  
+Hiermit beantrage ich  
+ Die erstmalige Sperrung der Veröffentlichung meiner Dissertationsschrift für ein Jahr ab 
+Einreichung der Pflichtexemplare bei der SLUB, bis zum ___________________________  
+ Die letztmalige Verlängerung der Sperrung um ein Jahr, bis zum _____________________  
+  
+ 
+217 Begründung des Antrags:  
+ 
+«Person.Nachname »«Person.Vorname » 
+Ich erkläre mich damit einverstanden, dass die Dissertation nach Ablauf der Frist automatisch 
+veröffentlicht wird.1 
+   
+Ort, Datum   Unterschrift der Antragstellerin bzw . des 
+Antragstellers.  
+Der obenstehende Antrag ist mit der hauptbetreuenden Person abgestimmt.  
+   
+Name, Vorname der hauptbetreuenden Person 
+der Dissertation in Druckbuchstaben  
+  Unterschrift u. Stempel der hauptbetreuenden 
+Person  
+ 
+  
+                                                        
+1 Die Bestätigung zur Veröffentlichung der Dissertation auf dem Publikationsserver der TU Dresden nach 
+Ablauf der Embar gofrist ist mit Abgabe der Belegexemplare bei der SLUB einzureichen.  
+ 
+218 Anlage 4:   
+Genehmigung des Antrags auf einen Sperrvermerk zur Dissertation  
+Der Promotionsausschuss der Fakultät Informatik stimmt dem Antrag vom #xx. Monat xxxx#  von 
+Frau/Herrn  
+________________________________________________________ zu.  
+Hiermit wird die Sperrung * der Veröffentlichung bis zum #xx. Monat xxxx#  genehmigt.  
+Nach Ablauf der Frist wird die Dissertationsschrift zur Veröffentlichung freigegeben.  
+   
+Datum   Unterschrift u. Stempel der bzw . des 
+Promotionsausschussvorsitzenden  
+* Ist mit der Abgabe der Belegexemplare bzw. der elektronischen Version der Dissertation bei der SLUB 
+miteinzureichen.  

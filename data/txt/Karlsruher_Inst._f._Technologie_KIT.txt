@@ -1,0 +1,1133 @@
+Die Forschungsuniversität  in der Hel mholtz Gemeinschaft  
+ 
+ 
+ 
+ 
+Amtliche Bekanntmachung  
+ 
+ 
+ 
+ 2017  Ausgegeben Karlsruhe, den 12 . Janua r 2017  Nr. 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  I n h a l t  Seite  
+ 
+ 
+ Promotionsordnung des Karlsruher Instituts für Technologie  67 
+ (KIT) für die KIT Fakultät für Informatik zur Erlangung des  
+ Doktorgrades der Naturwissenschaften (Dr. r er. nat.) oder  
+ der Ingenieurwissenschaften (Dr. Ing.)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+67 
+ 
+Promotionsordnung des Karlsruher Instituts für Technologie (KIT)   
+für die  KIT Fakultät für Informatik zur Erlangung des Doktorgrades der  
+Naturwissenschaften  (Dr. rer. nat.)  oder der Ingenieurwissenschaften (Dr. Ing.)  
+ 
+vom 09. Januar 2017  
+ 
+ 
+Aufgrund von § 10 Absatz 2 Ziffer 5 und § 20 Absatz 2 Satz 1 des Gesetzes über das Karlsruher 
+Institut für Technologie (KIT Gesetz  KITG) in der Fassung vom 14. Juli 2009 (GBl. S. 317 f.), 
+zuletzt geändert durch Artikel 5 des Dritten Gesetzes zur Änderung hochschulrechtlicher Vor
+schriften (3. Hochschulrechtsänderungsgesetz – 3. HRÄG) vom 01. April 2014 (GBl. S. 99, 167) 
+und § 38 Absatz 4 des Gesetzes über die Hochschulen in Baden Württemberg (La ndeshoch
+schulgesetz  LHG) in der Fassung vom 1. Januar 2005 (GBl. S. 1 f.), zuletzt geändert durch 
+Artikel 2 des Gesetzes zur Verwirklichung der Chancengleichheit von Frauen und Männern im 
+öffentlichen Dienst in Baden Württemberg und zur Änderung des Land eshochschulgesetzes 
+vom 23. Februar 2016 (GBl. S. 108, 118),  hat der KIT Senat des Karlsruher Instituts für Techno
+logie (KIT) am 19. Dezember 2016  die folgende Satzung beschlossen.  
+ 
+Der Präsident hat seine Zustimmung gemäß § 20 Absatz 2 Satz 1 KITG i.V.m. § 38 Absatz 4 
+Satz 1 LHG am 09. Januar 2017 erteilt.  
+ 
+ 
+INHALTSVERZEICHNIS  
+ 
+1. Abschnitt : Allgemeines  
+§ 1 Doktorgrad  
+§ 2 Promotionsausschuss  
+§ 3 Promotionsberechtigte  
+§ 4 Voraussetzungen für die Zulassung zur Promotion  
+§ 5 Promotion in gemeinsamer Betreuung  mit einer Fakultät einer ausländischen Universität  
+§ 6 Promotionsverfahren in Kooperation mit einer Hochschule für angewandte Wissenschaften  
+§ 7 Einbeziehung externer Doktorandinnen und Doktoranden  
+§ 8 Ombudspersonen  
+§ 9 Akteneinsicht  
+ 
+2. Abschnitt : Promo tionsverfahren  
+§ 10 Promotionsvereinbarung  
+§ 11 Annahme als Doktorandin oder Doktorand  
+§ 12 Dissertation  
+§ 13 Promotionsgespräch  
+§ 14 Antrag auf Zulassung zur Promotion (Promotionsgesuch)  
+§ 15 Eröffnung des Promotionsverfahrens  
+§ 16 Prüfungsausschuss  
+§ 17 Annahme und Beurteilung oder Ablehnung der Dissertation  
+68 
+ 
+§ 18 Mündliche Prüfung  
+§ 19 Wiederholung der mündlichen Prüfung  
+§ 20 Rücktritt von der mündlichen Prüfung  
+§ 21 Gesamtnote für die  Promotion  und Bestimmung des zu verleihenden Doktorgrades  
+§ 22 Veröffe ntlichung der Dissertation und Ablieferung der Pflichtexemplare  
+§ 23 Vollzug der Promotion und Urkunde  
+§ 24 Ungültigkeit der Promotionsleistung und Entziehung des Doktorgrades  
+ 
+3. Abschnitt: Ehrungen  
+§ 25 Ehrenpromotion  
+§ 26 Doktorjubiläum  
+ 
+4. Abschnitt: Schlussbestimmungen  
+§ 27 Inkrafttreten, Übergangsvorschrift  
+ 
+ 
+69 
+ 
+1. Abschnitt: Allgemeines  
+ 
+§ 1 Doktorgrad  
+(1) Die KIT Fakultät für Informatik  des Karlsruher Instituts für Technologie (KIT) (im Folgenden: 
+KITFakultät) verleiht aufgrund eines ordentlichen P romotionsverfahrens den akademischen Grad 
+eines Doktors der Naturwissenschaften (Dr. rer. nat.) bzw. einer Doktorin der Naturwissenschaften 
+(Dr. rer. nat.)  oder eines Doktors der Ingenieurwissenschaften (Dr. Ing.) bzw. einer Doktorin der 
+Ingenieurwissensch aften (Dr. Ing.). 
+(2) Die KIT Fakultät kann den akademischen Grad eines Doktors der Naturwissenschaften eh
+renhalber (Dr. rer. nat. h. c.) bzw. einer Doktorin der Naturwissenschaften ehrenhalber (Dr. rer. 
+nat. h. c.) oder eines Doktors der Ingenieurwissensc haften ehrenhalber (Dr. Ing. h. c.) bzw. einer 
+Doktorin der Ingenieurwissenschaften ehrenhalber (Dr. Ing. h. c.) verleihen (§ 25).  
+(3) Die KIT Fakultät kann eine am Karlsruher Institut für Technologie (KIT) in Informatik  verlie
+hene Promotionsurkunde nach A blauf von 25 Jahren erneuern (§ 2 6). 
+ 
+§ 2 Promotionsausschuss  
+(1) Der Promotionsausschuss wird vom KIT Fakultätsrat bestellt. Er setzt sich aus sieben Hoch
+schullehrern/Hochschullehrerinnen gemäß § 44 Absatz 1 Satz 1 Ziffer 1 LHG bzw. leitenden 
+Wissenschaft lern/Wissenschaftlerinnen gemäß § 14 Absatz 3 KITG der KIT Fakultät zusammen, 
+von denen mindestens ein Mitglied dem Geschäftsführenden Ausschuss der KIT Fakultät ange
+hören soll. Der KIT Fakultätsrat bestellt eine/n Vorsitzende/n und eine/n Stellvertreter /in. Die 
+Amtszeit der Mitglieder beträgt zwei Jahre. Wiederbestellung ist zulässig.  
+(2) Bei Sitzungen des Promotionsausschusses im Zusammenhang mit wissenschaftlichem  Fehl
+verhalten ist eine Ombudsperson nach den „Regeln zur Sicherung guter wissenschaftlich er Pra
+xis am Karlsruher Institut für Technologie (KIT)“  mit beratender Stimme hinzuzuziehen.  
+ 
+§ 3 Promotionsberechtigte  
+(1) Hochschullehrer /innen gemäß § 44 Absatz 1 Satz 1 Ziffer 1  LHG, leitende Wissenschaftler/ 
+innen gemäß § 14 Absatz 3 KITG  und Privatd ozenten/Privatdozentinnen  sind grundsätzlich be
+rechtigt, a n Promotionsverfahren mitzuwirken.  
+(2) Die Mitwirkung a n Promotionsverfahren kann darüber hinaus (Nachwuchs ) Wissenschaft
+lern/Wissenschaftlerinnen des Karlsruher Instituts für Technologie (KIT), d enen der Status ei
+nes/einer „KIT Associate Fellow“ vergeben wurde, gestattet werden. Das Verfahren sowie Rech
+te und Pflichten des/der „KIT Associate Fellow“ richten sich nach der „ Verfahrensordnung des 
+Karlsruher Instituts für Technologie ( KIT) zur Erricht ung des Status eines „KIT Associate Fel
+low““. 
+(3) Als Betreuer/ in oder Referent/ in im Sinne des § 1 6 Absatz 3 können auch Professo
+ren/Professorinnen der Hochschulen für angewandte Wissenschaften oder der Dualen Hoch
+schulen Baden Württemberg (DHBW) bestel lt werden.  Die Bestellung als Betreuer/ in erfolgt im 
+Rahmen der Mitunterzeichnung der Promotionsvereinbarung durch ein promotionsberechtigtes 
+Mitglied der KIT Fakultät gemäß § 10 Satz 2.   
+(4) Die Mitwirkungsrechte der Hochschu llehrer/ innen gemäß § 44 Abs atz 1 Satz 1 Ziffer 1 LHG 
+und der leitenden Wissenschaftler/ innen gemäß § 14 Absatz 3 KITG werden durch Emeritie
+rung, Pensionierung bzw. Eintritt in die Rente nicht berührt. Andere Promotionsberechtigte, die 
+nicht mehr am KIT tätig sind, können in der Reg el bis zu vier Semester nach ihrem Ausscheiden 
+im Promotionsverfahren mitwirken. § 6 Absatz 8 der „ Verfahrensordnung des Karlsruher Instituts 
+70 
+ 
+für Technologie (KIT) zur Errichtung des Status eines „KIT Associate Fellow ““ bleibt hiervon un
+berührt.  
+(5) Ist von einem/einer Promotionsberechtigten der KIT Fakultät eine Promotionsvereinbarung 
+gemäß § 10 geschlossen worden und endet danach dessen/deren Mitgliedschaft bei der KIT 
+Fakultät, gilt er/sie in dem Promotionsverfahren, für  das die Promotionsvereinbarung a bge
+schlossen  wurde, bis zu dessen Abschluss, höchstens  jedoch für die Dauer von  zwei Jah
+ren seit Beendigung der Mitgliedschaft, weiterhin als Promotionsberechtigte/r der  KITFakultät im 
+Sinne  dieser  Promotionsordnung. Der Promotionsausschuss kann die Höchs tdauer gemäß Satz 
+1 auf schriftlichen Antrag des/der Promotionsberechtigten gemäß § 3 verlängern.  
+ 
+§ 4 Voraussetzungen für die Zulassung zur Promotion  
+(1) Voraussetzung für die Zulassung zur Promotion ist, soweit nicht in den nachfolgenden Absät
+zen abweic hende Regelungen getroffen werden, dass der/die Kandidat/ in einen 
+a) Masterstudiengang ,  
+b) Studiengang an einer Universität oder Pädagogischen Hochschule mit einer mindestens 
+vierjährigen Regelstudienzeit  
+oder eine n 
+c) auf einen grundständigen Studiengang aufbaue nden Studiengang an einer Universität, 
+Pädagogischen Hochschule oder einer anderen Hochschule mit Promotionsrecht   
+in Informatik mit der Gesamtnote gut oder besser abgeschlossen o der die Überdurchschnittlich
+keit des Abschlusses nachgewiesen hat.   
+(2) Ein S tudienabschluss an einer ausländischen, einer Universität gleichgestellten staatlichen 
+oder staatlich anerkannten Hochschule, der den in Absatz 1 oder Absatz 3 genannten Anforde
+rungen entspricht, wird von dem/der Vorsitzenden des  Promotionsausschuss es in A bstimmung 
+mit den übrigen Mitgliedern des Promotionsausschusses  unter Berücksichtigung der jeweils gel
+tenden Empfehlungen der Zentralstelle für ausländisches Bildungswesen über die Gleichwertig
+keit der Studienabschlüsse als gleichwertig anerkannt. In Zweif elsfällen ist eine Stellungnahme 
+der Zentralstelle für ausländisches Bildungswesen einzuholen. Der /die Vorsitzende des Promoti
+onsausschusses kann in Abstimmung mit den übrigen Mitgliedern des  Promotionsausschuss es 
+Ergänzungsleistungen gemäß Absatz 4 festse tzen.  
+(3) Auf begründeten schriftlichen Antrag des Kandidaten/  der Kandidatin kann vo n dem/der Vor
+sitzenden des Promotionsausschuss es in Abstimmung mit den übrigen Mitgliedern des Promoti
+onsausschusses  ein Studienabschluss in einem anderen Fach als Informa tik als Voraussetzung 
+für die  Zulassung zur Promotion anerkannt werden , sofern die übrigen Voraussetzungen des 
+Absatzes 1 erfüllt sind . Der/die Vorsitzende des  Promotionsausschuss es prüft in Abstimmung 
+mit den übrigen Mitgliedern des Promotionsausschusses die Äquivalenz der nachgewiesenen 
+Studien  und Prüfungsleistungen mit den Anforderungen des Absatzes 1 und legt gemäß Absatz 
+2 Satz 3 gegebenenfalls erforderliche Ergänzungsleistungen gemäß Absatz 4 fest. Der/die Kan
+didat /in hat die für die Arbeit an der Dissertation nötigen Vorkenntnisse nachzuweisen. Der An
+trag auf Anerkennung und Prüfung der Äquivalenz der nachgewiesenen Studien  und Prüfungs
+leistung ist entweder mit dem Antrag auf Annahme als Doktorandin oder Doktorand gemäß § 11 
+oder spätestens 12 Mon ate vor dem Promotionsgesuch gemäß § 1 4 bei dem/der Vorsitzenden 
+des Promotionsausschusses zu stellen.  
+(4) Die Zulassung zur Promotion kann in den Fällen der Absätze 2 und 3 zum Nachweis der wis
+senschaftlichen Qualifikation des Absolventen/  der Absolventi n an gemäß Absatz 2 Satz 3  zu 
+bestimmende Bedingungen in Form von Ergänzungsleistungen geknüpft werden. Die Ergän
+zungsleistungen, die sich an den Erfordernissen des Faches orientieren, dürfen den Umfang von 
+71 
+ 
+30 Leistungspunkten nicht überschreiten. Die Bedi ngungen müssen vor der Zulassung zum 
+Promotionsverfahren erfüllt sein.  
+(5) Besonders qualifizierte Absolventen/Absolventinnen von Bachelorstudiengängen  und 
+Staatsexamensstudiengängen , die nicht unter Absatz 1 fallen, können zur Promotion zugelas
+sen werden,  wenn in einem Eignungsfeststellungsverfahren gemäß Absatz 6 der Nachweis er
+bracht worden ist, dass die Qualifikation zu wissenschaftlicher Arbeit im Promotionsfach vorhan
+den ist . Dasselbe gilt für besonders qualifizierte Absolventen/Absolventinnen eines D iplomstu
+dienganges in Informatik  von Fachhochschulen und Berufsakademien mit einer mit hervorra
+gendem Ergebnis bestandenen Abschlussprüfung.  
+(6) Zum Nachweis ihrer wissenschaftlichen Qualifikation haben Absolventen/Absolventinnen 
+gemäß Absatz 5, sofern di e Promotion beabsichtigt ist, erfolgreich Prüfungen, welche Lehr
+veranstaltungen im Umfang von 60 Leistungspunkten zugeordnet sind, zu absolvieren , an zwei 
+Seminaren teilzunehmen sowie eine Studienarbeit, die ihrem wissenschaftlichen Gehalt nach 
+einer Maste rarbeit in einem Studiengang der KIT Fakultät für Informatik  gleichwertig ist,  anzu
+fertigen. Die Inhalte der Prüfungen und der Studienarbeit werden vom Promotionsausschuss  
+festgelegt. Eine Abschlussarbeit an einer Universität, Hochschule für angewandte Wis sen
+schaften bzw. Fachhochschule oder Berufsakademie kann vom Promotionsausschuss als Stu
+dienarbeit anerkannt werden, sofern sie ihrem wissenschaftlichen Gehalt nach einer Master
+arbeit in einem Studiengang der KIT Fakultät für Informatik gleichwertig ist. F ür die Prüfungen 
+sowie für die Anfertigung  und Beurteilung der Studienarbeit gelten die einschlägigen Vorschrif
+ten der „ Studien  und Prüfungsordnung des Karlsruher Instituts für Technologie (KIT) für den 
+Masterstudiengang Informatik “. Ein gesondertes Zeugn is über den erfolgreichen Nachweis der 
+wissenschaftlichen Qualifikation wird nicht ausgestellt. Das Verfahren zum Nachweis der wis
+senschaftlichen Qualifikation soll innerhalb von vier Semestern abgeschlossen sein. Auf 
+schriftlichen Antrag kann der Promotio nsausschuss diese Frist verlängern. Wird das Verfah
+ren nicht innerhalb dieses Zeitraums erfolgreich abgeschlossen, ist der Nachweis der Qualifi
+kation zu wissenschaftlicher Arbeit gemäß Absatz 5 nicht erbracht.  
+(7) Der Promotionsausschuss kann in begründete n Ausnahmefällen auf schriftlichen Antrag 
+des Kandidaten/  der Kandidatin Befreiung von den Voraussetzungen der Absätze 1 bis 6 ertei
+len. 
+ 
+§ 5 Promotion in gemeinsamer Betreuung mit einer Fakultät einer ausländischen  
+Universität  
+ 
+(1) Ein Promotionsverfahre n kann in gemeinsamer Betreuung mit einer Fakultät einer ausländi
+schen Universität durchgeführt werden, um dem Doktoranden/der Doktorandin interkulturelle 
+Kompetenz zu vermitteln und eine Auseinandersetzung mit verschiedenen Wissenschaftssyste
+men und Hochs chulkulturen zu ermöglichen.  
+(2) Der/die Doktorand/ in wird von beiden Fakultäten zur Promotion angenommen und vo n je
+weils einem/einer Betreuer/ in betreut. Die gemeinsame Betreuung regeln die beteiligten Univer
+sitäten in einer Vereinbaru ng, die jeweils d er/die Rektor/ in bzw. Präsident/ in und der/die Be
+treuer /in des Doktoranden/  der Doktorandin der kooperierenden Universitäten unterzeichnen. 
+Diese Vereinbarung bedarf der Zustimmung durch den KIT Fakultätsrat. In der Vereinbarung 
+kann abweichend von den übrigen Vorschriften dieser Promotionsordnung insbesondere gere
+gelt werden:  
+1. die Zusammensetzung des Prüfungsausschusses,  
+2. die Sprache, in welcher die Dissertation zu verfassen und die mündliche Prüfung abzule
+gen ist,  
+72 
+ 
+3. die Notenskala der Bewertung de r Promotionsleistungen,  
+4. die Veröffentlichung der Dissertation.  
+(3) Die Universitäten verleihen den Doktorgrad gemeinsam. Der Doktorgrad darf nur alternativ in 
+der deutschen oder in der ausländischen Form geführt werden. Die beiden Universitäten stellen 
+jeweils eine eigene Promotionsurkunde aus. Auf beiden Promotionsurkunden wird vermerkt, 
+dass es sich um ein binationales Promotionsverfahren handelt und die Promotionsurkunde nur in 
+Verbindung mit der jeweils anderen Urkunde gilt.   
+ 
+§ 6 Promotionsverfahre n in Kooperation mit einer Hochschule für angewandte Wissen
+schaften  
+Wirken das Karlsruher Institut für Technologie (KIT) und eine Hochschule für angewandte Wis
+senschaften beim Promotionsverfahren zusamm en, werden die Hochschullehrer/ innen der 
+Hochschulen für angewandte Wissenschaft en als Betreuer/ in und Prüfer/ in mit gleichen Rech
+ten und Pflichten beteiligt. Dies gilt insbesondere in Promotionskollegs, in denen die Promotions
+leistung gemeinsam betreut wird. Die weitere Ausgestaltung der Kooperation oblie gt der jeweili
+gen Vereinbarung.  
+ 
+§ 7 Einbeziehung externer Doktorandinnen und Doktoranden  
+Externe Doktoranden/Doktorandinnen sind Doktoranden/Doktorandinnen, die ohne Beschäfti
+gungsverhältnis am KIT und ohne unmittelbare Anbindung an eine Organisationsein heit des KIT 
+an ihrer Dissertation am KIT arbeiten. Sie werden in die Arbeitsgruppe des Betreuers/  der Be
+treuerin eingebunden, z.B. durch Beteiligung an Doktoranden  oder Forschungsseminaren oder 
+die Teilnahme an Konferenzen und Sommerschulen.  
+ 
+§ 8 Ombudsp ersonen  
+Ergeben sich im Laufe des Promotionsverfahrens Konflikte oder Streitfälle zwischen Doktorand /
+in und Betreuer /in, so können sich beide Seiten an die vom KIT Senat bestellten Ombudsper
+sonen werden. Auf die „Satzung zur Bestellung von Ombudspersonen  für Doktorandinnen und 
+Doktoranden sowie Betreuerinnen und Betreuer des Karlsruher Instituts für Technologie (KIT)“ 
+wird verwiesen.  
+ 
+§ 9 Akteneinsicht  
+Für das Recht auf Akteneinsicht gelten die gesetzlichen Regelungen, insbesondere § 29 Verwal
+tungsverfahr ensgesetz für Baden Württemberg  (Landesverwaltungsverfahrensgesetz – 
+LVwVfG).  
+ 
+2. Abschnitt: Promotionsverfahren  
+ 
+§ 10 Promotionsvereinbarung  
+Zwischen dem Doktoranden/der Doktorandin und einem/einer Promotionsberechtigten  gemäß § 
+3 als Betreuer/ in wird ei ne schriftliche Promotionsvereinbarung mit den Mindestinhalten nach § 
+38 Absatz 5 Satz 3 LHG geschlossen. Ist der/die Betreuer /in nicht Mitglied der KIT Fakultät, so 
+ist die Promotionsvereinbarung von einem/einer weiteren Promotionsberechtigten zu unterze ich
+73 
+ 
+nen, der/die Mitglied der KIT Fakultät ist . Der/die Promotionsberechtigte gemäß Satz 2 ist neben 
+dem/der Betreuer/ in gemäß Satz 1 ebenfalls Betreuer /in des Doktoranden/der Doktorandin.   
+ 
+§ 11 Annahme als Doktorandin oder Doktorand  
+(1) Wer die Vorausse tzungen für die Zulassung zur Promotion gemäß § 4 erfüllt und die Promo
+tion beabsichtigt, soll beim Promotionsausschuss schrift lich die Annahme als Doktorand/ in be
+antragen.  
+(2) Der Antrag muss enthalten:  
+1.  Den/die Nachweis/e gemäß § 4,  
+2. eine Darstellu ng des beruflichen und wissenschaftlichen Werdeganges des Kandida
+ten/der Kandidatin,  
+3.  Angaben über das beabsichtigte Arbeitsgebiet oder das Thema der Dissertation,  
+4.  eine schriftliche Erklärung gemäß Anlage 5a dieser Promotionsordnung,  
+5. eine Kopie der Promotionsvereinbarung gemäß  § 10,  
+6.  den Nachweis der erfolgten Registrierung als Doktorand /in beim Karlsruhe House of  
+Young Scientists  (KHYS) , 
+7. die Angabe des angestrebten Doktorgrades (Doktor/ in der Naturwissenschaften (Dr. rer. 
+nat.) oder Do ktor/in der Ingenieurwissenschaften (Dr. Ing.) und  
+8. die Promotionsurkunde, sofern dem  Doktoranden /der Doktorandin bereits ein Doktorgrad 
+verliehen wurde.  
+(3) Der Promotionsausschuss entscheidet in der Regel innerhalb von vier Wochen ab Eingang 
+des Antra gs über die Annahme als Doktorand/ in. Die Annahme als Doktorand /in ist die
+sem/dieser schriftlich und mit einer Rechtsbehelfsbelehrung versehen bekanntzugeben.  Mit der 
+Annahme als Doktorand/ in verpflichtet sich die KIT Fakultät, soweit möglich, zur wisse nschaftli
+chen Betreuung des Doktoranden/der Doktorandin.  
+(4) Der Promotionsausschuss lehnt die Annahme als Doktorand /in durch Beschluss ab, wenn  
+1. das für die Dissertation gewählte Arbeitsgebiet oder Thema nicht in den 
+Zuständigkeitsbereich der KIT Fakultä t fällt oder  
+2. ein Ablehnungsgrund nach § 1 5 Absatz 2 Satz 1 vorliegt.  
+Eine ablehnende Entscheidung ist dem Kandidaten/der Kandidatin schriftlich, begründet und mit 
+einer Rechtsbehelfsbelehrung versehen bekanntzugeben. Zuvor ist ihm/ihr Gelegenheit zu ge
+ben, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.  
+(5) Die Annahme als Doktorand /in kann vom Promotionsausschuss mit Auflagen versehen wer
+den, sofern einzelne Voraussetzungen für die Zulassung zur Promotion gemäß § 4 noch zu er
+füllen sind . Die Erfüllung der Auflagen wird vom Promotionsausschuss festgestellt und dem Dok
+toranden/der Doktorandin schriftlich mitgeteilt. Werden die Auflagen nicht, insbesondere nicht 
+fristgerecht erbracht, kann die Annahme vom Promotions ausschuss zurückgenommen werden;  
+Absatz 4 Sätze 2 und 3 finden Anwendung.  
+(6) Wird innerhalb eines Zeitraumes von vier Jahren ab Annahme als Doktorand /in von die
+sem/dieser kein Promotionsgesuch gemäß § 1 4 gestellt, endet der Status als Doktorand /in. Die 
+Verpflichtung nach Absat z 3 Satz 3 ist damit beendet. Der Status als Doktorand /in kann vom 
+Promotionsausschuss auf schriftlichen Antrag des Doktoranden/der Doktorandin verlängert wer
+den. 
+74 
+ 
+(7) Kann der/die Betreuer/ in aus wichtigem Grund seine/ihre Aufgabe nicht mehr wahrnehmen, 
+bestellt der Promotionsausschuss nach Anhörung des Kandidaten/  der Kandidatin nach Mög
+lichkeit binnen eines Monats eine/n andere/n fachkompetente /n Promotionsberechtigte/n gemäß 
+§ 3 der KIT Fakultät als Betreuer/ in.  
+ 
+§ 12 Dissertation  
+(1) Die Dissertatio n muss ein wissenschaftliches Thema aus den Arbeitsbereichen der KIT 
+Fakultät behandeln. Sie hat die Befähigung zu selbstständiger wissenschaftlicher Arbeit und zu 
+klarer Darstellung der Ergebnisse nachzuweisen. Die Dissertation soll einen wissenschaftlich en 
+Erkenntnisfortschritt erbringen und das Thema in inhaltlich zusammenhängender Weise darstel
+len. 
+(2) Die Dissertation ist in deutscher oder englischer Sprache abzufassen.  
+(3) Die Dissertation kann auch auf Vorveröffentlichungen oder zur Veröffentlichung  eingereich
+ten Arbeiten basieren. Sie muss zu einem einer monographischen Dissertation entsprechenden 
+Erkenntnisfortschritt beitragen und den übrigen Anforderungen nach Absatz 1 entsprechen. Die 
+Vorveröffentlichungen oder die zur Vorveröffentlichung einger eichten Arbeiten müssen in einem 
+thematisch kohärenten Zusammenhang stehen und dürfen in die Dissertation einbezogen wer
+den, sofern der/die Doktorand/ in alleinige/r Autor /in ist oder im Rahmen einer Mitautorenschaft 
+einen signifikanten Teil selbstständig  erbracht hat. Neben den Vorveröffentlichungen oder den 
+zur Vorveröffentlichung eingereichten Arbeiten müssen diese in einen inhaltlichen Zusammen
+hang gestellt werden. Eine alleinige Aneinanderreihung von Vorveröffentlichungen oder zur Vor
+veröffentlichung eingereichten Arbeiten genügt nicht. Es muss deutlich erkennbar sein, welche 
+Teile der Dissertation bereits veröffentlicht bzw. zur Veröffentlichung eingereicht wurden. Ist der 
+Doktorand/  die Doktorandin Mitautor/ in gemäß Satz 3, ist die selbstständige Er bringung eines 
+signifikanten Teils in Ziffer 6 der Anlage 5b dieser Promotionsordnung zu versichern .  
+(4) Als Dissertation kann grundsätzlich nur eine Arbeit angenommen werden, die zuvor weder 
+ganz noch in wesentlichen Teilen zum Erwerb einer studienabschl ießenden Qualifikation gedient 
+hat. Über begründete Ausnahmen entscheidet der Promotionsausschuss auf schriftlichen Antrag 
+des Doktoranden/der Doktorandin.  
+ 
+§ 13 Promotionsgespräch  
+(1) Der/die Doktorand/ in hat allen Hochschullehrern/Hochschullehrerinnen g emäß § 44 Absatz 1 
+Satz 1 Ziffer 1 LHG und leitenden Wissenschaftlern/Wissenschaftlerinnen gemäß § 14 Absatz 3 
+KITG der KIT Fakultät die Gelegenheit zu einem in der Regel 30 minütigen Gespräch über 
+sein/ihr Promotionsvorhaben zu geben (Promotionsgespräch).  Das Promotionsgespräch soll in 
+dem Semester stattfinden, welches dem Semester, in dem das Promotionsgesuch gemäß § 14 
+gestellt wird, vorangeht.  
+(2) Das Promotionsgespräch dient der Qualitätssicherung der Promotionsverfahren in der KIT 
+Fakultät sowie der g egenseitigen Information der Forschungsgruppen.  
+(3) Das Gesuch um ein Promotionsgespräch ist mittels des von der KIT Fakultät eingerichteten  
+Verfahrens an die Hochschullehrer /innen gemäß § 44 Absatz 1 Satz 1 Ziffer 1 LHG und leiten
+den Wissen schaftler/ innen gemäß § 14 Absatz 3 der KIT Fakultät zu richten. Dem Gesuch ist 
+eine kurze Zusammenfassung der Dissertation beizufügen.  
+(4) Über Ausnahmen von den Voraussetzungen des Absatzes 1 oder 3 entscheidet der Promoti
+onsausschuss auf schriftlichen Antrag des D oktoranden/der Doktorandin.  
+ 
+75 
+ 
+§ 14 Antrag auf Zulassung zum Promotionsverfahren (Promotionsgesuch)  
+(1) Wer die Voraussetzungen für die Zulassung zur Promotion  gemäß § 4 erfüllt, kann die Zu
+lassung zum Promotionsverfahren beantragen. Der Antrag ist schriftl ich an den/die Vorsitzen
+de/n des Promotionsausschusses  zu richten. Die vorhergehende Annahme als Doktorand /in ist 
+nicht erforderlich.  
+(2) Dem Antrag sind beizufügen:  
+1. Die Nachweise und Unterlagen gemäß § 11 Absatz 2 Ziffern 1 , 2 und 8 , 
+2. die Dissertation in  fünffacher  Ausfertigung  sowie eine elektronische Fassung der 
+Dissertation,  
+3. eine eidesstattliche Versicherung gemäß Anlage 3 dieser Promotionsordnung,  
+4. ein vo n dem/der  Antragsteller /in unterzeichnetes Exemplar der vom KIT zur Verfügung 
+gestellten Belehrung  über die Bedeutung und die strafrechtlichen Folgen der 
+eidesstattlichen Versicherung gemäß Anlage 4  dieser Promotionsordnung,  
+5. eine schriftliche Erklärung gemäß Anlage 5b dieser Promotionsordnung, die insbesondere 
+beinhaltet, dass die „ Regeln zur Sicherung  guter wissenschaftlicher Praxis am Karlsruher 
+Institut für Technologie (KIT) “ beachtet wurden,  
+6. eine Liste aller wissenschaftlichen Veröffentlichungen des Bewerbers/  der Bewerberin,  
+7. eine Erklärung im Sinne des § 1 8 Absatz 8 Satz 1, ob bei der mündlichen Pr üfung die 
+Fakultätsöffentlichkeit zugelassen werden soll  
+8. die Angabe des angestrebten Doktorgrades (Doktor/ in der Naturwissenschaften (Dr. rer. 
+nat.) oder Doktor/ in der Ingenieurwissenschaften (Dr. Ing.) und  
+9. Vorschläge für Referenten/Referentinnen im Sinn e des § 1 6 Absatz 3 .  
+(3) Ein/e Doktorand /in, der/die in einem früheren Promotionsverfahren erfolglos geblieben ist, 
+darf ein neues Promotionsgesuch nur einmal, frühestens ein Jahr nach Bekanntgabe der Erfolg
+losigkeit im vorangegangenen Promotionsverfahre n, einreichen. Die erneute Einreichung einer 
+früher abgelehnten Dissertation ist nicht zulässig, sofern die erneut eingereichte Fassung mit der 
+zuvor eingereichten Fassung identisch ist. Die Einreichung einer überarbeiteten Fassung der  
+zuvor abgelehnten Di ssertation  ist zulässig.  
+(4) Solange kein ablehnendes Gutachten eines Referenten/  einer Referentin über die Dissertati
+on vorliegt, kann der/die Doktorand /in das Promotionsgesuch zurückziehen. In diesem Fall gilt 
+das Promotionsgesuch als nicht gestellt.  
+ 
+§ 15 Eröffnung des Promotionsverfahrens  
+(1) Der/die Vorsitzende des Promotionsausschusses  prüft die eingereichten Promotionsunterla
+gen im Sinne des § 1 4 Absatz 2 und stellt fest, ob das Thema der Dissertation in den Zuständig
+keitsbereich der KIT Fakultät fä llt. Sind diese Voraussetzungen erfüllt, wird das Promotionsv er
+fahren vom Promotionsausschuss eröffnet, es sei denn, er beschließt das Vorliegen eines Ab
+lehnungsgrundes gemäß Absatz 2. Die Eröffnung des Promotionsverfahrens wird dem Dokto
+randen/der Doktora ndin schriftlich bekanntgegeben.  
+(2) Der Promotionsausschuss lehnt die Eröffnung des Promotionsverfahrens durch Beschluss 
+ab, wenn  
+1. die Voraussetzungen für die Zulassung zur Promotion gemäß § 4 nicht vorliegen,  
+2. sich kein/e Promotionsberechtige/r gemäß  § 3 der KIT Fakultät für das Gebiet der Disser
+tation für fachlich zuständig erklärt,  
+76 
+ 
+3. der/die Antragsteller /in bereits mehr als einen erfolglosen Promotionsversuch unternom
+men hat,  
+4. ein Doktorgrad aus gesetzlichen Gründen entzogen wurde,  
+5. Gründe vorl iegen, die nach den gesetzlichen Bestimmungen die Entziehung des Doktor
+grades rechtfertigen,  
+6. der/die Antragsteller /in wegen eines erheblichen Verstoßes gegen die Grundsätze guter 
+wissenschaftlicher Praxis einer Promotion nicht würdig ist,  
+7. dem/der Antragsteller /in bereits der gemäß § 14 Absatz 2 Ziffer 8 angestrebte oder gemäß 
+§ 21 Absatz 1 Satz 2 zu bestimmende Doktor grad verliehen wurde oder  
+8. ein entgeltliches Vertragsverhältnis des Antragstellers/der Antragstellerin , das eine gewerb
+liche Prom otionsberatung zum Gegenstand hat und zur Unselbstständigkeit zumindest ei
+ner Promotionsleistung führen kann, besteht oder bestand.  
+Erfolgt eine Ablehnung, finden § 11 Absatz 4 Sätze 2 und 3 Anwendung.  
+ 
+§ 16 Prüfungsausschuss  
+(1) Ist das Promotionsverfahr en eröffnet, bestellt der/die Vorsitzende des Promotionsausschus
+ses den Prüfungsausschuss. Dieser besteht aus zwei Mitgliedern des Promotionsausschusses, 
+den Referenten/Referentinnen  sowie einem/einer weiteren Prüfenden. Die/der weitere Prüfende 
+muss Promo tionsberechtigte/r gemäß § 3 Absatz 1 der KIT Fakultät sein. Der Prüfungsaus
+schuss soll so zusammengesetzt sein, dass mehrere Institute der KIT Fakultät vertreten sind.  
+(2) Der/die Vorsitzende des Promotionsausschusses bestimmt eines der beiden Mitglieder des 
+Promotionsausschusses gemäß Absatz 1 Satz 2 zu dem/der Vorsitzenden des Prüfungsaus
+schusses und das andere Mitglied des Promotionsausschusses zu dem/der stellvertretenden 
+Vorsitzenden des Prüfungsausschusses.  
+(3) Es werden zwei Referenten/Referentinne n bestellt. Als Referent /in kann jede/r fachlich zu
+ständige Promotionsberechtigte /r gemäß  § 3 bestellt werden. Mindestens eine/r der Referen
+ten/Referentinnen muss Mitglied der KIT Fakultät sein. Die Einschränkung des § 7 Absatz 3 der 
+„Verfahrensordnung de s Karlsruher Instituts für Technologie ( KIT) zur Errichtung des Status ei
+nes „KIT Associate Fellow ““ findet keine Anwendung. Der/die Vorsitzende des Prüfungsaus
+schusses darf nicht zum Referenten/zur Referentin bestellt werden.  
+(4) Wenn es die Dissertation,  insbesondere wegen ihrer Interdisziplinarität oder thematischen 
+Breite, erfordert, bestellt der/die Vorsitzende des Promotionsausschusses  eine/n weitere/n Pro
+motionsberechtigte/n gemäß § 3 als weitere/r Referentin/Referenten, der/die dann auch Mitglied 
+des Prüfungsausschusses ist. Wird ein/e weitere/r Referent/ in bestellt, hat der/die Doktorand/ 
+in, bei dem/der Vorsitzenden des Promotionsausschusses ein weiteres Exemplar der Dissertati
+on zum Zwecke der Weiterleitung an den weiteren Referenten/  die weitere  Referentin abzulie
+fern. 
+ 
+§ 17 Annahme und Beurteilung oder Ablehnung der Dissertation  
+(1) Jede /r Referent/ in legt dem Promotionsausschuss spätestens drei Monate nach Erhalt der 
+Dissertation jeweils ein unabhängiges und begründetes Gutachten über die Diss ertation vor.  
+(2) Die Referenten/Referentinnen bewerten die Dissertation jeweils mit eine r der folgenden Be
+wertungen : 
+sehr gut   (1,0),  
+77 
+ 
+sehr gut    (1,3), 
+gut   (1,7) 
+gut   (2,0),  
+gut    (2,3), 
+genügend   (2,7),  
+genügend   (3,0),  
+nicht bestanden  (4,0). 
+Bei einer Bewertung der Dissertation mit „nicht bestanden (4,0) “ ist diese abgelehnt; ansonsten 
+ist die Annahme durch die Referenten/Referentinnen empfohlen.  
+(3) Bei besonders herausragenden Leistungen kann im Gutachten vorgeschlagen werden, bei 
+entsprechende r Leistung in der mündlichen Prüfung, die Promotion insgesamt mit dem Prädikat 
+„mit Auszeichnung (summa cum laude)“ zu bewerten.  
+(4) Sobald alle Gutachten eingetroffen sind, gibt der/die Vorsitzende des Promotionsausschus
+ses den Promotionsberechtigten gemä ß § 3 der KIT Fakultät bekannt, dass  die Dissertation und 
+die Gutachten der Referenten/Referentinnen den Promotionsberechtigten der KIT Fakultät vier
+zehn Tage zur Einsichtnahme ausliegen. Innerhalb der genannten Frist können Promotionsbe
+rechtigte gemäß § 3  der KIT Fakultät einen schriftlichen und mit einer Begründung versehenen  
+Einspruch zur Dissertation und deren Beurteilung erheben oder ein eigenes Gutachten vorlegen.  
+(5) Haben alle Referenten/Referentinnen die Annahme der Dissertation empfohlen, ist kei n Ein
+spruch erhoben und kein Gutachten im Sinne des Absatz es 4 Satz 2 vorgelegt worden, stellt 
+der/die Vorsitzende des Promotionsausschusses die Annahme der Dissertation und als Bewer
+tung das ungerundete arithmetische Mittel aus den Bewertungen der Referen ten/Referentinnen 
+fest. Liegt ein Einspruch oder ein Gutachten im Sinne des Absatzes 4 Satz 2 vor, entscheidet 
+der Pr omotionsausschuss  nach Anhörung der Referenten/Referentinnen, ob der Einspruch oder 
+das Gutachten im Sinne des Absatzes 4 Satz 2 bei der Be wertung der Dissertation berücksich
+tigt werden soll. Der Promotionsausschuss  kann beschließen, vor einer Entscheidung ein weite
+res Gutachten einzuholen. Soll der Einspruch berücksichtigt werden, entscheidet der Promoti
+onsausschuss  über die Annahme oder die  Ablehnung der Dissertation. Wird die Annahme der 
+Dissertation beschlossen, schlägt jedes Mitglied des Promotionsausschusses  und jede/r Refe
+rent/in eine Bewertung nach Absatz 2 vor. Aus diesen Vorschlägen wird als Bewertung der Dis
+sertation das ungerundet e arithmetische Mittel gebildet.  
+(6) Wird die Dissertation von einem  Referenten/  einer Referentin, nicht jedoch von allen Refe
+renten/Referentinnen, abgelehnt, bestellt der/die Vorsitzendes des Promotionsausschusses  ei
+ne/n Promotionsberechtigte/n gemäß § 3  als weitere/n Referenten/Referentin, der/die dann auch 
+dem Prüfungsausschuss angehört. In diesem Fall beginnt die Auslagefrist nach Absatz 4 Satz 1 
+erst nach Eingang des zusätzlichen Gutachtens. Ist kein Einspruch erhoben und Gutachten im 
+Sinne des Absatz es 4 Satz 2 vorgelegt worden, so beschließt der Promotionsausschuss  über die 
+Annahme oder Ablehnung der Dissertation. Bei Stimmengleichheit ist die Stimme des/der Vorsit
+zenden ausschlaggebend. Beschließt der Promotionsausschuss  die Annahme der Dissertation , 
+stellt er als Bewertung das ungerundete arithmetische Mittel aus den Notenvor schlägen aller 
+Referenten/Referent innen fest. Liegt ein Einspruch oder ein Gutachten im Sinne des Absatzes 4 
+Satz 2 vor , finden Absatz 5 Sätze 2, 4 bis 6 Anwendung.  
+(7) Empfehl en die Referenten/Referentinnen übereinstimmend die Ablehnung der Dissertation 
+und wird kein Einspruch erhoben oder Gutachten im Sinne des Absatz 4 Satz 2 vorgelegt  wor
+den, beschließt der Promotionsausschuss die Ablehnung der Dissertation . Liegt ein Einspr uch 
+oder ein Gutachten im Sinne des Absatzes 4 Satz 2 vor, finden Absatz 5 Sätze 2, 4 bis 6 An
+wendung.  
+78 
+ 
+(8) Hat ein/e Referent/ in Mängel in der Dissertation festgestellt, ohne sie jedoch insgesamt ab
+zulehnen, kann er/sie im Gutachten die Beseitigung von Mä ngeln als Bedingung für die Veröf
+fentlichung der Dissertation festsetzen.  
+(9) Wird die Dissertation abgelehnt, so ist dies dem Kandidaten/  der Kandidatin vo n dem/der 
+Vorsitzenden des Promotionsausschusses  schriftlich, begründet und mit einer Rechtsbehelfs be
+lehrung versehen bekannt zu gegeben. Das Promotionsverfahren ist damit erfolglos beendet. 
+Ein Exemplar der Dissertation verbleibt mit den Gutachten bei den Akten. Ein Kandidat/eine 
+Kandidatin, dessen/deren Dissertation abgelehnt wurde, kann ein neue s Promotionsgesuch  ge
+mäß § 14 Absatz 3  einreichen.  
+(10) Ein/e Referent/ in, welche/r die Dissertation abgelehnt hat, kann verlangen, dass er/sie in 
+der Veröffentlichung der Dissertation nicht als Referent/ in genannt wird.  
+ 
+§ 18 Mündliche Prüfung  
+(1) Nach der Eröffnung des Promotionsverfahrens bestimmt der/die Vorsitzende des Promoti
+onsausschusses  den Termin der mündlichen Prüfung. Dieser wird dem Doktoranden/der Dok
+torandin schriftlich mitgeteilt. Zwischen dem Zugang dieser Mitteilung und dem Termin zur 
+mündli chen Prüfung dürfen nicht weniger als vierzehn Tage liegen. Eine kürzere Frist kann nur 
+im Einvernehmen mit dem Doktoranden/  der Doktorandin festgesetzt werden.  Wird die Ableh
+nung der Dissertation gemäß § 17 Absatz 9 Satz 1 bekanntgegeben, gibt der/die Vor sitzende 
+des Promotionsverfahrens dem Doktoranden/  der Doktorandin zugleich die Aufhebung des ge
+mäß Satz 1 bestimmten Termins der mündlichen Prüfung bekannt.  
+(2) Die mündliche Prüfung findet als Kolloquium von etwa eineinhalbs tündiger Dauer statt.   
+(3) Zum Kolloquium sind außer dem Prüfungsausschuss durch den/die Vorsitzende/n des Pro
+motionsausschusses  einzuladen:  
+1. der/die Präsident /in und die KIT Dekane/ Dekaninnen der anderen KIT Fakultäten,  
+2. die Promotionsberechtigten gemäß  § 3 der KIT Fakultät . Ein/e „KIT Associate Fellow“ ist 
+nur einzuladen , wenn es sich bei dem Doktoranden/  der Doktorandin um ein Mitglied der 
+Nachwuchsgruppe des/der „KIT Associate Fellow“ handelt.  
+(4) Das Kolloquium beginnt mit einem etwa 30 minütigen Kurzreferat des Kandidaten/ der Kandi
+datin über seine/ihre Dissertation. Es schließt sich eine etwa einstündige  Diskussion mit den 
+Mitgliedern des Prüfungsausschusses an, die zeigen soll , ob der/die Kandidat /in das Fachge
+biet, dem die Dissertation zuzuordnen ist, beherrscht. Der/die  Vorsitzende des Prüfungsaus
+schusses leitet die Diskussion.  
+(5) Über den wesentlichen Verlauf der mündlichen Prüfung wird ein Protokoll geführt.  
+(6) Unmittelbar nach Abschluss des Kolloquiums erörtern die Mitglieder des Prüfungsausschus
+ses die mündliche Pr üfungsleistung des Doktoranden/der Doktorandin. Jedes Mitglied des Prü
+fungsausschusses vergibt unabhängig eine Bewertung  gemäß § 1 7 Absatz 2  Satz 1 .  
+(7) Die Note für die mündliche Prüfung ist das  arithmetische Mittel der Einzelbewertungen nach 
+Absatz 6 Sa tz 2. Die mündliche Prüfung ist bestanden, wenn diese Note 3,0 oder kleiner ist.  
+(8) Bei der Prüfung, nicht jedoch bei der anschließenden Erörterung und Beurteilung der mündli
+chen Prüfung und der Promotion, können Mitglieder der KIT Fakultät nach Maßgabe d er verfüg
+baren Plätze teilnehmen, sofern der/die Kandidat /in im Promotionsgesuch sein/ihr Einverständ
+nis erklärt hat. In begründeten Fällen können auch Personen, die nicht Mitglieder der KIT 
+Fakultät sind, als Zuhörer /innen zugelassen werden. Über die Zu lassung entscheidet der/die 
+Vorsitzende des Prüfungsausschusses. Aus wichtigem Grund kann von Amts wegen oder auf 
+schriftlichen Antrag des Doktoranden/der Doktorandin die Öffentlichkeit ausgeschlossen werden.  
+79 
+ 
+(9) Nimmt der/die Doktorand/ in an einem ihm/ih r gestellten Termin zur mündlichen Prüfung oh
+ne wichtigen Grund nicht teil, gilt die mündliche Prüfung als nicht bestanden.  
+ 
+§ 19 Wiederholung der mündlichen Prüfung  
+(1) Ist die mündliche Prüfung nicht bestanden, kann sie auf Antrag einmal, jedoch nicht vo r Ab
+lauf eines halben Jahres seit Nichtbestehen der vorangegangenen mündlichen Prüfung, wieder
+holt werden.  
+(2) Ist die mündliche Prüfung wiederholt nicht bestanden oder beantragt der/die Kandidat/ in die 
+Wiederholung der mündlichen Prüfung nicht innerhalb  eines Jahres seit Nichtbestehen der vo
+rangegangenen mündlichen Prüfung, ist das Promotionsverfahren erfolglos beendet.  
+(3) Dem Kandidaten/  der Kandidatin wird der erfolglose Abschluss des Promotionsverfahrens 
+gemäß § 11 Absatz 4 Satz 2 bekanntgegeben. Is t die mündliche Prüfung wegen Nichtbeantra
+gung der Wiederholung der mündlichen Prüfung innerhalb der Frist nach Absatz 2 nicht bestan
+den, findet zusätzlich § 11 Absatz 4 Satz 3 Anwendung. Die Dissertation verbleibt mit den Unter
+lagen bei den Akten.  
+(4) Über begründete Ausnahmen von den Voraussetzungen der Absätze 1 und 2 entscheidet der 
+Promotionsausschuss auf schriftlichen Antrag des Doktoranden/  der Doktorandin.  
+ 
+§ 20 Rücktritt von der mündlichen Prüfung  
+(1) Ist der/die Kandidat/ in wegen Krankheit oder a us einem anderen wichtigen Grund gehindert, 
+an der mündlichen Prüfung teilzunehmen, wird auf schriftlichen Antrag durch den Promotions
+ausschuss der Rücktritt von der mündlichen Prüfung genehmigt. Der Antrag ist unter Angabe 
+des Rücktrittsgrundes und Beifüg ung geeigneter Nachweise unverzüglich beim Promotionsaus
+schuss zu stellen. Im Falle einer Erkrankung ist ein ärztliches Attest, das die für die Beurteilung 
+der Prüfungsunfähigkeit nötigen medizinischen Angaben enthält, beizufügen . 
+(2) Wird der Rücktritt vo n der mündlichen Prüfung genehmigt, so wird ein neuer Prüfungstermin 
+festgesetzt. Andernfalls gilt die mündliche Prüfung als nicht bestanden; § 11 Absatz 4 Sätze 2 
+und 3 finden Anwendung.  
+ 
+§ 21 Gesamtnote für die Promotion  und Bestimmung des zu verleihende n Doktorgrades  
+(1) Im Anschluss an die mündliche Prüfung wird durch den Prüfungsausschuss die Gesamtnote 
+für eine erfolgreiche Promotion festgestellt . Der Prüfungsausschuss bestimmt den zu verleihen
+den Doktorgrad (Doktor/ in der Naturwissenschaften (Dr. re r. nat.) oder Doktor/ in der Ingeni
+eurwissenschaften (Dr. Ing.)) anhand der Inhalte der Dissertation .  
+(2) Die Gesamtnote ergibt sich aus dem gewichteten Mittel der Bewertungen der Dissertation 
+und der mündlichen Prüfung, wobei die Dissertation das Gewicht  2 und die mündliche Prüfung 
+das Gewicht 1 erhält. Als Bewertungen der Dissertation und der mündlichen Prüfung werden 
+dabei die ungerundeten arithmetischen Mittel nach § 1 7 Absätze 5, 6 oder 7 und § 1 8 Absatz 7 
+verwendet. Die Gesamtnote lautet  
+sehr gut bes tanden (magna cum laude), wenn di eses Mittel kleiner als 1,5 ist,  
+gut bestanden (cum laude), wenn dieses Mittel 1,5 bis kleiner 2,5 ist,  
+bestanden (rite), wenn dieses Mittel 2,5 bis 3,0 ist.  
+(3) Die Gesamtnote  
+sehr gut bestanden (magna cum laude)  
+80 
+ 
+kann nur erteilt werden, wenn die mündliche Prüfung mindestens mit der Note gut beurteilt wur
+de. 
+(4) Bei herausragenden Leistungen kann die Gesamtnote „mit Auszeichnung bestanden (summa 
+cum laude)“ erteilt werden, falls alle Promotionsleistungen nicht schlechter al s mit 1,1 beurteilt 
+werden  und mindestens eine/r der  Referenten/Referentinnen einen Vorschlag gemäß § 1 7 Ab
+satz 3 unterbreitet hat.  Der Beschluss muss mit mindestens vier von fünf oder im Falle der Be
+stellung eines weiteren Referenten/einer weiteren Refere ntin mit fünf von sechs Stimmen der 
+Mitglieder des Prüfungsausschusses gefasst werden. Sind diese Voraussetzungen nicht erfüllt, 
+wird eine Gesamtnote nach Absatz 2 erteilt.  
+(5) Die Gesamtnote für die Promotion, die Bewertung der Dissertation, wobei nur die  erste De
+zimalstelle hinter dem Komma berücksichtigt wird,  und die Note für die mündliche Prüfungsleis
+tung werden dem Doktoranden/der Doktorandin vom KIT Dekan/  von der KIT Dekanin schriftlich 
+bekanntgegeben.  
+(6) Auf Antrag wird von der KIT Fakultät eine v orläufige Bescheinigung über den erfolgreichen 
+Abschluss des Promotionsverfahrens, die auch die Gesamtnote der Promotion enthält, ausge
+stellt.  
+ 
+§ 22 Veröffentlichung der Dissertation und Ablieferung der Pflichtexemplare  
+(1) Innerhalb eines Jahres nach Best ehen der mündlichen Prüfung ist die Dissertation von dem 
+Doktoranden / der Doktorandin  in einer vom Promotionsausschuss gemäß Absatz 2 genehmigten 
+Fassung zu veröffentlichen. Je nach Art der Veröffentlichung sind innerhalb der vorgenannten 
+Frist die Exempla re bzw. die erforderlichen Dateien in folgender Anzahl bei der Bibliothek des 
+KIT abzuliefern:  
+a) eine maschinenlesbare Datei nach den Vorgaben der Bibliothek des KIT  bei 
+Veröffentlichung in einer elektronischen Version mit unbeschränktem Zugang durch 
+öffentl iche Datennetze über das Repositorium der Bibliothek des KIT ,  
+b) zwölf gedruckte und archivgeeignete Exemplare bei Veröffentlichung im Fotodruck. Dies 
+gilt auch bei Dissertationen, die in einer wissenschaftlichen Schriftenreihe, die keine 
+Verlagspublikation ist, veröffentlicht werden,  
+c) drei gedruckte Verlagsexemplare bei Veröffentlichung durch einen Verlag mit 
+Verfügbarkeit im Buchhandel, wenn eine Mindestauflage von 150 Exemplaren und/oder ein 
+unbeschränkter Zugriff auf die Dissertation im Internet in elektr onischer Form gewährleistet 
+ist oder  
+d) drei Exemplare bei Veröffentlichung in einer wissenschaftlichen Zeitschrift.  
+Über die erfolgte Veröffentlichung und die Erfüllung der Ablieferungspflicht stellt die Bibliothek 
+des KIT  eine schriftliche Bescheinigung a us.  
+(2) Der Promotionsausschuss genehmigt unter Berücksichtigung etwaiger Verlangen nach Be
+seitigung von Mängeln gemäß § 17 Absatz 8 die Dissertation für die Veröffentlichung.  
+(3) Die nach Absatz 1 Satz 2 Buchstabe a oder b eingereichten Versionen müssen ein Titelblatt 
+oder bibliographische Angaben zur Dissertation enthalten. Die nach Absatz 1 Satz 2 Buchstabe 
+c oder d veröffentlichten Exemplare müssen den Vermerk, dass es sich um eine von der KIT 
+Fakultät für Informatik  des Karlsruher Instituts für Techno logie (KIT) genehmigte Dissertation 
+handelt, und den Tag der mündlichen Prüfung enthalten. Genehmig t der Promotionsausschuss 
+gemäß Absatz 2 einen anderen Titel als den des Prüfungsexemplars, ist dieser in der Dissertati
+on ebenfalls anzugeben.  
+81 
+ 
+(4) In den F ällen des Absatz 1 Satz 2 Buchstabe a überträgt der/die Doktorand /in dem Karlsru
+her Institut für Technologie (KIT) das dauerhafte Recht, im Rahmen der gesetzlichen Aufgaben 
+der Bibliothek des KIT  die Dissertation in Datennetzen zur Verfügung zu stellen. D ie Bibliothek 
+des KIT  überprüft die abgelieferte Version der Dissertation auf Lesbarkeit und Übereinstimmung 
+mit den Vorgaben der Bibliothek des KIT  gemäß Absatz 1 Satz 2 Buchstabe a. Die Abgabe von 
+Dateien, die nicht diesen Vorgaben entsprechen, gilt nich t als Veröffentlichung und Ablieferung.  
+(5) In den Fällen des Absatzes 1 Satz 2 Buchstabe b überträgt der/die Doktorand /in dem Karls
+ruher Institut für Technologie (KIT) das dauerhafte Recht, weitere Kopien der Dissertation herzu
+stellen und zu verbreiten.  
+(6) In begründeten Einzelfällen kann bei einer Ablieferung nach Absatz 1 Satz 2 Buchstabe a 
+der/die KIT Dekan /in die Pflichten nach Absatz 1 auf schriftlichen Antrag des Doktoranden /der 
+Doktorandin  auch dann als erfüllt ansehen, wenn die Dissertation auf grund eines Sperrvermerks 
+wegen eines patentrechtlichen Anmeldeverfahrens oder wegen einer Veröffentlichung in einer 
+Zeitschrift der Öffentlichkeit nur zeitlich verzögert zugänglich gemacht werden kann. Hierfür 
+muss der/die Doktorand /in die jeweiligen Abg abeerfordernisse vollständig erfüllt haben, der 
+Zeitpunkt, zu dem die Veröffentlichung spätestens erfolgt, muss aus dem Sperrvermerk hervor
+gehen und die Veröffentlichung muss ohne weiteres Zutun des Doktoranden/der Doktorandin 
+durch die Bibliothek des KIT  vorgenommen werden können. Die Erfüllung der vorgenannten Vo
+raussetzungen wird von dem/der Vorsitzenden des Promotionsausschusses  schriftlich beschei
+nigt. Ein Sperrvermerk kann für die Dauer von bis zu zwei Jahren, zweimal verlängerbar um je
+weils ein weite res Jahr, höchstens jedoch bis zu einer Gesamtdauer von vier Jahren ab Unter
+zeichnungsdatum mit dem von der Bibliothek des KIT  vorgegebenen Formular beantragt wer
+den. Der Antrag auf Verlängerung des Sperrvermerks ist spätestens zwei Wochen vor dessen 
+Ablau f zu stellen. Die Bibliothek des KIT  vermerkt auf der Bescheinigung nach Absatz 1 Satz 3 
+das Bestehen und die Dauer des Sperrvermerks.  
+(7) Der/die Doktorand /in muss schriftlich gegenüber der Bibliothek des KIT  erklären, dass die 
+eingereichte Fassung mit d er vo m Promotionsausschuss  gemäß Absatz 2 genehmigten Fas
+sung inhaltlich übereinstimmt.  
+(8) Wird die Frist nach Absatz 1 versäumt, erlöschen alle im Promotionsverfahren erworbenen 
+Rechte. Auf schriftlichen Antrag des Doktoranden /der Doktorandin kann der/di e Vorsitzende des 
+Promotionsausschusses  die Frist nach Absatz 1 in begründeten Fällen bis zu einer Gesamtdau
+er von drei Jahren verlängern. Eine weitere Verlängerung ist ausgeschlossen. Die Entscheidung 
+ist der Bibliothek des KIT  schriftlich mitzuteilen.  
+(9) Zusätzlich zur Ablieferungspflicht gemäß Absatz 1 Satz 2 sind beim Dekanat der KIT Fakultät 
+ein gedrucktes Exemplar der Dissertation und eine elektronische , archivfähige  Fassung abzulie
+fern. 
+ 
+§ 23 Vollzug der Promotion und Urkunde  
+(1) Die Promotionsurkun de wird auf den Tag der mündlichen Prüfung ausgestellt, vom Präsiden
+ten/von der Präsidentin und von dem/der KIT Dekan /in unterzeichnet und mit dem Siegel des 
+Karlsruher Instituts für Technologie versehen. Sie entspricht in ihrer Form der Anlage 2.  
+(2) Zusätzlich zur Promotionsurkunde wird ein Promotionszeugnis ausgestellt. Es enthält den 
+Titel der Dissertation, die Gesamtnote der Promotion mit der in Klammern gesetzten lateinischen 
+Übersetzung sowie die Amtsbezeichnungen, akademischen Grade, Titel und Name n der Refe
+renten und Referentinnen. Es wird von dem/der KIT Dekan /in unterzeichnet und mit dem Siegel 
+der KIT Fakultät versehen.  
+82 
+ 
+(3) Die Promotion wird durch Aushändigung der Promotionsurkunde durch den/die KIT Dekan /in 
+vollzogen. Die Promotionsurkunde wird erst ausgehändigt, wenn die Veröffentlichung der Disser
+tation und die Abgabe der Pflichtexemplare gemäß § 2 2 erfolgt sind.  
+(4) Vor der Aushändigung der Promotionsurkunde besteht nicht das Recht, den Doktorgrad, 
+auch nicht mit einem Zusatz wie etwa „d esignatus (des.)“ oder „in spe“, zu führen.  
+ 
+§ 24 Ungültigkeit der Promotion und Entziehung des Doktorgrades  
+(1) Ergibt sich vor der Aushändigung der Promotionsurkunde, dass sich der/die Kandidat /in 
+beim Nachweis der Promotionsleistungen einer Täuschung s chuldig gemacht hat oder sind we
+sentliche Voraussetzungen für die Zulassung zur Promotion irrtümlich als gegeben angenom
+men worden, kann der Promotionsausschuss das Promotionsverfahren als erfolglos abge
+schlossen erklären. Der/die KIT Dekan /in unterrichte t den Präsidenten/die Präsidentin von 
+diesem Beschluss.  
+(2) Der Doktorgrad kann vom Promotionsausschuss entzogen werden, wenn sich nachträglich 
+herausstellt, dass er durch Täuschung erlangt worden ist. Im Übrigen wird auf die gesetzlichen 
+Regelungen verwi esen.  
+(3) Vor der Beschlussfassung des Promotionsausschusses über die Ungültigkeit der Promotion 
+und über die Entziehung des Doktorgrades ist dem/der Betroffenen Gelegenheit zu geben, sich 
+zu den für die Entscheidung erheblichen Tatsachen zu äußern.  
+(4) Belastende Entscheidungen des Promotionsausschusses nach Absatz 1 und 2 sind dem/der 
+Betroffenen schriftlich, begründet und mit einer Rechtsbehelfsbelehrung versehen bekanntzuge
+ben. 
+(5) Die Rückgabe der Promotionsurkunde, des Promotionszeugnisses und der vo rläufigen Be
+scheinigung gemäß § 21 Absatz 6 richtet sich nach § 52 LVwVfG.  
+ 
+3. Abschnitt: Ehrungen  
+ 
+§ 25 Ehrenpromotion  
+(1) Auf Antrag eines Mitgliedes der KIT Fakultät kann die KIT Fakultät an Personen, die nicht 
+dem Karlsruher Institut für Technologie (K IT) oder einem seiner Organe angehören, für deren 
+besondere wissenschaftliche Leistungen um die an der KIT Fakultät vertretenen Lehr  und For
+schungsgebiete den akademischen Grad eines Doktors der Naturwissenschaften ehrenhalber 
+(Dr. rer. nat. h. c.) bzw. e iner Doktorin der Naturwissenschaften ehrenhalber (Dr. rer. nat. h. c.) 
+oder eines Doktors der Ingenieurwissenschaften (Dr. Ing. h. c.) bzw. einer Doktorin der Ingeni
+eurwissenschaften (Dr. Ing. h. c.) verleihen.  
+(2) Über die Verleihung des Ehrendoktorgrade s entscheidet der KIT Senat entweder auf Vor
+schlag des Präsidiums im Einvernehmen mit der KIT Fakultät oder auf Vorschlag der KIT 
+Fakultät im Einvernehmen mit dem Präsidium. Der KIT Fakultätsrat berät über den Vorschlag in 
+zwei Lesungen. Zur Vorbereitung b ildet er eine beratende Kommission aus mindestens fünf Mit
+gliedern der KIT Fakultät. Der Beschluss über den Vorschlag an den KIT Senat bedarf einer 
+Dreiviertelmehrheit der anwesenden Mitglieder des KIT Fakultätsrats.  
+(3) Die Ehrenpromotion vollzieht der/di e KITDekan/ in durch Überreichen einer Urkunde, in wel
+cher die wissenschaftlichen Verdienste der/des zu Ehrenden hervorgehoben werden. Die Urkun
+de wird vom Präsidenten/  von der Präsidentin und vom KIT Dekan/  von der KIT Dekanin unter
+zeichnet und mit dem S iegel des Karlsruher Instituts für Technologie (KIT) versehen.  
+83 
+ 
+§ 26 Doktorjubiläum  
+Die KIT Fakultät kann eine am Karlsruher Institut für Technologie (KIT) in Informatik  verliehene 
+Promotions urkunde bei Vorliegen besonderer wissenschaftlicher Verdienste ode r einer beson
+ders engen Verbundenheit mit dem Karlsruher Institut für Technologie (KIT) erneuern. Eine sol
+che Erneuerung kann erstmals anlässlich der 25. Wiederkehr des Promotionstages erfolgen. Die 
+Entscheidung hierüber trifft der KIT Fakultätsrat.  
+ 
+ 
+4. Abschnitt: Schlussbestimmungen  
+ 
+§ 27 Inkrafttreten, Übergangsvorschrift  
+(1) Diese Promotionsordnung tritt am Tage nach der Veröffentlichung in den Amtlichen Be
+kanntmachungen des Karlsruher Instituts für Technologie (KIT) in Kraft.   
+(2) Gleichzeitig tritt di e Promotionsordnung der Universität Karlsruhe (TH)  für die Fakultät für 
+Informatik  zur Erlangung des Doktorgrades der Naturwissenschaften (Dr. rer. nat.) oder der In
+genieurwissenschaften (Dr. Ing.) vom 02. August 2006  (Amtliche Bekanntmachung der Universi
+tät Karlsruhe (TH) Nr. 29 vom 15. August 2006 ), geändert durch die Satzung zur Änderung der 
+Promotionsordnung der Universität Karlsruhe (TH)  für die Fakultät für Informatik  zur Erlangung 
+des Doktorgrades der Naturwissenschaften (Dr. rer. nat.) oder der Inge nieurwissenschaften (Dr. 
+Ing.) vom 14. Januar 2014 (Amtliche Bekanntmachung des Karlsruher Instituts für Technologie 
+(KIT) Nr. 2 vom 14. Januar 2014), außer Kraft.  
+(3) Ist vor Inkrafttreten der vorliegenden Promotionsordnung eine Promotionsvereinbarung ge
+mäß § 10 geschlossen oder die Annahme als Doktorand/ in gemäß § 11 ausgesprochen wor
+den, so gilt die Promotionsordnung de r Universität Karlsruhe (TH)  für die Fakultät für Informatik 
+zur Erlangung des Doktorgrades der Naturwissenschaften (Dr. rer. nat.) oder  der Ingenieurwis
+senschaften (Dr. Ing.) vom 02. August 2006  (Amtliche Bekanntmachung der Universität Karlsru
+he (TH) Nr. 29 vom 15. August 2006 ), geändert durch die Satzung zur Änderung der Promo
+tionsordnung der Universität Karlsruhe (TH)  für die Fakultät f ür Informatik  zur Erlangung des 
+Doktorgrades der Naturwissenschaften (Dr. rer. nat.) oder der Ingenieurwissenschaften (Dr. 
+Ing.) vom 14. Januar 2014 (Amtliche Bekanntmachung des Karlsruher Instituts für Technologie 
+(KIT) Nr. 2 vom 14. Januar 2014), weiter.  Auf schriftlichen Antrag des Doktoranden/  der Doktor
+andin kann nach den Vorschriften der vorliegenden Promotionsordnung verfahren werden.  
+ 
+ 
+Karlsruhe, den 09. Januar 2017  
+ 
+ 
+ 
+ 
+ 
+ 
+Prof.  Dr.Ing. Holger Hanselka  
+(Präsident)  
+ 
+84 
+ 
+Anlage 1  
+ 
+(Titel der Dissertation)  
+ 
+ 
+Zur Erlangung des akademischen Grades eines/einer  
+ 
+DOKTORS/DOKTORIN DER NATURWISSENSCHAFTEN  / 
+DOKTORS/DOKTORIN DER INGENIEURWISSENSCHAFTEN  
+ 
+von der KIT Fakultät für Informatik  des 
+Karlsruher Instituts für Technologie (KIT)  
+genehmigte  
+ 
+DISSERTATION  
+ 
+von 
+ 
+ 
+ 
+  
+Tag der mündlichen Prüfung:  
+ 
+1. Referent/Referentin:  
+ 
+2. Referent/Referentin:  
+ 
+ 
+ 
+ 
+ 
+85 
+ 
+Anlage 2  
+ 
+Das Karlsruher Institut für Technologie (KIT)  
+ 
+ 
+verleiht  
+awards  
+ 
+ 
+durch die KIT Fakultät für Informatik  
+in the KIT Department of Informatics  
+ 
+(Name)  
+ 
+geboren am XX. Monat XXXX in Geburtsort  
+born on Month XX, XXXX in place of birth  
+ 
+ 
+Titel und Würde eines/einer  
+the degree and honors of  
+ 
+ 
+Doktors/Doktorin der Naturwissenschaften  
+(Dr. rer. nat.)  /  
+ 
+Dokto rs/Doktorin der Ingenieurwissenschaften 
+(Dr.Ing.) 
+ 
+ 
+nachdem er/sie in ordnungsgemäßem Promotionsverfahren durch seine/ihre Dissertation  
+after having proved his/her scientific competence and abilities by successful completion of the 
+regular doctoral proced ure and by his/her thesis  
+ 
+ 
+(Titel der Dissertation)  
+ 
+ 
+sowie durch die mündliche Prüfung seine/ihre wissenschaftliche Befähigung erwiesen hat.  
+followed by a successful oral examination and defense.  
+ 
+ 
+ 
+ 
+ 
+Karlsruhe, XX. Monat XXXX  
+Karlsruhe, Month XX, XXXX  
+ 
+ 
+ 
+ 
+ 
+ 
+______________________________      _____________________________  
+Präsident/ in des Karlsruher Instituts      Dekan/ in der KIT Fakultät für  
+für Technologie (KIT)      Informatik  
+ 
+ 
+ 
+ 
+ 
+86 
+ 
+Anlage 3  
+ 
+ 
+ 
+Die eidesstattliche Versicherung ist schriftlich abzugebe n. Die Möglichkeit einer Aufnahme der 
+eidesstattlichen Versicherung zur Niederschrift bleibt unberührt. Die schriftliche Erklärung hat 
+folgenden Wortlaut:  
+ 
+Eidesstattliche Versicherung gemäß § 1 4 Absatz 2 Ziffer 3 der Promotionsordnung des Karlsru
+her Insti tuts für Technologie (KIT) für die KIT Fakultät für Informatik : 
+ 
+1. Bei der eingereichten Dissertation zu dem Thema  
+………………………………………………………………………………………………………… . 
+handelt es sich um meine eigenständig erbrachte Leistung.  
+ 
+2. Ich habe nur die angegebenen Quellen  und Hilfsmittel benutzt und mich keiner unzulässigen 
+Hilfe Dritter bedient. Insbesondere habe ich wörtlich oder sinngemäß aus anderen Werken über
+nommene Inhalte als solche kenntlich gemacht.  
+ 
+3. Die Arbeit oder Teile davon habe ich wie folgt/ bislang nich t1 an einer Hochschule des In  oder 
+Auslands als Bestandteil einer Prüfungs  oder Qualifikationsleistung vorgelegt.  
+ 
+Titel der Arbeit:  
+Hochschule und Jahr:  
+Art der Prüfungs  oder Qualifikationsleistung:  
+ 
+4. Die Richtigkeit der vorstehenden Erklärungen bes tätige ich.  
+ 
+5. Die Bedeutung der eidesstattlichen Versicherung und die strafrechtlichen Folgen einer unrich
+tigen oder unvollständigen eidesstattlichen Versicherung sind mir bekannt.  
+ 
+Ich versichere an Eides statt, dass ich nach bestem Wissen die reine Wah rheit erklärt und nichts 
+verschwiegen habe.  
+ 
+ 
+Ort und Datum     Unterschrift  
+ 
+ 
+ 
+                                                
+1* Nicht Zutreffendes streichen. Bei Bejahung sind anzugeben: der Titel der andernorts vorgelegten Arbeit, die  
+ Hochschule, das Jahr der Vorlage und die Art der Prüfungs  oder Qualifikationsleistung.  
+ 
+87 
+ 
+Anlage 4  
+ 
+ 
+ 
+Eidesstattliche Versicherung  
+ 
+Belehrung  
+ 
+ 
+Die Universitäten in Baden Württemberg verlangen eine Eidesstattliche Versicherung über die 
+Eigenständigkeit der erbrachte n wissenschaftlichen Leistungen, um sich glaubhaft zu versichern, 
+dass der Promovend die wissenschaftlichen Leistungen eigenständig erbracht hat.  
+ 
+Weil der Gesetzgeber der Eidesstattlichen Versicherung eine besondere Bedeutung beimisst 
+und sie erhebliche F olgen haben kann, hat der Gesetzgeber die Abgabe einer falschen eides
+stattlichen Versicherung unter Strafe gestellt. Bei vorsätzlicher Abgabe einer falschen Erklärung 
+droht eine Freiheitsstrafe bis zu drei Jahren oder eine Geldstrafe.  
+ 
+Eine fahrlässige Abg abe (also Abgabe, obwohl Sie hätten erkennen müssen, dass die Erklärung 
+nicht den Tatsachen entspricht) kann eine Freiheitsstrafe bis zu einem Jahr oder eine Geldstrafe 
+nach sich ziehen.  
+ 
+Die entsprechenden Strafvorschriften sind § 156 StGB (falsche Versic herung an Eides Statt) und 
+§ 161 StGB (fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides Statt).  
+ 
+ 
+§ 156 StGB: Falsche Versicherung an Eides Statt  
+Wer vor einer zur Abnahme einer Versicherung an Eides Statt zuständigen Behörde eine solche 
+Versicherung falsch abgibt oder unter Berufung auf eine solche Versicherung falsch aussagt, 
+wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.  
+ 
+§ 161 StGB: Fahrlässiger Falscheid, fahrlässige falsche Versicherung an Eides Statt  
+Absatz  1: Wenn eine der in den § 154 bis 156 bezeichneten Handlungen aus Fahrlässigkeit be
+gangen worden ist, so tritt Freiheitsstrafe bis zu einem Jahr oder Geldstrafe ein.  
+Absatz 2: Straflosigkeit tritt ein, wenn der Täter die falsche Angabe rechtzeitig bericht igt. Die 
+Vorschriften des § 158 Abs. 2 und 3 gelten entsprechend.  
+ 
+ 
+ 
+Ort und Datum       Unterschrift  
+ 
+  
+ 
+88 
+ 
+Anlage 5a  
+ 
+Versicherung gemäß § 11 Absatz 2 Ziffer 4 der Promotionsordnung des Karlsruher  
+ Instituts für Technologie (KIT) für die KIT Fakultät für Informatik  
+ 
+ 
+1. Einen erheblichen Verstoß gegen die Grundsätze guter wissenschaftlicher Praxis habe ich 
+bislang nicht begangen.  
+ 
+2. Diesem Promotionsverfahren gingen keine anderen Promotionsverfahren voran und ich bin in 
+keinen weiteren Promotionsverfahren Ka ndidat /in 
+ 
+oder  
+ 
+Diesem Promotionsverfahren gingen die folgenden Promotionsverfahren voran bzw. in den fol
+genden Promotionsverfahren bin ich Kandidat/ in: 
+Universität:  
+Fakultät:  
+Titel der Dissertation:  
+Stand des Promotionsverfahrens:  
+ 
+3. Durch  
+……..  
+wurde mir bereits der Grad des Doktors/der Doktorin der  
+………..  
+verliehen.1 2 
+ 
+a) Dieser Doktorgrad wurde nicht aus gesetzlichen Gründen entzogen.  
+b) Es liegen keine Gründe vor, die nach den gesetzlichen Bestimmungen die Entziehung 
+des Doktorgrades rechtferti gen.  
+ 
+ 
+4. Ein entgeltliches Vertragsverhältnis , das eine gewerbliche Promotionsberatung zum Gegen
+stand hat und zur Unselbstständigkeit zumindest einer Promotionsleistung führen kann,  besteht 
+bzw. bestand nicht.  
+ 
+ 
+5. Die Richtigkeit der vorstehenden Erkläru ngen bestätige ich.  
+ 
+ 
+ 
+Ort und Datum      Unterschrift  
+ 
+ 
+                                                
+1* Zu streichen, sofern nicht zutreffend.  
+89 
+ 
+Anlage 5b  
+ 
+Versicherung gemäß § 1 4 Absatz 2 Ziffer 5 der Promotionsordnung des Karlsruher Insti
+tuts für Technologie (KIT) für die KIT Fakultät für Informatik  
+ 
+ 
+1. Einen erheblichen Verstoß gegen die G rundsätze guter wissenschaftlicher Praxis habe ich 
+bislang nicht begangen.  
+ 
+2. Diesem Promotionsverfahren gingen keine anderen Promotionsverfahren voran und ich bin in 
+keinen weiteren Promotionsverfahren Kandidat /in. 
+ 
+oder  
+ 
+Diesem Promotionsverfahren gin gen die folgenden Promotionsverfahren voran bzw. in den fol
+genden Promotionsverfahren bin ich Kandidat /in: 
+Universität:  
+Fakultät:  
+Titel der Dissertation:  
+Stand des Promotionsverfahrens:  
+ 
+ 
+3. Durch  
+……..  
+wurde mir bereits der Grad des Doktors/der Doktorin  der  
+………..  
+verliehen.13
+a) Dieser Doktorgrad wurde nicht aus gesetzlichen Gründen entzogen.  
+b) Es liegen keine Gründe vor, die nach den gesetzlichen Bestimmungen die Entziehung 
+des Doktorgrades rechtfertigen.  
+ 
+ 
+4. Ein entgeltliches Vertragsverhältnis , das eine  gewerbliche Promotionsberat ung zum Gegen
+stand hat und zur Unselbstständigkeit zumindest einer Promotionsleistung führen kann , besteht 
+bzw. bestand nicht.  
+ 
+5. Die „Regeln zur Sicherung guter wissenschaftlicher Praxis am Karlsruher Institut für Techn o
+logie (KIT)“ habe ich beachtet.  
+ 
+6. In die Dissertation wurden Vorveröffentlichungen einbezogen, bei denen ich im Rahmen einer 
+Mitautorenschaft jeweils einen signifikanten Teil selbstständig erbracht habe. Eine Aufstellung 
+mit den Angaben:1 
+
+Autoren/Auto rinnen:  
+Titel der Vorveröffentlichung:  
+Veröffentlicht in:  
+ 
+ 
+ist dieser Erklärung beigefügt. Die Aufstellung ist Bestandteil dieser Erklärung.  
+ 
+                                                
+1* Zu streic hen, sofern nicht zutreffend.  
+ 
+90 
+ 
+7. Die Dissertation oder Teile davon wurden nicht bei einer anderen Fakultät als Dissertation 
+eingereicht.  
+ 
+oder  
+ 
+Die Dissertation oder die nachfolgenden angegebenen Teile davon wurden  
+ 
+an der  
+Universität:  
+Fakultät:  
+als …..  
+ 
+eingereicht.14  
+ 
+8. Die Richtigkeit der vorstehenden Erklärungen bestätige ich.  
+ 
+ 
+ 
+Ort und Datum      Unterschrift  
+ 
+ 
+ 
+                                                
+1* Zu streichen, sofern nicht zutreffend  

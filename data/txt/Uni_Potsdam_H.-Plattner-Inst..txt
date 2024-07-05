@@ -1,0 +1,629 @@
+Auszug aus den Amtlichen Bekanntmachungen Nr. 11 vom 17.6.2020  Seite 508  513 
+ Promotionsordnung der  Digital  
+Engineering  Fakultät  der  
+Universität Potsdam  
+ 
+Vom 27. November  2019  
+ 
+Der Fakultätsrat der Digital Engineering Fakultät 
+der Universität Potsdam hat auf der Grundlage von 
+§§ 31, 72 Abs. 2 S. 1 Nr. 2 des Brandenburgisches 
+Hochschulgesetzes (BbgHG) vom 28. April 2014 
+(GVBl.I/14, [Nr. 18]), zuletzt geändert durch Art. 2 
+des Gesetzes vom 5. Juni 2019 (GVBl.I/19, 
+[Nr. 20], S. 3) i.V.m. Art. 21 Abs. 2 Nr. 1  der 
+Grundordnung der Universität Potsdam (GrundO) 
+vom 17. Dezembe r 2009 (AmBek. UP Nr. 4/2010 
+S. 60) in der Fassung der Fünften Satzung zur Ä n
+derung der Grundordnung der Universität Potsdam 
+(GrundO) vom vom 21. Februar 2018  (AmBek. UP 
+Nr. 11/2018 S. 634) am 27 . November 2019 fo l
+gende Ordnung als Satzung erlassen:1 
+ 
+Inhalt  
+§ 1 Doktorgrade  
+§ 2 Promotionsleistungen  
+§ 3 Promotionsausschuss  
+§ 4 Zulassung  
+§ 5 Betreuerinnen/Betreuer  
+§ 6 Betreuung  
+§ 7 Eröffnung des Promotionsverfahrens  
+§ 8 Gutachten  
+§ 9 Verteidigung  
+§ 10 Bewertung  
+§ 11 Veröffentlichung der Dissertation  
+§ 12 Vollziehung der Promotion  
+§ 13 Promotionsurkunde  
+§ 14 Ungültigkeitserklärung und Entziehung  
+§ 15 Ehrenpromotion  
+§ 16 InKraft Treten und Übergangsbestimmungen  
+ 
+ 
+§ 1 Doktorgrade  
+ 
+(1) Die Digital Engineering Fakultät  der Universität 
+Potsdam verleiht  aufgrund eines Promotionsverfa h
+rens den akademischen Grad  
+1.  eines Doktors  der Naturwissenschaften [do c
+tor rerum naturalium (Dr. rer. Nat.)], 
+2.  eines Doktors der Ingenieurwissenschaften 
+(Dr.Ing.) oder 
+3. des Doctor of Philosophy  (Ph.D.).  
+ 
+(2) Außerdem kann die Fakultät in  Anerkennung 
+besonderer Verdienste um die  in der Fakultät ve r
+tretenen Wissenschaften aufgrund eines Ehrenpr o
+motionsverfahrens die Würde  
+1. eines Doktors  der Naturwissenschaften ehre n
+halber (Dr. rer. Nat. h.c.),  
+2. eines Doktors der Ingenieurwissenschaften 
+                                                           
+1  Genehmigt durch den Präsidenten der Universität Potsdam 
+am 20. Februar 2020 . ehrenhalber (Dr. Ing. e.h.) oder  
+3. des Doctor of Philosophy honoris causa 
+(Ph.D. h.c.) . 
+verleihen.  
+ 
+ 
+§ 2 Promotionsleistungen  
+ 
+(1) Die Promotion erfolgt aufgrund einer schriftl i
+chen Arbeit (Dissertation) und einer nachfolgenden 
+mündlichen Prüfung ( Verteidigung ). 
+ 
+(2) Die Dissertation muss  
+1. einen Fortschritt der wissenschaftlichen E r
+kenntnis aufgrund selbständiger Forschung 
+erbringen,  
+2. die verwendeten Methoden zur Lösung der 
+Aufgaben in nachvollziehbarer Weise b e
+schreiben,  
+3. die Resultate klar darstellen sowie im Z u
+sammenhang mit dem relevanten gegenwärt i
+gen Kenntnisstand interpretieren und diskuti e
+ren und  
+4. eine vollständige Dokumentation der in der 
+Arbeit verwendeten wissen schaftlichen Lit e
+ratur und Hilfsmittel enthalten.  
+ 
+(3) Die Dissertation soll einen Umfang von 150 
+Seiten  nicht überschreiten und in deutscher oder in 
+englischer Sprache abgefasst sein.  
+ 
+(4) Soll der akademische Grad Dr. rer. nat. erwo r
+ben werden, muss die Dissertation einer naturwi s
+senschaftlichen Disziplin angehören; s oll der ak a
+demische Grad Dr. Ing. erworben werden, muss die 
+Dissertation einer ingenieurwissenschaftlichen 
+Disziplin  angehören . 
+ 
+ 
+§ 3 Promotionsausschuss  
+ 
+(1) Der Fakultätsrat bestellt die Mitglieder des 
+Promotionsausschusses und benennt eine Vorsi t
+zende /einen Vorsitzenden2. Mitglied des Promot i
+onsausschusses können nur Professorinnen / Profe s
+soren der Fakultät sein.  Die Amtszeit beträgt zwei 
+Jahre; Wiederwahl ist zulässig.  
+ 
+(2) Der Promotion sausschuss entscheidet über die 
+Zulassung und die  Eröffnung von Promotionsve r
+fahren und gibt der  Dekanin /dem Dekan  die Em p
+fehlung zur Vollziehung der Promotion.  
+ 
+(3) Der Promotionsausschuss tagt mindestens vie r
+mal im Semester. Er kann im Umlaufverfahren 
+beschließen.  
+ 
+ 
+ 
+                                                           
+2  Die Promotionsordnung verwendet die generische weibliche 
+und männliche Form . Sie gilt für alle Geschlecht er (w/m/d).  
+Auszug aus den Amtlichen Bekanntmachungen  Nr. 11 vom 17.6.2020  Seite 508  513 
+ § 4 Zulassung  
+ 
+(1) Der Promotionsausschuss lässt die Bewerberin / 
+den Bewerber zur Promotion zu. Zugelassen we r
+den kann, wer  
+1. einen Hochschulabschluss in Form eines 
+Diploms oder eines Masterabschlusses eines 
+Studiengangs der Digital Engineering Fakultät 
+oder entsprechender Fächer einer deutschen 
+Hochschule  und 
+2. eine Betreuungs vereinbarung zwischen Be
+werberin /Bewerber  und Betreuerin /Betreuer  
+nachweist. Der Promotionsausschuss erkennt 
+gleichwertige ausländische Abschlüsse an . Der 
+Nachweis der Gleichwertigkeit obliegt der Bewerb e
+rin/dem Bewerber . 
+ 
+(2) Der Hochschulabschluss ist im Original oder in 
+beglaubigter Kopie vorzuweisen. Er sol l mit dem 
+Prädikat „g ut“ oder besser bewertet sein.  
+ 
+(3) Weist die Bewerberin /der Bewerber keinen 
+Abschluss in den Fächern nach Absatz  1 Nr.  1 
+nach, muss  der Promotionsausschuss Auflagen zum 
+Abschluss von Modulen mit insgesamt 18 ECTS in 
+den Fächern des Digital Engineering in Absti m
+mung mit  der Betreuerin /dem Betreuer  zur Eröf f
+nung des Verfahrens (§  7) erteilen.  
+ 
+(4) Nach Zulassung muss sich die Doktorandin /der 
+Doktorand für mindestens zwei Semester  als Pr o
+motionsstudentin /Promotionsstudent an der Unive r
+sität Potsdam einschreiben  und mindestens ein 
+Semester lang an Doktorand innen/ Doktorande n
+seminaren oder äquivalenten Veranstaltungen mit 
+Leistungsnachweis teilnehmen.  
+ 
+ 
+§ 5 Betreuerinnen /Betreuer  
+ 
+(1) Der Promotionsausschuss bestellt für jedes 
+Promotionsverfahren eine Erstbetreuerin /einen 
+Erstbetreuer und eine Zweitbetreuerin /einen Zwei t
+betreuer . Sie müssen Professorinnen /Professoren 
+oder habilitierte Mitglieder der Fakultät  sein.  
+ 
+(2) Eine Zweitbetreuerin /ein Zweitbetreuer muss 
+unabhän gig von der Erstbetreuerin /vom Erstbetre u
+er sein. Ihr/Ihm kann der Promotionsausschuss die 
+Pflichte n der Erstbetreuerin /des Erstbetreuers über
+tragen, wenn die Erstbetreuerin /der Erstbetreuer aus 
+der Fakultät aus scheidet  oder von der Betreuung 
+zurück tritt. 
+ 
+(3) Der Fakultätsrat kann auf Vorschlag der Dek a
+nin/des Dekans weitere Wissenschaftleri n
+nen/Wissenschaftler nach Einzelfallprüfung zur 
+Erstbetreuung von Dissertationen berechtigen.  Dies 
+gilt auch zur Umsetzung von § 31 Abs. 5 BbgHG. 
+Weitere Zweitbetreuerinnen /Zweitbetreuer  müssen 
+nicht Mitglied der Fakultät sein, solange eine 
+Zweitbetreuerin /ein Zweitbetreuer ihr angehört.  § 6 Betreuung  
+ 
+(1) Die Betreuerinnen /Betreuer verpflichten sich 
+zur fachlichen Beratung und Unterstützung der 
+Doktorandin /des Doktoranden bei der Anfertigung 
+der Dissertation. Sie vereinbaren regelmäßige B e
+treuungs  und jährliche Fortschrittsgespräche.  
+ 
+(2) Betreuerinnen /Betreuer und Bewerberin / Be
+werber schließen unter dem Vorbehalt der Zula s
+sung ( § 4) schriftlich eine Betreuungsvereinbarung . 
+Sie verständigen sich auf ein Promotions thema , das 
+in einer Bearbeitungszeit vo n drei Jahren umgesetzt 
+werden kann und verpflichten sich auf die Einha l
+tung des Kodex „L eitlinien zur Sicherung guter 
+wissenschaftlicher Praxis “ der DFG . Jede Partei 
+und der Promotionsausschuss erhalten  eine Ausfe r
+tigung der Vereinbarung. Änderungen der Betre u
+ungsvereinbarung bedürfen der Schriftform.  
+ 
+(3) Die Vereinbarung enth ält darüber hinaus : 
+ Name und  Vorname der Beteiligten , 
+ Arbeitstitel der Dissertation,  
+ Wissenschaftsdisziplin,  
+ Vorschlag für die Auflagen im Fall des  § 4 
+Abs. 3, 
+ Erklärung der Beteiligten  zur Einhaltung der 
+Regeln zur Sicherung guter wissenschaftlicher 
+Praxis an der Universität Potsdam  und 
+ die Unterschrift der Beteiligten.  
+ 
+(4) Die Doktorandin /der Doktorand kann  jederzeit 
+vom Promotionsverfahre n zurücktreten. Damit  ist 
+das Verfahren beendet.  
+ 
+ 
+§ 7 Eröffnung des Promotionsverfahrens  
+ 
+(1) Der Antrag auf Eröffnung des Promotionsve r
+fahrens ist an die Vorsitzende /den Vorsitzenden des 
+Promotionsausschusses zu richten. Dem Antrag 
+sind beizufügen:  
+1. fünf gedruckte Exemplar e der Dissertation 
+und eine digitale Fassung,  
+2. sieben  Exemplare einer wissenschaftlichen 
+Zusammenfassung  und eine digitale Fassung , 
+3. sieben Exemplare eines tabellarischen  Le
+benslauf s, der insbesondere über den wisse n
+schaftlichen Werdegang Auskunft gibt, 
+4. eine Liste der veröffentlichten oder zur Publ i
+kation angenommenen Manuskripte oder a n
+derer wissenschaftlicher Leistungen, darüber 
+vorhandene Einschätzungen, Stellungnahmen, 
+Rezensionen,  
+5. eine beglaubigte Kopie des Abschlusszeu g
+nisses gemäß § 4 Abs. 1, 
+6. eine Versicherung an Eides statt , dass die 
+Arbeit bisher an keiner anderen Hochschule 
+eingereicht worden ist sowie selbständig und 
+ausschließlich mit den angegebenen Mitteln 
+angefertigt wurde,  
+7. Nachweis über die Erfüllung der Auflagen 
+Auszug aus den Amtlichen Bekanntmachungen Nr. 11 vom 17.6.2020  Seite 508  513 
+ nach § 4 Abs. 3, 
+8. Nachweis über die Teilnahme an mindestens 
+einem einsemestrigen Doktorand innen/ Dok
+toranden seminar,  
+9. Nachweis der Einschreibung als Promotion s
+studentin /Promotionsstudent , 
+10. ein polizeiliches Führungszeugnis, falls die 
+Doktorandin /der Doktora nd länger als drei 
+Monate exmatrikuliert war und nicht im ö f
+fentlichen Dienst steht  und 
+11. ein Exemplar einer allgemeinverständlichen 
+Zusam menfassung der Dissertation in deu t
+scher Sprache . 
+Jeweils eine Ausfertigung verbleibt bei den Akten 
+der Fakultät.  
+ 
+(2) Der Promotionsausschuss soll über die Eröf f
+nung des Promotionsverfahrens in der Folges itzung 
+entscheiden, wenn der Antrag spätestens eine W o
+che zuvor gestellt  wurde . 
+ 
+(3) Die/der Vorsitzende des Promotionsausschusses 
+teilt der Doktorandin /dem Doktorand en die Ent
+scheidung über die Eröffnung schriftlich  mit. Eine 
+Ablehnung ist mit einer Begründung zu versehen . 
+Ein Antrag kann insbesondere  abgelehnt werden, 
+wenn  
+1. die in Absatz  1 genannten Nachweise nicht 
+erbracht werden,  
+2. die Dissertation in der vorgel egten oder einer 
+davon nicht wesentlich verschiedenen Fa s
+sung bereits einer anderen Fakultät zur Begu t
+achtung vorgelegen hat und dort nicht ang e
+nommen worden ist,  
+3. eine Begutachtung in der Fakultät aus fac h
+spezifischen Gründen nicht sichergestellt 
+werden  kann,  
+4. begründete Zweifel an der Wahrhaftigkeit der 
+Erklärungen nach Absatz  1 Nr . 6 vorliegen 
+oder 
+5. Gründe vorliegen, die nach § 14 zum Entzug 
+des Doktorgrades führen würden . 
+Über einen Widerspruch gegen eine Ablehnung der  
+Eröffnung des Promotionsverfahrens entscheidet  
+der Fakultätsrat . 
+ 
+(4) Mit der Eröffnung bestellt der Promotionsau s
+schuss auf Vorschlag der Erstbetreuerin /des Erstb e
+treuers  die Prüfungskommission. Sie setzt sich 
+zusammen aus:  
+1. drei Gutachterinnen /Gutachtern und 
+2. drei Prüferinnen /Prüfern , darunter die /der 
+Vorsitzende . 
+Die Mitglieder der Prüfungskommission müssen 
+Professorinnen /Professoren oder habilitiert sein. Die 
+Erstbetreuerin /der Erstbetre uer ist Gutacht e
+rin/Gutachter ; die beiden anderen Gutachteri n
+nen/Gutachte r müssen unabhängig von den Betreu e
+rinnen sein; eine Gutachterin /ein Gutachter soll 
+nicht der Fakultät angehören. Die /der Vorsitzende 
+und die Mehrheit der Prüfungskommission müssen  
+Mitglied der Fakultät  sein. Im begründeten Einze lfall darf Prüferin /Prüfer sein, wer eine Promotion im 
+Fachgebiet der Dissertation nachweist.  
+ 
+(5) Die Eröffnung des Verfahrens wird fakultätsö f
+fentlich  gemacht. Gleichzeitig bekommen die 
+Hochschullehrerinnen /Hochschullehrer der Fakultät 
+für einen Zeitraum von zwei Wochen Zugang zur  
+digitalen Version der  Dissertation und der wisse n
+schaftlichen Zusamme nfassung. Sie haben das 
+Recht, bis eine Woche nach Ablauf der Ausl e
+gungsfrist Stellungnahmen zur Arbeit  gegenüber 
+dem Promotionsausschuss abzugeben.  
+ 
+ 
+§ 8 Gutachten  
+ 
+(1) Die Gutachterinnen /Gutachter erhalten je ein 
+gedrucktes Exemplar der Dissertation und der  wis
+senschaftlichen Zusammenfassung. Sie sollen  in
+nerhalb einer Frist von acht Wochen nach Erhalt 
+der Dissertation schriftlich oder in Textform unab
+hängig voneinander bewe rten, inwieweit die in 
+Anforderungen an eine Dissertation nach §  2 Abs. 2 
+erfüllt sind.  
+ 
+(2) Gesondert benoten  sie die Dissertation mit  
+ summa cum laude,  
+ magna cum laude,  
+ cum laude,  
+ rite oder  
+ insufficienter.  
+ 
+(3) Trifft  ein Gutachten nicht fristgemäß ein , ent
+scheidet der Promotionsausschuss darüber, ob  er 
+eine Fristverlängerung gewährt  oder eine  andere 
+Gutachterin /einen anderen Gutachter bestellt . 
+ 
+(4) Benoten zwei Gutachten die Dissertation mit 
+„summa cum laude“ und das dritte mit „magna cum 
+laude“, holt d er Promotionsausschuss auf Antrag 
+der Erstbetreuerin /des Erstbetreuers ein weiteres 
+Gutachten ein.  
+ 
+(5) Benoten  die Erstbetreuerin /der Erstbetreuer oder 
+mindestens zwei Gutachterinnen /Gutachter die 
+Dissertation  mit „insufficienter“ , ist das Promot i
+onsverfahren erfolglos beendet . Benotet  nur eine 
+Gutachterin /ein Gutachter die Dissertation mit 
+„insufficienter“ , so bestellt der Promotionsau s
+schuss nach § 7 Abs. 4 eine weitere Gutacht e
+rin/einen weiteren Gutachter ; Satz  1 gilt entspr e
+chend.  
+ 
+ 
+§ 9 Verteidigung  
+ 
+(1) Die Prüfungskommission legt Zeit und Ort für  
+die hochschulöffentliche Verteidigung fest und 
+benennt eine Protokollantin /einen Protokollanten . 
+Die/der Vorsitzende lädt  die Doktorandin /den Do k
+toranden mit einer Frist von zwei Wochen  und gibt 
+ihr/ihm die Mitglieder der Prüfungskommission 
+Auszug aus den Amtlichen Bekanntmachungen  Nr. 11 vom 17.6.2020  Seite 508  513 
+ bekannt. Mit der Ladung erhält die Doktorandin /der 
+Doktorand die Gutachten  ohne Benotung  nach §  8 
+Abs. 1 und die Stellungnahmen nach §  7 Abs. 5. 
+ 
+(2) Die Prüferinnen /Prüfer erhalten ein Exemplar 
+der wissenschaftlichen Zusammenfassung der Di s
+sertation sowie die Gutachten mit Benotungen nach 
+§ 8 Abs. 1 und 2. Die Prüfungskommission erhält 
+die Stellungnahmen nach §  7 Abs. 5. 
+ 
+(3) Für die Verteidigung ist die Anwesenheit von 
+mindestens vier Mitgliedern der Prüfungskommi s
+sion nach § 7 Abs. 4 erforderlich. Auf Antrag 
+der/des Vorsitzenden kann der Promotionsau s
+schuss für die Verteidigung eine Videokonferenz 
+für maximal ein Mitglied der Prüfungskommission 
+zulassen; das Mitglied gilt als persönlich anwesend.  
+ 
+(4) Wenn drei Gutachten die Vergabe des Prädikats 
+„summa cum laude“ empfehlen, ist die Prüfung s
+kommission nur beschlussfähig, wenn fünf Mi t
+glieder der Prüfungskommission nach § 7 Abs. 4, 
+darunter mindestens zwei Gutachterinnen /Gutachter 
+sowie ein Mitglied  einer anderen Fakultät, persö n
+lich anwesend sind. Die anwesenden Mitglieder 
+müssen die Wissenschaftsdisziplin in ihrer Breite 
+prüfen können.  
+ 
+(5) Liegt ein kurzfristiger Verhinderungsgrund  
+eines oder mehrerer Mitglieder vor oder sind die  
+Mindestanforderungen an die Zusammensetzung  
+nach Absatz  3 oder 4 nicht erfüllt, kann die /der 
+Vorsitzende des Promotionsausschusses die Pr ü
+fungskommission um weitere Mitglieder ergänzen.  
+ 
+(6) Die Verteidigung findet hochschulöffentlich 
+statt. Sie setzt  sich aus einem ca. 30minütigen 
+Vortrag und einer  Befragung der Doktorandin /des 
+Doktoranden , die 60 Minuten nicht überschreiten 
+soll, zusammen . Im Vortrag werden das wisse n
+schaftliche Problem  der Dissertation, der method i
+sche Lösungsansatz,  die wichtigsten Resultate der 
+Arbeit und ihre Einordnung in den aktuellen 
+Kenntnisstand erläutert . Die anschließende Befr a
+gung zur Dissertation und  zum wissenschaftlichen 
+Umfeld muss zeigen, dass  die Doktorandin /der 
+Doktorand  ihr/sein Thema auf der Grundlage ve r
+tiefter Ke nntnisse  ihres /seines  Fachgebietes, der 
+relevanten Literatur und Methodik bearbeitet hat . 
+ 
+(7) Die/der Vorsitzende eröffnet die Verteidigung 
+mit der Vorstellung  der Prüfungskommission und 
+des wissenschaftlichen Werdegangs der Doktora n
+din/des Doktoranden . Die Befragung erfolgt z u
+nächst durch die Mitglieder der Prüfungskommiss i
+on und orientiert sich an den in Absatz  6 genannten  
+Anforderungen des Vortrages . Die/der Vorsitzende 
+kann im Anschluss Fragen der übrigen Anwesenden 
+zulassen . 
+ 
+ § 10 Bewertung  
+ 
+(1) Die Prüfungskommission bewertet  im A n
+schluss an die Verteidigung  unter Ausschluss  der 
+Öffentlichkeit die Leistung insbesondere im Hi n
+blick auf  
+ die Qualität des Vortrags,  
+ die Befähigung  zur Auseinandersetzung  mit 
+Fragen und Kritik  und 
+ den dargelegte n Kenntnisstand . 
+Für die Benotung gilt § 8 Abs.  2. Als nicht besta n
+den gilt die Verteidigung , wenn mindestens zwei 
+Mitglieder der Prüfungskommission  die Verteid i
+gung  mit „ insuffic ienter “ bewerten.  
+ 
+(2) Die Kommission legt das Prädikat der Promot i
+onsleistung mit einfacher Mehrheit fest. Bei der 
+Festlegung des Prädikates der Promotionsleistung 
+kann die Kommission höchstens um ein Prädikat 
+vom ermittelten Gutachtervotum abweichen. Das 
+Prädikat „summa cum laude “ darf nur erteilt we r
+den, wenn  
+1. drei Gutachten die Dissertation mit „summa 
+cum laude“ bewerten  und 
+2. die Prüfungskommission in geheimer A b
+stimmung mit höchs tens einer Gegenstimme 
+zustimmt . 
+ 
+(3) Im Anschluss an die Beratung  verkündet  die/der 
+Vorsitzende der Doktorandin /dem Doktoranden das 
+Ergebnis . Über den Verlauf und das Ergebnis der 
+Verteidigung  wird eine Niederschrift aufgeno m
+men.  
+ 
+(4) Eine nicht bestandene Verteidigung  kann einmal 
+wiederholt werden. Hierfür soll  eine Frist von sechs 
+Monaten nicht überschritten werden. Wird diese 
+Wiederholung nicht bestanden, so ist das Promot i
+onsverfahren erfolglos beendet.  
+ 
+ 
+§ 11 Veröffentlichung der Dissertation  
+ 
+(1) Nach bestandener Verteidigung  hat die Dokto r
+andin /der Doktorand die Dissertation sowie  eine 
+Zusammenfassung in  deutscher und englischer 
+Sprache in digitaler Version auf dem Publikation s
+server der Universität  Potsdam nach den Vorgaben 
+der Universitätsbibliothek zu veröffentlichen.  
+ 
+(2) Die Gutachterinnen /Gutachter können für die  
+Veröffentlichung  der Dissertation  Auflagen  hin
+sichtlich sachlicher Korrekturen erteilen . Bei Diff e
+renzen entscheidet die Prüfungskommission . Gut
+achterinnen /Gutachter , die eine Dissertation  mit 
+„insufficienter“ benotet  haben, werden auf ihren 
+Wunsch in der  Veröffentlichung  nicht namentlich 
+genannt . Die Veröffentlichung darf erst erfolgen, 
+nachdem die Erstbetreu erin/der Erstbetreuer die 
+Endfassung der Dissertation genehmig t hat (Impr i
+matur) . 
+ 
+Auszug aus den Amtlichen Bekanntmachungen Nr. 11 vom 17.6.2020  Seite 508  513 
+ (3) Die Doktorandin /der Doktorand hat der Unive r
+sitätsbibliothek zu versichern, dass die digitale 
+Version der Endfassung der Dissertation nach A b
+satz 2 entspricht. Die Abgabe von Dateien, die den 
+Vorgaben hinsichtlich des Dateiformats nicht en t
+sprechen oder für welche nicht die zur elektron i
+schen Veröff entlichung erforderlichen Nutzung s
+rechte eingeräumt werden, gilt nicht als Veröffen t
+lichung.  
+ 
+(4) Die Veröffentlichung muss innerhalb eines 
+Jahres nach der Verteidigung  erfolgen. Der Prom o
+tionsausschuss kann die Frist bei Vorliegen eines 
+wichtigen Grundes angemessen verlängern. Ve r
+säumt die Doktorandin /der Doktorand die Frist, so 
+verliert sie alle im Promotionsverfahren erworb e
+nen Rechte. Das Verfahren ist damit beendet und 
+die Dissertation abgelehnt. Wiedereinsetzung in den 
+vorigen Stand wird nach §  32 VwV fG gewährt.  
+ 
+ 
+§ 12 Vollziehung der Promotion  
+ 
+(1) Hat die Doktorandin /der Doktorand alle Ve r
+pflichtungen erfüllt, wird d ie Promotion durch 
+Aushändigung d er Promotionsurkunde vollzogen.  
+ 
+(2) Der akademische Grad darf erst nach Aushänd i
+gung der Promotionsurkunde geführt werden.  
+ 
+ 
+§ 13 Promotionsurkunde  
+ 
+(1) Die Urkunde enthält in deutscher Sprache : 
+ Name der Universität und der Fakultät,  
+ Name, Vorname, Geburtsdatum und Geburt s
+ort der /des Promovierten,  
+ verliehener Doktorgrad,  
+ Wissenschaftsdisziplin,  
+ Titel der Dissertation,  
+ Prädikat,  
+ Ort der Ausstellung und  Datum der Verteid i
+gung  als Datum der Promotion,  
+ Unterschrift der Dekanin /des Dekans und der  
+Präsidentin /des Präsidenten oder der Rekt o
+rin/des Rektors der Universität  Potsdam . 
+ 
+(2) Die Fakultät kann der Urkunde eine englische 
+Übersetzung hinzufügen. Im Fall des § 1 Abs. 1 Nr. 
+1 und 2 darf sie folgenden Text beinhalten: „The 
+degree ‚Dr. rer. Nat‘/‚Dr.Ing.‘ is equivalent 512ot 
+he degree ‚Doctor of Philosophy (Ph.D.)‘ in the  
+Anglo American educational system.“  
+ 
+ 
+§ 14 Ungültigkeitserklärung und Entziehung  
+ 
+(1) Ergibt sich vor Aushändigung der Promotion s
+urkunde, dass die Bewerberin /der Bewerber bei 
+dem Nachweis der Promotionsleistung oder mit  
+Bezug auf die Voraussetzungen der Z ulassung zum  
+Promotionsverfahren getäuscht hat, so ist der ak ademische Grad zu versagen.  
+ 
+(2) Die Fakultät kann den akademischen Grad en t
+ziehen, wenn sich die im Absatz  1 genannten Grü n
+de nachträglich herausstellen oder die Regeln guter  
+wissenschaftlicher Praxis nicht beachtet wurden . 
+ 
+(3) Anträge auf Entziehung der  Promotion müssen 
+an den Promotionsausschuss  gerichtet werden . 
+Dieser gibt nach Anhörung der Betroffenen eine 
+Empfehlung an den Fakultätsrat . Der Fakultätsrat 
+beschließt die Entziehung mit Zwei Drittel 
+Mehrheit . 
+ 
+ 
+§ 15 Ehrenpromotion  
+ 
+(1) Auf Antrag einer /eines hauptberuflich an der 
+Fakultät  tätigen Professorin /Professors zur Verle i
+hung einer Ehrenpromotion nach § 1 Abs. 2 bestellt  
+der Fakultätsrat eine Kommission  zur Prüfung der 
+wissenschaftlichen Verdienste der /des zu Ehrenden . 
+Die Kommission besteht aus  der Dekanin /dem 
+Dekan , fünf weiteren Professorinnen /Professoren 
+oder h abilitierten Mitgliedern der Fakultät , ei
+ner/einem akademischen Mitarbeiterin /Mitarbeiter 
+und einer /einem Studierenden . 
+ 
+(2) Die Kommission schlägt dem Fakultätsrat die 
+Ehrenpromotion mit einer Mehrheit von zwei Dri t
+teln vor. Der Fakultätsrat entscheidet mit einer 
+Mehrheit von zwei Dritteln der in der Sitzung a n
+wesenden Mitglieder , darunter zwei Drittel der 
+anwesenden Hochschullehrerinnen / Hochschulle h
+rer. 
+ 
+(3) Die Ehrenpromotion wird durch Überreichen  
+einer Urkunde vollzogen, in der die Verdienste 
+der/des Geehrten hervorgehoben werden . Die Ur
+kunde trägt das Siegel der Universität und die  Un
+terschrift der Dek anin/des Dekans und der  Präsi
+dentin/des Präsidenten bzw. der Rektorin /Rektors 
+der Universität Potsdam . 
+ 
+ 
+§ 16 InKraft Treten und Übergangsbe stim
+mungen  
+ 
+(1) Die Promotionsordnung tritt am Tag nach der 
+Verkündung in den Amtlichen  Bekanntmachungen 
+der Universität Potsdam in Kraft . Gleichzeitig tritt 
+§ 3 der „Satzung für die weitere Anwendung der 
+Ordnungen der Mathematisch Naturwissenschaft 
+lichen Fakultät bezüglich der Studiengänge IT 
+Systems Engineering an der Universität Potsdam 
+nach der Gründung der Gemeinsamen Digital Eng i
+neering Fakultät der Universität Potsdam und des 
+Hasso Plattner Instituts“ vom 24. April 2017 (Am
+Bek. UP Nr . 9/2017 S. 311) außer Kraft . 
+ 
+(2) Absatz 1 gilt nicht für Promotionsverfahren, 
+deren Eröffnung vor dem In Kraft Treten dieser 
+Auszug aus den Amtlichen Bekanntmachungen  Nr. 11 vom 17.6.2020  Seite 508  513 
+ Ordnung beantragt wurde.  
+ 
+(3) Die Pflicht zur Einschreibung aus § 4 Abs. 4 gilt 
+bis zum 31. März 2023 nicht für Doktorandi n
+nen/Doktoranden , die bis zum In Kraft Treten 
+dieser Ordnung  ihre Zulassung beantragt hatten . 
+ 
+(4) Die Faku ltät soll eine englische Übersetzung  
+dieser Ordnung  in den Amtlichen Bekanntmachu n
+gen der Universität Potsdam  veröffentlichen  lassen . 

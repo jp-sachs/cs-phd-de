@@ -1,0 +1,599 @@
+Promotionsordnung  
+der Fakultät für Informatik  
+der Technischen Uni versität C hemnitz  
+Vom 13. März  201 9 
+Aufgrund von §  40 Abs.  5 in V
+erbindung mit § 13 Abs.  4 Satz 1  und § 88 Abs.  1 Nr. 2 des Gesetzes über die 
+Freiheit der Hochschulen im Freistaat Sachsen (Sächsisches Hochschulfreiheitsgesetz – SächsHSFG ) in der 
+Fassung der Bekanntmachung vom 15. Januar 2013  (SächsGVBl. S. 3), das zuletzt durch Artikel 6 des Gesetzes 
+vom 14. Dezember 2018 (SächsGVBl. S. 782 ) geändert worden ist, hat d er Fa kultä tsrat der F akultät für Informatik 
+der Technischen Universität  Chemnitz  die folgen de Promotionsordn ung erl assen:  
+Inhaltsübersicht 
+I.Allgemeiner  Teil
+§ 1 Promoti onsrecht
+§ 2 Promoti on
+§3 Vora ussetzungen
+§ 4 Promoti onsleistungen
+§ 5 Promoti onsaussch uss
+§ 6 Promoti onskommissi on
+II.Eröffnung des Promot ionsverfahrens
+§ 7 Antra gstellung
+§ 8 Eröffnung des Pr omotionsv erfahrens
+§ 9 GutachterIII. Ablauf des Promotions verfahrens
+§ 10 Allgeme ines
+§ 11 Bew ertung der  Disser tation
+§ 12 Anna hme der D issertation
+§ 13 Öffentliche Ausle gung, Einspr üche
+§ 14 Öffentliche Verteid igung
+§ 15 Bew ertung der öffentl ichen Ver teidigung u nd G esamtnote der Promotion
+IV.Veröffentlichung und Titelführung
+§ 16 Veröffent lichu ng der  Dissertation
+§ 17 Ü bergabe der Urku nde, Titelführu ng
+V. Ungültigkeit und R echtsbehelfe
+§ 18 U ngültigkeit von Prom otions leistungen
+§ 19 Entzie hung d es Doktorgrad es
+§ 20 Wi derspruchsr echt
+§ 21 Eins ichtnahm
+e
+VI. Ehrungen und Schlussbe stimmung
+§ 22 Ehr enpromotion
+§ 23 Inkrafttreten und VeröffentlichungNur zur Vereinfac hung der Schreibweise verwendet  diese Prom otionsor dnung Persone nbezeichnungen 
+männl ichen Gesch lechts. Di ese Person enbezeichnungen gelten gleichermaßen  für Personen  beider lei 
+Geschlechts. 
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+299
+  I. Allgemeiner  Teil 
+ 
+§ 1 
+Promotions recht 
+(1) Die Faku ltät für Informati k (nachfolgend Fakultät) verleiht für die Technisc he Universität  Chemnitz als 
+Erge bnis eines e rfolgreichen  Promotio nsverfahrens den ak ademischen Grad Dokt oringenieur (Dr.In g.) oder 
+Dokt or de r Naturw issenschaften (Dr. rer. nat.).  
+(2) Die Fa kultät verleiht f ür die T echnische  Universität Chemni tz a ufgrund eines Besch lusses  ihres  
+Fakultä tsrates den akad emischen Grad Do ktoringenieur  Ehren halber (Dr.Ing. E. h.) oder do ctor rerum 
+naturalium hon oris causa (Dr. rer. na t. h. c.). 
+§ 2 
+Promotion  
+(1) Mit der Promotion  weist d er Bewerber sein e Fäh igkeit n ach, d urch sel bständige w issenscha ftliche  Arbeit 
+Erge bnisse  zu erzie len, die zur Weiterentw icklung der Info rmatik beitragen sowie deren Model le, Theorien 
+und Method en bereich ern. 
+(2) Ein Promotionsverfahren gliedert sich in die Zulassung zur Promotion, die Eröffnung des 
+Promotionsverfahrens, die Bewertung der Dissertation, die öffentliche Verteidigung der Dissertation und die 
+Verleihung des Doktorgrades.  
+(3) Vora ussetzung fü r die Promoti on zum Dr. Ing. ist die Fe ststell ung des Pro motionsa usschuss es, dass 
+ingen ieurw issensc haftliche Asp ekte der Informatik den Schw erpu nkt der Disserta tion darstellen . Vorausse tzung 
+für die Promotion zum Dr. rer. nat. ist die Feststellung  des Promotionsau ssch usses,  dass  mathematisc h
+naturwiss enschaftliche Aspekte d er Inf ormatik den Schw erpu nkt d er Diss ertation  darstell en. 
+(4) Nach ei nem erfolgreichen  Promoti onsverf ahren wird  dem Bewerb er da s Recht zur Führung de s Doktorgrad es 
+verlieh en und  beurkun det. 
+(5) Promoti onsverf ahren werden  grun dsätzlich für einzelne Be werb er eröffnet. Jeder Bewerber legt eine eigene, 
+abgeschl ossene und  seine Leist ungen ken nzeichnen de D issertati on vor.  
+(6) Bei Diss ertationen zu eng z usammenhängenden The men, bei de nen eine Zus amme narbeit  zur Erlangung ei ner 
+wiss enschaftlich beachtl ichen Le istung zwin gend erforderlich ist, kann die öffentliche Verteidig ung in e iner 
+gemeinsam en Veranstaltung stattfinden.  
+§ 3 
+Voraus setzunge
+n 
+(1) Die Prom otion  ist eine wiss ensch aftliche Q ualifik ation von internationalem Rang.  Zur Pro motion ka nn 
+zugelassen werden,  wer an einer Hochschule einen Diplom, M aster  oder Magisterg rad oder  das Staatsexa men 
+im Fachg ebiet Informatik mi t in der R egel üb erdu rchschnittlichen  Leistun gen abgesch lossen hat. Z ur Promotion 
+kann a uch zugelassen werden, w er aufgr und eines mit überdurchsc hnittlichen  Leistung en abge schlossen en 
+Stud iums an  einer Hochschule  einen Diplom, Mast er o der Magisterg rad oder  das Staatsexamen in einem  der 
+Informatik  nahestehenden Fac hgebiet erworben h at. Es bes teht ke in Ans pruch auf Zulassu ng zur P romoti on. 
+(2) Für Bewerber na ch Absatz 1 entscheidet  der Promotionsa usschuss  im Benehmen  mit dem Betreu er, ob  vor 
+der Zu lassu ng zur Prom otion zusätz liche Studien  und Prüfun gsleistun gen zu erbring en sind. Der Bewerber k ann 
+Vorsch läge zum  Prüfun gsstoff  abgeben. Der Promotionsa usschuss  ist nicht an diese Vorschl äge gebun den. 
+Zusä tzliche Prüfun gsleistungen gelten als er brac ht, wenn d as arithmetische Mittel der Noten  2,3 oder b esser 
+beträgt. 
+(3) Fachho chschulab solventen,  die d ie Vorausse tzungen n ach Absa tz 1 S atz 2 erfüllen und vom zuständ igen 
+Fakultä tsrat der  Fachhochschule zur Promotion  vorges chlagen werden, sol len auf Antrag zu einem koop erativen 
+Promotionsve rfahren zuge lassen  werd en. 
+(4) Das kooperative Prom otionsv erfahr en zeichnet sich  dadu rch aus, d ass ein Hoch schul lehrer für Informatik  
+einer Fac hhochs chule als Gutachter an d er Promoti on mitwirkt. Es die nt der Förd erung der Z usammen arbeit 
+zwisc hen den Fakultäten von Universit ät und Fa chhochschu le. Zur Einleitu ng ein es koop erativen  
+Promotionsv erfahrens ist ein proj ektbezogener Koo perationsv ertrag zwisc hen den beteiligte n Fakultät en 
+abzu schließen. Umfang  und Inhalt eventuell zu erbr ingender zu sätzlicher Studie n und Prüfun gsleistu ngen 
+werd en einvernehml ich im Rah men des kooperativen Promotionsverfahrens festgel egt. 
+(5) Inhaber des Bach elorg rades ein er Hochschule könn en auch ohne  Erwerb eines weit eren Grad es im Wege eines 
+Eignun gsfeststellu ngsverfahr ens zur Promoti on zugelass en werd en.  
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+300
+  (6) Das Eignungsfeststellu ngsv erfahren nach  Absatz 5 wird durch Besch luss des Fakultätsrates der Fakultät 
+eröffnet,  wenn  die Leistungen des Bewerbers da rauf schließen  lassen,  dass die Promotionsbef ähigung auch  
+ohne Erw erb eines weiteren  Grades vorliegt. Die Voraussetz ungen für die Eröffnung  sin d, dass das 
+Bache lorstud ium mit der Note 1,0 (od er bess er) abgeschlossen w urde u nd dass der Bewerber als erstge nannter 
+Autor von drei Veröffentlichunge n in international anerkann ten F achzeitschriften der Informatik auftr itt. Zur 
+Durchf ührung des Eignun gsfeststellu ngsverfahr ens wird durch den Fakultäts rat eine K ommiss ion eingerichtet,  
+die si ch aus fünf H ochschulle hrern d er Fakultät  zusammensetzt. Der  Vorsit zende des Promotionsa usschuss es 
+ist Mitglied  dieser Kommission. Die  Kommission entsc heidet über das Vorlie gen der Eignung zur  Promotion  auf 
+der Grundlage de s Abschl usses  sowie d es Inhaltes  des absolviert en Studienganges  einschließlic h der  bei 
+sämtl ichen Prüfung sleistung en er brac hten Ergebnisse, der Veröffentli chungen, eines Vortrag es des Bewerbe rs 
+und e iner w issenschaftlichen Befrag ung. 
+(7) Über die Anerken nung der Gle ichwerti gkeit au sländischer Examina en tschei det der  Prüfun gsausschuss der 
+Fakultät u nter Berücksichtig ung geltender  Äquivale nzvereinbarungen. Sofern die Gleich werti gkeit festg estellt 
+wird, gelten A bsatz 1 bis 6 e ntspreche nd. 
+(8) Bewerbe r, bei den en vor ihrem Antrag auf Eröffnung des Promoti onsv erfahrens bereits  zweimal  ein 
+Promotionsve rfahren  ohne Erfolg ab geschloss en wurde, erfüllen n icht mehr die P romoti onsvorausse tzunge n. 
+(9) Zur Prüfung der Erfüllung aller Promotion svoraussetzungen  ist an das Dekanat der Fakultät e in formloser 
+Antrag auf Zulassung zur Promotion zu stellen. Dieser muss enthalten:  
+1. das in Aussich
+t gen
+ommene Thema der Dissertation einschließlich Kurzdarstellung mit wissenschaftlicher 
+Problemstellung , Lösungsansatz und geplanten Arbeitsschritten,  
+2. die Bereitschaftserklärung eines Hochschullehrers der Fakultät oder im Falle eines kooperativen 
+Promotionsvorhabens von zwei Hochschullehrern gemäß Abs atz 4, den Bewerber bei der Erarbeitung der 
+Dissertation wissenschaftlich zu betreuen,  
+3. der Nachweis über den Erwerb eines Hochschulabschlusses nach Abs atz 1, 2, 3, 4, 5 oder 7, 
+4. ein Lebenslauf und wissenschaftlichem Werdegang einschließlich der Nachweise über bereits absolvierte 
+zusätzliche Studien und Examina,  
+5. eine Erklärung über zurückliegende erfolglose Promotionsverfahren,  
+6. eine Erklärung zur Anerkennung dieser Promotionsordnung  
+7. sowie das Formular zur Erfassung der Promovierendendaten (wird vom Dekanat bereitgestellt).  
+Alle genannten Unterlagen sind in schriftlicher Form einzureichen und müssen vom Bewerber unterschrieben sein, die Unterlagen gemäß Nummer 3 müssen amtlich beglaubigt  sein.  
+(10) Der Antrag auf Zulassung zur Promotion ist eine Äußerung der Absicht des Bewerbers an der Fakultät 
+promovieren zu wollen. Der Promotionsausschuss prüft auf der Basis der Vorqualifikation des Bewerbers, ob dieser unmittelbar zur Promotion zugelassen werden kann oder ob noch Studien  und Prüfungsleistungen gemäß 
+Absatz 4 erbracht werden müssen. Über die Zulassung  zur Promotion  und über eventuelle Auflagen oder über 
+eine Ablehnung erhält der Bewerber einen schriftlichen Bescheid.  Die Ableh nung ist dem Bewerb er vom Dekan 
+der Fakultät schriftl ich unter Ang abe der Gründe zusammen mit einer Re chtsbe helfsbelehr ung mitzuteilen. 
+Der Bewer ber erhält im Fall e der Ablehnung der Zulassung zur Promotion au ßer dem Antr ag auf Zulassung zur 
+Promotion alle eing ereichten Unt erlagen zurück. 
+(11) Zur Promotion zugelassene Bewerber sind verpflichtet, eine Änderung des Status der Promotion (Wechsel 
+der Hochschule, Beurlaubung, sonstige Unterbrechung der Promotion, aktive Fortsetzung der Promotion, Abbruch der Promotion) dem Dekanat unverzüglich schriftlich mitzuteilen. Zudem sind die Bewerber verpflichtet, jährlich 
+zum 30.11. dem Dekanat den aktuellen Status der Promotion schriftlich mitzuteilen. Unterbleibt eine entsprechende Mitteilung durch den Bewerber , kann d ie Zulassung zur Promotion vom Promotionsausschuss 
+nach Anhörung des betreuenden Hochschullehrers widerrufen werden.  
+(12) Die Zulassung zur Promotion kann zudem vom Promotionsausschuss nach Anhörung des betreuenden 
+Hochschullehrers widerrufen werden, wenn der Antrag auf Eröffnung d es Promotionsverfahrens nicht spätestens 
+sechs Jahre nach dem Antrag auf Zulassung zur Promotion gestellt wird.   
+§ 4 
+Promotions
+leistungen  
+(1) Der Doktorgrad  wird auf der Grund lage einer schriftlich en wi ssenschaftlichen  Arbeit, der Dissertati on, und 
+ihrer öffentlich en Verteidig ung v erlieh en. 
+(2) Promotionsleistung en erfolgen grundsätzl ich in deutscher ode r engl ischer S prache.  
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+301
+  § 5 
+Promotionsa ussc huss 
+(1) Dem Pr omotionsa usschuss g ehören  an: 
+1. drei Hochsc hulleh
+rer der Fakultät,  
+2. ein pr omovierter ak ademischer Mitar beiter,  
+3. ein Student e ines M aster o der D iplomstudiengangs der Fakultät m it beraten der Stimme. 
+(2) Die Mitglieder des Pr omotionsa usschuss es nach Absatz 1 Nr. 1 und 2 w erden vom Faku ltätsrat in der  Regel 
+für die Dau er von drei Jahren  bestellt. Das Mi tglied  nach Absatz 1 Nr.  3 wird vom Fakultätsrat für die Dauer eines 
+Jahres bestellt.  Der Vorsi tzende wird  vom Dekan  aus d en Mitgliedern  nach Absa tz 1 Nr.  1 bestellt. Der 
+Promotio nsau ssch uss bestimmt intern ei nen Vert reter d es Vo rsitzenden aus den Mitgli edern n ach Absatz 1 Nr.  
+1. Wied erbestel lungen sin d zul ässig. Auf Verla ngen hat der Promoti onsa usschuss dem  Fakultätsrat über seine 
+Tätigkeit zu b erichten.  
+(3) Der Prom otionsa usschuss nimmt folgen de Aufg aben im Auftr ag des F akult ätsrat es selbs tändig wahr: 
+1. die Überp
+rüfung der Pro motionsv oraussetz ungen, die Entsche idung  über die Zulassung  zur Promoti on und 
+die Festle gung noch zu erbr ingen der Stud ien und Prüfu ngsleistu ngen, 
+2. die Entscheid ung ü ber die Eröffnung des Prom otions v erfahren s, 
+3. die Entschei dung über den dem Inhalt der Dissertati on entsprechenden  akadem ischen  Grad gemäß  § 1 u nd 
+§ 2 Abs. 3, 
+4. die Bestellun g der G utacht er, der Promot ionskommi ssion und i hres Vorsi tzenden, 
+5. die Entscheid ung ü ber die Annah me oder Nichtannah me d er Dissertation n ach Eintreffen der Gutacht en, 
+6. die Vor bereit ung von Entsche idungen zu Sond erfälle n und zu Einspr üche n, die dem F akultä tsrat vorzu legen 
+sind. 
+(4) Die B eratungen des P romoti onsaussch usses  sind nichtöffentlich. Die Mitg lieder  sind zur Versc hwiegenheit  
+über die Berat ungsgegenstände verpflichtet.  
+(5) Der Promotionsa usschuss ist besc hlussfähig,  wenn die Vor aussetz ungen des § 54 Abs.  1 SächsHSFG  erfüllt  
+sind und der Vorsitzende od er sein Stellvertreter  anwese nd ist. Beschl üsse des Prom otionsa usschusses werd en 
+nach § 54 Abs. 2 Säc hsHSF G gef asst. Über d ie Beratung en des Promotio nsaussch usses ist ein Protoko ll zu 
+führen.  
+(6) Die Rege lungen der §§ 20 und 21 de s Verwaltu ngsverfa hrensgesetze s (Vw VfG) gelten en tsprechen d. 
+§ 6 
+Promotionsk om
+mission  
+(1) Der Prom otionskom mission gehören an: 
+1. der V
+orsitze nde, 
+2. die Gut achter,  
+3. zwei  Beisitzer , 
+4. ein Protok ollant ohne Stimmr echt. 
+(2) Der Vorsi tzende mu ss Hoch schull ehrer der F akultät  sein. Der  Vorsitz ende ist in der Regel kei n Gutachter.  Der 
+Vorsitze nde der Pro motionskommiss ion leitet das  Promot ionsv erfahren nach der  Annah me de r Diss ertation. 
+Beisitz er können Hochsch ullehrer o der promovierte  wisse nschaftliche Mit arbeiter se in. 
+(3) Die Prom otionskom mission  führt die öffentliche V erteid igung durch.  Sie legt eine Note  für die öffentliche 
+Verteid igung  fest. Zusä tzlich legt sie d ie Gesamtnote  der Pro moti on fest.  
+(4) Für die Promotio nsko mmiss ion gilt  § 5 Abs. 4 bis 6 entspreche nd. 
+II. Eröf
+fnung des Promotionsverfahrens  
+ 
+§ 7 
+Antr agstellung 
+(1) Der Antrag auf Eröffnung d es Promotionsverfahrens setzt die Zulassung zur Promotion gemäß §  3 voraus.  
+(2) Der An trag auf Eröffn ung des Pro motionsv erfahrens ist vom Bew erbe r an den D ekan zu r ichten.  
+(3) Dem Antrag auf Eröffnung des Promotionsverfahrens sind beizufügen:  
+1. Nac
+hweise über die zus ätzlich er brac hten Studie n und Prüf ungsleistungen, falls der Promotion saus schuss 
+derartige Leistungen b ei der Überprüfung der Promotions voraus setzungen ver langt hat,  
+2. ein Lebenslauf, insbesondere zum wi ssensc haftlich en Werd egan g, inklusive  einer Liste der 
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+302
+  Veröffentlic hungen, Vorträ ge, Patente und and erer wissenschaftlich er Leistungen, 
+3. die D issertat ion in vier geb undenen Ex emplaren ei nschließlic h Thesen inklusive je einer elektronisch lesbaren 
+Fassung (CD, USB Stick) , 
+4. die Anga be des vom Bew erber angestrebten Grad es, 
+5. die Vers icherung,  dass die vorgele gte Arbeit weder im Inland  noch im Ausland in  gleicher oder in ähnl icher 
+Form einer a nderen Prüfun gsbe hörde zum Zw ecke ein er Promotion oder ein es anderen Prüfun gsverfahre ns 
+vorge legt wurde u nd auch no ch ni cht veröffentlicht  wurde, 
+6. eine Erklärung , ob u nd geg ebenenfalls wo, wa nn, mit welch em Th ema und mit we lchem Erge bnis frühere 
+Promotionsve rfahren statt gefund en haben. 
+(4) Mit dem Antrag auf Eröffnung  des Promotio nsverfahrens h at der Bewe rber in einer schriftlic hen Erklärung 
+1. zu vers
+ichern, dass  die vorliegende Arbeit ohne u nzulässige Hilfe und ohne Benutzung ande rer als der  
+ange gebenen Hilfsmittel angef ertigt wurde  und die aus frem den Quellen  direkt  oder indir ekt überno mmenen  
+Gedanken  in der Arb eit als solche kenntlich ge macht sind,  
+2. zu versichern, dass  weitere  Personen bei d er geistigen He rstellung  der vorliegenden  Arbeit n icht beteiligt  
+waren,  insbeson dere hier bei auch nicht  die Hi lfe eines  Promotionsb eraters in Anspruch g enommen  wurde, 
+und dass Dri tte vom Bew erber weder  unmitt elbar noch mittelbar  geldwerte Leistungen für Arbeiten  erhalten  
+haben, die  im Zus amme nhang mit dem Inhalt der vorge legten D issert ation ste hen 
+3. sowie mitzuteilen,  dass er mit einer elektronischen Überprüfung seiner Dissertation auf etwaige Plagiate hin 
+einverstanden ist.  
+(5) Die Thesen, ein kurzg efasster  Lebenslauf entspreche nd Ab satz 3 Nr. 2, die Erklärung nach  Absatz 4 und 
+die biblio grap hischen Ang aben sind je dem Exemplar der Dissertation b eizuheften.  
+(6) Alle genannten  Unter lagen sind in schriftlich er Form vorzul egen und gehen nach  Eröffn ung des 
+Promotionsverfahrens in das Eigentum d er Techn ischen Universität Chemnitz über. F ür die 
+Dissertatio nsex emplare gilt §  9 Abs. 6 und  7. 
+(7) Der Antrag auf Eröffnung des Promotionsverfahrens ka nn vom Bewerber zu rückg ezogen werden,  sola nge 
+das Pro motionsv erfahren  nicht  eröffnet  ist. Er gilt dann  als nicht gestellt,  und der Bewerber erhält alle Unterla gen 
+außer dem Antrag  auf Eröffnung des Promotionsverfahrens  zurü ck. Das Rück nahmeers uchen bedarf der 
+Schriftform.  
+§ 8 
+Eröffn ung des Pr
+omoti onsver
+fahre ns 
+(1) Der Prom otionsa usschuss entsc heidet über die Eröffnung d es Promotio nsverfahren s. 
+(2) Vor dieser Entsc heidung kann er die Di ssertati on zur Behebung formal er Mängel  zurückg eben. In diesem 
+Fall ist die Eröffnu ng bis zu r Beh ebung d er M ängel au szusetzen.  
+(3) Im Be schluss über die Eröffnung  sind das Fachgebiet und die G utacht er fe stzuleg en sowie das Th ema der 
+Dissertation zu b estäti gen. Weiterhi n ist d ie Feststellu ng gemäß § 2 Abs. 3 zu treffen.  
+(4) Der Prom otionsa usschuss muss die Eröffnu ng a blehnen, wenn die V oraussetzun gen nach § 3 nicht  erfüllt 
+sind oder d as Thema der  Dissertation nicht dem Fachgebiet Informatik z ugehört.  
+(5) Über die Eröffnung  des Promotionsverfahrens erhält  der Bewerb er unverzüglich ei nen schriftlic hen Bescheid.  
+Die Ableh nung ist  dem Bewerb er vom Dekan schriftlich unter Angabe der Gründe zusammen mit einer 
+Rechtsbe helfsbelehr ung mitzuteilen. Der Bewer ber erhält im Fal le der N ichteröffnung au ßer dem Antr ag alle 
+eingereichten Unt erlagen zurück.  
+(6) Gibt der Bewerber nach E röffnu ng des Promoti onsverf ahrens eine schriftliche Rü cktrittserk lärung  ab oder  
+werden Grü nde beka nnt, die die Eröffnung  verhindert hätten, so erfolgt  durch den Promotio nsau ssch uss der 
+Abbruch de s Promotionsverfahrens . Im Falle eines Abbruches  ist der Bewe rber vom Dekan  schriftlich  unter  
+Angabe der Grün de zusammen mit ein er Re chtsbe helfsbelehrung zu informie ren. Die  Unterlagen, einschließlich 
+der ei ngegangenen Gut achten, verbleiben im  Dekanat.  
+§ 9 
+Guta chte
+r 
+(1) Alle Hoch schull ehrer d er Fakultät  sind berechtigt,  Dissertati onen  anzuregen, zu betreuen  und zu 
+begut achten. Ein Professor im Ru hestand kann zum Gut achter bestellt wer den, wenn er d ie Betreu ung der 
+Dissertation  während seiner Mitglie dschaft zur T echnisch en Uni versität  Chemnitz üb ernommen hat. 
+(2) Im E röffnungsbeschluss nach § 8 werd en mindestens zwei Hochschul lehrer  als Gutachter bestimmt.  
+Mind estens ein Gutachter muss Ho chschullehrer der  Fakultät sein. Mindestens ein Gutachter muss ein nach § 
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+303
+  60 oder § 62 SächsHSFG berufener Professor an einer Universität sein.  
+(3) Der Bewerber kann  zu den Person en der G utachter Vorschl äge unterbreit en. Der Promo tions aussch uss ist 
+nicht an di ese Vorschl äge gebunden. 
+(4) Der Pro motionsa usschuss  kann  in begrün deten Fällen weitere Gut achten z ur Dissertation ei nholen. Ein 
+begrün deter Fall liegt insbesondere vor, wenn  die G utachter  in ihrer Bewe rtung stark  voneinander abwe ichen oder 
+wenn ein Gu tachter mit „non s uffic it“ bewertet hat.  
+(5) Die Vergabe einer Au szeichn ung („su mma  cum laude“)  erfol gt auf der Grundl age von drei Gutachten. Um das 
+Promotionsverfahren nicht zu verzö gern, kann  der betre uende Hoch schulle hrer den Prom otionsa usschuss 
+frühzeitig  auf diesen Fall hinweis en. 
+(6) Die Gut achter  haben das R echt, die ihnen z ur Be gutachtung übergebenen Diss ertation en zu behalten . 
+Gutacht en soll en schriftl ich inn erhalb von drei Mo naten n ach A ushändigung der Dissertati on an die Gu tachter 
+dem V orsitzenden des Promoti onsaussch usses zuge leitet werden.  
+(7) Ein Exe mplar d er Dissertation verbl eibt in den Unterlag en der Fakultät. 
+III. Abl
+auf des Promotions verfahrens  
+§ 10  
+Allge
+meines  
+(1) Das Dissertatio nsthe ma mu ss dem wiss enschaftlich en Profil d er Fakultät  zuzuordnen sein.  Bei der 
+Bear beitung des T hemas muss ein Hochschul lehrer  der Fakultät betreu end mitg ewirkt ha ben.  
+(2) Eine von einem wisse nschaftlic hen Gremium berei ts abgelehnte oder für andere Prüfun gszwecke  bereits 
+verw endete A bhandlung  kann nicht als Dissertation an geno mmen werd en. 
+(3) Die Ergebn isse der Disserta tion sind  in Thesen  zusam menzufassen;  diese sind Bestandteil der Dissertation.  
+Die Thesen soll en die w ichtigsten Erge bnisse, die zur  Weiterentw icklun g der Inform atik beitrag en, enthalten.  
+§ 11  
+Bewe rtung der
+ Diss erta
+tion  
+(1) Die Gutachter  geben ein  unabhä ngiges begründet es Gut achten über die Diss ertati on ab und schl agen die 
+Annah me od er Able hnung, bei Anna hme auch die Bewertung nach  Absatz 2 vor. Die Diss ertation soll  nur d ann 
+angenomm en werd en, wenn sie den Anforderungen  von § 2 Abs.  1 entspr icht und wenn sie hi nsichtlich  
+Orthograph ie, Gram matik  und äußerer Form druckfä hig ist. Auflagen  hinsichtlich geringfügi ger Änderu ngen 
+und Ergänzungen, zu denen der Bewerber unzweifelhaft bere it ist, stehen einer An nahme nicht ent gegen. 
+(2) Im Falle d er Ann ahme sind fol gende Bewertu ngen möglich:  
+„summa  cum laude“ (
+mit Ausze ichnung), 
+„magna cum laud e“ (se hr gut), 
+„cum laude“ (gut),  
+„rite“  (genügend). 
+Die Ablehnung entspr icht der Note  „non sufficit“  (ungenügend). Die Note  „ma gna cum laude“ (sehr  gut) ka nn 
+durch den  Zusatz „minus“,  die Note  „cum  laude“ (gut) ka nn durch die Zu sätze  „plus“ oder „minus “ weiter 
+differ enziert werd en. Für  die Berechnu ng einer Gesamtnote  aus den Einzelb ewertungen werden  die Zahle nwerte 
+0 für „summa  cum laude“, 1 für „ma gna cum  laude “, 2 für „cum  laude“  und 3 für „rite“ heran gezoge n. Ein Zusa tz 
+„plus“ erniedrigt den Note nwert um 0,3. Ein Zusat z „mi nus“ erhöht d en Notenwert um 0,3. 
+(3) Die Vergabe d er Bew ertung „summa cum  laude“ (mit Auszeichnu ng) soll  nur wirkl ich he rvorrage nden 
+Dissertation en vorbe halten sein.  Die G utacht er sollen darüber informi ert werd en, dass  eine Auszeich nung den 10 
+% Besten vorbe halten sein soll.  
+(4) Die Gutachten  sollen  die Bestätigu ng oder Ablehnung  der Thesen  und eine Aussa ge dazu  enthalte n, ob 
+sie die wichtigst en Erge bnisse d er Dissertatio n wid erspie geln. 
+§ 12  
+Annahme
+ der Disse rt
+ation 
+(1) Der Prom otionsa usschuss entsche idet auf der Grun dlage d er Gutachten  über An nahme oder Nichtann ahme 
+der Dissertation  sowie über die Fortsetzung oder Beendigung des Promotionsverfahrens . Die Entscheidung ist 
+dem Bewerb er innerhalb von zwei  Wochen nach dem Beschluss schriftlich mitzuteilen.  Auflagen  nach § 11 
+Abs. 1 werden  mit dem Besche id über die Annah me der Dissertation  bekannt gegeben.  Der Bewerber  hat 
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+304
+  diese Au flagen  in einer vom Pro motionsa usschuss  gesetz ten Frist zu erfüllen. Der Promotio nsaussch uss 
+überprüft die Erfüllung  der Auflagen. Wurde  die Di ssertati on nicht  ange nom men,  sind dem Bewerber die 
+Gründe  des Beschlusses der Nicht annahme und der B eend igung des Promotionsverfahrens schriftlich 
+mitzuteilen. Der Besc heid is t mit einer  Rech tsbehelfsbelehrun g zu versehen. 
+(2) Liegt von mehr  als einem Gutachter  die Note  „non sufficit“  vor, so ist die Di ssertation  nicht  anzunehmen 
+und das Promotionsverfahren zu been den. Eine nicht  angenom mene Dissertation  verbleibt mit allen  Gutachten 
+und der Pro motionsak te bei der F akultät. 
+(3) Im Falle d er Ann ahme der D issertation be nennt der Pro motionsau ssch uss eine Promoti onskommi ssion. 
+(4) Nach der Annah me der Diss ertation hat der Bewerber das Recht,  Einsicht  in die Gutachten zu nehmen. Dabei 
+gilt die Note n icht als Teil d es Gutachte ns. 
+(5) Bewerb er, deren Diss ertation  nicht  angenomm en wurde,  können frühe stens ein halbes Ja hr nach dem 
+Beschl uss nach Absatz 1 Satz 1 ein neues Promotio nsverfahren  mit einer w esentlich v erän derten F assung der 
+nicht angenom menen oder einer thematisch  anderen  Dissertation  beantragen.   
+§ 13  
+Öffentli
+che Aus
+legung, Einsprüche  
+(1) Nach der Annah me der Disserta tion teilt der Vorsi tzende des Promoti onsa usschusses den Mitglied ern de s 
+Fakultä tsrates und den Hochschul lehrern der Fa kultät mi t, dass sie  die Gutachten  und die Diss ertation im De kanat 
+einseh en kö nnen.  Wenn alle Gutachten positiv sind, ist für die Einsichtna hme ein Zeitraum  von zwei  
+Wochen, andernfalls von vier Woch en vorzuseh en. Während  dieser  Zeit liegt die Dissertation  ohne  die Gutachten 
+im Dekanat für alle Mitglieder und Ange hörigen der F akultät zur Ei nsicht aus. Begi nn und Ende des  Zeitrau mes 
+für d ie Einsichtnahm e sind b ekannt zu ge ben. Der  Vors itzen de des Promotio nsaussch usses stellt sic her, dass 
+den Mitglied ern der Pro motionskommi ssion ein Exemplar  der D issertation in geei gneter Form zu r Verfüg ung 
+gestellt wird. 
+(2) Während der Dauer der Auslegung der Dissertati on nach Absatz 1 können Stellungnah men und Einsprüche  
+über den Vorsitze nden d es Promotionsa usschuss es schriftlich gelt end gemacht w erden. 
+(3) Jede Stellung nahme w ird d er Pro motionskommission z ugänglich gemacht.  Über  Einspr üche gegen die 
+Anna hme der  Dissertati on entsche idet der Fakultätsrat,  über andere Einsprüche  der Promotionsau ssch uss. Die 
+Einsprüc he dürfen auch zum Geg enstand der  Diskussion in der öffentlic hen Ver teidig ung ge macht wer den. 
+§ 14  
+Öffe
+ntlich e Ve
+rteidigung 
+(1) Die öffe ntliche Verte idigung  besteh t aus  dem Vortrag  des Bewerbers und einem Kolloqui um. Sie findet in  
+Anwe senheit der  Promotionsko mmiss ion statt und wird vom Vorsit zenden der Prom otionskommi ssion geleitet.  
+Es müssen min destens zwei Gutachter u nd ein Beisitzer anwese nd sein.  Der T ermin  der öffentlichen  Verteidigung 
+wird nach  dem Ende  der Fristen zur öffentlich en Ausl egung  nach § 13 Abs.  1 und nach En tscheidung über etwaige 
+Einsprüc he nach § 13 Abs. 3 vom Vors itzen den der Promotio nskommissi on festgelegt.  Der Termin  der 
+öffentlichen  Verteidigun g ist mind estens zwei Woc hen vorh er öffentlich b ekannt zu ge ben. 
+(2) Der Bewerb er berichtet in einem Vortrag  von ca. 30 Minuten Dauer über Ziel, Inhalt und Erg ebnisse  
+seiner Dissertation.  
+(3) An den Vortrag schließt  sich ein Kolloquium an,  an dem alle anwe senden Mitglieder  und Ange hörigen der 
+Technischen Universität  Chemnitz  aktiv teilnehmen kö nnen. Der Vorsi tzende der Promoti onskommissi on leitet 
+das Kolloquium.  Das Kolloqu ium bez ieht s ich auf d as Thema d er Dissertation.  
+(4) Über den Verlauf von Vortrag  und Kolloquium  ist eine Ni ederschrift zu führen. Sie ist vom Vorsitze nden 
+der Promotio nskommission  zu unterschreib en. Sie ist Bestandteil d er Promotio nsakte. 
+(5) Unmittel bar nach der öffentlich en Verteidig ung berät die Pro motionsk ommiss ion in nichtöffentlich er Sitzu ng 
+über das  Ergebnis. Alle zuvor  anwesenden H ochschulle hrer der Fa kultät kö nnen da ran mit b eratender Stimme 
+teilnehmen. Die  Promoti onskommissi on legt die Note  der öffentlichen Verteidigung und die Ge samt note 
+der Pro motion  fest.  Anschlie ßend  gibt der Vo rsitzende dem Bewerber die erre ichten Erge bnisse  und die 
+Gesamtnote  bekannt. Für diese Beka nntga be kann auf W unsch d es Bewerb ers di e Öffentlic hkeit ausg eschlossen 
+werden.  
+(6) Höchstens ein Mitglied der Promotionskommission, jedoch nicht der Vorsitzende der 
+Promotionskommission, kann in begründeten Ausnahmefällen durch eine Videokonferenz an der öffentlichen 
+Verteidigung sowie der anschließenden Beratung über deren Ergebnis teilnehmen, wenn:  
+1. der P
+romotionsausschuss sowie die Promotionskommission, einschließlich des Vorsitzenden der 
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+305
+  Promotionskommission, der Teilnahme durch eine Videokonferenz zugestimmt haben,  
+2. der Bewerber schriftlich sein Einverständnis erklärt hat und 
+3. die Übertragung aller erforderlichen Audio  und Videodaten, insbesondere des Bildes des Bewerbers und des 
+Prüfers sowie der Präsentation des Bewerbers, in beide Richtungen in angemessener Qualität während der 
+öffentlichen Verteidigung ununterbrochen sichergestellt ist. Die Beurteilung der angemessenen Qualität der Übertragung obliegt dem Vorsitzenden der Promotionskommission.  
+ 
+§ 15  
+Bewe rtung der öff 
+entlich en Verteidi gung und G esamtno te der  Promotion  
+(1) Erscheint der Bewerber ohne  Angabe triftiger  Gründe zu dem  für die öffentliche  Verteidig ung angesetzten 
+Termin nicht, so gilt d ie Promotions leistu ng als n icht er brac ht. 
+(2) Zur Bewe rtung  der öffentlichen  Verteidigu ng vergibt  jedes anwe sende Mitglied  der Promotionskommiss ion 
+eine Note  gemäß  § 11 Abs. 2. Liegt keine Bewertung „non  sufficit“ vor, so ergibt  sich d ie Note der  öffentlichen  
+Verteidig ung (Note V) als ar ithmetisch es Mittel der Einzelb ewertu ngen. Die Note der  öffentlichen  Verte idigung 
+geht oh ne Rundung in die Ber echnung d er Gesamtnote ein.  
+(3) Wird die öffentliche Verteidig ung von mehreren Mitglied ern der Promoti onskom miss ion mit „n on sufficit“  
+bewer tet, so gilt die öffentliche Verteidi gung als nicht bestanden.  Wird die öffentliche Verteid igung  von genau 
+einem Mitglied  der Promotionsko mmiss ion mit „non sufficit“ bewertet,  so gilt die öffentliche Verte idigung nur 
+dann als be standen,  wenn mind estens e ine Einzelb ewertung „cum laud e“ oder besser v orliegt. In diesem F all 
+lautet die Note d er öffentlichen  Verteidig ung „rite“.  
+(4) Besteht  der Bewerber  die öffentlic he Verteidigung nicht, so ist deren  einmalige Wi ederholung mögl ich. 
+Dies gilt nicht  für den Fall des Ab satzes  1. Wird die Wiede rholung nicht bestanden  oder  gilt die 
+Promotionsle istung  nach Absatz  1 als  nicht erbracht, so wird das  Promotio nsve rfahren mit der Bewertu ng „non 
+sufficit“  eingestellt.  
+(5) Liegt kein Gutacht en mit der Bewertung  „non sufficit" vor und liegt mind estens ein Gutachten  mit einer  
+Bewertung schl echter als „summa c um laude“ vor, so ergibt  sich die  Gesamtnote  der Promoti on wie folgt.  
+Zunächs
+t wird die Durc hschnittsnote  sämtlic her vorliegender Gutachten  (Note G) unter Verw endung der 
+Zahlenwerte  gemäß § 11 Abs. 2 berechnet. Die Gesamtnot e der Prom otion  ergibt  sich durch Rund ung auf 
+glatte Zah lenw erte des gewichteten arithmetisch en Mittels M  der Not en V und G entspr echend der F ormel: M 
+= 0,25 (3  G + V).  
+(6) Liegt genau ein Gutachten  mit der Bewe rtung  „non  sufficit"  vor, so kann die Gesamtnote  der Promotion  
+nicht besser als „rite"  sein. Die Be wertung „rite“ wird in diesem Fall verge ben, wenn  ein Gutachten  mit d er 
+Bewertung „cum  laude“ (oder b esser)  vorliegt od er ein Mitglied d er Prom otionskommi ssion die öffentliche  
+Verte idigung mit „cum laud e“ (oder bess er) bewertet hat. 
+(7) Die Gesamtnote  der Promotion  lautet „sum ma cum laude“,  wenn sämtlic he Gutachter  die Diss ertation mit  
+„sum ma cum la ude“ bewertet hab en und die  Note V klein er als 1 ist.  
+(8) Die Prom otionskom mission  berät auf der Basis der in den G utacht en geforderten  geringfügigen  Änderung en 
+und Ergä nzungen, welche Auflagen zu ertei len sind (§ 11 Abs.  1, § 12 Abs.  1). Die Auflag en b etreffen  
+insbesondere die Beseitig ung von  Schreibfehlern  zur Erzie lung einer druc kreifen Form. Inhaltlic he Veränd erun gen 
+dürfen nicht vorge nomm en we rden. Das im Dekanat ausgelegte  Exemplar  darf nicht  verändert werden.  Diesem 
+Originalexemp lar wird e in Exemplar der gemäß den Aufl agen  überar beiteten D issertation hinzu gefügt.  
+IV. Ver
+öffentlichung und Titelführung 
+ 
+§ 16  
+Veröffe
+ntli
+chung der Di ssertation 
+(1)
+ Der Bewerb er hat innerhalb eines Jahres na ch der öffent lichen  Verteidigung die angenommene Fassu ng de r 
+Dissertation unter  Beachtung  von § 11  Abs. 1, § 12 Abs. 1 und  § 15 Abs.  8 in angem essener Weise d er 
+wiss enschaftlich en Öffentlich keit zugänglich  zu machen.  Im Falle der Veröffe ntlichu ng g emäß Absatz 2 Satz 1  
+Nr. 2 be zieht sich das Ende der Jahresfrist a uf den Abschl uss des Ve rlagsvertrages. Versä umt der Be werb er 
+schul dhaft die Frist, so er löschen alle im Prom otionsverf ahren erworbe nen Rechte.  
+(2) Die Veröffentlic hung der Diss ertation  geschi eht wahlwe ise durch die unent geltliche Überga be von:  
+1. 20 ged
+ruckten und gebundene n Exemplar en, 
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+306
+2.sechs gedruc kten Exemplaren  bei Ve röffentlich ung im Universitä tsverlag  der Technischen Universität
+Chemnitz oder e inem anderen a nerkannten  wiss enschaftlichen  Verlag,  der die Verbreitung über den
+Buchhandel für die Dauer der Lieferbarkeit übernimmt ,
+3.sechs ge druckten und gebundene n Exemplaren  bei Veröffentlichung der identischen elektronischen Version
+der Dissertation im Volltextarchiv der T echnischen Universität Chemnitz
+an die Universitä tsbibliot hek der Tech nisch en Universität  Chem nitz. Das Titelblatt der Dissertati on ist in der 
+von der Fakultät vorgegebenen Fo rm zu gestalten . Im Falle der Veröffentlichu ng durch ein en Verlag k ann von 
+dieser Vor gabe abg ewichen werden,  wenn auf der Rückseite des T itelblattes  ersichtlich  ist, dass es si ch um eine 
+an der Fa kultät  erstellte Dissertat ion ha ndelt.  
+(3)In be gründeten  Fällen kann der Dekan die Frist nach  Absatz 1 auf Grund  eines  rechtzeitig  eingereic hten
+und begrün deten Antra gs ein malig verlä ngern.
+§ 17
+Überg abe der Urku nd
+e, T
+itelführ ung 
+(1) Der Vors itzen de d es Promotio nsau ssch usses veranl asst au fgrund d es Beschl usses d er
+Promoti onskommi ssion nach  § 14 die Ausf ertigu ng der Prom otionsurkun de. Sie enthält d en Tag der
+erfolgreichen  öffentlich en Verteidi gung und ne ben den p ersönlichen Da ten des B ewerb ers de n zu
+beurkund enden  akad emisc hen Grad, das Wiss enschaftsg ebiet, das Thema  der Dissertation,  die Gesamtnot e,
+die Unterschriften  des Re ktors der Technischen Universität Chemnitz u nd des Dekans sowie das Siegel der
+Universität.
+(2)Der Dekan vollzieht  die Promotion  durch die Au shändigung der Prom otionsurku nde, nachdem der Bewerber
+die Veröffentlich ung nach § 16  nachg ewiesen hat.
+(3)Mit der Überga be der Promoti onsurkun de erwirbt der Bewerb er das Recht,  den Doktorgrad  zu führen.
+V. Ungültigke
+it und R echtsbehelfe
+§ 18
+Ungülti g
+keit v on Promotionsleist ungen  
+(1)Ergibt sich vor Aushändigung d er Promotio nsurkunde, d ass d er Bewerb er bei Promotio nsleistung en eine
+Täusc hung verübt  hat oder da ss w esentliche  Vora ussetzun gen für die Zulassung zur Prom otion  nach § 3 nicht
+erfüllt waren,  so kann d er Promotionsa usschuss die b ereits erbr achten Promoti onsleistungen ganz o der teilwei se
+für ungültig erkl ären. Vor de r Entsc heidung ist  der Bewerb er zu hören. Der Pro motionsa usschuss  legt fest,  ob
+und in welc hem Rahmen d er Bewerb er die feh lenden Vor aussetz ungen nachzuholen  hat.
+(2)Sind alle Promotio nsleistun gen für u ngültig erklärt, so ist das Promotionsverfahren einzustelle n.
+§ 19
+Entzie hung des D o
+kto
+rgrades  
+(1)Der Doktorgrad ka nn d urch Besc hluss d es Fa kultätsra tes unt er Anwen dung von  § 39 Ab s. 4 SächsHSFG
+entzoge n werden.
+(2)Vor dem  Entzug ist d em Betroffen en Geleg enheit zur Stellun gnahme  zu geben.
+§ 20
+Wider spruc hsre
+cht 
+(1) Gegen Entsche idungen im Promotionsv erfahren ist  der Widerspruch nach §§ 68 ff. der  Verwaltungs 
+gerich tsordnung st atthaft.
+(2) Der 
+Widerspruch ist binnen eines Monats na ch Bekanntgabe der Entsche idung schriftl ich oder zur
+Nie
+derschrift beim Dek an einzulegen . Der  Dekan teilt innerhalb ei ner Frist von sechs Woche n nach Zu gang dem
+Fakultätsrat
+ den Wider spruch mit.
+(3) Der Fak ultätsrat hat nac h Anhörung  der Promotio nsko mmissio n und des Promotionsau sschuss es
+innerhalb von w
+eiteren drei Monaten über den Widersp ruch zu entscheiden
+(Widerspruchsbe scheid ). 
+Der Wider spruchsbes cheid  erg eht schriftli ch  mit Begrün dung  und
+Rechtsbeh elfsbelehrung .
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+307
+§ 21
+Einsichtnahme 
+(1)Dem  Bewerber wird auf Antrag  Einsicht in die Promoti onsak te gewährt. Dies beinhaltet die Einsicht in die
+Noten der Gu tachten.
+(2) Der Antrag ist binnen eines Monats nach  Bekann tgabe  der Gesamtnote  schriftlich  an de n
+Promotionsa ussch uss zu stellen. Der V orsitzende d es Pro motionsaussch usses bestimmt Zeit und Ort d er
+Einsichtna hme.
+VI. Ehrungen und S
+chlussbe stimmung
+§ 22
+Ehrenp
+romotion 
+(1)Die Fakultät kann in Anerkenn ung und Wür digung herau sragende r Verdie nste bei der Weiterentwic klung 
+der
+ Informatik d
+ie akade mische  Würde eine s Ehren doktors Dr.Ing . E.  h. oder Dr. rer . nat. h. c. verleihen .
+(2)Die zu ehrende Per sönlichke it darf nicht Mitglied der Tec hnischen Univer sität Chemnitz  sein .
+(3)Der Antrag auf Verle ihung  der Ehren doktorwür de  ist von minde stens zwei Hochs chulle hrern der Fakultät zu  
+stelle n und 
+zu begr ünden . Der Fakultätsrat ents cheid et unter Einbe ziehung aller Hochs chulle hrer  der Fak ultät 
+über den Antrag. Der
+ Fakultätsrat pr üft nach Einholung zweier Gutachten von Profess oren der Fa kult ät und 
+eines 
+auswärtige n Gutachte
+ns die bes onderen Verdie nste der zu würdigen d en Pe rsönlichke it  um die 
+Informatik. Zur An nahme  des Antrags  ist  eine Mehr heit von  drei Viertel n der anwes enden  Mitglied er des 
+Fakultätsrates erf orderlich.
+(4)Die Verleihung der Ehrendo ktorwürde erfolg t in  feierlicher Form (Laud atio)  durch Aushän dig ung der 
+Promotionsu r
+kund e dur ch den Dekan.
+§ 23
+Inkraftt
+reten und Ver
+öffentlichung  
+Diese Prom otionsor dnung ist
+ vom Fakul tätsrat der Fa kultät f ür Info rmatik am 30. Januar 2019  beschlossen und 
+vom Rektorat der Technischen Universität Chemnit z am 21. Februar 2019 genehm igt worden.  Sie tritt am Tag 
+nach ihrer Veröffentlich ung in den  Amtlichen  Bekannt machungen der  Technischen  Universität  Chemni tz in Kraft. 
+Alle nach d iesem  Zeitpunkt  eröffneten Promotio nsver fahren si nd auf der Gr undlage di eser Ordnung 
+durchz uführen.  
+Vor dem Inkrafttreten  dieser Ordnung  eröffnete Promotionsverfah ren werden  nach  den Bestimmungen  der 
+Promotionsor dnung der Fakultät für Info rmatik  vom 1 6. Januar 2015  (Amtliche Bekanntmachungen  Nr. 3 /201 5, 
+S.5) durchg eführt. Allerdi ngs steht  es in di esem Fall den Bewerbern  frei, die weitere Durchführ ung n ach der
+vorliegenden Promotio nsordnung b eim Promotionsa ussch uss zu beantrag en, falls diese vor dem Datum i hrer
+öffentlichen  Verteidig ung in Kraft getreten ist .
+Chemnitz, d en 13. März 2019  
+Der D
+ekan 
+der
+ Fakultät für Informatik  
+der T
+echnischen Universität Chemnitz 
+Pro
+f. Dr. Wolfram Hardt  
+Amtliche Bekanntmachungen 
+________________________________________________________________________________________________________________
+Nr. 12/2019 
+vom 25. März 2019 
+308

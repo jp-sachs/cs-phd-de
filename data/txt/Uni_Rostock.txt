@@ -1,0 +1,583 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amtliche Bekanntmachungen  
+  
+Jahrgang 201 8 Nr. 25 Rostock, 16.05.2018 
+ 
+Promotionsordnung der Fakultät für Informatik und Elektrotechnik 
+der Universität Rostock  vom 8. Mai 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+HERAUSGEBER  
+DER REKTOR DER UNIVERSITÄT ROSTOCK  
+18051 ROSTOCK  
+ 
+ 
+1 Promotionsordnung  
+der Fakultät für Informatik und Elektrotechnik  
+der Universität Rostock 
+ 
+vom 8. Mai  2018 
+ 
+ 
+Aufgrund des § 43 Absatz 3 i.  V. m. § 2 Absatz 1 Satz 3 des Gesetzes über die Hochschulen des 
+Landes Mecklenburg Vorpommern (Landeshochschulgesetz –  LHG) in der Fassung der Bekanntm a
+chung vom 25. Januar 2011 (GVOBl. M V S.18), das zuletzt durch Artikel 3 des Geset zes vom 
+11. Juli 2016 (GVOBl. M V S. 550, 557) geändert wurde, erlässt die Universität Rostock die folgende 
+Promotionsordnung für die Fakult ät für Informatik und Elektrotechnik : 
+ 
+ 
+Inhaltsübersicht  
+ 
+§ 1  Promotionsrecht  
+§ 2  Promotionsgebiete  
+§ 3  Betreuung von Doktoranden/Doktorandinnen 
+§ 4  Zulassung zur Promotion  
+§ 5  Antrag auf Durchführung des Promotionsverfahrens  
+§ 6  Dissertation  
+§ 7  Eröffnung des Promotionsverfahrens  
+§ 8  Promotionsbeauftragte und Promotionskommission 
+§ 9  Begutachtung der Dissertation  
+§ 10  Annahme der Dissertation 
+§ 11  Nicht angenommene Dissertationen 
+§ 12  Verteidigung 
+§ 13  Bewertung der Verteidigung 
+§ 14  Festlegung der Gesamtnote der Promotion 
+§ 15  Veröffentlichung der Dissertation 
+§ 16  Verleihung des Doktorgrades  
+§ 17  Beschwerde  und Widerspruchsrecht  
+§ 18  Promotionsakte  
+§ 19  Ehrenpromotion  
+§ 20  Entzug des Doktorgrades  
+§ 21  Schlussbestimmungen  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anlage 
+Anlage 1: Empfehlung für das Titelblatt der Dissertation  
+2 § 1 
+Promotionsrecht  
+ 
+(1) Durch die Promotion wird die Befähigung zu vertiefter selbständiger wissenschaf tlicher Arbeit in 
+einem Fachgebiet, das von der Fakultät für Informatik und Elektrotechni k (IEF) vertreten ist, nachg e
+wiesen . 
+ 
+(2) Die Fakultät verleiht den akademischen Grad Doktor Ingenieur (Dr. Ing.).  
+ 
+(3) Die Verleihung erfolgt aufgrund einer von dem Bewerber/der Bewerberin verfassten wissenschaf t
+lichen Abhandlung (nachfolgend Dissertation genannt) und einer öffentlichen Verteidigung der Disser
+tation.  Gemeinschaftsdissertationen sind ausgeschlossen.  
+ 
+ 
+§ 2 
+Promotionsgebiete  
+ 
+An der Fakultät für Informatik und Elektrotechnik ist die Promotion auf den Gebieten der Infor matik 
+und Elektrotechnik  oder ihrer Didaktik oder auf interdisziplinären Gebieten mit Schwer punkt Informatik 
+oder Elektrotechnik möglich. Über die Zulassung der Promotion in weiteren Fachgebieten entscheidet 
+der Fakultätsrat.  
+ 
+ 
+§ 3 
+Betreuung von Doktoranden/Doktorandinnen  
+ 
+(1) Das Recht, Dissertationen zu betreuen, haben alle Professoren/Professorinnen sowie alle habil i
+tierten Mitglieder der Fakultät, einschließend der assoziierten Mitglieder. Außerdem können prom o
+vierte Mitglieder der Fakultät auf Beschluss des Fakultätsrats mit der Betreuung einer Dissertation 
+beauftragt werden, wenn sie selbständig einen Forschungsschwerpunkt ver antworten, wie z.  B. als 
+Nachwuchsgruppenleiter im Emmy Noether Programm. Professoren/Professorinnen von Fachhoc h
+schulen können an der Betreuung beteili gt werden (kooperative Promotion).  
+ 
+(2) Es wird empfohlen eine Betreuungsvereinbarung mit einem Betreuer/einer Betreuerin abzuschli e
+ßen. Mit dieser Betreuungsvereinbarung werden keine arbeitsrechtlichen A nsprüche begründet.  
+ 
+(3) Personen, die eine Doktorar beit anfertigen, können als Doktoranden/Doktorandinnen eingeschri e
+ben werden, sofern das Promotionsvorhaben durch eine Person nach Absatz 1 betreut wird. Das Nä
+here regelt die Immatrikulationsordnung.  
+ 
+(4) Das Betreuungsverhältnis kann auch nach Ausscheiden des Betreuers/der B etreuerin aus der 
+Fakultät in einem Zeitraum von drei  Jahren fortgesetzt werden.  
+ 
+(5) Endet die Betreuung der Dissertation durch Ausscheiden oder Tod des Betreuers/der Betreu erin, 
+so bestimmt der Dekan/die Dekanin auf Antrag des Doktor anden/der Doktorandin ein Mitglied der Fa
+kultät nach Absatz 1, das die Betreuung übernimmt.  
+ 
+ 
+§ 4 
+Zulassung zur Promotion 
+ 
+(1) Die Zulassung zur Promotion soll vor Beginn der Erstellung der Dissertation bean tragt werden. 
+Der Zulassungsantrag ist spätestens  mit dem Antrag auf Durchführung des Promot ionsvorhabens 
+3 gemäß § 5 zu stellen. Die Zulassung zur Promotion ist unter Benennung des Betreuers /der Betreu erin 
+nach § 3 Absatz 1 und Vorlage einer Urkunde über den Hochschulab schluss (beglaubigte Kopie oder 
+Absc hrift) über den Dekan/die Dekanin beim Fakultätsrat zu beantragen, der über die Zulassung ent
+scheidet . Die Zulassungsentscheidung beinhaltet die verbindliche Feststellung, dass  die Vorausset
+zungen für die Eröffnung des Promotionsverfahrens  nach § 7, mit Ausnahme der Vorlage der Disser
+tation, vorliegen.  
+ 
+(2) Voraussetzung für die Zulassung zur Promotion ist ein mit einem Diplom oder Master abgeschlos
+senes Studium an einer Universität in der Informatik, der Elektrotechnik oder der Informationstechnik. 
+Darüber  hinaus werden universitäre Diplom , Master  oder Staatsexamensabschlüsse als Zulas
+sungsvoraussetzung anerkannt, wenn sie in einem anderen ingenieurwi ssenschaftlichen Fach, in der 
+Mathematik, in den Naturwissenschaften, in einem Lehramtsstudienfach mit Schwerpunkt I nformatik 
+oder Technik oder in interdisziplinären Studiengängen mit einem Schwerpunkt im Bereich der Inform a
+tik, Informationstechnik oder Elektrotechnik erbracht wurden. Die genannten Diplom  und Mas ter
+Abschlüsse müssen für die Zulassung zur Pro motion durch die entsprechenden Fakultätentage aner
+kannt sein.  
+ 
+(3) Ausländische Studienabschlüsse und akademische Grade stehen den inländischen gleich, wenn 
+sie insbesondere nach Art, Umfang und Dauer die gleiche Gewähr für die Befähigung des Bewer
+bers/de r Bewerberin geben. Bestehende Äquivalenzvereinbarungen sind zu berücksichtigen. In Zwe i
+felsfä llen kann eine gutachterliche Äußerung der Zentralstelle für ausländisches Bildungswesen der 
+Kultusministerkonferenz eingeholt wer den. 
+ 
+(4) Die Promotion von Absolventen/Absolventinnen mit Abschlüssen, die nicht unter A bsatz 2 fallen, 
+insbesondere von besonders befähigten Fachhochschulabsolventen/Fachhochschulabsolven tinnen 
+mit Diplom  oder Masterabschluss (Abschlussnote nicht schlechter als 2.0) ist grundsätzlich möglich. 
+Dem Antrag nach Absatz 1 sind  in diesem Fall  zuzuf ügen: 
+1. Wissenschaftlicher Lebenslauf . 
+2. Urkunde über den Studienabschluss (beglaubigte Abschrift oder Kopie) sowie e in Exemplar 
+der Abschlussarbeit . 
+3. Liste der Verö ffentlichungen und Fachvortr äge. 
+4. Erklärung darüber, ob und ggf. mit welchem Ergebnis sich der Kandidat / die Kandidatin zuvor 
+an der Universität Rostock oder an einer anderen Hochschule um den Doktorgrad beworben 
+hat. 
+ 
+(5) In den Fällen des Absatzes 4 wird in einer Einzelfallprüfu ng festgestellt, ob der Kandidat/die Kan
+didatin über die wissenschaftliche Befähigung zur Promotion zum Dr. Ing. auf einem Promotions gebiet 
+der Fakultät verfügt. Diese weist der Kandidat/die Kandidatin in einem öffentlichen Kolloquium vor 
+einer vom Studiendekan/von der Studiendekanin berufenen Zulassungskommission aus. Das Koll o
+quium schließt nach dem Vortrag ein Prüfungsverfahren ein, das sich auf den Inhalt des Vortr ages 
+sowie auf grundlegende Methoden der Informatik, Informationstechnik bzw. Elektrotechnik b ezieht. 
+Hierzu werden dem Kandidaten/der Kandidatin durch den Studiendekan/die  Studiendekanin im Vor
+feld Literaturempfehlungen gegeben. In das Prüfungsverfahren können Professoren/Profess orinnen 
+von Fachhochschulen einbezogen werden. Im Ergebnis des Pr üfungsverfahrens wird eine Empfeh
+lung an den Fakultätsrat über die Zulassung zur Promotion ausgesprochen. Der Beschluss des Fakul
+tätsrats ist dem Antragsteller/der Antragstellerin durch den Dekan/die Dekanin schriftlich mitzutei len. 
+ 
+ 
+4 § 5 
+Antrag auf Durchf ührung des Promotionsverfahrens 
+ 
+(1) Der Antrag auf Durchführung des Promotionsverfahrens ist vom Kandidaten/von der Kandida tin 
+nach der Zulassung zur Promotion (§ 4) schriftlich an den Dekan/die Dekanin zu richten. Dem Antrag 
+sind beizufügen:  
+1. Drei Exem plare der Dissertation (§ 6). Weitere Exemplare der Dissertation müssen nachgeli e
+fert werden, wenn mehr als zwei Gutachter/Gutachterinnen bestellt werden.  
+2. Elektronische Version der Dissertation im pdf Format.  
+3. Ein aktueller tabellarischer Lebenslauf.  
+4. Eine aktuelle Liste der wissenschaftlichen Veröffentlichungen. Bei kumulativen Disser tationen 
+hat der Autor seinen Anteil an den jeweiligen Veröffentlichungen nachzuwei sen.  
+5. Eine Versicherung darüber, dass der Kandidat/die Kandidatin die eingereicht e Dissertation 
+selbständig und ohne fremde Hilfe verfasst, andere als die von ihm/ihr angegebenen Quellen 
+und Hilfsmittel nicht benutzt und die den benutzten Werken wörtlich oder inhaltlich entnom
+menen Stellen als solche kenntlich gemacht hat.  
+6. Eine Erklärung darüber, ob und gegebenenfalls mit welchem Ergebnis sich der Kandidat/die 
+Kandidatin zuvor an der Universität Rostock oder an einer anderen Universität um den Do k
+torgrad beworben hat.  
+7. Auf Wunsch ein unverbindlicher Vorschlag für die Auswahl der Gutachter/Gutachteri nnen. 
+ 
+(2) Der Antrag kann vom Kandidaten/von der Kandidatin zurückgezogen werden, solange das Pr o
+motionsverfahren noch nicht eröffnet ist.  
+ 
+ 
+§ 6 
+Dissertation  
+ 
+(1) Die Dissertation dient dem Nachweis der wissenschaftlichen Qualifikation des Kandida ten/der 
+Kandidatin. Sie muss ein von der Fakultät vertretenes Fachgebiet betre ffen. Die mit der Dissertation 
+vorgelegten Ergebnisse müssen selbständig erzielt worden sein, den aktuellen Stand des Wissen
+schaftsgebietes berücksichtigen und den Stand der wissenschaftlichen E rkenntnisse erweitern. Die 
+Regeln zur Sicherung guter wissenschaftlicher Praxis und zur Vermeidung wissenschaftlichen Fehl
+verhaltens an der Universität Rostock in ihrer jeweils gültigen Fassung sind einzuhalten.  
+ 
+(2) Die Dissertat ion ist in deutscher oder englischer Sprache abzufassen. Unabhängig von der 
+Sprachwahl ist sowohl eine deutsche als auch eine englische Zusammenfassung Bestandteil der Di s
+sertation.  
+ 
+(3) Die Ergebnisse der Dissertation können ganz oder teilweise vorher ver öffentlicht wor den sein. Es 
+können mehrere bereits veröffentlichte Arbeiten als Dissertation eingereicht werden, wenn sie in ei
+nem engen zeitlichen und sachlichen Zusammenhang stehen und insgesamt den an eine Dissertat ion 
+zu stellenden Anforderungen genügen. In diesem Fall ist eine Zusammenfassung der Ergebnisse ei n
+zureichen, die den Zusammenhang der Teiler gebnisse deutlich macht .  
+ 
+(4) Die Überprüfung der elektronischen Version der Dissertation mittels einer Software zur Plagiatse r
+kennung ist zulässig.  
+ 
+ 
+5 § 7 
+Eröffnung des Promotionsverfahrens 
+ 
+(1) Voraussetzung für die Eröffnung des Promotionsverfahrens ist die Zulassung des Kan didaten/ der 
+Kandidatin zur Promotion gemäß § 4  sowie die Vorlage der in § 5 genannten A ntragsunterlagen.  
+ 
+(2) Auf den Antrag des Kandidat en/der Kandidatin gemäß § 5 beschließt der Rat der Fakultät inner
+halb von zwei Monaten die Eröffnung bzw. Nichteröffnung des Promot ionsverfahrens. Konnte das 
+Promotionsverfahren auf Grund unvollständiger Unterlagen nicht eröffnet werden, wird der Kand i
+dat/die Kandidatin aufgefordert, die fehlenden Unt erlagen umgehend nachz ureichen.  
+ 
+(3) Mit dem Beschluss über die Eröffnung des Promotionsverfahrens sind der/die Vorsi tzende der 
+Promotionskommission, die Gutachter/Gutachterinnen gemäß § 9 und die Zusam mensetzung der 
+Promotionskommission gemäß § 8 festzulegen. Dem Rat der Fakultät werden nach vorheriger A b
+sprache mit dem Betreuer/der Betreuerin der Disser tation dafür Vorschläge unterbreitet.  
+ 
+(4) Der Beschluss  ist dem Kandidaten/der Kandidatin innerhalb von 14 Tagen durch den D ekan/die 
+Dekanin schriftlich mitzuteilen . 
+ 
+ 
+§ 8 
+Promotionsbeauftragte und Promotionskommission  
+ 
+(1) Der Fakultätsrat bestellt für die Promotionen in den Fachgebieten Informatik und Elek trotechnik 
+jeweils einen Hochschullehrer/eine Hoc hschullehrerin als Promotionsbeauftrag
+ten/Promotionsbeauftragte.  Die Zeitdauer der Bestellung ist an die jeweilige Amtszeit des Fakultät s
+rats gebunden.  
+ 
+(2) Die Promotionskommission wird mit der Eröffnung des Verfahrens vom Rat der Fakultät auf Vo r
+schlag des Promotionsbeauftragten/der Promotionsbeauftragten berufen. Sie besteht aus dem Vorsi t
+zenden/der Vorsitzenden, den Gutachtern/Gutachterinnen, weiteren fachkompetenten promovie rten 
+oder habilitierten Wissenschaftlern/Wissenschaftlerinnen der eigenen Fakul tät oder anderer wissen
+schaftlicher Einrichtungen sowie Fachhochschulen. Handelt es sich um eine kooperative Promot ion 
+mit einer Fachhochschule soll ein Mitglied der Kommission Fachhochschulprofes
+sor/Fachhochschulprofessorin sein. Handelt es sich um eine D issertation mit interdisziplinären Inhal
+ten, soll die Kommi ssion durch Mitglieder aus dem entsprechenden Fach ergänzt werden.  
+ 
+ 
+§ 9 
+Begutachtung der Dissertation  
+ 
+(1) Die Dissertation ist von mindestens zwei Gutachtern/Gutachterinnen zu beurteilen, davon m üssen 
+mindestens zwei Universitätsprofessoren/Universitätsprofessorinnen sein. Als Gutachter/Gutacht erin 
+können auch Professoren/Professorinnen an Fachhochschulen, habilitierte Wissenschaf t
+ler/Wissenschaftlerinnen und auf diesem Schwerpunkt ausgewiesene promovierte Wissenschaf t
+ler/Wissenschaftlerinnen benannt werden. Wenigstens ein Gutachter/eine Gutachterin muss haupt
+amtlich an der Fakultät für Informatik und Elektrotechnik tätig sein. Mindestens ein Gutachter/ eine 
+Gutacht erin darf kein Mitglied oder Angehöriger der Universität Rostock sein.  
+ 
+(2) Die Gutachter/Gutachterinnen sind aufzufordern, die Gutachteraufträge innerhalb von 14 T agen 
+anzunehmen oder abzulehnen. Innerhalb von drei Monaten nach Annahme eines Gutachterau ftrages 
+sollte das Gutachten erstell t werden.  
+ 
+6 (3) Die Gutachten dienen der Entscheidungsfindung des Rates der Fakultät. In den Gu tachten ist 
+auszuweisen, ob die Dissertation den an den akademischen Grad eines Dr. Ing. zu stellenden Anfor
+derungen genügt. Die Gutachter/Gutachterinnen empfehlen der Fakultät die Annahme oder Nichtan
+nahme der Dissertation.  
+ 
+(4) Die Dissertation ist vom Gutachter/von der Gutachterin mit einem der folgenden Prädikate zu be
+werten:  
+magna cum laude (sehr gut  1) 
+cum laude (gut  2) 
+rite (genügend   3)  
+non sufficit ( ungenügend  5) 
+Wenn aus Sicht des Gutachters/der Gutachterin für die Dissertation ein Gesamtprädikat von „summa 
+cum laude“ (ausgezeichnet) in Frage kommt, sollte er/sie dies in seinem/ihrem Gutachten zum Aus
+druck bringen.  
+ 
+(5) Das einem Gutachter/einer Gutachterin zur Begutachtung übergebene Exemplar der Disser tation 
+geht in dessen/deren Eigentum über.  
+ 
+ 
+§ 10 
+Annahme der Dissertation  
+ 
+(1) Der Fakultätsrat entscheidet über die Annahme einer Arbeit auf der Basis der eing egangenen 
+Gutachten . 
+ 
+(2) Abweichend v on Absatz 1 kann der/die Promotionsbeauftragte eine Arbeit annehmen, wenn fol
+gende Kriterien erfüllt sind:  
+a) Alle Gutachter empfehlen die Annahme.  
+b) Die Notenvorschläge der Gutachter weichen nicht  mehr als eine Notenstufe vonei nander ab.  
+ 
+(3) Im Zweifels fall können weitere Gutachten eingeholt werden. Dieses muss erfolgen, wenn die Dis
+sertation nur von zwei Gutachtern begutachtet wurde und die Notenvorschläge der Gutachter um 
+mehr als eine Notenstufe voneinander abweichen oder ein Gutachter/eine Gutachteri n die Dissertat ion 
+mit der Note „non sufficit“ beurteilt . 
+ 
+(4) Eine Dissertation ist vom Fakultätsrat abzulehnen, wenn zwei Gutachter/Gutachteri nnen sie mit 
+„non sufficit“ beurteilen.  
+ 
+(5) Die Entscheidung über die Annahme oder Nichtannahme der Dissertation ist dem Ka ndidaten/der 
+Kandidatin innerhalb von 14 Tagen nach dem Beschluss durch den Dekan/der Dekanin schriftlich mi t
+zuteilen.  
+ 
+(6) Die Dissertation ist mindestens 14 Tage vor der Verteidigung gemäß § 12 öffentlich z ugänglich zu 
+machen.  
+ 
+ 
+§ 11 
+Nicht angenommene Dissertationen  
+ 
+(1) Mit der Nichtannahme der Dissertation ist das Promotionsverfahren beendet.  
+ 
+(2) Ein Exemplar der nicht angenommenen Dissertation verbleibt bei der Fakultät.  
+7 (3) Kandidaten/Kandidatinnen, deren Dissertation nicht angenommen wur de, können einmal und 
+zwar frühestens ein Jahr nach dem Beschluss über die Nichtannahme ein neues Promotionsverfahren 
+mit einer wesentlich veränderten oder einer thematisch anderen Dissert ation beantragen.  
+ 
+(4) Dem Antrag zum erneuten Promotionsverfahren i st eine Erklärung über die frühere Nichtan nahme 
+beizufügen (siehe § 5 Abs atz 1 Nr. 6 ). 
+ 
+ 
+§ 12 
+Verteidigung  
+ 
+(1) Die Verteidigung ist der abschließende Bestandteil des Promotionsverfahrens. Sie kann erst  nach 
+Annahme der Promotion durchgeführt werden.  
+ 
+(2) Der Kandidat/die Kandidatin hat die mit der Dissertation erzielten Ergebnisse zu verteidigen. 
+Er/sie hat in dem Referat von maximal 30 Minuten Dauer und in einer etwa einstündigen Diskussion 
+nachzuweisen, dass er/sie die wissenschaftlichen Ergebnisse seiner/ihrer Dissertation theoretisch 
+begründen kann, das Fachgebiet, dem seine/ihre Dissertation zuz uordnen ist, gründlich beherrscht 
+sowie über die Grenzen seines/ihres Faches hinaussehen kann.  
+ 
+(3) Die Verteidigung ist in deutscher oder englischer Sprache zu führen.  
+ 
+(4) Die Verteidigung ist öffentlich. Den Vorsitz führt der Vorsitzende/die Vorsitzende der Promotions
+kommission. Die Verteidigung kann nur durchgeführt werden, wenn die Mehrheit der Mitglieder der 
+Promotionskommission und die Mehrheit der Gutacht er/Gutachterinnen, mindestens aber zwei Gut
+achter/Gutachterinnen anwesend sind.  Mit Einverständnis des Kandidat en/der Kandidatin kann Gut
+achtern/Gutachterinnen die Teilnahme an der Verteidigung per Videokonferenz ermöglicht wer den, sie 
+gelten dann als anwesend.  
+ 
+(5) Zur Vorbereitung auf die Verteidigung ist dem Kandidaten/der Kandidatin auf dessen/deren  
+Wunsch nach Annahme der Arbeit Einsicht in die Gutachten zu gewähren.  
+ 
+(6) Über Inhalt und Verlauf der Verteidigung ist ein Protokoll zu führen, das von all en an wesenden 
+Mitgliedern der Promotionskommission zu unterschreiben ist.  
+ 
+(7) Im Protokoll der Verteidigung können Auflagen zur Berichtigung in den Pflichtexemplaren e rteilt 
+werden, die innerhalb von drei Monaten auszuführen sind. Die Auflagen sind dem Doktoranden/der 
+Doktorandin im Anschluss an die Verteidigung mitzuteilen. Die Erfüllung der Auflagen ist von dem 
+Vorsitzenden/der Vorsitzenden der Promotionskommission zu kontrolli eren und von diesem/dieser 
+aktenkundig zu bestätigen.  
+ 
+(8) Erscheint der Kandi dat/die Kandidatin aus von ihm/ihr zu vertretenden Gründen nicht zum Ter min 
+der Verteidigung, so gilt die Verteidigung als nicht bestanden. Hat der Kandidat/die Kandida tin die 
+Gründe für das Nichterscheinen zum Termin der Verteidigung nicht zu vertreten, l egt der/die Vorsi t
+zende der Promotionskommission einen neuen Termin fest . 
+ 
+ 
+§ 13 
+Bewertung der Verteidigung 
+ 
+(1) Nach der Verteidigung ist in nichtöffentlicher Beratung der Promotionskommission über die B e
+wertung der Verteidigung zu entscheiden. An der Ber atung können alle anwesenden Mi tglieder des 
+Rates der Fakultät teilnehmen. Dabei sind zunächst eine Note für den Vortrag und eine Note für die 
+8 Disputation zu vergeben. Danach wird eine Gesamtnote für die Verteidigung festgelegt, wobei die 
+Note für den Vort rag und die Disputation gleic hwertig sind.  
+ 
+(2) Die Verteidigung ist mit einem der folgenden Prädikate zu bewerten:  
+magna cum laude (sehr gut   1) 
+cum laude (gut   2) 
+rite (genügend  3) 
+non sufficit (ungenügend   5) 
+ 
+(3) Entschieden wird mit einfacher Sti mmenmehrheit der anwesenden Mitglieder der Promotions
+kommission. Bei Stimmengleichheit gibt die Stimme des/der Vorsitzenden den Ausschlag . 
+ 
+(4) Die Bewertung wird dem Kandidaten/der Kandidatin im Anschluss an die Beratung der Promot i
+onskommission bekannt g egeben . 
+ 
+(5) Wurde die Verteidigung mit „non sufficit“ bewertet, so gilt sie als nicht bestanden. In diesem Fall 
+kann die Verteidigung innerhalb von 6 Monaten auf Antrag des Kandidaten/der Kandidatin wi ederholt 
+werden. Wird die wiederholte Verteidigung ebenfalls nicht bestanden, so gilt das Promotionsverfahren 
+als erfolglos beendet.  
+ 
+ 
+§ 14 
+Festlegung der Gesamtnote der Promotion  
+ 
+(1) Nach bestandener Verteidigung wird von der Promotionskommission eine Gesamtnote der Pr o
+motion unter Berücksichtigung der Gutachternoten und der Gesamtnote der Verteidigung verg eben. 
+Dabei kann in begründeten Ausnahmefällen vom arithmetischen Mittel der Einzelnoten abgew ichen 
+werden, wenn die Promotionskommission dies mit 2/3 Mehrheit der anwesenden Mitglieder b e
+schließt. Es ist eines der folgenden Prädi kate zu vergeben:  
+magna cum laude (sehr gut  1) 
+cum laude (gut  2) 
+rite (genügend   3) 
+Die Kommission kann dem Fakultätsrat vorschlagen, das Gesamtprädikat „magna cum laude“  zum 
+Prädikat „summa cum laude “ aufzuwerten.   
+ 
+(2) Das G esamtprädikat „summa cum laude“ kann vergeben werden, wenn die Arbeit von allen Gut
+achtern/Gutachterinnen mit "magna cum laude" bewertet wurde, die Verteidigung ebenfalls mit „ma g
+na cum laude“ bewertet wurde und wenn alle bei der Verteidigung anwesenden Gutac h
+ter/Gutachterinnen das Gesamtprädikat „summa cum laude“ best ätigt haben.  
+ 
+(3) Der Beschluss der Kommission wird dem Kandidaten/der Kandidatin durch den Vor sitzenden/der 
+Vorsitzenden zur Kenntnis gegeben.  
+ 
+ 
+§ 15 
+Veröffentlichung der Dissertation  
+ 
+Für di e Abgabe von Pflichtexemplaren der Dissertation gilt die Pflicht exemplarordnung der Un iversität  
+Rostock.  
+ 
+ 
+9 § 16 
+Verleihung des Doktorgrades 
+ 
+(1) Der Rat der Fakultät beschließt die Verleihung des Doktorgrades mit der durch die Promotions
+kommission gemäß § 14 festgelegten Gesamtnote der Promotion.  
+ 
+(2) Mit dem Beschluss über die Verleihung ist das Promotionsverfahren abgeschlossen.  
+ 
+(3) Nach dem positiven Beschluss des Rates der Fakultät über die Verleihung des akade mischen 
+Grades Dr. Ing. erfolgt darüber eine schriftliche Mitteilung an den Kandidaten/die Kandidatin durch 
+das Referat Akademische Selbstverwaltung der Universität Rostock.  
+ 
+(4) Nach Abgabe der Pflichtexemplare der Dissertation wird eine Urkunde über die Verlei hung des 
+akademischen Grades Dr. Ing. in deutscher Sprache ausgefertigt. Die U rkunde enthält den Titel der 
+Dissertation, die Gesamtnote und das Datum der Verleihung durch den Fakultät srat. 
+ 
+(5) Die Promotionsurkunde wird vom Dekan/von der Dekanin der Fakultät für Informatik und Elektr o
+technik unterschrieben und mit dem Siegel der Universität versehen. Die Aushändi gung der Urkunde 
+wird vom Dekan/von der Dekanin in feierlicher Form vorgenommen oder erfolgt durch Zu sendung.  Mit 
+dem Empfang der Urkunde erhält der P romovierte/die Promovierte das  Recht zur Führung des Dok
+torgrades.  
+ 
+ 
+§ 17 
+Beschwerde  und Widerspruchsrecht  
+ 
+(1) Auf schriftlichen Antrag eines Mitgliedes der Promotionskommission müssen Verfahrensangel e
+genheiten dem Rat der Fakultät zur Entscheidung vorgelegt werden.  
+ 
+(2) Der Bewerber /die Bewerberin kann gegen eine Entscheidung, die ihn/sie in seinen/ihren Rec hten 
+verletzt, innerhalb eines Monats nach Bekanntgabe der Entscheidung schriftlich oder zur Nieder schrift 
+beim Dekan/bei der Dekanin der Fakultät für Informatik und Elektrotechni k Widerspruch einl egen. Der 
+Fakultätsrat prüft, ob er dem Widerspruch abhelfen kann. Ist dies nicht der Fall, legt er den Wider
+spruch dem Rektor/der Rektorin zur Entscheidung vor. Der Rektor/die Rektorin erlässt den Wider
+spruchsbe scheid.  
+ 
+ 
+§ 18 
+Promotionsakte  
+ 
+Über den Verlauf des Promotionsverfahrens ist ein aktenkundiger Nachweis zu führen, der vom D e
+kan/von der Dekanin und vom Vorsitzenden/von der Vorsitzenden der Promotionskommission zu un
+terschreiben ist. Nach Abschluss des Promotionsverfahrens kann dem Ka ndidaten/der Kandidatin auf 
+Antrag Einsicht in die Promotionsakte gewährt werden. Der Antrag ist innerhalb von einem Monat 
+nach Abschluss des Promotionsver fahrens an den Dekan/die Dekanin zu stellen.  
+ 
+ 
+§ 19 
+Ehrenpromotion  
+ 
+(1) In Anerkennung hervorrag ender wissenschaftlicher Leistungen auf dem Gebiet der I nformatik, 
+Elektrotechnik oder Informationstechnik kann der Rat der Fakultät nach Abstimmung, mit der Mehrheit 
+der Stimmen den Grad „Doktor Ingenieur ehrenhalber“  Dr.Ing. eh .  verleihen.  
+10  
+(2) Die Ehrenpromotion wird im Anschluss an einen Fachvortrag des Auszuzeichnenden/der Ausz u
+zeichnenden durch Überreichen einer Urkunde, in der seine/ihre Verdienste zu benennen sind, vollz o
+gen. 
+ 
+(3) Der Akademische Senat nimmt zum Beschluss des Rates der Fakultät  zur Verleihung der Ehren
+promotion Stellung . 
+ 
+ 
+§ 20 
+Entzug des Doktorgrades 
+ 
+(1) Der Fakultätsrat kann die Promotionsleistungen für ungültig erklären bzw. den Doktorgrad entzi e
+hen, 
+1) wenn sich herausstellt, dass sich der/die Promovierte bei dem Nachweis der Promotionslei s
+tungen einer Täuschung oder eines Täuschungsversuchs schuldig gemacht hat,  
+2) wenn wesentliche Voraussetzungen für die Zulassung der Promotion nicht erfüllt wor den sind.  
+ 
+(2) Der betreffenden Person ist vor der Beschlussfassung Gelegenheit  zur Äußerung vor dem  Faku l
+tätsrat zu geben.  
+ 
+ 
+§ 21 
+Schlussbestimmungen  
+ 
+(1) Diese Promotionsordnung tritt am Tag nach ihrer Veröffentlichung in den Amtlichen Bekanntm a
+chungen der Universität Rostock in Kraft. Gleichzeitig verliert die Promotionsordnung vom 
+18. Juli 2005 für an der Fakultät für Informatik und Elektrotechnik neu zu eröffnende Promotionsver
+fahren ihre Gültigkeit.   
+ 
+(2) Alle vor dem in Absatz 1 Satz 1 genannten Tag eröffneten Promotionsverfahren werden nach der 
+vorher gültigen Promotionsordnun g zu Ende geführt.  
+ 
+ 
+Ausgefertigt auf Grund des Beschlusses des Akademischen Senats der Universität Rostock vom  
+2. Mai 2018.  
+ 
+ 
+Rostock, den 8. Mai 2018 
+ 
+ 
+ 
+Der Rektor  
+der Universität Rostock  
+Prof. Dr. Wolfgang D. Schareck  
+ 
+ 
+ 
+11 Anlage 1  
+ 
+Empfehlung für das T itelblatt der Dissertation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Titel der Arbeit)  
+ 
+Dissertation  
+zur  
+Erlangung des akademischen Grades  
+Doktor Ingenieur (Dr. Ing.)  
+der Fakultät für Informatik und Elektrotechnik  
+der Universität Rostock  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vorgelegt von  
+ 
+(Vorname, Name), geb. am (Geburtsdatum) in (Geburtsort)  
+aus (Wohnort)  
+ 
+ 
+ 
+ 
+Rostock, (Datum)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Anmerkung: Bei den Pflichtexemplaren sind zusätzlich die Namen der Gutachter/Gutachteri nnen und 
+der Einrichtungen, an denen diese arbeiten, anzugeben.)  

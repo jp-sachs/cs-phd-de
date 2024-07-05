@@ -1,0 +1,1320 @@
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 8  Promotionsordnung 
+des Fachbereichs 4: Informatik 
+der Universität KoblenzLandau 
+vom 1. Oktober 2018 
+ 
+Aufgrund des § 7 Abs. 2 Satz 2 und Abs. 3 Satz 1 und des § 86 Abs. 2 Nr. 3 i.V.m. § 76 
+Abs. 2 Nr. 6 des Hochschulgesetzes (HochSchG) in der Fassung vom 19. November 2010 
+(GVBl. S. 463), zuletzt geändert durch Artikel 7 des Gesetzes vom 07.02.2018 (GVBl. S. 
+9), BS 22341, hat der Rat des Fachbereichs 4: Informatik der Universität KoblenzLandau 
+am 27. September 2017 die nachfolgende Promotionsordnung beschlossen. Der Senat 
+der Universität KoblenzLandau hat am 24. Oktober 2017 zustimmend Stellung genom
+men. Diese Promotionsordnung hat das Ministerium für Wissenschaft, Weiterbildung und 
+Kultur mit Schreiben vom 25. Januar 2018, Az.: 15423 TgbNr. 2186/17 genehmigt. 
+ 
+Inhaltsverzeichnis  
+ 
+I. Allgemeines 
+§ 1 Zweck der Promotion 
+§ 2 Verleihung eines Doktorgrades 
+§ 3 Promotionsausschuss  
+§ 4 Promotionsverfahren 
+§ 5 Promotionsleistungen 
+§ 6 Voraussetzungen 
+§ 7 Eignungsfeststellungsverfahren 
+ 
+II. Doktorandenstatus 
+§ 8 Aufnahme in den Doktorandenstatus 
+§ 9 Betreuung 
+ 
+III. Zulassungsverfahren 
+§ 10 Antrag auf Zulassung zur Promotion 
+§ 11 Entscheidung über die Zulassung 
+§ 12 Promotionskommission 
+ 
+IV. Dissertation 
+§ 13 Allgemeines 
+§ 14 Beurteilung der Dissertation 
+§ 15 Umarbeitung der Dissertation 
+§ 16 Entscheidung über die Annahme der Dissertation 
+ 
+V. Wissenschaftliche Aussprache 
+§ 17 Termin der wissenschaftlichen Aussprache 
+§ 18 Ablauf der wissenschaftlichen Aussprache 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 9  § 19 Versäumnis 
+§ 20 Wiederholung der wissenschaftlichen Aussprache 
+ 
+VI. Gesamtbeurteilung, Veröffentlichung, Promotionsurkunde 
+§ 21 Gesamtbeurteilung der Promotion 
+§ 22 Veröffentlichung und Druck der Dissertation 
+§ 23 Promotionsurkunde 
+§ 24 Verbleib der Unterlagen und Akteneinsicht 
+ 
+VII. Ungültigkeit von Promotionsleistungen, Entziehung des Doktorgrades, Ver
+fahren bei  Entscheidungen 
+§ 25 Ungültigkeit von Promotionsleistungen 
+§ 26 Entziehung des Doktorgrades 
+§ 27 Verfahren bei Entscheidungen 
+ 
+VIII. Ehrenpromotion und binationales Promotionsverfahren 
+§ 28 Ehrenpromotion 
+§ 29 Binationales Promotionsverfahren 
+ 
+IX. Schlussbestimmungen  
+§ 30 Widerspruch 
+§ 31 Inkrafttreten  
+ 
+I. Allgemeines  
+§ 1 
+Zweck der Promotion 
+Durch die Promotion wird eine besondere wissenschaftliche Qualifikation nachgewiesen. 
+Das heißt, die oder der Promovierte verfügt über umfassende Fachkenntnisse, kann selb
+ständig wissenschaftlich arbeiten und hat durch die Dissertation einen Beitrag zur For
+schung erbracht. 
+§ 2 
+Verleihung eines Doktorgrades 
+Der Fachbereich 4: Informatik der Universität KoblenzLandau verleiht die akademischen 
+Grade einer Doktorin oder eines Doktors der Naturwissenschaften (Dr. rer. nat.) und einer 
+Doktorin oder eines Doktors der Wirtschafts und Sozialwissenschaften (Dr. rer. pol.) auf
+grund eines ordentlichen Promotionsverfahrens, das auch kooperativ mit Fachhochschu
+len durchgeführt werden kann. 
+§ 3 
+Promotionsausschuss 
+(1) Der Fachbereichsrat des Fachbereichs 4: Informatik bildet einen Promotionsaus
+schuss, bestehend aus 
+1. der Dekanin oder dem Dekan, die oder der zugleich vorsitzendes Mitglied des Promo
+tionsausschusses ist,  
+2. vier weiteren Mitgliedern aus der Gruppe der Hochschullehrerinnen und Hochschulleh
+rer,  
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 10  3. zwei Mitgliedern aus der Gruppe der wissenschaftlichen Mitarbeiterinnen und Mitarbei
+ter,  
+4. einem Mitglied aus der Gruppe der nichtwissenschaftlichen Mitarbeiterinnen und Mitar
+beiter und  
+5. einem Mitglied aus der Gruppe der Studierenden.  
+Für jedes Mitglied wird eine Stellvertreterin oder ein Stellvertreter gewählt. Stellvertreterin 
+oder Stellvertreter der Dekanin oder des Dekans ist eine Prodekanin oder ein Prodekan. 
+Die Amtszeit beträgt drei Jahre, für das studentische Mitglied ein Jahr. Betreut die Dekanin 
+oder der Dekan selbst eine Dissertation, die Gegenstand der Tagesordnung ist, so über
+nimmt eine Prodekanin oder ein Prodekan den Vorsitz. § 25 Abs. 5 HochSchG bleibt un
+berührt.  
+(2) Die Sitzungen des Promotionsausschusses werden von der oder dem Vorsitzenden 
+e
+inberufen; sie sind nicht öffentlich. Der Promotionsausschuss ist beschlussfähig, wenn 
+mindestens fünf Mitglieder oder deren Stellvertreterinnen oder Stellvertreter anwesend 
+sind; die Mehrheit der Hochschullehrerinnen oder Hochschullehrer muss gewahrt sein. 
+Beschlüsse werden mit einfacher Mehrheit der Anwesenden gefasst. 
+ 
+§ 4 
+Promotionsverfahren 
+(1) Das Promotionsverfahren beginnt gemäß § 34 HochSchG mit der schriftlichen Zu
+sa
+ge einer Betreuerin oder eines Betreuers an die Doktorandin oder den Doktoranden.  
+(2) Zur Aufnahme in den Doktorandenstatus im Fachbereich 4: Informatik  st ellt die 
+Kandidatin oder der Kandidat einen Antrag gemäß § 8. Der Promotionsausschuss berät 
+und entscheidet über die Aufnahme in den Doktorandenstatus (§ 8 Absätze 4 bis 6).  
+(3) Sofern die Voraussetzungen gemäß § 6 Abs. 1 – 2 nicht gegeben sind, stellt die 
+K
+andidatin oder der Kandidat zunächst einen Antrag auf ein Eignungsfeststellungsverfah
+ren gemäß § 7 .  
+(4) Nach Aufnahme in den Doktorandenstatus und Erarbeitung der Promotion folgt der 
+A
+ntrag auf Zulassung zur Promotion  (§ 10). Hierzu ist dem Promotionsausschuss eine 
+Dissertation nach den Vorgaben gemäß § 13 vorzulegen. Der Promotionsausschuss berät 
+und entscheidet über die Zulassung zur Promotion (§ 11) und besetzt die Promotions
+kommission (§ 12). Der oder die Vorsitzende des Promotionsausschusses bittet die Be
+richt erstattenden Mitglieder um deren Begutachtung der Dissertation (§ 14) und legt die 
+Promotionsunterlagen und Gutachten zur Einsichtnahme gemäß § 16 aus. Es folgt die 
+Koordinierung des Termins der wissenschaftlichen Aussprache gemäß § 17 und die Wis
+senschaftliche Aussprache gemäß § 18. 
+(5) Nach erfolgreicher Verteidigung der Dissertation erfolgt die Veröffentlichung der Ar
+beit nach  
+§ 22. Das Promotionsverfahren wird mit der Aushändigung der Promotionsurkunde gemäß 
+§ 23 abgeschlossen. 
+(6) Der Promotionsausschuss berücksichtigt auf Antrag einer Bewerberin oder eines 
+B
+ewerbers durch Anordnung geeigneter Rücksichtsmaßnahmen im konkreten Einzelfall im 
+Sinne des § 26 Abs. 4 HochSchG die besonderen Belange von Bewerberinnen oder Be
+werbern mit Behinderungen. 
+ 
+§ 5 
+Promotionsleistungen 
+Die Promotionsleistungen bestehen aus 
+1. einer wissenschaftlichen Abhandlung (Dissertation) und 
+2. einem Vortrag mit anschließender wissenschaftlicher Aussprache gemäß § 18. 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018
+11 § 6
+Voraussetzungen 
+(1) Die Voraussetzungen für eine Promotion erfüllt, wer
+1.ein Studium an einer Hochschule
+bei der Promotion zum Dr. rer. nat. in einem ingenieur oder naturwissenschaftli
+chen Fach,
+bei der Promotion zum Dr. rer. pol. in einem wirtschafts oder sozialwissenschaftli
+chen Fach
+ nachweisen kann, und 
+2.dieses Studium mit der Masterprüfung oder einer dieser Prüfung äquivalenten akade
+mischen Abschlussprüfung oder Staatsprüfung, zum Beispiel einer Diplomprüfung an
+einer Universität oder einem Staatsexamen, abgeschlossen hat.
+Ist die Prüfung mit einer Gesamtnote schlechter als "gut" abgeschlossen worden, beauf
+tragt der Promotionsausschuss zwei Personen aus der Gruppe der Hochschullehrerinnen 
+und Hochschullehrer des Fachbereichs, jeweils ein Gutachten über die Kandidatin oder 
+den Kandidaten zu erstellen. Die Gutachten sollen der Kandidatin oder dem Kandidaten 
+eine von der reinen Abschlussnote abweichende Beurteilung der Befähigung zur Promoti
+on in einem vorgeschlagenen Themengebiet bestätigen. Die Gutachter beurteilen sowohl 
+die Gesamtnote als auch vorgelegte wissenschaftliche Arbeiten (z.B. Seminararbeit, Ba
+chelorarbeit, Masterarbeit) mit Blick auf die für das angestrebte Promotionsvorhaben rele
+vanten Themengebiete und methoden. Weichen die Gutachten in ihrer Empfehlung von
+einander ab (d.h. die Befähigung zur Promotion wird einmal attestiert und einmal nicht at
+testiert), so berät der Promotionsausschuss, ob ein weiteres Gutachten zur Beurteilung 
+der Befähigung zur Promotion über die Kandidatin oder den Kandidaten eingeholt werden 
+soll. Auf der Grundlage der Gutachten entscheidet der Promotionsausschuss über An
+nahme oder Ablehnung des Antrages. 
+(2) Die erforderlichen Voraussetzungen können auch in einem anderen Fach erworben
+werden, sofern Äquivalenz mit den Anforderungen nach Abs. 1 gewährleistet ist.
+(3) Über sämtliche Fragen der Äquivalenz entscheidet der Promotionsausschuss. In
+Zweifelsfällen sind weitere Meinungen von ausgewiesenen Institutionen, wie zum Beispiel
+der Zentralstelle für ausländisches Bildungswesen, einzuholen.
+(4) Zum Promotionsverfahren nach dieser Ordnung kann außerdem zugelassen wer
+den, wer
+1.ein Zeugnis über den erfolgreichen Abschluss einer Diplomprüfung an einer Hochschu
+le oder einer Bachelorprüfung in einem Studiengang, der einem der in Abs. 1 genann
+ten ähnlich ist, vorlegt,
+2.nachweislich zu den 20% Besten ihres oder seines Prüfungsjahrgangs gehört oder die
+Abschlussprüfung nicht mit einer Gesamtnote schlechter als 2,0 abgeschlossen hat,
+sowie
+3.eine Bescheinigung über ein an der Universität KoblenzLandau erfolgreich abgelegtes
+Eignungsfeststellungsverfahren gemäß § 7  nachweist.
+(5) Ausländische Bewerberinnen und Bewerber, deren Muttersprache nicht Deutsch
+oder Englisch ist, müssen die deutsche oder die englische Sprache in ausreichendem
+Maß beherrschen. Im Zweifelsfall kann der Promotionsausschuss einen Sprachnachweis
+Level (B2) des Gemeinsamen Europäischen Referenzrahmens verlangen.
+(6) Wurde bereits eine Dissertation an einer anderen Hochschule abgeschlossen oder
+diese dort abgelehnt, kann sie im Fachbereich 4: Informatik nicht erneut als Dissertations
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 12  vorhaben eingebracht werden. Auch dürfen keine Gründe für eine mögliche Entziehung 
+eines Doktorgrades nach den gesetzlichen Bestimmungen vorliegen. 
+ 
+§ 7 
+Eignungsfeststellungsverfahren 
+(1) Durch das Eignungsfeststellungsverfahren ist der Nachweis zu erbringen, dass in 
+d
+em Fach, in dem die Dissertation angefertigt wird, im selben Maße die Qualifikation zur 
+wissenschaftlichen Arbeit wie von Bewerberinnen und Bewerbern mit der Vorbildung ent
+sprechend § 6 Abs. 1 und 2 erworben wurde. 
+(2) Zum Eignungsfeststellungsverfahren werden auf Antrag Fachhochschulabsolven
+tin
+nen und Fachhochschulabsolventen mit Diplomabschluss sowie Bachelorabsolventin
+nen und Bachelorabsolventen eines für das gewählte Promotionsfach einschlägigen Stu
+diums zugelassen, wenn sie zu den besten zehn Prozent ihrer Abschlusskohorte gehören. 
+Ebenso wird auf Antrag zugelassen, wer die Diplomprüfung einer Fachhochschule in ei
+nem einschlägigen Studium mit mindestens „gut“ bestanden hat. 
+(3) Sind die Voraussetzungen gemäß § 6 Abs. 1 und 2 nicht gegeben, ist schriftlich ein 
+A
+ntrag zum Eignungsfeststellungsverfahren bei der oder dem Vorsitzenden des Promoti
+onsausschusses einzureichen. Dem Antrag sind folgende Unterlagen beizulegen: 
+1. Zeugnisse und Urkunden über die erworbenen Hochschulabschlüsse einschließlich ei
+nes Nachweises über den Rang der Abschlussnote in der Gesamtkohorte 
+2. Bisheriger Lebenslauf, der außer den üblichen Angaben auch Näheres über den Bil
+dungsgang enthält 
+3. Angabe, welcher akademische Grad angestrebt wird 
+4. Vorschlag über ein Thema aus einem der Lehrgebiete des Fachbereichs für die wis
+senschaftliche Abhandlung samt einer Kurzdarstellung des Promotionsvorhabens 
+5. Erklärung darüber, dass kein Antrag auf Zulassung zum Eignungsfeststellungsverfah
+ren an einer anderen Hochschule gestellt und dass kein Eignungsfeststellungsverfah
+ren an einer anderen Hochschule negativ beschieden worden ist. 
+(4) Die Zulassung darf versagt werden, wenn die Bewerberin oder der Bewerber 
+1. 
+zum Eignungsfeststellungsverfahren oder einer vergleichbaren Prüfung bereits an ei
+ner anderen Hochschule zugelassen wurde, sie aber nicht bestanden hat oder einen 
+Antrag auf Zulassung gestellt hat und das Verfahren noch nicht abgeschlossen ist;  
+2. die Unterlagen gemäß Abs. 1 nicht vollständig vorgelegt hat. 
+(5) Sind die Voraussetzungen für die Zulassung zum Eignungsfeststellungsverfahren 
+e
+rfüllt, so lässt die oder der Vorsitzende des Promotionsausschusses die Bewerberin oder 
+den Bewerber zu. Hält die oder der Vorsitzende die Voraussetzungen für nicht erfüllt oder 
+hat sie oder er Zweifel, entscheidet der Promotionsausschuss über die Zulassung. Die 
+Entscheidung des Promotionsausschusses über den Zulassungsantrag wird der Bewerbe
+rin oder dem Bewerber schriftlich von der oder dem Vorsitzenden des Promotionsaus
+schusses mitgeteilt.  
+(6) Wird die Bewerberin oder der Bewerber zum Eignungsfeststellungsverfahren zuge
+lasse
+n, bestellt die oder der Vorsitzende des Promotionsausschusses zwei Hochschulleh
+rerinnen oder Hochschullehrer des Fachbereichs 4: Informatik als Prüferinnen oder Prüfer, 
+welche die zu erbringenden Leistungen definieren, die vor der Aufnahme in den Doktoran
+denstatus zu erbringen sind, und das Kolloquium zur Eignungsfeststellung durchführen.  
+(7) Um die äquivalente Qualifikation zu wissenschaftlichem Arbeiten wie bei  Bewerbe
+rinnen und Bewerbern gemäß § 6 Abs. 1 zu beurteilen, besteht das Eignungsfeststel
+lungsverfahren aus folgenden Leistungen:  
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 13  1. einem Kolloquium zur Feststellung der Kompetenzen der Bewerberin oder des Bewer
+bers im Promotionsfach. Das Kolloquium dauert mindestens 45 und höchstens 90 Mi
+nuten und erstreckt sich über drei unterschiedliche Teildisziplinen des Promotionsfa
+ches. In allen drei Teildisziplinen werden differenzierte Kenntnisse und vertieftes Ver
+ständnis erfragt. Die entsprechenden Teildisziplinen werden dem Prüfling durch die 
+Prüfer mindestens zwei Monate vor dem festgesetzten Termin des Kolloquiums mitge
+teilt. 
+2.  drei Leistungsnachweise in dem Promotionsfach. Es gilt die gemeinsame Prüfungs
+ordnung der Studiengänge Bachelor of Science und Master of Science des Fachb e
+reichs 4: Informatik der Universität KoblenzLandau in der jeweils geltenden Fassung 
+entsprechend. Für die Erbringung dieser Leistungen sind höchstens zwei Semester 
+vorzusehen. Nach erfolgreichem Bestehen der Leistungen legt der Prüfling die Leis
+tungsnachweise den Prüfern vor. 
+(8) Die Prüfer setzen im Einverständnis mit der Kandidatin oder dem Kandidaten den 
+T
+ermin für das Kolloquium fest und informieren die Vorsitzende oder den Vorsitzenden 
+des Promotionsausschusses. Die Mitglieder des Promotionsausschusses haben das 
+Recht, bei dem Kolloquium anwesend zu sein. Auf Wunsch der Kandidatin oder des Kan
+didaten ist die Gleichstellungsbeauftragte des Fachbereichs oder der Universität teilnah
+meberechtigt. Soweit die oder der Betroffene bei der Meldung zur Prüfung nicht wider
+spricht, können auch Promovendinnen und Promovenden des eigenen Fachs bei dem 
+Kolloquium anwesend sein. 
+(9) Die Leistungen im Kolloquium werden protokolliert und bewertet. Für die Bewertung 
+d
+er Kolloquiumsleistung sind folgende Noten zu verwenden:  
+1,0;1,3  sehr gut  eine hervorragende Leistung,  
+1,7; 2,0; 2,3  gut eine Leistung, die erheblich über den durch
+schnittlichen Anforderungen liegt,  
+2,7; 3,0; 3,3  befriedigend  eine Leistung, die durchschnittlichen Anforderun
+gen entspricht  
+3,7; 4,0  ausreich end eine Leistung, die trotz ihrer Mängel noch den 
+Anforderungen genügt  
+5,0 nicht ausreichend  eine Leistung, die wegen erheblicher Mängel den 
+Anforderungen nicht mehr genügt.  
+Bei einer Bewertung unter 4,0 hat die Bewerberin oder der Bewerber das Kolloquium nicht 
+bestanden. Sie oder er hat die Möglichkeit, das Kolloquium innerhalb eines Jahres einmal 
+zu wiederholen. Bei einer Bewertung von 4,0 oder besser kann auf Basis der Ergebnisse 
+des Kolloquiums ein individueller Studienplan erstellt werden, der die noch zu erbringen
+den Leistungen gemäß Abs. 7 Nr. 2 umfasst. Die wesentlichen Inhalte und Ergebnisse des 
+Kolloquiums sind in einem Protokoll festzuhalten und an die Vorsitzende oder den Vorsit
+zenden des Promotionsausschusses mitzuteilen. Das Ergebnis ist der Bewerberin oder 
+dem Bewerber im Anschluss an die Bewertung durch die Prüfer bekannt zu geben. 
+(10) Nach Ende des Eignungsfeststellungsverfahrens bestätigen die Prüfer der oder 
+dem Vorsitzenden des Promotionsausschusses den erfolgreichen Abschluss schriftlich. 
+Dem Prüfbericht sind das Protokoll zum Kolloquium sowie eventuell erbrachte Leistungs
+nachweise beizulegen. 
+(11) Über das bestandene Eignungsfeststellungsverfahren wird eine Bescheinigung 
+a
+usgestellt; diese ist von der oder dem Vorsitzenden des Promotionsausschusses zu un
+terzeichnen. 
+ 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 14  II. Doktorandenstatus  
+ 
+§ 8 
+Aufnahme in den Doktorandenstatus 
+(1) Der Doktorandenstatus ist Voraussetzung für die Zulassung zur Promotion. 
+(2) In den Doktorandenstatus kann aufgenommen werden, wer die Voraussetzungen 
+g
+emäß  
+§ 6 erfüllt. Die Aufnahme in den Doktorandenstatus erfolgt durch den Promotionsaus
+schuss.  
+(3) Um in den Doktorandenstatus aufgenommen zu werden, muss die Bewerberin oder 
+d
+er Bewerber beim Promotionsausschuss einen Antrag einreichen. Diesem sind folgende 
+Unterlagen beizufügen:  
+1. Nachweise über die erforderliche Vorbildung gemäß § 6 
+2. Bisheriger Lebenslauf, der außer den üblichen Angaben auch Näheres über den Bil
+dungsgang enthält 
+3. Angabe, welcher akademische Grad angestrebt wird 
+4. Angabe eines Themas aus einem der Lehrgebiete des Fachbereichs für die wissen
+schaftliche Abhandlung und gegebenenfalls Angaben über die zu seiner Durchführung 
+notwendigen technischen Voraussetzungen 
+5. Erklärung, aus der hervorgeht, dass die Bewerberin oder der Bewerber das gleiche (o
+der ein ähnliches) Promotionsvorhaben an keiner anderen Hochschule angemeldet hat 
+6. Aufriss der geplanten Dissertation im Umfang von nicht mehr als 5.000 Worten Inhalt 
+(auch in elektronischer Fassung (PDF)). Die Längenbeschränkung schließt die Liste 
+der wissenschaftlichen Quellen nicht ein. 
+7. Angabe der Betreuerin oder des Betreuers (siehe auch § 9). 
+(4) Der Promotionsausschuss prüft seine fachliche Zuständigkeit für das vorgeschla
+gene Thema und garantiert die spätere Begutachtung der Dissertation. Er prüft ferner un
+ter Zugrundelegung der nachgewiesenen Vorbildung und des vorgelegten Aufrisses, ob 
+das vorgeschlagene Thema dem angestrebten akademischen Grad entspricht und ob die 
+zur Bearbeitung des Themas erforderlichen technischen und finanziellen Voraussetzun
+gen gegeben sind.  
+(5) Wenn die Voraussetzungen zur Promotion gemäß § 6 Absätze 1 und 2 nicht gege
+b
+en sind und kein Antrag auf ein Eignungsfeststellungsverfahren gestellt wurde, leitet der 
+Promotionsausschuss ein Eignungsfeststellungsverfahren gemäß § 7 ein. Der Antrag auf 
+Eignungsfeststellungsverfahren gemäß § 7 Abs. 1 entfällt in diesem Fall.  
+(6) Bei nicht der Universität angehörigen Bewerberinnen und Bewerbern kann der 
+P
+romotionsausschuss verlangen, dass die Bewerberin oder der Bewerber vor der Auf
+nahme in den Doktorandenstatus einen fachbereichsöffentlichen Vortrag hält. Dieser er
+folgt im Rahmen eines Doktorandenkolloquiums mit einem 30 minütigen Vortrag über das 
+geplante Dissertationsvorhaben sowie einer maximal 30 minütigen Diskussion.  
+(7) Die Entscheidung des Promotionsausschusses über die Aufnahme in den Dokto
+randenstatus wird der Bewerberin oder dem Bewerber schriftlich mitgeteilt.  
+(8) Die Möglichkeit, eine Dissertation auch außerhalb der Universität KoblenzLandau 
+d
+urchzuführen, wird von den Absätzen 1 bis 6 nicht berührt. 
+(9) Die Aufnahme in den Doktorandenstatus kann durch den Promotionsausschuss wi
+d
+errufen werden, wenn: 
+1. der Antrag auf Zulassung zur Promotion nicht innerhalb von fünf Jahren gestellt wird; 
+2. das Thema der Arbeit wesentlich geändert wird; oder 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 15  3. die Betreuerin oder der Betreuer oder die Doktorandin oder der Doktorand einen be
+gründeten Antrag zur Auflösung des Doktorandenverhältnisses eingereicht hat.  
+Den jeweiligen Parteien wird Gelegenheit zur Stellungnahme gegeben. Über den Widerruf 
+sind die jeweiligen Parteien von der oder dem Vorsitzenden des Promotionsausschusses 
+schriftlich zu unterrichten.  
+ 
+§ 9 
+Betreuung 
+(1) Zweck der Betreuung ist die Förderung der wissenschaftlichen Arbeit gemäß § 34 
+A
+bs. 3 und Abs. 4 HochSchG. 
+(2) Die Betreuerin oder der Betreuer einer Promotionsarbeit muss zum Zeitpunkt der 
+A
+ufnahme in den Doktorandenstatus ein Mitglied der Gruppe der Hochschullehrerinnen 
+und Hochschullehrer des Fachbereichs 4: Informatik sein. Die Betreuungszusage an die 
+Doktorandin oder den Doktoranden hat unverzüglich und schriftlich zu erfolgen. Nach Zu
+gang der Betreuungszusage ist die Doktorandin oder der Doktorand verpflichtet, sich von 
+der Universität als solche registrieren zu lassen (§ 34 Abs. 2 HochSchG). 
+(3) Endet die Betreuung aus Gründen, die die Doktorandin oder der Doktorand nicht zu 
+v
+ertreten hat, gewährleistet die oder der Vorsitzende des Promotionsausschusses im Ein
+vernehmen mit den Promotionsausschussmitgliedern und der Doktorandin oder dem Dok
+torand die weitere Betreuung der Arbeit durch eine andere Betreuerin oder einen anderen 
+Betreuer. 
+ 
+III. Zulassungsverfahren  
+ 
+§ 10 
+Antrag auf Zulassung zur Promotion 
+(1) Die Doktorandin oder der Doktorand richtet einen Antrag auf Zulassung zur Promo
+tio
+n an die Vorsitzende oder den Vorsitzenden des Promotionsausschusses. 
+(2) In dem Antrag sind der Titel der Dissertation sowie das Datum der Aufnahme in den 
+Doktorandenstatus anzugeben. Zwischen Antrag auf Aufnahme in den Doktorandenstatus 
+und Antrag auf Zulassung zur Promotion müssen mindestens 18 Monate liegen. Über 
+Ausnahmen (z.B. bei einem Wechsel von einer anderen Hochschule in den Fachbereich 
+4: Informatik) entscheidet der Promotionsausschuss. 
+(3) Dem Antrag sind beizufügen:  
+1. ein aktueller Lebenslauf 
+2. die Angabe, welcher akademische Grad angestrebt wird (§ 2) 
+3. fünf dauerhaft gebundene Exemplare der eingereichten Dissertation sowie ein 
+Exemplar in elektronischer Form (PDFA) gemäß § 13 Abs. 2 
+4. eine Erklärung (siehe Anhang I), aus der hervorgeht, 
+a. dass die Doktorandin oder der Doktorand die vorgelegte Dissertation selbst an
+gefertigt und alle benutzten Hilfsmittel in der Arbeit angegeben hat,  
+b. dass (nur für den Fall kooperativ erzielter Forschungsergebnisse – siehe Abs. 4) 
+in der Arbeit an geeigneten Stellen gekennzeichnet wurde, welchen individuel
+len Beitrag die Doktorandin oder der Doktorand geleistet hat, 
+c. dass die Doktorandin oder der Doktorand die vorgelegte Dissertation oder Teile 
+davon noch nicht als Prüfungsarbeit für eine staatliche oder andere wissen
+schaftliche Prüfung eingereicht hat, 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 16  d. ob die Doktorandin oder der Doktorand die gleiche oder eine andere Abhand
+lung bei einer anderen Hochschule als Dissertation eingereicht hat, gegebenen
+falls mit welchem Erfolg, 
+5. ein polizeiliches Führungszeugnis (nicht älter als 6 Monate); dieses ist nicht erforder
+lich, wenn die Doktorandin oder der Doktorand sich im öffentlichen Dienst befindet oder 
+zum Zeitpunkt des Antrags an der Universität KoblenzLandau immatrikuliert ist;  
+6. ein Nachweis über die Einzahlung der gemäß der Landesverordnung über die Gebüh
+ren in den Bereichen Wissenschaft, Weiterbildung und Forschung (Besonderes Ge
+bührenverzeichnis) in der jeweils geltenden Fassung festgesetzten Promotionsgebühr. 
+(4) Sind im Rahmen kooperativer Forschungstätigkeiten Publikationen unter der Mitar
+b
+eit von Koautoren entstanden, welche wesentliche Bestandteile der vorgelegten Disserta
+tion darstellen, so ist der Erklärung aus Abs. 3 Punkt 4 zusätzlich eine unterschriebene 
+Bestätigung aller Koautoren hinzuzufügen, welche die Einschätzung der Doktorandin oder 
+des Doktoranden bezüglich des individuellen Beitrags stützt. Kann diese Bestätigung nicht 
+von allen Koautoren beigebracht werden, ist eine Erklärung zu dem Hintergrund der feh
+lenden Bestätigung der Koautorin oder des Koautoren zu geben. Hat der Promotionsaus
+schuss Zweifel an der Erklärung, kann er die Kandidatin oder den Kandidaten um eine 
+Nachbesserung der Erklärung bitten, welche innerhalb von zwei Monaten eingebracht 
+werden soll. 
+(5) Im Antrag auf Zulassung zur Promotion können zur Wahl der weiteren Berichter
+sta
+tterinnen und Berichterstatter (§ 12 Abs. 1 Satz 2) Wünsche geäußert werden. 
+(6) Das vorsitzende Mitglied des Promotionsausschusses gibt den Antrag auf Zulas
+su
+ng zur Promotion bei der auf den Eingangstermin folgenden Sitzung des Fachbereichs
+rates des Fachbereichs 4: Informatik bekannt. Der Antrag mit allen Anlagen kann von den 
+Mitgliedern des Promotionsausschusses bei dessen vorsitzendem Mitglied eingesehen 
+werden. 
+§ 11 
+Entscheidung über die Zulassung 
+(1) Aufgrund der eingereichten Unterlagen entscheidet der Promotionsausschuss über 
+die Zulassung zur Promotion und über den zu verleihenden akademischen Grad. Ist der 
+Promotionsantrag unvollständig oder bestehen sonstige Zweifel, gibt die oder der Vorsit
+zende des Promotionsausschusses der Doktorandin oder dem Doktorand Gelegenheit zur 
+Abhilfe oder zur unverzüglichen Stellungnahme.  
+(2) Die Zulassung kann versagt werden, wenn 
+1. der Antrag auf Zulassung zur Promotion mit den eingereichten Unterlagen gemäß § 10 
+unvollständig ist oder 
+2. die Dissertation gemäß § 10 Abs. 3 Punkt 4 sowie § 6 Abs. 6 nicht angenommen wer
+den kann oder 
+3. Tatbestände vorliegen, unter denen ein akademischer Grad entzogen werden kann (§ 
+26) oder 
+4. eine Promotion in dem gleichen Arbeitsgebiet schon einmal erfolgt ist . 
+(3) Das Ergebnis der Zulassung teilt das vorsitzende Mitglied des Promotionsaus
+sch
+usses der Doktorandin oder dem Doktorand schriftlich  im Falle der Nichtzulassung 
+unter Angabe der Gründe  mit. 
+(4) Eine Rücknahme des Antrags auf Zulassung zur Promotion ist vor der Entschei
+dung des Promotionsausschusses möglich. In diesem Fall gilt der Antrag als nicht gestellt. 
+Erfolgt die Rücknahme nach der Entscheidung des Promotionsausschusses, berät und 
+entscheidet der Ausschuss über das weitere Vorgehen. 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 17  § 12 
+Promotionskommission 
+(1) Nach der Zulassung zur Promotion benennt der Promotionsausschuss eine Promo
+tio
+nskommission. Diese besteht aus einem vorsitzenden Mitglied und aus mindestens zwei 
+gleichverantwortlichen Bericht erstattenden Mitgliedern. Über Ausnahmen entscheidet der 
+Promotionsausschuss.  
+(2) Eines der Bericht erstattenden Mitglieder ist die Betreuerin oder der Betreuer ge
+m
+äß § 9 Abs. 2.  
+(3) Das vorsitzende Mitglied und mindestens ein Bericht erstattendes Mitglied müssen 
+z
+ur Gruppe der Hochschullehrerinnen und Hochschullehrer des Fachbereichs 4: Informatik 
+gehören.  
+(4) Zumindest ein weiteres Bericht erstattendes Mitglied kann von einer anderen Hoch
+sch
+ule sein. Kooperative Promotionsverfahren mit Fachhochschulen sind möglich. 
+(5) Die weiteren Bericht erstattenden Mitglieder können auch den folgenden Gruppen 
+angehören: Professorinnen oder Professoren im Ruhestand, Fachhochschulprofessorin
+nen oder Fachhochschulprofessoren (insbesondere im Falle kooperativer Promotionsver
+fahren gemäß § 34 Abs. 4 HochSchG) sowie Mitglieder der in § 61 Abs. 1 oder 2a Hoch
+SchG oder § 62 HochSchG genannten Personengruppen. § 25 Abs. 5 HochSchG bleibt 
+unberührt; es gilt dabei der Zeitpunkt des Antrags zur Zulassung.  
+(6) Verlässt ein Bericht erstattendes Mitglied die Universität während eines laufenden 
+Zu
+lassungsverfahrens, so wirkt es bei diesem Promotionsverfahren weiter mit. 
+(7) Das vorsitzende Mitglied des Promotionsausschusses leitet je ein Exemplar der 
+Dissertation allen Mitgliedern der Promotionskommission zu. Es teilt der Doktorandin oder 
+dem Doktorand die Zusammensetzung der Promotionskommission schriftlich mit. 
+ 
+IV. Dissertation  
+ 
+§ 13 
+Allgemeines 
+(1) Die Dissertation muss eine die wissenschaftliche Erkenntnis fördernde gründliche 
+B
+ehandlung eines Problems aus etablierten Forschungsschwerpunkten des Fachbereichs 
+4: Informatik enthalten. Mit der Dissertation soll die Doktorandin oder der Doktorand zei
+gen, dass sie oder er selbständig wissenschaftlich arbeiten kann. Das Thema soll so ab
+gegrenzt sein, dass die Arbeit mit den verfügbaren technischen und wissenschaftlichen 
+Hilfsmitteln in angemessener Zeit abgeschlossen werden kann. 
+(2) Die Dissertation muss mit Titelblatt, Seitennummerierung, einer maximal einseitigen 
+DIN 
+A4Zusammenfassung in deutscher und in englischer Sprache, einem Literaturver
+zeichnis sowie einem Lebenslauf versehen sein. Das Titelblatt ist entsprechend dem Mus
+ter für eingereichte Dissertationen im Anhang II  abzufassen. Die Dissertation kann in Ab
+sprache mit der Betreuerin oder dem Betreuer in deutscher oder englischer Sprache abge
+fasst sein. 
+(3) Masterarbeiten oder andere Arbeiten, die bereits zu Prüfungszwecken gedient ha
+ben, werden als Dissertation nicht zugelassen. Eine von einem anderen Fachbereich oder 
+einer anderen wissenschaftlichen Hochschule zurückgewiesene Arbeit kann nicht als Dis
+sertation vorgelegt werden. Es dürfen keine Gründe für die mögliche Entziehung eines 
+Doktorgrades nach den gesetzlichen Bestimmungen vorliegen. 
+(4) Wird die Dissertation als Monographie (nicht kumulativ) abgefasst, so kann diese 
+auch bereits veröffentlichte oder zur Veröffentlichung angenommene oder eingereichte 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 18  Beiträge enthalten. Diese Teile müssen entsprechend kenntlich gemacht werden. Die 
+Vorabveröffentlichung von Teilen der Dissertation oder von sonstigen Arbeiten, die in Be
+ziehung zur Dissertation stehen, bedarf nicht der Zustimmung des Promotionsausschu s
+ses. 
+(5) Als Dissertation können nach Absprache mit der Betreuerin oder dem Betreuer 
+a
+uch mehrere thematisch zusammenhängende, in mit peerreview begutachteten Zeit
+schriften und Tagungsbänden veröffentlichte oder darin zum Druck angenommene Beiträ
+ge eingereicht werden (kumulative Dissertation). Mindestens zwei dieser Beiträge müssen 
+in Erstautorenschaft der Doktorandin oder des Doktoranden liegen. Zusätzlich können 
+noch weitere nicht eingereichte oder bisher nicht angenommene Beiträge Bestandteil der 
+Dissertation sein. Bei kumulativer Dissertation ist eine allgemeine Einleitung zur Darstel
+lung der wissenschaftlichen Ziele und der Beiträge und Zusammenhänge der einzelnen 
+Publikationen voran zu stellen. Sie ist mit einer zusammenfassenden Diskussion zu 
+schließen. Für die kumulative Dissertation können vom Fachbereich Empfehlungen bezüg
+lich akzeptierter peerreview Journals und Konferenzen bereitgestellt werden.  
+(6) Enthält die Dissertation nach Abs. 4 oder 5 gemeinsam mit anderen Autorinnen o
+d
+er Autoren verfasste bereits veröffentlichte oder zur Veröffentlichung angenommene oder 
+eingereichte Beiträge, muss in einem gesondert einzureichendem Dokument der individu
+elle Beitrag der Doktorandin oder des Doktoranden in den einzelnen Publikationen her
+ausgestellt werd en. 
+§ 14 
+Beurteilung der Dissertation 
+(1) Jedes Bericht erstattende Mitglied legt der oder dem Vorsitzenden des Promotions
+a
+usschusses ein schriftliches Gutachten über die Dissertation vor und empfiehlt darin die 
+Annahme, Rückgabe zur Umarbeitung (§ 15) oder Ablehnung der Dissertation. Wird die 
+Annahme empfohlen, ist die Dissertation im Gutachten nach der Notenskala in § 18 Abs. 3 
+zu bewerten. Empfehlen Gutachter eine Umarbeitung der Dissertation, ist § 15 anzuwen
+den. Die Gutachten sollen innerhalb von drei Monaten nach Bildung der Promotionskom
+mission (§ 12) vorgelegt werden. Fertigt ein Bericht erstattendes Mitglied sein Gutachten 
+nicht innerhalb von 4 Monaten an, kann der Promotionsausschuss beschließen, ihre oder 
+seine Berichtstätigkeit einer anderen Gutachterin oder einem anderen Gutachter zu über
+tragen.  
+(2) Die Gutachten können konkrete und nachvollziehbare Auflagen enthalten. Auflagen 
+kö
+nnen Korrektur, Straffungs oder kleinere Überarbeitungsanweisungen sein.  
+(3) Das vorsitzende Mitglied des Promotionsausschusses übersendet jedem Mitglied 
+d
+er Promotionskommission Kopien der Gutachten in digitaler oder Papierform.  
+(4) Auf schriftlichen Antrag der Doktorandin oder des Doktoranden unterrichtet das 
+v
+orsitzende Mitglied des Promotionsausschusses sie oder ihn über den Stand des Promo
+tionsverfahrens oder  über die Teilergebnisse. 
+ 
+§ 15 
+Umarbeitung der Dissertation 
+(1) Weist die Dissertation Mängel auf, die einer Annahme entgegenstehen, kann der 
+P
+romotionsausschuss vor der Entscheidung über die Annahme der Dissertation (§ 16) 
+nach Anhörung der Doktorandin oder des Doktoranden die Umarbeitung oder Ergänzung 
+der Dissertation unter Fristsetzung beschließen. 
+(2) Legt die Doktorandin oder der Doktorand innerhalb dieser Frist die Dissertation 
+nicht wieder vor, gehen die Bericht erstattenden Mitglieder bei der Beurteilung der Disser
+tation gemäß § 14 von der ursprünglichen Fassung aus. Vor Ablauf der Frist kann die oder 
+der Vorsitzende des Promotionsausschusses eine einmalige Fristverlängerung gewähren, 
+wenn ein wichtiger Grund vorliegt. § 26 Abs. 5 HochSchG gilt entsprechend. 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 19  (3) Legt die Doktorandin oder der Doktorand innerhalb der Frist die umgearbeitete Dis
+se
+rtation vor, erstellen die Gutachter auf Basis der neuen Version ihre Gutachten gemäß § 
+14.  
+§ 16 
+Entscheidung über die Annahme der Dissertation 
+(1) Nach Eintreffen aller (gegebenenfalls überarbeiteten) Gutachten teilt das vorsitzen
+de Mitglied des Promotionsausschusses den Mitgliedern des Promotionsausschusses und 
+den übrigen Mitgliedern des Fachbereichs aus der Gruppe der Hochschullehrerinnen, 
+Hochschullehrer und Habilitierten mit, dass sie die Gutachten und die Dissertation im De
+kanat des Fachbereichs 4: Informatik sowie in einem geschützten digitalen Repository ein
+sehen können. Während dieser Zeit liegt die Dissertation auch für alle weiteren promovier
+ten Mitglieder des Fachbereichs 4: Informatik im Dekanat zur Einsichtnahme aus. Die Frist 
+für diese Einsichtnahme beträgt zwei Wochen. Sie wird, falls ein Mitglied des Promotions
+ausschusses oder ein anderes dem Fachbereich 4: Informatik angehörendes Mitglied aus 
+der Gruppe der Hochschullehrerinnen und Hochschullehrer sowie der Habilitierten ihre 
+Verlängerung beantragt, um höchstens zwei weitere Wochen verlängert. 
+(2) Solange die Dissertation und die Gutachten zur Einsichtnahme ausliegen, können 
+fo
+lgende Personengruppen beim vorsitzenden Mitglied des Promotionsausschusses 
+schriftlich Stellung nehmen: 
+ die promovierten Mitglieder des Promotionsausschusses sowie die übrigen dem Fach
+b
+ereich 4: Informatik angehörenden Mitglieder aus der Gruppe der Hochschullehrerin
+nen, Hochschullehrer und Habilitierten zur Dissertation und zu den Gutachten,  
+ die dem Fachbereich 4: Informatik angehörenden weiteren promovierten Mitglieder zur 
+Di
+ssertation.  
+Falls schriftliche Stellungnahmen eingehen, informiert das vorsitzende Mitglied darüber 
+den Promotionsausschuss und die Mitglieder der Promotionskommission. Der Promoti
+onsausschuss befasst sich mit den Stellungnahmen und legt das weitere Vorgehen fest.  
+(3) Besteht in der Frage der Annahme Uneinigkeit oder weichen die Bewertungen der 
+Gu
+tachten um mehr als eine Notenstufe voneinander ab, so versucht die oder der Vorsit
+zende des Promotionsausschusses, eine Einigung zu erreichen. Gelingt dies nicht, wird im 
+Benehmen mit der Promotionskommission ein weiteres Gutachten eingeholt. Die weitere 
+Gutachterin oder der weitere Gutachter muss das Fach, in dem die Dissertation einge
+reicht wurde, in Forschung und Lehre vertreten, kann aber auch einer anderen wissen
+schaftlichen Hochschule angehören. Sie oder er wird mit diesem Schritt Mitglied der Pro
+motionskommission. § 12 Abs. 1 gilt entsprechend. Das zusätzliche Bericht erstattende 
+Mitglied erhält von der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses 
+Kopien der bisherigen Gutachten und eventuelle Stellungnahmen in digitaler oder Papier
+form, sowie ein Exemplar der Dissertation. Dieses muss die Doktorandin oder der Dokto
+rand nach Aufforderung durch die Vorsitzende oder den Vorsitzenden des Promotions
+ausschusses zur Verfügung stellen. Das zusätzliche Bericht erstattende Mitglied übermit
+telt der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses innerhalb einer 
+Frist von drei Monaten sein Gutachten. Die Promotionskommission stellt Annahme oder 
+Ablehnung der Dissertation fest. 
+(4) Wenn alle Bericht erstattenden Mitglieder die Annahme der Dissertation empfehlen, 
+g
+ilt diese automatisch als angenommen. Im Fall von Abs. 3 entscheidet die Promotions
+kommission anhand der vorliegenden Unterlagen über die Annahme der Dissertation. Das 
+vorsitzende Mitglied der Promotionskommission teilt der Vorsitzenden oder dem Vorsit
+zenden des Promotionsausschusses die Entscheidung schriftlich mit. Dieses informiert die 
+Mitglieder des Promotionsausschusses über die Entscheidung der Promotionskommissi
+on. § 14 gilt entsprechend. 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 20  (5) Wird die Dissertation abgelehnt, so ist das Promotionsverfahren mit der Festlegung 
+d
+es Ergebnisses „nicht bestanden“ abgeschlossen. Die Vorsitzende oder der Vorsitzende 
+des Promotionsausschusses teilt dies der Doktorandin oder dem Doktoranden schriftlich 
+mit. 
+ 
+V. Wissenschaftliche Aussprache  
+ 
+§ 17 
+Termin der wissenschaftlichen Aussprache 
+(1) Den Termin für die wissenschaftliche Aussprache koordiniert das vorsitzende Mit
+glied des Promotionsausschusses zusammen mit der Betreuerin oder dem Betreuer der 
+Promotion. Der Termin wird im Einvernehmen mit den weiteren Mitgliedern der Promoti
+onskommission und im Benehmen mit der Doktorandin oder dem Doktoranden nach An
+nahme der Dissertation festgesetzt. Der Termin wird von der Vorsitzenden oder dem Vo r
+sitzenden des Promotionsausschusses hochschulöffentlich bekannt gemacht. Der Termin 
+soll innerhalb von sechs Monaten nach Abschluss des Bewertungsverfahrens der Disser
+tation und schriftlicher Mitteilung des Ergebnisses an die Doktorandin oder den Doktora n
+den erfolgen. 
+(2) Die Mitglieder der Promotionskommission müssen bei der wissenschaftlichen Aus
+sp
+rache anwesend sein. Ist ein Kommissionsmitglied verhindert, so entscheidet das vor
+sitzende Mitglied des Promotionsausschusses über dessen Vertretung im Einvernehmen 
+mit den übrigen Kommissionsmitgliedern und im Benehmen mit der Doktorandin oder dem 
+Doktoranden. Die Gleichstellungsbeauftragte kann auf Wunsch der Doktorandin oder des 
+Doktoranden an der wissenschaftlichen Aussprache teilnehmen. 
+§ 18 
+Ablauf der wissenschaftlichen Aussprache 
+(1) Die wissenschaftliche Aussprache hat die Aufgabe, die wissenschaftliche Befähi
+g
+ung der Doktorandin oder des Doktoranden zu überprüfen. Zu Beginn der wissenschaftli
+chen Aussprache hält die Doktorandin oder der Doktorand einen Vortrag von etwa 30 Mi
+nuten Dauer über den Inhalt der Dissertation. Dieser Vortrag ist öffentlich.  
+(2) Die sich anschließende wissenschaftliche Diskussion geht vom Vortrag und der 
+Dissertation aus und erstreckt sich sodann auf das gesamte Fachgebiet der Dissertation 
+einschließlich angrenzender Fächer, soweit sie im Zusammenhang mit dem Thema der 
+Dissertation stehen. Sie soll mindestens 60 und höchstens 90 Minuten dauern. Alle Mit
+glieder der Promotionskommission und alle anwesenden Mitglieder der Gruppen nach § 
+37 Abs. 2 Nr. 1, § 61 und § 62 HochSchG sind frageberechtigt. Auf Verlangen der Doktor
+andin oder des Doktoranden kann die Öffentlichkeit auf den frageberechtigten Personen
+kreis und die Mitglieder des Promotionsausschusses eingeschränkt werden. 
+(3) Di e wissenschaftliche Aussprache wird unmittelbar nach ihrem Abschluss von der 
+Promotionskommission in nichtöffentlicher Beratung bewertet. An dieser Sitzung können 
+die frageberechtigten Mitglieder der Gruppen nach Abs. 2 Satz 3 beratend teilnehmen. Für 
+die Benotung sind folgende Noten zu verwenden:  
+ summa cum laude (ausgezeichnet)  (0) 
+ magna cum laude (sehr gut)  (1) 
+ cum laude (gut)  (2) 
+ rite (genügend)  (3) 
+ nicht bestanden.  (4) 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018
+21 Die wissenschaftliche Aussprache ist bestanden, wenn die Note mindestens „genügend“ 
+lautet. Eine wissenschaftliche Aussprache wird mit der Note „nicht bestanden“ beurteilt, 
+wenn die Doktorandin oder der Doktorand die wissenschaftliche Befähigung nicht auf
+weist. 
+(4) Über den Verlauf der wissenschaftlichen Aussprache ist eine Niederschrift zu füh
+ren, die auch ihre Bewertung (Einzelnoten für Dissertation und wissenschaftliche Ausspra
+che sowie Gesamtnote) enthält und die von den Mitgliedern der Promotionskommission
+unterzeichnet wird. Die Niederschrift wird vom vorsitzenden Mitglied der Promotionskom
+mission an den Promotionsausschuss übermittelt.
+§ 19
+Versäumnis 
+Erscheint die Doktorandin oder der Doktorand ohne Angabe von Gründen oder aus Grün
+den, die sie oder er zu vertreten hat, zu dem für die wissenschaftliche Aussprache festge
+setzten Termin nicht, so gilt die wissenschaftliche Aussprache als nicht bestanden. Liegen 
+Gründe für das Nichterscheinen vor, die die Doktorandin oder der Doktorand nicht zu ver
+treten hat, so kann die oder der Vorsitzende des Promotionsausschusses das Versäumnis 
+entschuldigen. In diesem Fall wird ein neuer Termin anberaumt. Die dann stattfindende 
+wissenschaftliche Aussprache gilt nicht als Wiederholung. Im Übrigen gilt § 20. 
+§ 20
+Wiederholung der wissenschaftlichen Aussprache 
+(1) Ist die wissenschaftliche Aussprache nicht bestanden, so ist eine einmalige Wie
+derholung möglich. Der Termin für die Wiederholung wird gemäß § 17 Abs. 1 festgelegt.
+Im Übrigen gilt § 18.
+(2) Besteht die Doktorandin oder der Doktorand die Wiederholung der wissenschaftli
+chen Aussprache nicht, so wird das Promotionsverfahren als „nicht bestanden“ abge
+schlossen; § 19 gilt entsprechend. Die Vorsitzende oder der Vorsitzende der Promotions
+kommission teilt dies der Doktorandin oder dem Doktorand im Anschluss an die wissen
+schaftliche Aussprache mündlich mit. Eine schriftliche Benachrichtigung über das endgül
+tige Nichtbestehen der Promotion erfolgt durch die Vorsitzende oder den Vorsitzenden des
+Promotionsausschusses.
+VI. Gesamtbeurteilung, Veröffentlichung, Promotionsurkunde
+§ 21
+Gesamtbeurteilung der Promotion 
+(1) Unmittelbar im Anschluss an die Bewertung der bestandenen mündlichen wissen
+schaftlichen Aussprache bestimmt die Promotionskommission in nicht öffentlicher Bera
+tung die Gesamtnote für die Promotionsleistung nach Abs. 2. An dieser Sitzung können
+die frageberechtigten Mitglieder der Gruppen nach § 18 Abs. 2 beratend teilnehmen. Die
+oder der Kommissionsvorsitzende teilt die Gesamtnote der Doktorandin oder dem Dokto
+randen mit. Die Gesamtnote wird in der Promotionsurkunde vermerkt.
+(2) Für die Gesamtbeurteilung der Promotion gelten die folgenden Regeln: Die Noten
+der Gutachten gehen nach dem arithmetischen Mittel mit einem Anteil von 2, die Note der
+wissenschaftlichen Aussprache mit einem Anteil von 1 in die endgültige Bewertung ein.
+Bei der Bildung der Gesamtnote und des Gesamtergebnisses der Promotion wird nur die
+erste Stelle hinter dem Komma berücksichtigt. Alle weiteren Stellen werden ohne Rundung
+gestrichen. Als Gesamtnote oder als Gesamtergebnis der Promotion werden vergeben:
+summa cum laude (ausgezeichnet)
+eine in jeder Hinsicht überragende Leistungbei einem Wert von 0,0 – 0,3; 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018
+22 magna cum laude (sehr gut)
+eine hervorragende Leistungbei einem Wert von 0,4 – 1,5; 
+cum laude (gut)
+eine durchschnittlichen Anforderungen in je
+der Hinsi cht übersteigende Leistungbei einem Wert von 1,6 – 2,5; 
+rite (genügend)
+eine durchschnittlichen Anforderungen ent
+sprechende Leistungbei einem Wert von 2,6 – 3,5; 
+insufficienter (nicht bestanden)
+eine durchschnittlichen Anforderungen nicht
+gerecht werde nde Leistungbei einem Wert von über 3,5;  
+(3) Wurden gemäß § 12 Abs. 1 lediglich zwei Gutachten eingeholt und ergibt sich aus
+den Gutachten sowie der wissenschaftlichen Aussprache eine Gesamtnote 'summa cum
+laude', so wird vom Promotionsausschuss zur Bestätigung der Note ein drittes externes
+Gutachten eingeholt. Die externe Gutachterin oder der externe Gutachter muss von einer
+anderen Hochschule sein und das Fach, in dem die Dissertation eingereicht wurde, in For
+schung und Lehre vertreten. Sie oder er wird mit diesem Schritt Mitglied der Promotions
+kommission. § 12 Abs. 1 gilt entsprechend. Das zusätzliche Bericht erstattende Mitglied
+erhält von der oder dem Vorsitzenden des Promotionsausschusses Kopien der bisherigen
+Gutachten und das Protokoll zur wissenschaftlichen Aussprache in digitaler oder Papier
+form, sowie ein Exemplar der Dissertation. Dieses muss die Doktorandin oder der Dokto
+rand nach Aufforderung durch die Vorsitzende oder den Vorsitzenden des Promotions
+ausschusses zur Verfügung stellen. Das zusätzliche Bericht erstattende Mitglied übermit
+telt der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses innerhalb einer
+Frist von drei Monaten sein Gutachten, welches der oder die Vorsitzende des Promotions
+ausschusses unverzüglich an die Promotionskommission weiterleitet. Die Promotions
+kommission entscheidet nach Vorliegen des dritten Gutachtens nach Maßgabe der vorlie
+genden Gutachten über die Gesamtnote 'summa cum laude' und informiert die Doktoran
+din oder den Doktoranden sowie den Promotionsausschuss schriftlich.
+(4) Am Ende der wissenschaftlichen Aussprache stellt die Promotionskommission
+ebenfalls die genehmigte Fassung der Dissertation fest. Diese kann eine Genehmigung
+ohne Auflagen oder eine Genehmigung mit Änderungsauflagen gemäß § 14 Abs. 2 sein.
+Der oder die Vorsitzende der Promotionskommission teilt das Ergebnis sowohl der Dok
+torandin oder dem Doktoranden als auch der oder dem Vorsitzenden des Promotionsaus
+schusses mit. Wird eine Genehmigung mit Änderungsauflagen ausgesprochen, welche
+durch die Bericht erstattenden Mitglieder zu überprüfen ist, teilt das vorsitzende Mitglied
+der Promotionskommission am Ende des Verfahrens die Freigabe der genehmigten Fas
+sung der oder dem Vorsitzenden des Promotionsausschusses in Textform mit.
+§ 22
+Veröffentlichung und Druck der Dissertation 
+(1) Die Doktorandin oder der Doktorand muss unentgeltlich 78 vollständige Exemplare
+der Dissertation in der von der Promotionskommission genehmigten Fassung spätestens
+ein Jahr nach der wissenschaftlichen Aussprache bei der oder dem Vorsitzenden des
+Promotionsausschusses abliefern. § 26 Abs. 5 HochSchG gilt entsprechend. Die Exempla
+re sind für folgende Zwecke und Empfänger bestimmt:
+1. Vier bis fünf Exemplare für die Prüfungsakten:
+Ein Exemplar für den Promotionsausschuss
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018
+Ein Exemplar für die Vorsitzende oder den Vorsitzenden der Promotionskommissi
+on
+Je ein Exemplar für jede Berichterstatterin und jeden Berichterstatter
+2. Drei Exemplare zu Archivierungszwecken für die Hochschulbibliothek
+Die Exemplare müssen auf alterungsbeständigem holz und säurefreiem Papier ausge
+druckt und dauerhaft gebunden sein. Abs. 3 ist zu beachten.
+(2) Die Verpflichtung zur Veröffentlichung ist erfüllt, wenn die Doktorandin oder der
+Doktorand spätestens ein Jahr nach der wissenschaftlichen Aussprache neben den erfor
+derlichen Exemplaren gemäß Abs. 1 die Verbreitung der Dissertation sichergestellt hat.
+Entweder durch
+1. die Ablieferung von vier weiteren Vervielfältigungen jeweils in Buch oder Foto
+druck (Abs. 3 ist zu beachten) oder
+2. den Nachweis der Veröffentlichung in einer Zeitschrift oder
+3. den Nachweis einer Verbreitung über den Buchhandel durch einen gewerblichen
+Verleger mit einer Mindestauflage von 150 Exemplaren (auf der Rückseite des
+Titelblatts ist die Veröffentlichung als Dissertation unter Angabe des Disserta
+tionsortes auszuweisen) oder
+4. eine Verlagsveröffentlichung per „print ondemand". Auch hier muss die Verbrei
+tung über den Buchhandel gesichert sein. Eine schriftliche Erklärung des Verle
+gers zur Verfügbarkeit von mindestens 150 Exemplaren für mindestens zwei
+Jahre ist vorzulegen. Oder
+5. die Ablieferung einer elektronischen Version, deren Datenformat und deren Da
+tenträger mit der Hochschulbibliothek abzustimmen sind.
+In den Fällen Nr. 1 und 5 wird der Hochschule das Recht übertragen, im Rahmen der ge
+setzlichen Aufgaben de r Hochschulbibliotheken weite re Kopien von de r Dissertation her
+zustellen und zu verbreiten oder in Datennetzen zur Verfügung zu stellen. Bei Veröffentli
+chungen nach Nr. 5 überträgt die Doktorandin oder der Doktorand darüber hinaus der
+Deutschen Bibliothe k in Frankfurt/Leipzig da s Recht, d ie elektronische Version im Daten
+netz zu veröffentlichen . Lebenslauf, Vorwo rt und Danksagung können in der elektroni
+schen Version du rch Leerseiten ersetz t we rden. Werden sie belassen , muss die Doktor
+andin oder der Doktorand für d ie Speicherung und Verbreitung dieser personenbezogenen 
+Daten da s schriftliche Einverständn is erteilen . Bei Veröffentlichung nach Nr . 1 kann sich 
+die Doktorand in oder der Doktorand zu r Vervielfältigung der Dissertation gegen Erstattung 
+der Kosten de r Hochschuleinrichtungen bedienen . Die Veröffentlichung nach Nr . 2 kann 
+auch in Form eines von de r Promotionskommission genehmigten Auszuge s erfolgen , der 
+als ein "vom Promotionsausschu ss des Fa chbereich s 4: Informati k genehmigte r Disserta
+tion Auszug" kenntlich zu machen ist. Erfolg t die Veröffentlichung übe r einen Verlag , so 
+muss die Zustimmung de r Promotionskommission zu r Wah l des Verlage s eingeho lt wer
+den. Wi rd eine Dissertation von einem gewerblichen Verlag vertrieben und wird dafü r ein 
+Druckkostenzuschu ss aus öffentlichen Mitteln gewäh rt, sind de r Hochschulbibliothe k 20 
+Exemplare fü r Tauschzwecke zur Verfügung zu stellen. 
+(3) Die vollständigen Exemplare nach Ab s. 1 und nach Abs. 2 Nr . 1 müssen m it einer
+maxima l einseitigen D IN A4Zusammenfassung in deutsche r und in englische r Sprache,
+mit einem besonderen Titelblat t sowie mit einem kurzen Lebenslauf versehen sein. Auf
+dem Titelblat t sind neben dem Tite l der Dissertation sow ie dem Namen de r Doktorandin
+oder des Doktoranden folgende Daten anzugeben (siehe Anhang III : Deckblat t genehmig
+te Disserta tion):
+1. namentliche Nennung der oder des Vorsitzenden de s Promotionsausschusses
+23 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 24  2. namentliche Nennung der oder des Vorsitzenden und der Bericht erstattenden Mit
+glieder der Promotionskommission. Hat ein Bericht erstattendes Mitglied die Ableh
+nung der Dissertation empfohlen, so wird sein Name nicht aufgeführt. 
+3. Datum der wissenschaftlichen Aussprache  
+4. Qualifizierung der Dissertation als „Genehmigte Dissertation zur Verleihung des aka
+demischen Grades eines Doktors der Naturwissenschaften (Dr. rer. nat.), Fachbe
+reich 4: Informatik, Universität KoblenzLandau" oder als "Genehmigte Dissertation 
+zur Verleihung des akademischen Grades eines Doktors der Sozial und Wirt
+schaftswissenschaften (Dr. rer. pol.), Fachbereich 4: Informatik, Universität Koblenz
+Landau".  
+(4) Werden die Fristen gemäß Abs. 1 und 2 durch das Verschulden der Doktorandin o
+d
+er des Doktoranden versäumt, so kann der Promotionsausschuss beschließen, dass die 
+Doktorandin oder der Doktorand das Recht auf Vollzug der Promotion (§ 23) verloren hat. 
+In besonderen Fällen können auf Antrag der Doktorandin oder des Doktoranden die Fris
+ten bis zu einem weiteren Jahr verlängert werden. Ein solcher Antrag muss vor Ablauf des 
+ersten Jahres an die Vorsitzende oder den Vorsitzenden des Promotionsausschusses ge
+stellt und begründet werden. 
+§ 23 
+Promotionsurkunde 
+(1) Die Promotion wird durch die Aushändigung der Promotionsurkunde durch das vor
+sitz
+ende Mitglied des Promotionsausschusses vollzogen, nachdem die Promotionsleistun
+gen nach § 5 und die Veröffentlichungen nach § 22 erfüllt sind.  
+(2) Die Promotionsurkunde enthält den Titel der Dissertation und den verliehenen aka
+d
+emischen Grad gemäß § 2, die Namen der oder des Vorsitzenden des Promotionsaus
+schusses und der Präsidentin oder des Präsidenten der Universität KoblenzLandau, die 
+Gesamtnote, als Ausfertigungsdatum das Datum der wissenschaftlichen Aussprache so
+wie das Siegel der Universität KoblenzLandau. Die Promotionsurkunde wird in deutscher 
+Sprache verliehen. Der Urkunde wird eine englische Übersetzung beigefügt. 
+(3) Der Druck der Promotionsurkunde wird vom vorsitzenden Mitglied des Promotions
+a
+usschusses veranlasst. 
+(4) Erst mit der Aushändigung der Promotionsurkunde erwirbt die Doktorandin oder der 
+Dokt
+orand das Recht, den Doktorgrad zu führen.  
+(5) Mit der Aushändigung der Promotionsurkunde ist das Promotionsverfahren abge
+sch
+lossen. 
+§ 24 
+Verbleib der Unterlagen und Akteneinsicht 
+(1) Alle Unterlagen des Promotionsverfahrens verbleiben bei den Akten des Promoti
+o
+nsausschusses. 
+(2) Nach Abschluss des Promotionsverfahrens gemäß § 23 wird der Doktorandin oder 
+d
+em Doktorand auf Antrag Einsicht in die Unterlagen gemäß § 14 Abs. 1 sowie gemäß § 
+18 Abs. 4 gewährt. 
+(3) Der Antrag ist binnen eines Monats nach Abschluss des Promotionsverfahrens 
+b
+eim vorsitzenden Mitglied des Promotionsausschusses zu stellen. § 32 VwVfG gilt ent
+sp
+rechend. Die oder der Vorsitzende des Promotionsausschusses bestimmt Ort und Zeit 
+der Einsichtnahme. 
+ 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 25  VII. Ungültigkeit von Promotionsleistungen, Entziehung des 
+Doktorgrades, Verfahren bei Entscheidungen  
+ 
+§ 25 
+Ungültigkeit von Promotionsleistungen 
+Ergibt sich vor der Aushändigung der Promotionsurkunde, dass beim Nachweis der Pro
+motionsleistungen (§ 5) oder den erforderlichen Voraussetzungen (§§ 6, 7) getäuscht 
+worden ist, so kann der Promotionsausschuss die Promotionsleistungen teilweise oder 
+ganz für ungültig erklären. Vorher ist der oder dem Betroffenen Gelegenheit zur Stellung
+nahme zu geben. 
+§ 26 
+Entziehung des Doktorgrades 
+(1) Der Doktorgrad ist zu entziehen, wenn sich nach Aushändigung der Promotionsur
+ku
+nde herausstellt, dass er durch Täuschung erlangt wurde. Die Entscheidung hierüber 
+trifft der Promotionsausschuss nach Anhörung der oder des Betroffenen. Der die Aber
+kennung feststellende Beschluss ist zu begründen und der oder dem Betroffenen unter 
+Rechtsmittelbelehrung schriftlich mitzuteilen. Im Übrigen gilt § 31 Abs. 7 HochSchG. 
+(2) Die Entziehung des Doktorgrades richtet sich nach den gesetzlichen Bestimmun
+g
+en. 
+§ 27 
+Verfahren bei Entscheidungen 
+(1) Für alle Entscheidungen in Promotionsangelegenheiten ist der Promotionsaus
+sch
+uss zuständig, soweit diese Ordnung nichts anderes vorsieht. 
+(2) Der Promotionsausschuss ist Widerspruchsinstanz. 
+(3) Entscheidungen des Promotionsausschusses oder der Promotionskommission 
+sind
+, sofern sich die Doktorandinnen oder Doktoranden beschweren, schriftlich zu be
+gründen und mit einer Rechtsmittelbelehrung zu versehen. 
+(4) Bei den Entscheidungen über Promotionen ist § 38 Abs. 3 Satz 2 HochSchG be
+so
+nders zu beachten. 
+(5) Entscheidungen über Ehrenpromotionen (§ 28) sind als Personalangelegenheit zu 
+behandeln. § 38 Abs. 3 Satz 1 HochSchG ist zu beachten. 
+ 
+VIII. Ehrenpromotion und binationales Promotionsverfahren  
+ 
+§ 28 
+Ehrenpromotion 
+(1) In Anerkennung hervorragender wissenschaftlicher Leistungen auf einem ihrer oder 
+se
+iner Forschungsgebiete oder anderer herausragender Leistungen in der Informatik oder 
+in den Wirtschafts und Sozialwissenschaften kann der Fachbereich den Grad und die 
+Würde einer Doktorin oder eines Doktors der Naturwissenschaften ehrenhalber („Dr. rer. 
+nat. h. c.“) oder einer Doktorin oder eines Doktors der Wirtschafts und Sozialwissenschaf
+ten ehrenhalber („Dr. rer. pol. h. c.“) verleihen. Die Verleihung an Mitglieder der Universität 
+ist nicht möglich. 
+(2) Die Eröffnung eines Verfahrens zur Verleihung der Ehrenpromotion beschließt der 
+Fachbereichsrat auf Antrag von mindestens zwei dem Fachbereich 4: Informatik angehö
+renden Hochschullehrerinnen oder Hochschullehrern in geheimer Abstimmung mit Drei
+viertelMehrheit der anwesenden Mitglieder.  
+(3) Der Fachbereichsrat setzt eine Ehrenpromotionskommission ein, der die Dekanin 
+oder der Dekan, drei Hochschullehrerinnen oder Hochschullehrer und ein Mitglied aus der 
+Gruppe der akademischen Mitarbeiterinnen und Mitarbeiter angehören. Die Fachvertrete
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 26  rinnen und Fachvertreter der Disziplin, in deren Bereich die Verdienste der oder des zu 
+Ehrenden angesiedelt sind, müssen im Ausschuss vertreten sein. 
+(4) Aufgaben des Ausschusses sind: 
+1. 
+die Verdienste der oder des zu Ehrenden darzustellen; 
+2. wenigstens zwei Stellungnahmen auswärtiger Gutachterinnen oder Gutachter einzuho
+len, die auf Vorschlag der Fachvertreter im Ausschuss benannt werden; 
+3. dem Fachbereichsrat eine Empfehlung für die Entscheidung im Ehrenpromotionsver
+fahren zu unterbreiten. 
+(5) Die Entscheidung über das Ehrenpromotionsverfahren trifft der Fachbereichsrat in 
+n
+icht öffentlicher Sitzung. Die Entscheidung erfolgt in geheimer Abstimmung mit der Drei
+viertelMehrheit der anwesenden Mitglieder. Vor der Beschlussfassung im Fachbereichsrat 
+ist dem Senat Gelegenheit zur Stellungnahme zu geben. 
+(6) Das Verfahren kann in jeder Phase beendet werden, wenn die Antragsteller den 
+A
+ntrag im Fachbereichsrat zurückziehen. 
+(7) Die Ehrenpromotion wird durch die feierliche Überreichung der Urkunde, bei der die 
+b
+esonderen Verdienste der oder des zu Ehrenden gewürdigt werden, durch die Dekani n 
+oder den Dekan vollzogen. Die oder der zu Ehrende schließt das Verfahren mit einem 
+hochschulöffentlichen Festvortrag ab. 
+ § 29  
+Binationales Promotionsverfahren  
+(1) Soll die Promotion im Rahmen eines individuellen binationalen Promotionsverfah
+ren
+s erworben werden (Cotutelle), ist die Grundlage hierfür ein entsprechendes Koopera
+tionsabkommen zwischen der Universität KoblenzLandau und der ausländischen Hoch
+schule, das für jede Doktorandin und jeden Doktoranden, die oder der eine Promotion im 
+CotutelleVerfahren anstrebt, zu schließen ist. In diesem Kooperationsabkommen werden 
+insbesondere festgelegt,  
+1. die Betreuerin oder der Betreuer der ausländischen Hochschule und die Betreuerin 
+oder der Betreuer der Universität KoblenzLandau, sofern sie die ausreichende Qualifi
+kation nach § 25 Abs. 5 HochSchG vorweisen können,  
+2. nach welcher Promotionsordnung die Promotion erfolgt,  
+3. dass die Doktorandin oder der Doktorand sich in der Regel mindestens für einen Zeit
+raum von einem Jahr an jeder der beteiligten Hochschulen aufhält,  
+4. dass die mündliche Prüfung mit einer hälftigen Beteiligung von Prüferinnen oder Prü
+fern der beiden Hochschulen erfolgt oder dass die mündliche Prüfung vorwiegend von 
+Prüferinnen und Prüfern einer der beiden Hochschulen durchgeführt und von der ande
+ren anerkannt wird; Prüferinnen und Prüfer müssen die Voraussetzungen gemäß § 25 
+Abs. 5 HochSchG vorweisen,  
+5. die Sprache, in der die Dissertation abgefasst wird und die Sprache, in der die mündli
+che Prüfung abgehalten wird,  
+6. dass nach abgeschlossener Promotion aufgrund der gemäß Promotionsordnung er
+brachten Leistungen entweder die Promotionsurkunde einer der beteiligten Hochschu
+len, eine gemeinsame Promotionsurkunde der beiden Hochschulen oder zwei nationa
+le Promotionsurkunden, die aufeinander Bezug nehmen, verliehen werden,  
+7. dass die Doktorandin oder der Doktorand sich verpflichtet, jeweils nur einen Doktor
+grad zu führen,  
+8. Modalitäten der Einschreibung, des Datenschutzes sowie andere relevante verwal
+tungsbezogene Modalitäten.  
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 27  (2) Der Abschluss eines Kooperationsabkommens für ein CotutelleVerfahren setzt vo
+rau
+s, dass die Doktorandin oder der Doktorand die Zulassungsvoraussetzungen der be
+treffenden Promotionsordnungen an beiden Hochschulen erfüllt. 
+ 
+IX. Schlussbestimmungen  
+§ 30 
+Widerspruch 
+Bescheide, die eine Person belasten, sind ihr unverzüglich unter Angabe der Gründe und Beifü
+gung einer Rechtsbehelfsbelehrung schriftlich mitzuteilen. Erhebt die Doktorandin oder der Dokto
+rand Widerspruch gegen Entscheidungen bei der Durchführung des Promotionsverfahrens, so 
+entscheidet der Promotionsausschuss gemäß §§ 68 ff. VwGO nach Anhörung der oder des Vorsit
+zenden des Promotionsausschusses und der Gutachterinnen oder Gutachter. 
+ 
+ 
+§ 31 
+Inkrafttreten 
+(1) Diese Promotionsordnung tritt am Tage nach ihrer Veröffentlichung im Mitteilungs
+b
+latt der Universität KoblenzLandau in Kraft. Gleichzeitig tritt die Promotionsordnung des 
+Fachbereichs 4: Informatik der Universität KoblenzLandau vom 23. Juni 2000 (StAnz. S. 
+1383 ff.), zuletzt geändert durch die Ordnung zur Änderung der Promotionsordnung vom 
+18. Januar 2002 (StAnz. S. 1802) außer Kraft. 
+(2) Für Doktorandinnen oder Doktoranden, die bei Inkrafttreten dieser Promotionsord
+n
+ung den Antrag auf Zulassung zur Promotion gemäß § 10 bereits gestellt haben, gelten, 
+sofern sie nicht nach dieser Promotionsordnung promoviert werden wollen, die bisherigen 
+Bestimmungen. 
+ 
+Koblenz, den 1. Oktober 2018 
+ 
+ 
+Die Dekanin des Fachbereichs 4: Informatik der Universität Koblenz Landau  
+Prof. Dr. Maria A. Wimmer 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 28  Anhang I: 
+ 
+ 
+ 
+Erklärung 
+ 
+ 
+Hiermit erkläre ich gemäß § 10 Abs. 3 Punkt 4 der Promotionsordnung des Fachbereichs 4: 
+Informatik der Universität Koblenz Landau, 
+ 
+ 
+ dass ich die vorliegende Dissertation mit dem Titel „xy“ selbst angefertigt und alle 
+b
+enutzten Hilfsmittel in der Arbeit angegeben habe, 
+ 
+ dass ich die Dissertation oder Teile der Dissertation noch nicht als Prüfungsarbeit für 
+e
+ine staatliche oder andere wissenschaftliche Prüfung eingereicht habe, und 
+ 
+ dass ich weder diese noch eine andere Abhandlung bei einer anderen Hochschule 
+a
+ls Dissertation eingereicht habe. [Optional: angepasste Erklärung mit den Angaben 
+nach § 10  Abs. 3 Punkt 4.d.] 
+ 
+[Optional: Im Fall von kooperativ erzielten Forschungsergebnissen erkläre ich: 
+ 
+ dass ich meine individuellen Beiträge an kooperativ erzielten Forschungsergebnissen 
+in 
+der Dissertation an den entsprechenden Stellen gekennzeichnet habe und dass 
+meine Koautoren diese Einschätzung meines Beitrages teilen (siehe gesonderte Be
+stätigung der Koautoren nach § 10 Abs. 4).] 
+ 
+ 
+ 
+Koblenz, den  
+ 
+ 
+ 
+________________________ ___ 
+Unterschrift  
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 29   
+Anhang II: 
+a) Muster für das Titelblatt der eingereichten Dissertation am Beispiel Dr. rer. 
+nat.: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[TITEL DER DISSERTATION] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+von 
+[Vor und Zuname der Doktorandin oder des Doktoranden] 
+ 
+ 
+ 
+Eingereichte Dissertation zur Erlangung des akademischen Grades eines 
+Doktors der Naturwissenschaften (Dr. rer. nat.) 
+Fachbereich 4: Informatik 
+Universität KoblenzLandau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Datum] 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 30  b): Form of the title page of the submitted Dissertation thesis exemplified by 
+the Dr.rer. nat.: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[TITLE OF THE DISSERTATION THESIS] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+by 
+[First and last name of PhD Candidate] 
+ 
+ 
+ 
+Submitted Dissertation thesis for the partial fulfilment of the requirements for a  
+Doctor of Natural Sciences (Dr. rer. nat.) 
+Fachbereich 4: Informatik 
+Universität KoblenzLandau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Date] 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 31   
+Anhang III:  
+a) Muster für das Titelblatt der genehmigten Dissertation am Beispiel Dr. rer. 
+nat.: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[TITEL DER DISSERTATION] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+von 
+[Vor und Zuname der Doktorandin oder des Doktorande n] 
+ 
+ 
+ 
+Genehmigte Dissertation zur Erlangung des akademischen Grades eines 
+Doktors der Naturwissenschaften (Dr. rer. nat.) 
+Fachbereich 4: Informatik 
+Universität KoblenzLandau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vorsitzende/r des Promotionsausschusses: [Titel sowie Vor und Zuname] 
+Vorsitzende/r der Promotionskommission: [Titel sowie Vor und Zuname] 
+Berichterstatter/in und Betreuer/in: [Titel sowie Vor und Zuname] 
+Weitere Berichterstatter: [Titel sowie Vor und Zuname] 
+ 
+ 
+Datum der wissenschaftlichen Aussprache: [Tag der Disputation] 
+ 
+Nr. 6/2018 MITTEILUNGSBLATT DER UNIVERSITÄT KOBLENZLANDAU 5. November 2018 
+ 
+ 32  b): Form of the title page of the accepted Dissertation thesis exemplified by 
+the Dr. rer. nat.: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[TITLE OF THE DISSERTATION THESIS] 
+ 
+ 
+ 
+ 
+ 
+ 
+by 
+[First and last name of PhD Candidate] 
+ 
+ 
+ 
+Approved Dissertation thesis for the partial fulfilment of the requirements for a  
+Doctor of Natural Sciences (Dr. rer. nat.) 
+Fachbereich 4: Informatik 
+Universität KoblenzLandau 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chair of PhD Board: [Title and first and last name] 
+Chair of PhD Commission: [Title and first and last name] 
+Examiner and Supervisor: [Title and first and last name] 
+Further Examiners: [Title and first and last name] 
+ 
+ 
+ 
+Date of the doctoral viva: [date] 

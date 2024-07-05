@@ -1,0 +1,836 @@
+ Konsolidierte Fassung der Universität Bayreuth:  
+Der Text dieser Satzung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl sind Übertragungsfehler nicht aus
+geschlossen. Verbindlich is t der amtliche, beim Prüfungsamt oder in der Studienberatung einsehbare Text bzw. die im 
+Internet unter https://www.amtliche bekanntmachungen.uni bayreuth.de/de/  amtlich bekannt gemachte Satzung. 
+Bitte beachten Sie die Regelungen zum Inkrafttreten in der jeweiligen Änderungssatzung!  
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  
+Promotionsordnung  für die  
+Fakultät  für Mathematik, Physik und Informatik  
+der Universität Bayreuth  
+vom 20. September 2017 
+In der Fassung der Änderungssatzung  
+Vom 30. März 2023 
+Aufgrund des Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 64 Abs. 1 Satz 5  des Bayerischen Hochschul
+gesetzes (BayHSchG) erlässt die Universität Bayreuth folgende Promotionsordnung für die Fakultät für 
+Mathematik, Physik und Informatik der Universität Bayreuth:  
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 2 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  Inhaltsverzeichnis  
+Abschnitt I: Allgemeine Bestimmungen  
+§ 1 Doktorgrad  
+§ 2 Prüfungsberechtigung  
+§ 3 Promotionskommission und erweiterte Promotionskommission  
+Abschnitt II: Die ordentliche Promotion  
+§ 4 Antrag auf Annahme zur Promotion  
+§ 5 Statistische Erfordernisse  
+§ 6 Promotionseignungsprüfung  
+§ 7 Betreuung und Betreuungsvereinbarung  
+§ 8 Antrag auf Zulassung zu m Promotions prüfung sverfahren 
+§ 9 Entscheidung über die Annahme zur Promotion  und  
+die Zulassung zum Promotionsprüfung sverfahren  
+§ 10  Rücktritt 
+§ 11 Dissertation  
+§ 12  Beurteilung der Dissertation 
+§ 13 Prüfungsausschuss 
+§ 14 Kolloquium  
+§ 15 Gesamtnote der Promotion  
+§ 16 Veröffentlichung der Dissertation 
+§ 17 Urkunde und Vollzug der Promotion  
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 3 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth   
+Abschnitt III: Ehrenpromotion  
+§ 18 Ehrenpromotion  
+Abschnitt IV:  Kooperation mit Fachhochschulen/Hochschulen  
+für Angewandte Wissenschaften (HAW)  
+§ 19 Kooperation mit Fachhochschulen/Hochschulen für Angewandte Wissenschaften (HAW)  
+Abschnitt V: Binationale Pr omotion  
+§ 20 Allgemeines  
+§ 21 Prüfungsverfahren an der Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth  
+§ 22 Prüfungsverfahren an der Partnereinrichtung  
+§ 23 Gemeinsame Urkunde  
+Abschnitt VI: Weitere Vorschriften , Inkraft treten und Übergangsregelung  
+§ 24 Ungültigkeit der Promotion  
+§ 25 Einsichtsrecht  
+§ 26 Berücksichtigung von Schutzbestimmungen  
+§ 27 Berücksichtigung besonderer Belange von Menschen mit Behinderung oder  
+chronischer Erkrankung und in besonderen Lebenslagen 
+§ 28 Inkrafttreten, Übergangs regelung  
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 4 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  Abschnitt I: Allgemeine Bestimmungen  
+§ 1  
+Doktorgrad  
+(1) 1Die Universität Bayreuth verleiht durch die Fakultät für Mathematik, Physik und Informatik den 
+akademischen Grad eines Doktors der Naturwissenschaften (Dr. rer. nat.). 2Der Grad kann wahl
+weise als Dok torin oder Dok tor verliehen werden. 3Die abgekürzte Form bleibt unverändert.  
+(2) Die Promotion dient gemäß Art. 97 Abs.  1 Bayerisches Hochschulinnovationsgesetz (BayHIG) dem 
+Nachweis einer eigenständigen wissenschaftlichen Leistung, die erheblich über die Prüfungsleis
+tungen hinausgehen muss, die in § 4 Abs. 1 Nr. 1 für die Annahme zur Promotion  gefordert wer
+den.  
+(3) Die Prüfungsleistungen bestehen aus einer von der Doktora ndin oder dem  Doktoranden  verfass
+ten wissenschaftlichen Arbeit (Dissertation) und einer mündlichen Prüfung (Kolloquium).  
+(4) 1Die Universität Bayreuth verleiht durch die Fakultät für Mathematik, Physik und Informatik ge
+mäß § 1 8 den Grad eines Doktors der Naturwissenschaften ehrenhalber (Dr. rer. nat. h. c.) als sel
+tene Auszeichnung an Persönlichkeiten, die sich durch hervorragende wissenschaftliche Leistun
+gen verdient gemacht haben. 2Abs. 1 Sätze 2 und 3 gelten entsprechend.  
+§ 2  
+Prüfungsberechtigung  
+1Prüfungsberechtigte Lehrpersonen (Art. 85 Abs. 1 BayHIG) gemäß dieser Promotionsordnung sind die 
+haupt  und nebenberuflichen Hochschullehrerinnen und Hochschullehrer (Art. 19 Abs. 1 Satz 1 und 3 
+BayHIG), die entpflichteten oder im Ru hestand befindlichen Professorinnen und Professoren (Art. 19 
+Abs. 1 Satz 4 BayHIG) sowie die weiteren nach § 4 Hochschulprüferverordnung (HSchPrüferV) prüfungs
+berechtigten Lehrpersonen der Fakultät für Mathematik, Physik und Informatik. 2Zu Prüferinnen und 
+Prüfern können auch Lehrpersonen anderer Fakultäten der Universität Bayreuth oder anderer deut
+scher oder ausländischer Hochschulen bestellt werden, soweit sie die in  Art. 85 Abs. 1 BayHIG  in Verbin
+dung mit § 4 HSchPrüfe rV genannten Qualifikationsvoraussetzungen erfüllen.  3Für Promotion en, die 
+gemeinsam  mit Fachhochschulen /HAWs  durchgeführt werden, gilt  § 19 und im Rahmen binationaler 
+Promotionen Abschnitt  V dieser Satzung . 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 5 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 3  
+Promotionskommission und erweiterte Promotionskommission  
+(1) Für die Annahme  zur Promotion und die Durchführung der Promotions prüfungs verfahren ist die 
+Promotionskommission zuständig, soweit in dieser Promotionsordnung nichts anderes bestimmt 
+ist. 
+(2) 1Die Promotionskommission bes teht aus der Dekanin oder dem Dekan als  Vorsitzende oder  Vor
+sitzende n und drei Professorinnen oder Professoren gemäß Art. 19 Abs. 1 Satz 1 BayHIG  sowie 
+einer oder einem promovierten Angehörigen des sonstigen hauptberuflichen wissenschaftlichen 
+Personals, die Hochschullehrerin oder der Hochschullehrer sein muss. 2Sie werden für die Dauer 
+von zwei Jahren vom Fakultätsrat gewählt. 
+(3) 1Die Promotionskommission ist besc hlussfähig, wenn sämtliche Mitglieder ordnungsgemäß ge
+laden sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. 2Sie beschließt 
+mit der Mehrzahl der abgegebenen Stimmen. 3Stimmenthaltung en, geheime Abstimmungen 
+und Stimmrechtsübertragung en sind nicht zulässig. 4Bei Stimmengleichheit gibt die Stimme der 
+bzw. des Vorsitzenden den Ausschlag. 
+(4) 1Die Entscheidungen der Promotionskommission sind de r Bewerberin oder dem Bewerber,  der 
+Doktorand in oder dem Doktoranden  von der Dekanin oder dem  Dekan schriftlich mitzuteilen. 
+2Beschwerende Entscheidungen sind zu begründen und mit einer Rechtsbehelfsbelehrung zu 
+versehen. 
+(5) Der Ausschluss wegen persönlicher Beteiligung richtet sich nach Art. 51 Abs.  2 BayHIG   unter Be
+achtung von Art. 20 und Art. 21 des Bayerischen Verwaltungsverfahrensgesetzes (BayVwVfG).  
+(6) 1Die erweiterte Promotionskommission setzt sich aus den Mitgliedern der Promotionskommis
+sion, allen weiteren Hochschullehrerinnen und Hochschullehrern na ch Art. 19 Abs. 1 Satz 1 und 3 
+BayHIG , den entpflichteten Professorinnen und Professoren und den Professorinnen und Profes
+soren im Ruhestand der Fakultät für Mathematik, Physik und Informatik  zusammen. 2Vorsitzende 
+bzw. Vorsitzender ist die Dekanin bzw. der Dekan. 3Sie ist innerhalb von vierzehn Tagen nach An
+tragstellung eines Mitgliedes einzuberufen. 4Die Abs. 3 bis 5 gelten entsprechend. 
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 6 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  Abschnitt II: Die ordentliche Promotion  
+§ 4  
+Antrag auf Annahme  zur Promotion  
+(1) Für die Annahme  zur Promotion  muss die Bewerberin oder der Bewerber folgende Voraussetzun
+gen erfüllen:  
+1. Sie bzw. er muss ein fachbezogenes Hochschulstudium abgeschlossen haben; Regelab
+schluss ist die Diplomprüfung an einer Universität , die Masterprüfung  an einer Universität 
+oder einer Fachhochschule/HAW  oder die Erste Staatsprüfung für das Lehramt an Gymna
+sien. Die Promotionskommission kann auch andere Studienabschlüsse und Studienab
+schlüsse in verwandten Fächern als ausreichende Voraussetzung zur Promoti on anerken
+nen und gegebenenfalls zusätzliche Leistungen fordern. Sie entscheidet auch über die An
+erkennung ausländischer Studienabschlüsse. In d iesen Fällen entscheidet die Promotions
+kommission nach dem Grundsatz der Gleichwertigkeit  unter Beachtung von Art. 86 BayHIG . 
+Die Gleichwertigkeit wird durch die von der Kultusministerkonferenz und der Hochschul
+rektorenkonferenz gebilligten Äquivalenzvereinbarungen festgestellt. Bei Zweifeln an der 
+Gleichwertigkeit kann die Zentralstelle für ausländisches Bildungswesen gehört werden. 
+Die Voraussetzung gemäß Satz 1 gilt als erfüllt, wenn die Bewerberin oder der Bewerber 
+die Promotionseignungsprüfung gemäß § 6 bestanden hat. 
+2. Sie bzw. er darf nicht diese oder eine andere gleichartige Doktorprüfung nicht bestanden 
+haben. 
+3. Die Bewerberin oder der  Bewerber muss mit einer prüfungsberechtigten Lehrperson ge
+mäß § 2 Satz 1 eine Betreuungsvereinbarung gemäß §  7 abgeschlossen haben ; ein An
+spruch auf das Zustandekommen einer Betreuungsvereinbarung besteht nicht.  
+4. Sie bzw. e r darf sic h nicht durch sein Verhalten der Führung des Doktorgrades als unwürdig 
+erwiesen haben.  
+(2) 1Die Annahme zur Promotion  ist üb er die Dekanin oder den Dekan schriftlich bei der Promotions
+kommission zu beantragen. 2Dem Antrag sind die zum Nachweis der in Abs. 1 genannten Annah
+mevoraussetzungen erforderlichen Unterlagen und eine Erklärung der Bewerberin/des Bewer
+bers, dass sie bzw. er nicht bereits an einer anderen Hochschule oder einer anderen promovie
+renden Einrichtung der Universität Bayreuth im gleichen Fach zur Promotion angenommen wor
+den ist, beizufügen.  3Mit dem Antrag erfolgt eine Online Registrierung als Bewerberin oder Be
+werb er bei der Fakultät.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 7 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  (3) Die Promotion beginnt mit Erhalt der schrift lichen Bestätigung der Annahme zur Promotion 
+durch die Fakultät . 
+§ 5  
+Statistische Erfordernisse  
+(1) 1Mit de m Antrag auf Annahme zur Promotion werden zur Umsetzung der im Hochschulstatistik
+gesetz (HStatG) vom 2.  November 1990 in der jeweils gültigen Fassung  geregelten Erhebungs
+pflichten der Universität personenbezogene Daten des Doktoranden (der Doktorandin) entspre
+chend den in § 5 des HStatG geregelten Erhebungsmerkmalen v on der  Fakultät  erhoben, auto
+matisiert gespeichert und zur Erfüllung der gesetzlichen Aufgaben sowie für Zwecke der Gesetz
+gebung und Planung im Hochschulbereich gemäß §  1 Abs. 1 des HStatG im Rahmen der Promo
+tion verarbeitet. 2Die Bewerberin oder der Bewerber ist insoweit zur Mitwirkung und zur Angabe 
+von personenbez ogenen Daten verpflichtet (Art. 7 Abs. 2 Satz 4 BayHIG ). 
+(2) 1Eine regelmäßige Übermittlung bzw. Weitergabe erfolgt an das Bayerische Landesamt für Statis
+tik bezogen auf die Erhebungsmerkmale des Hochschulstatistikgesetzes vom 2. November 1990 
+sowie an die Universitätsverwaltung zum Zweck der Darstellung der Hochschulstat istik.  2Die Nut
+zung und Verarbeitung der personenbezogenen Daten erfolgt unter den Voraussetzungen des 
+Art. 7 BayHIG . 
+§ 6  
+Promotionseignungsprüfung  
+(1) Die Zulassung zur Promotionseignungsprüfung setzt voraus,  
+1. dass die Bewerberin oder der Bewerber die in § 4 Abs. 1 Nr. 1 genannten Voraussetzungen 
+nicht erfüllt und die Abschlussprüfung in einem fachbezogenen Bachelorstudiengang an 
+einer Universität  oder einer Fachhochschule/HAW  oder in einem fachbezogenen Diplom
+studiengang an einer Fachh ochschule /HAW  mit der Gesamtnote „ gut“  oder besser abge
+legt hat;  
+2. dass die Bewerberin oder der Bewerber sich nicht bereits einer einschlägigen Promotions
+eignungsprüfung oder einer vergleichbaren Prüfung an einer anderen deutschen Hoch
+schule ohne Erfolg u nterzogen hat;  
+3. dass nach einem Beratungsgespräch mit der Bewerberin oder dem Bewerber die Zulassung 
+zur Promotionseignungsprüfung von einer im Sinne von § 2 prüfungsberechtigten Lehr
+person befürwortet wird.  
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 8 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  (2) 1Der Antrag auf Zulassung zur Promotions eignungsprüfung ist schriftlich bei  der oder dem  Vor
+sitzenden der Promotionskommission einzureichen. 2Dem Antrag muss die Bewerberin oder der 
+Bewerber beifügen  
+1. die Nachweise über das Vorliegen der in Abs. 1 Nrn. 1 und 3 genannten Zulassungsvoraus
+setzungen, 
+2. eine Erklärung darüber, ob sie oder er sich bereits einer Promotionseignungsprüfung oder 
+einer vergleichbaren Prüfung an einer anderen Hochschule unterzogen hat.  
+ 3Darüber hinaus kann die Bewerberin oder der Bewerber weitere Unterlagen vorlegen, mit  denen 
+über die Studienabschlüsse hinausgehende fachbezogene Qualifikationen belegt werden kön
+nen.  
+(3) 1Über die Zulassung zur Promotionseignungsprüfung entscheidet die Promotionskommission. 
+2Die Zulassung ist zu versagen, wenn  
+1. die in Abs. 1 geforderten Zulassungsvoraussetzungen nicht erfüllt sind oder  
+2. die Bewerberin oder der Bewerber sich aufgrund ihres bzw. seines Verhaltens der Führung 
+des Doktorgrades als unwürdig erwiesen hat oder  
+3. die Bewerberin oder der Bewerber die in Abs. 2 Satz 2 genannten Unterlagen und Erklärun
+gen nicht vollständig vorlegt.  
+(4) In der Promotionseignungsprüfung muss die Bew erberin oder der Bewerber nachweisen, dass 
+sie bzw. er über die Fachkenntnisse und die wissenschaftliche Befähigung verfügt, die für eine 
+Promotion erforderlich sind.  
+(5) 1Die Promotionseignungsprüfung besteht aus einer etwa einstündigen mündlichen Prüfung  vor 
+einem Prüfungskollegium. 2Das Prüfungskollegium setzt sich zusammen aus drei prüfungsbe
+rechtigten Lehrpersonen des jeweiligen Faches. 3Die oder d er Vorsitzende der Promotionskom
+mission bestellt das Prüfungskollegium und bestimmt eine Prüferin oder ein en Prüfer als Vorsit
+zende bzw. Vorsitzenden. 4Sie bzw. e r setzt den Termin der Prüfung fest und lädt die Mitglieder 
+des Prüfungskollegiums und die Bewerberin oder den Bewerber mit einer Frist von einer Woche 
+zu dem Termin. 5§ 14 Abs. 7 gilt entsprechend. 
+(6) 1In der Promotionseignungsprüfung werden keine Noten vergeben. 2Das Prüfungskollegium 
+stellt fest, ob die Leistungen der Bewerberin oder des Bewerbers den Anforderungen nach Abs. 4 
+genügen. 3Genügen die Leistungen diesen Anforderungen nicht, so ist die Promotionseignungs
+prüfung nicht bestanden. 4§ 9 Abs. 3 Satz 2 gilt entsprechend.  
+(7) 1Eine nicht bestandene Promotionseignungsprüfung kann einmal wiederholt werden. 2Der An
+trag auf Zulassung zur Wiederholungsprüfung muss innerhalb eines Jahres nach Mitteilung des 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 9 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  Nichtbestehens der Prüfung eingereicht werden, sofern die oder der Vorsitzende der Promoti
+onskommission der Bewerberin oder dem Bewerber nicht wegen besonderer von ihr oder ihm 
+nicht zu vertretender Gründe eine Nachfrist gewährt.  
+(8) Über das Ergebnis der  Promotionseignungsprüfung erhält die Bewerberin oder der Bewerber 
+eine vo n der oder dem  Vorsitzenden der Promotionskommission unterschriebenen  Bescheid, 
+welch er zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen ist. 
+(9) Nach erfolgreich bestandener Eignungsprüfung  und Vorliegen der Voraussetzungen nach  § 4 
+Abs.1 Nr. 2 bis 4 dieser Satzung erhält  die Bewerber in oder der Bewerber durch die Fakultät  eine 
+schriftliche Bestätigung über die Annahme zur Promotion.  
+§ 7  
+Betreuung und Betreuungsvereinbarung  
+(1) 1Die Promotion  wird von einer prüfungsberechtigten Lehrperson betreut. 2Diese und die Bewer
+berin oder der Bewerber halten die wesentlichen Eckpunkte des Promotionsverhältnisses in einer 
+schriftlichen Betreuungsvereinbarung fest. 3Die Betreuerin oder der Betreuer informiert die Pro
+motionskommission, wenn d ie Promotion abgebroch en wird.  
+(2) 1Scheidet die Betreuerin oder der Bet reuer aus de m Personenkreis gemäß § 2 Satz 1  aus, so kann 
+sie bzw. er bis zu zwei Jahren nach ihrem bzw. seinem Ausscheiden die Betreuung fortführen, 
+wenn  sie bzw. er unter den Voraussetzungen des § 2 prüfu ngsberechtigt bleibt . 2Die Promotions
+kommission kann bei Vorliegen wichtiger Gründe die Frist gemäß Satz 1  um höchstens zwei Jahre 
+verlängern. 
+(3) Kann die Betreuerin oder der Betreuer einer  Promotion  diese nicht mehr weiter betreuen, so so rgt 
+die Promotionskommission im Rahmen des Möglichen für eine Weiterbetreuung der Promotion . 
+(4) 1Bei Promotion en mit Fachhochschulen/HAWs  (§ 19) wird die  Promotion  von den  beteiligten  prü
+fungsberechtigten Lehrpersonen  der Fachhochschule /HAW  und  der Universität  gleichberechtigt 
+betreut  und die Betreuungsvereinbarung  von ihnen  gemeinsam mit der Bewerberin oder dem 
+Bewerber abgeschlossen. 2Abs. 1 und Abs. 2 gelten entsprechend. 
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 10 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 8  
+Antrag auf Zulassung zum Promotions prüfung sverfahren  
+1Die Zulassung zu m Promotionsprüfung sverfahren ist über die Dekanin oder den Dekan schriftlich bei 
+der Promotionskommission zu beantragen und setzt die Annahme  zur Promotion voraus . 2Dem Antrag 
+sind beizufügen:  
+1. fünf gleichlautende Exemplare der Dissertation,  die den Anforderungen gemäß § 11  entsprechen 
+muss , 
+2. eine deutsche und eine englische Kurzfassung mit Titel sowohl in einer gedruckten als  auch in 
+einer für den elektronischen Versand geeigneten Form , deren Format mit dem Dekan abzuspre
+chen ist,  
+3. eine eidesstattliche Versicherung , dass die Doktorandin  oder der Doktorand  die Arbeit selbststän
+dig verfasst und keine anderen als die von ihr bzw. ihm angegebenen Quellen und Hilfsmittel 
+benutzt hat  (vgl. Art. 97 Abs. 1 Satz 8 BayHIG ) sowie eine Erklärung, dass sie bzw. er die Disserta
+tion nicht bereits zur Erlangung eines akademischen Grades eingereicht hat  und  dass sie bzw. er 
+nicht bereits diese oder eine gleichartige Doktorprüfung endgültig nicht bestanden hat , 
+4. eine Erklärung, dass Hilfe von gewerblichen Promotionsberatern bzw.  vermittlern oder ähnli
+chen Dienstleistern weder bisher in Anspruch genommen wurde noch künftig in Anspruch ge
+nommen wird , 
+5. ein Lebenslauf der Doktorand in oder des Doktoranden, der insbesondere über den Bildungsweg 
+Aufschluss gibt,  
+6. ein amtliches Führungszeugnis . Bei Ausländern ist ein von der Universität Bayreuth als gleichwer
+tig anerkannt er Nachweis vorzulegen. Dies kann ein Auszug aus dem Strafregister des Heimat
+staates, ein Leu mundszeugnis oder eine vergleichbare Urkunde sein. Falls die Doktorandin oder 
+der Doktorand immatrikuliert ist oder im Staatsdienst steht, kann auf das Führungszeugnis ver
+zichtet werden.  
+7. die elektronische Fassung der Dissertation sowie eine Einverständniserklärung der Doktorandin  
+oder des Doktoranden, dass die elektronische Fassung der Dissertation unter Wahrung ihrer bzw. 
+seiner Urheberrechte und des Datenschutzes einer gesonderten Überprüfung unterzogen wer
+den kann,  
+8. eine Einverständniserklärung der Doktorandin  oder des Doktoranden, dass bei Verdacht wissen
+schaftlichen Fehlverhaltens Ermittlungen durch universitätsinterne Organe der wissenschaftli
+chen Selbstkontrolle stattfinden können.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 11 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 9  
+Entscheidung über die Annahme  zur Promot ion und  
+über die Zulassung zu m Promotionsprüfung sverfahren  
+(1) Die Annahme  zur Promotion  ist zu versagen , wenn die in § 4 Abs. 1 genannten Voraussetzungen 
+nicht erfüllt sind.  
+(2) Die Zulassung zu m Promotionsprüfungsverfahren ist zu  versagen, wenn  
+1. keine Annahme  zur Promotio n erfolgt ist oder  
+2. die in § 8 geforderten Unterlagen unvollständig sind oder  
+3. die Doktorandin  oder der Doktorand  sich aufgrund ihres bzw. seines Verhaltens der Füh
+rung des  Doktorgrades als unwürdig erwiesen hat. 
+(3) 1Die Promotionskommission soll innerhalb eines Monats über die Anträge der Doktorandin  oder 
+des Doktoranden  entscheiden.  2Die Entscheidungen über die Zulassung oder die Versagung der 
+Zulassung zu r Promotion  und zu m Promotionsprüfungsverfahren werden der Doktorandin  oder 
+dem Doktoranden  gemäß § 3 Abs. 4 mitgeteilt. 3Die oder d er Vorsitzende der Promotionskom
+mission soll im Promotions prüfungs verfahren darauf hinwirken, dass die Dauer zwischen dem 
+Antr ag auf Zulassung zu m Promotionsprüfung sverfahren und dem Abschlusskolloquium einen 
+Zeitrahmen von drei Monaten nicht überschreitet.  
+§ 10  
+Rücktritt  
+1Die Doktorandin  oder der Doktorand  kann jederzeit vo n der  Promotion zurücktreten, sofern noch kein 
+Antrag a uf Zulassung zum  Promotionsprüfung sverfahren gestellt ist.  2Die Rücktrittserklärung ist schrift
+lich an die Dekanin oder den Dekan zu richten. 3Die Dekanin oder der Dekan informiert die Betreuerin
+nen oder Betreuer und gibt ihnen Gelegenheit, mit einer Frist von zwei Wochen Stellung zu nehmen. 
+4Mit der Bestätigung des Rücktritts nach Ablauf dieser Frist durch die Dekanin oder den Dekan gilt die 
+Betreuungsvereinbarung als aufgehoben.  
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 12 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 11  
+Dissertation  
+(1) 1Die Dissertation muss eine selbstständige wissenschaftliche Leistung der Doktorandin  
+oder des Doktoranden  sein und zur Lösung von wissenschaftlichen Problemen beitragen. 2Sie soll 
+zu neuen wissenschaftlichen Erkenntnissen führen. 3Sie muss die erzielten Ergebnisse in ange
+messener Form darstellen.  
+(2) 1Die Dissertation muss unterschrieben und in Maschinenschri ft vorgelegt werden; sie muss ge
+bunden, paginiert und mit einem Inhaltsverzeichnis versehen sein und eine Kurzfassung enthal
+ten, die über Problemstellung und Ergebnisse Auskunft gibt. 2Die benutzte Literatur sowie sons
+tige Hilfsquellen sind vollständig anz ugeben; wörtlich oder nahezu wörtlich dem Schrifttum ent
+nommene Stellen sind kenntlich zu machen. 3Die Angaben auf dem Titelblatt müssen dem im 
+Dekanat zugänglichen Muster entsprechen. 4Die Dissertation ist zusätzlich in elektronischer Fas
+sung, deren Forma t mit dem Dekan abzustimmen ist, vorzulegen, um sie prüfungsberechtigten 
+Mitgliedern der Fakultät für eine Überprüfung zugänglich zu machen. 5Diese Überprüfung muss 
+das Urheberrecht und den Datenschutz beachten. 
+(3) Wird eine bereits publizierte Arbeit als  Dissertation eingereicht, so kann anstelle der maschinen
+geschriebenen Exemplare die entsprechende Anzahl von Belegexemplaren der gedruckten Ar
+beit treten.  
+(4) 1Im Falle einer kumulativen Dissertation muss zusätzlich zu den eingereichten Publikationen eine  
+ausführliche Zusammenfassung (Extended Abstract) vorgelegt werden, die den Zusammenhang 
+zwischen den eingereichten Publikationen sowie den eigenen Beitrag da rstellt.  2Die Entschei
+dung, ob eine kumulative Dissertation als geeignet erscheint, trifft die Pro motionskommission.  
+(5) Die Dissertation wird in deutscher oder englischer Sprache abgefasst.  
+§ 12  
+Beurteilung der Dissertation  
+(1) 1Nach der Zulassung zum Promotionsprüfungsverfahren bestellt die Promotionskommission zur 
+Beurteilung der Dissertation unverzüglich mindestens zwei prüfungsberechtigte Lehrpersonen 
+als Gutachterinnen bzw. Gutachter; m indestens eine oder einer von ihnen muss Professorin oder 
+Professor der Fakultät für Mathem atik, Physik und Informatik gemäß Art. 19 Abs. 1 Satz 1 BayHIG  
+sein. 2Bei Promotion en mit Fachhochschulen/HAWs  (§ 19) werden in der Regel die beiden gleich
+berechtigten Betreuerinnen und Betreuer der Fachhochschule /HAW  und der Universität zu Gut
+achterinnen und Gutachtern bestellt. 
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 13 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  (2) 1Jede Gutachterin und j eder Gutachter gibt innerhalb einer angemessenen Frist, die zw ei Monate 
+nicht überschreiten soll, ein schriftliches Gutachten über die Dissertation ab und schlägt die An
+nahme der Dissertation oder ihre Ablehnung vor. 2Jede Gutachterin und j eder Gutachter bewer
+tet die Dissertation und erteilt ein Prädikat nach folgend em Schema:  
+sehr gut  = 1 = eine besonders anzuerkennende Leistung;  
+gut = 2 = eine den Durchschnitt überragende Leistung;  
+befriedigend  = 3 = eine Leistung, die durchschnittlichen Anforderungen genügt;  
+unzulänglich  = 4 = eine an erheblichen Mängeln leidende, insgesamt nicht mehr  
+  brauchbare Leistung.  
+ 3Die Verwendung der Zwischennoten 1,5 und 2,5 ist zulässig. 
+ 4In besonderen Fällen kann das Prädikat  
+ausgezeichnet  = eine ganz hervorragende Leistung  
+ erteilt werden.  
+ 5Bei der Berechnung der Note wird dieses Prädikat mit der Bewertung 0 eingesetzt.  
+(3) 1Die Promotionskommission bestellt eine weitere Gutachterin oder einen weiteren Gutachter, 
+wenn die Gutachten um mehr als eine Note in der Bewertung abweichen. 2Das gleiche gilt, wenn  
+eine Gutachterin oder  ein Gutachter die Bestellung einer weiteren Gutachterin oder eines weite
+ren Gutachters vorschlägt. 3Falls die Dissertation mit dem Prädikat „ausgezeichnet “ bewertet 
+wurde  oder die Dissertation von mehreren betreuenden Personen begutachtet wurde , bestellt  
+die Promotionskommission eine weitere Gutachterin oder einen weiteren Gutachter ; im Fall einer 
+Bewertung mit dem Prädikat „ ausgezeichnet “ muss die Gutachterin oder der Gutachter auswärtig 
+sein. 
+(4) Die Promotionskommission kann zu jedem beliebigen Zeitpunkt des Verfahrens auch von sich 
+aus weitere Gutachter innen und Gutachter bestellen, sofern sie es für erforderlich hält, um eine 
+sachgerechte Beurteilung zu gewährleisten.  
+(5) 1Die Dekanin oder d er Dekan informiert die Mitglieder der erweiterten Promotionskommission in 
+geeigneter Weise über den Eingang der Gutachten und  über d ie Noten der Gutachterinnen und 
+Gutachter . 2Mit der Benachrichtigung wird  die Kurzfassung der Dissertation  (Abstract)  sowie auf 
+Antrag die elektronische Fassung der Dissertation versandt; die Urheberrechte und der Daten
+schutz sind zu wahren. 3Die Dekanin o der d er Dekan legt die Gutachten im Dekanat zwei Wochen 
+für die Mitglieder der erweiterten Promotionskommission zur Einsichtnahme aus. 4Diese können 
+eine schriftliche Stellungnahme abgeben oder die Einberufung der erweiterten Promotionskom
+mission verlangen.  5Die erweiterte Promotionskommission kann weitere Gutachten bestellen.  
+6Bei der Bewertung der Dissertation wird das arithmetische Mittel der Einzelnoten gebildet und 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 14 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  die zweite Nachkommastelle gestrichen.  7Wird die Dissertation mindestens mit der Note „befrie
+digend “ (3,0)  bewertet, so ist sie angenommen, sonst ist sie abgelehnt.  8§ 3 Abs. 4 gilt entspre
+chend.  
+(6) 1Ist die Dissertation abgelehnt, so  kann  die Doktorandin  oder  der Doktorand  innerhalb eines Jah
+res nach der Bekanntgabe der Abl ehnung eine neue Dissertation vorlegen. 2Für das weitere Ver
+fahren gelten die Abs. 1 bis 5. 3Wenn die Doktorandin  oder der Doktorand  innerhalb der in Satz 1 
+genannten Frist keine neue Dissertation vorlegt oder auch die neue Dissertation abgelehnt wird, 
+ist das Promotionsprüfungs verfahren ohne Erfolg beendet ; § 9 Abs. 3 Satz 2 gilt entsprechend.  
+(7) 1Die erweiterte Promotionskommission kann der Bewerberin oder dem Bewerber eine Disserta
+tion, die abgelehnt werden müsste, zur Umarbeitung zurückgeben. 2Die Doktorandin oder d er 
+Doktorand  kann in diesem Fall anstelle der Umarbeitung auch eine neue Dissertation vorlegen. 
+3Die umgearbeitete oder die neue Dissertation  muss  innerhalb der in Abs. 6 Satz 1 genannten 
+Frist bei der Promotionskommission  vorliegen. 4Eine umgearbeitete Dissertation wird von den für 
+die ursprüngliche Dissertation bestellten Gutachterinnen und Gutachtern beurteilt, soweit diese 
+noch zur Verfügung stehen; im Übrigen gelten die Abs. 1 bis  5. 5Wenn die Doktorandin oder der 
+Doktorand  die umg earbeitete oder die neue Dissertation nicht fristgerecht vorlegt oder auch die 
+umgearbeitete oder die neue Dissertation abgelehnt wird, ist das Promotions prüfungs verfahren 
+ohne Erfolg beendet . 6§ 9 Abs. 3 Satz 2 gilt entsprechend.  
+(8) 1Werden von den Gutac hterinnen und Gutachtern oder den Mitgliedern der erweiterten Promo
+tionskommission Mängel der Dissertation festgestellt, die gleichwohl eine Ablehnung der Arbeit 
+nicht rechtfertigen, so kann der Doktorand in oder dem  Doktoranden  eine entsprechende Korrek
+tur auferlegt werden. 2Die oder d er Vorsitzende des Prüfungsausschusses bestätigt bei der Ab
+gabe der Pflichtexemplare, dass die Korrekturen vorgenommen wurden.  
+§ 13  
+Prüfungsausschuss  
+(1) 1In angemessener Frist nach Annahme der Dis sertation gemäß § 12 Abs.  5 Satz 7 dieser Satzung 
+findet ein wissenschaftliches Kolloquium (§ 1 4) vor dem Prüfungsausschuss statt. 2Dem Prüfungs
+ausschuss gehören an:  
+1. eine Professorin oder ein Professor im Sinne von Art. 19 Abs. 1 Satz 1 BayHIG  der Fakultät 
+für Mathematik, Physik und Informatik , die bzw. der nicht Gutachterin oder Gutachter  sein 
+darf, als Vorsitzende oder Vorsitzender,  
+2. die Gutachterinnen und Gutachter, 
+3. eine weitere prüfungsberechtigte Lehrperson im Sinne von § 2. 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 15 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth   3Ist eine Gutachterin oder ein Gutachter im Sinne nach Satz 2  Nr. 2 gehindert, am weiteren Ver
+fahren teilzunehmen, so wird , sofern dadurch weniger als zwei Gutachterinnen und Gutachter 
+mitwirken,  für sie bz w. ihn eine prüfungsberechtigte Lehrperson im Sinne von § 2 zum Mitglied 
+des Prüfungsausschusses bestellt.  
+(2) Die oder der Vorsitzende und die weiteren Mitglieder des Prüfungsausschusses werden von der 
+Dekanin oder dem Dekan auf Vorschlag der Promotionsko mmission unverzüglich nach Zulas
+sung zum Promotionsprüfungsverfahren bestellt.  
+§ 14  
+Kolloquium  
+(1) 1Das Kolloquium ist eine kollegiale Einzelprüfung. 2Sie ist eine wissenschaftliche Aussprache (Dis
+putation), in welcher die Doktorandin  oder der Doktorand  nachweist, dass er vertiefte Kenntnisse 
+auf dem Fachgebiet besitzt, dem die Dissertation entnommen ist.  
+(2) 1Die Dekanin oder d er Dekan bestimmt im Einvernehmen mit d er oder d em Vorsitzenden des 
+Prüfungsausschusses den Termin des Kolloquiums. 2Die Doktorand in oder d er Doktorand  und die 
+Mitglieder des Prüfungsausschusses sind schriftlich mindestens vierzehn Tage vor Beginn des 
+Kolloquiums zu laden. 3Die Promotionskommission kann im Einvernehmen mit d er Doktorandin  
+oder d em Doktoranden diese Ladungsfrist verkürzen. 
+(3) 1Das Kolloquium dauert mindestens  sechzig , jedoch höchstens einhundert zwanzig Minuten und 
+ist hochschulöffentlich. 2Es wird in deutscher oder englischer Sprache abgehalten. 3Das Kollo
+quium gliedert sich in einen Vortrag über die Dissertation und eine wissenschaftliche Aussprache. 
+4Der Medieneinsatz sollte angemessen sein. 5Das Kolloquium wird vo n der oder dem Vorsitzen
+den des Prüfungsausschusses geleitet. 6Zum Kolloquium werde n außer den Mitgliedern des Prü
+fungsausschusses alle prüfungsberechtigten Lehrpersonen im Sinne von § 2 geladen. 7Die oder 
+der Vorsitzende kann Fragen anwesender prüfungsberechtigter Lehrpersonen zulassen; sie bzw. 
+er sorgt für einen angemessenen Anteil der Mitglieder des Prüfungsausschusses an der Prüfungs
+zeit.  
+(4) 1Die Benotung des Kolloquiums erfolgt nach gemeinsamer Aussprache der Prüferinnen und Prü
+fer und richtet sich nach der Notenskala gemäß § 1 2 Abs. 2 Sätze 2 bis 5. 2Bei der Bewertung des 
+Kolloquiums wird das arithmetische Mittel der Einzelnoten gebildet und die zweite Nachkom
+mastelle gestrichen. 3Erreicht eine Doktorand in oder ein Doktorand  im Kolloquium nicht mindes
+tens die Note „befriedigend “ (3,0), so ist das Kolloquiu m nicht bestanden. 
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 16 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  (5) 1Über den Verlauf  des Kolloquiums und die Feststellung der Gesamtnote der Promotion ist eine 
+Niederschrift  nach Maßgabe von  § 15 dieser Satzung  zu fertigen. 2Die Niederschrift muss Anga
+ben enthalten über  
+1. den Tag des Kolloquiums,  
+2. die Namen der Vorsitzenden oder des Vorsitzenden und der übrigen Prüferinnen und Prü
+fer, 
+3. den Namen der Doktorand in oder des Doktoranden,  
+4. den Gegenstand der Prüfung, 
+5. die Noten der Dissertation und des Kolloquiums sowie die Gesamtnote der Promot ion. 
+ 3Die Niederschrift ist vo n der oder dem Vorsitzenden und den Prüferinnen und Prüfern zu unter
+zeichnen.  
+(6) 1Die Doktorand in oder d er Doktorand  kann das nicht bestandene Kolloquium einmal wiederho
+len. 2Der Antrag auf Wiederholung muss der Dekanin oder dem Dekan innerhalb eines Jahres 
+nach der Mitteilung des Nichtbestehens des Kolloquiums  vorliegen. 3In besonderen Ausnahme
+fällen kann die Promotion skommission eine zweite Wiederholung des nicht bestandenen Kollo
+quiums zulassen; ein hierauf gerichteter Antrag der Doktorand in oder des Doktoranden muss der 
+Dekanin oder dem Dekan innerhalb von sechs Monaten nach der Mitteilung des wiederholten 
+Nichtbeste hens des Kolloquiums vorliegen. 4Das Promotions prüfungs verfahren ist ohne Erfolg 
+beendet, wenn die Doktorand in oder der Doktorand  den Antrag auf Wiederholung nicht inner
+halb der in den Sätzen 2 und 3 genannten Fristen stellt oder die Promotionskommission e ine 
+zweite Wiederholung des Kolloquiums nicht zulässt oder d ie Doktorand in oder d er Doktorand  
+das Kolloquium auch bei der zweiten Wiederholung nicht besteht; § 9  Abs. 3 Satz 2 gilt entspre
+chend.  
+(7) 1Wenn die Doktorand in oder der Doktorand  zu dem Termin des Kolloquiums nicht erscheint oder 
+nach Beginn des  Kolloq uiums  von diese m zurücktritt, muss sie bzw.  er der Dekanin oder dem 
+Dekan die Gründe für das Versäumnis oder den Rücktritt unverzüglich schriftlich anzeigen und 
+glaubhaft machen. 2Im Fall einer Erkrankung der Doktorand in oder  des Doktoranden kann die 
+Dekanin oder der Dekan die Vorlage eines ärztlichen oder eines amtsärztlichen Zeugnisses ver
+langen. 3Hat die Doktorandin  oder der Doktorand  die Gründe für das Versäumnis oder den Rück
+tritt nicht zu vertreten, so bestimmt die Dekanin oder der Dekan gemäß  Abs. 2 einen neuen Ter
+min. 4Wenn die Doktorandin  oder der Doktorand  die Gründe für das Versäumnis oder den Rück
+tritt nicht unverzüglich gemäß Satz 1 anzeigt und glaubhaft macht oder diese G ründe zu vertre
+ten hat, gilt das Kolloquium als nicht bestanden; § 9  Abs. 3 Satz 2 gilt entsprechend.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 17 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 15  
+Gesamtnote der Promotion  
+(1) Ist das Kolloquium bestanden, so stellt der Prüfungsausschuss die Gesamtnote der Promotion 
+fest.  
+(2) 1Die Gesamtnote der Promotion  wird folgendermaßen berechnet: Zunächst werden jeweils die 
+arithmetischen Mittel der Einzelnoten der Dissertation bzw. des Kolloquiums getrennt voneinan
+der berechnet. 2Der berechnete Wert wird jeweils hinter der ersten Nachkommastelle abgeschnit
+ten. 3Anschließend werden der doppelte Wert für die Dissertation und der einfache Wert für das 
+Kolloquium aufsummiert und durch drei geteilt. 4Der berechnete Gesamtwert wird hinter der ers
+ten Nachkommastelle abgeschnitten.  5Für die Gesamtnote  gilt folgendes Bewertungsschema:  
+0 summa cum laude (mit Auszeichnung)  
+0,1 bis 1,5 magna cum laude (sehr gut) 
+1,6 bis 2,5 cum laude (gut)  
+2,6 bis 3,0 rite (befriedigend)  
+(3) Die Gesamtnote ist der Doktorandin  oder dem Doktoranden im Anschluss an das Kolloquium vo n 
+der oder dem  Prüfungsausschussvorsitzenden mündlich zu eröffnen.  
+(4) 1Über das Ergebnis der bestandenen Prüfung erteilt die Dekanin oder der Dekan d er Doktorand in 
+oder d em Doktoranden  einen schriftlichen Zwischenbescheid . 2Dieser Zwischenbescheid be
+rechtigt nicht zur Führung des Doktorgrades. 
+§ 16  
+Veröffentlichung der Dissertation  
+(1) 1Die Doktorand in oder d er Doktorand  muss die Dissertation der wissenschaftlichen Öffentlichkeit 
+durch Vervielfältigung und Verbreitung zugänglich machen. 2Bereits publizierte Arbeiten gemäß 
+§ 11 Abs.  3 und 4 dieser Satzung müssen nicht erneut veröffentlicht werden.  
+(2) 1Zum Zweck der Veröff entlichung muss d ie Doktorand in oder d er Doktorand  innerhalb eines Jah
+res nach der Aushändigung des Zwischenbescheids über das Ergebnis der bestandenen Prüfung 
+entsprechend der von ihm gewählten Veröffentlichungsart die vorgeschriebene Anzahl Exemp
+lare unentgeltlich bei  der Dekanin oder dem  Dekan abliefern. 2Zur Wahl stehen folgende Veröf
+fentlichungsarten:  
+1. 40 Exemplare in Buch  oder Fotodruck zum Zweck der Verbreitung.  
+2. 6 Exemplare, wenn die Dissertation im Wesentlichen ungekürzt in einer oder mehreren wis
+senschaftlichen Zeitschrift en veröffentlicht wird.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 18 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  3. 6 Exemplare, wenn ein gewerblicher Verleger die Verbreitung über den Buchhandel über
+nimmt . Die Publikation muss eine ISBN  oder ISSN Nummer führen und auf der Rückseite 
+des Titelblatts die Kennzeichnung als Dissertation unter Angabe des Dissertationsortes ent
+halten. 
+4. 6 Exemplare in gedruckter, gebundener Form und eine elektronische Version, deren Da
+teiformat und Art der Datenübertragung mit der Universitätsbibliothek der Universität Bay
+reuth abzust immen sind. Die Publikation muss eine Kurzfassung (Abstract) in deutscher 
+und englischer Sprache enthalten. D ie Doktorandin  oder d er Doktorand  versichert  schrift
+lich, dass die elektronische Version der angenommenen Dissertation entspricht , und  räumt 
+der Universitätsbibliothek der Universität Bayreuth und der DDB (Die Deutsche Bibliothek) 
+das Recht ein, diese Version zu speichern, in Datennetzen unbefristet zu veröffentlichen 
+und sie anderen Datenbanken zugänglich zu machen. D ie Doktorand in oder der Dokto
+rand  ist verpflichtet, die Metadaten und die Netzversion seiner Dissertation nach der Bear
+beitung durch die Universitätsbibliothek auf Vollständigkeit, Richtigkeit und Lesbarkeit zu 
+prüfen. Die Abgabe von Dateien, die den geforderten Vorgaben hinsichtlich Dateiformat 
+und Datenübertragung nicht entsprechen, gilt nicht als Veröffentlichung.  
+(3) Die Doktorand in oder d er Doktorand  überträgt der Universität Bayreuth schriftlich das Recht zur 
+Veröffentlichung – auch in Datennetzen – ihres bzw. seines Na mens, des Themas der Dissertation, 
+der Kurzfassung (Abstract), des Tages der Einreichung und des Tages des Kolloquiums, für den 
+Fall, dass sie oder er eine Veröffentlichungsart nach Abs. 2 Nr.1 gewählt hat , auch das Recht, wei
+tere Kopien  von seiner Dissert ation herzustellen und zu verbreiten.  
+(4) Die Promotionskommission kann die Frist zur Ablieferung der Pflichtexemplare auf Antrag der 
+Doktorandin  oder des Doktoranden verlängern.  
+(5) 1Versäumt die Doktorand in oder der Doktorand  durch ihr bzw. sein Verschulden die Frist zur Ab
+lieferung der Pflichtexemplare, so erlöschen alle durch den erfolgreichen Abschluss des Prü
+fungsverfahrens erworbenen Rechte. 2§ 9 Abs. 3 Satz 2 gilt entsprechend.  
+(6) In den Fällen des Abs. 2 Nrn. 2 und 3 kann die Dekanin oder der Dekan die Ablieferungsfrist als 
+eingehalten ansehen, wenn durch eine verbindliche Erklärung des Herausgebers der Zeitschrift 
+beziehungsweise des Verlegers die Veröffentlichung der Dissertation und die Ablieferung der 
+Pflichtexemplare genügend gesi chert erscheinen.  
+  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 19 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 17  
+Urkunde und Vollzug der Promotion  
+(1) Sind die in § 1 6 genannten Voraussetzungen erfüllt, so stellt die Fakultät eine in deutscher Spra
+che abgefasste Urkunde über die bestandene Doktorprüf ung aus.  
+(2) 1Die Urkunde bestätigt die er folgreiche Promotion  und enthält  
+ den Namen der Universität und der Fakultät, 
+ die Vor und Zunamen der oder des Promovierten, Geburtsdatum und Geburtsort, 
+ den verliehenen akademischen Grad , 
+ den Titel der Dissertation,  
+ das Datum der mündlichen Prüfung,  
+ das Gesamtprädikat der Promotion,  
+ den Namen und die Unterschrift der Präsidentin oder des Präsidenten  
+der Universität  Bayreuth und der Dekanin oder des Dekans der Fakultät,  
+ das Siegel der Universität Bayreuth.  
+ 2Das Ausstellungsdatum der Urkunde ist das Datum des Kolloquiums. 3Zusätzlich wird eine eng
+lischsprachige Übersetzung der Urkunde erstellt.  4Bei Promotionen mit Fachhochschulen/HAWs  
+(§ 19) ist auf der Urkunde auch die beteiligte Fachhochschule/HAW  anzugeben.  
+(3) 1Die Urkunde wird zusammen mit  deren Übersetzung von der Dekanin oder dem  Dekan ausge
+händigt. 2Mit der Aushändigung ist die Promotion vollzogen  und d ie Promotion  beendet ; 
+dadurch erhält die Doktorandin  oder der Doktorand  das Recht, den Dokt orgrad zu führen.  
+Abschnitt III: Ehrenpromotion  
+§ 18  
+Ehrenpromotion  
+(1) 1Das Ehrenpromotionsverfahren ist auf begründeten Antrag von mindestens drei Professorinnen 
+und Professoren der Fakultät für Mathematik, Physik und Informatik gemäß Art. 19 Abs. 1 Satz 1 
+BayHIG  einzuleiten. 2Der Antrag ist an die Dekanin oder den Dekan zu richten.  
+(2) 1Der Fakultätsrat bestellt mindestens zwei fachlich zuständige Professorinnen und Professoren 
+der Fakultät für Mathematik, Physik und Informatik gemäß Art. 19 Abs. 1 Satz 1 BayHIG  zur Begut
+achtung der wissenschaftlichen Leistungen, die die zu ehrende Persönlichkeit erbracht hat. 
+2Wenn die Gutachten vorliegen, leitet die Dekanin oder der Dekan den Antrag und die Gutachten 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 20 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  den Mitgliedern des Fakultätsrates und allen prüfungsberechtigten Lehrpersonen zu. 3Diese kön
+nen innerhalb eines Monats nach dem Zugang der in Satz 2 genannten Unterlagen eine schriftli
+che Stellungnahme abgeben. 
+(3) 1Über die Verleihung des Ehrendoktorgrades entscheidet der Fakultätsrat. 2Der Beschluss des Fa
+kultätsrats setzt einen Antrag der erweiterten Promotionskommission voraus. 3Er erfolgt unter 
+Würdigung der Gutachten, etwaiger Stellungnahmen gemäß Abs. 2 Satz 3 und des Antrages der 
+erweiterten Promotionskommission.  
+(4) 1Präsidentin oder Präsident und Dekanin oder Dekan vollziehen die Verleihung des Ehrendoktor
+grades durch Überreichen einer Urkunde an die geehrte Persönlichkeit. 2In der Urkunde ist die 
+wissenschaftliche Leistung der geehrten Persönlichkeit zu würdigen.  
+Abschni tt IV:  Kooper ation mit Fachhochschulen/Hochschulen  
+für Angewandte Wissenschaften (HAW)  
+§ 19  
+Kooperation mit Fachhochschulen/Ho chschulen  
+für Angewandte Wissenschaften  (HAW)  
+1Die Fakultät für Mathematik, Physik und Informatik der Universität Bayreuth ermöglicht die koopera
+tive Durchführung von Promoti onen  mit Fachhochschulen /HAWs  sowie die Durchführung von Ver
+bundpromotionen auf der Grundlage der Vereinbarung der bayerischen Ho chschulen vom 19.  Oktober 
+2015 im Rahmen der Regelungen dieser Promotionsordnung . 2Die Federführung im Rahmen koopera
+tiver Promotion  und Verbundpromotionen  liegt bei der Universität Bayreuth.  
+Abschnitt V: Binationale Promotion  
+§ 20  
+Allgemeines  
+(1) 1Der Doktorgrad kann auch im Rahmen einer gemeinsamen Betreuung mit einer ausländischen 
+wissenschaftlichen Einrichtung (Partnereinrichtung) verliehen werden. 2Dies setzt voraus, dass 
+1. mit der Partnereinrichtung eine von der Promotionskommission genehmigte Vereinba
+rung über die grenzüberschreitende gemeinsame Betreuung der  Promotion  abgeschlos
+sen wurde,  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 21 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  2. die Partnereinrichtung nach ihren nationalen Rechtsvorschriften das Promotionsrecht be
+sitzt und der von ihr zu verleihende akademische Grad im Geltungsbereich des Hochschul
+rahmengesetzes anzuerkennen wäre, 
+3. die Doktorandin  oder der Doktorand  die Voraussetzungen für die Annahme zur Promotion 
+und für die Zulassung zu m Promotionsprüfungsverfahren sowohl nach dieser Promotions
+ordnung (§§ 4, 8  und 9) als auch nach den entsprechenden Regelungen der Partnereinrich
+tung erfüllt.  
+(2) 1Die Dissertation wird durch eine Betreuerin oder einen Betreuer gemäß § 7  Abs. 1 und ein nach 
+den dortigen Bestimmungen prüfungsberechtigtes Mitglied der Partnereinrichtung gemeinsam 
+betreut und kann an der Fakultät für Mathematik, Physik und Informatik der Universität Bayreuth 
+oder an der Partnereinrichtung vorgelegt werden. 2Die nähere Ausgestaltung der gemeinsamen 
+Betreuung ergibt sich aus der Vereinbarung nach Abs. 1 Satz  2 Nr.  1. 3Eine Dissertation, die bereits 
+vor Abschluss einer Vereinbarung nach Abs. 1 Satz 2 Nr. 1 bei einer der beteiligten Bildungsein
+richtungen eingereicht und angenommen oder abgelehnt wurde, kann nicht Gegenstand eines 
+gemeinsamen Promotions prüfungs verfahrens sein.  
+(3) Die Benotung der Promotionsleistungen erfolgt nach den Bestimmungen derjenigen Einrich
+tung, an der die Dissertation vorgelegt wird; die jeweils andere Einrichtung stellt die nach ihrer 
+Promotionsordnung äquivalenten N oten fest.  
+§ 21  
+Prüfungsverfahren an der Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth  
+(1) 1Soll die Dissertation an der Fakultät für Mathematik, Physik und Informatik der Universität Bay
+reuth vorgelegt werden, gelten für die D issertation und deren Beurteilung  die §§ 1 1 und 12. 2Die 
+Betreuerinnen und Betreuer der Dissertation nach § 20 Abs. 2 Satz 1 sollen in der Regel als Gut
+achter bestellt werden.  
+(2) 1Ist die Dissertation im Verfahren nach § 1 2 angenommen, so wird sie der Partnereinrichtung zur 
+Zustimmung über den Fortgang der Promotionsprüfung übermittelt. 2Erteilt die Partnereinrich
+tung diese Zustimmung, so findet die mündliche Prüfung  gemäß §§ 1 3 und  14 statt. 3Soweit die 
+Betreuerin oder der Betreuer der Dissertation aus der Partnereinrichtung dem Prüfungsausschuss 
+nicht gemäß § 1 3 Abs. 1 Satz 2 Nr. 2 angehört, ist ihre bzw. seine Bestellung zum Mitglied des 
+Prüfungsausschusses oder die ersatzweise Be stellung eines anderen nach den dortigen Bestim
+mungen prüfungsberechtigten Mitglieds der Partnereinrichtung in der Vereinbarung  nach § 20 
+Abs.1  Satz 2 Nr. 1 vorzusehen. 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 22 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  (3) 1Ist die Dissertation zwar an der Fakultät für Mathematik, Physik und Informatik  der Universität 
+Bayreuth angenommen, die Zustimmung über den Fortgang der Prüfung aber von der Partner
+einrichtung verweigert worden, so ist das gemeinsame Verfahren beendet; die Promotionsprü
+fung wird nach den Bestimmungen dieser Promotionsordnung fortgesetz t. 2Satz 1 gilt entspre
+chend, wenn die  Partnereinrichtung  die mündliche Prüfung  als nicht bestanden bewertet hat . 
+(4) Die Veröffentlichung der Dissertation und die Ablieferung der Pflichtexemplare richten sich nach 
+§ 16 sowie den gemäß § 20  Abs. 1 Satz 2 N r. 1 getroffenen ergänzenden Vereinbarungen. 
+§ 22  
+Prüfungsverfahren an der Partnereinrichtung  
+(1) 1Soll die Dissertation an der Partnereinrichtung vorgelegt werden, findet auf das Prüfungsverfah
+ren die Promotionsordnung der Partnereinrichtung Anwendung. 2In der Vereinbarung nach § 20 
+Abs. 1 Satz 2 Nr. 1 ist die Bestellung der Betreuerin oder des Betreuers nach § 20 Abs. 2 Satz 1 aus 
+der Fakultät für Mathematik, Physik und Informatik  der Universität Bayreuth oder, soweit diese 
+oder dieser nicht herangezogen werden kann, einer anderen nach dieser Promotionsordnung 
+prüfungsberechtigten Lehrperson aus der Fakultät für Mathematik, Physik und Informatik  der 
+Universität Bayreuth als Gutachterin oder Gutachter z ur Beurteilung der Dissertation vorzusehen.  
+(2) 1Wurde die Dissertation von der Partnereinrichtung angenommen, so wird sie der Fakultät für 
+Mathematik, Physik und Informatik  der Universität Bayreuth zur Zustimmung über den Fortgang 
+der Prüfung übermittel t. 2§ 12 Abs. 5 Sätze 3 bis 8  gelten entsprechend. 3Erteilt die Fakultät für 
+Mathematik, Physik und Informatik  der Universität Bayreuth die Zustimmung, so findet die münd
+liche Prüfung an der Partnereinrichtung nach Maßgabe der dortigen Bestimmungen statt. 4In der 
+Vereinbarung nach § 20 Abs. 1 Satz 2 Nr. 1 ist vorzusehen, dass in diesem Fall die Betreuerin oder 
+der Betreuer nach § 20 Abs. 2 Satz 1 aus der Fakultät für Mathematik, Physik und Informatik  der 
+Universität Bayreuth oder, soweit dies nicht möglich ist, ersatzweise eine andere nach dieser Pro
+motionsordnung prüfungsberechtigte Lehrperson aus der Fakultät für Mathematik, Physik und 
+Informatik  der Universität Bayreuth dem die mündliche Prüfung abnehmenden Gremium als Prü
+ferin oder Prüfer angehören muss. 
+(3) 1Wird die Dissertation zwar an der Partnereinrichtung angenommen, verweigert jedoch die Fa
+kultät für Math ematik, Physik und Informatik  der Universität Bayreuth die Zustimmung zum Fort
+gang der Prüfung, so ist das gemeinsame Verfahren beendet. 2Die Promotionsprüfung kann nach 
+den Bestimmungen der Partnereinrichtung fortgesetzt werden. 3Die Sätze 1 und 2 gelten ent
+sprechend, wenn die mündliche Prüfung seitens der Fakultät für Mathematik, Physik und Infor
+matik  der Universität Bay reuth als nicht bestanden bewertet wird.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 23 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  (4) 1Für die Veröffentlichung der Dissertation und die Ablieferung der Pflichtexemplare gelten d ie 
+für die Partnereinrichtung maßgebenden Bestimmungen. 2Die Vereinbarung nach § 20  Abs. 1 
+Satz 2 Nr. 1 legt darüber hinaus fest, wie viele Exemplare der Fakultät für Mathematik, Physik und 
+Informatik  der Universität Bayreuth zur Verfügung zu stellen sind;  alternativ kann einer Veröffent
+lichung der Dissertation analog § 1 6 Abs. 2 Nummern 2 bis 4 zugestimmt werden. 3In jedem Fall 
+bleibt ein Exemplar der Dissertation bei den Prüfungsakten. 4Die Ausfertigung der gemäß § 2 3 
+auszustellenden Promotionsurkunde ist  von der Erfüllung der Ablieferungspflichten abhängig zu 
+machen.  
+§ 23  
+Gemeinsame Urkunde 
+(1) 1Nach dem erfolgreichen Abschluss eines gemeinsamen Promotions prüfungs verfahrens wird 
+von der Fakultät für Mathematik, Physik und Informatik  der Universität Bayreuth und der Partner
+einrichtung eine gemeinsame Urkunde über die Verleihung des Doktorgrades ausgestellt, aus 
+der sich ergibt, dass die Promotion in gemeinsamer Betreuung entstanden ist. 2Die Urkunde trägt 
+die Unterschriften und Siegel , die nach den Bestimmungen dieser Promotionsordnung sowie den 
+Bestimmungen der Partnereinrichtung erforderlich sind. 
+(2) An Stelle einer gemeinsamen Urkunde können auch Einzelurkunden der Fakultät für Mathematik, 
+Physik und Informatik  der Universität Ba yreuth und der Partnereinrichtung treten, aus denen 
+deutlich hervorgeht, dass beide Urkunden zusammen eine gemeinsame Promotionsurkunde dar
+stellen. 
+(3) Aus der gemeinsamen Promotionsurkunde geht hervor, dass die bzw. der Promovierte berechtigt 
+ist, in Deutschland den Doktorgrad gemäß § 1 Abs. 1 und in dem ausländischen Staat den dort 
+verliehenen Doktorgrad zu führen.  
+(4) 1Das Nähere über die Ausgestaltung der Urkunde regelt die Vereinbarung nach § 20 Abs.  1 Satz 2 
+Nr. 1. 2Ihr ist auch die Notenäquivalenz zu  entnehmen. 3Auf der gemeinsamen Promotionsur
+kunde soll die äquivalente ausländische Note mit entsprechender Kennzeichnung aufgeführt 
+werden.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 24 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  Abschnitt VI: Weitere Vorschriften , Inkraft treten und Übergangsregelung  
+§ 24  
+Ungültigkeit der Promotion  
+(1) Ergibt sich vor Aushändigung der Urkunde, dass die Doktorand in oder der Doktorand  bei der 
+Promotion getäuscht hat, so erklärt die Promotionskommission alle bisher erworbenen Berechti
+gungen für ungültig und stellt das Verfahren  ein. 
+(2) 1Wird die Täuschung oder sonstige Rechtswidrigkeit erst nach Aushändigung der Urkunde be
+kannt, so kann die Doktorprüfung durch die Promotionskommission nachträglich für nicht be
+standen erklärt werden.  2Die Entziehung des Doktorgrades richtet sich nach den gesetzlichen 
+Vorschriften ( Art. 48 BayVwVfG ). 3Der oder dem Betroffenen muss vor der Entscheidung Gelegen
+heit zur Äußerung gegeben werden (Art. 28 BayVwVfG). 4Hinsichtlich der Bestimmtheit, Form und 
+Begründung der Ent scheidung sind die Vorschriften üb er das Zustandekommen von Verwal
+tungsakten (Art. 35 ff. BayVwVfG) zu beachten.  
+(3) 1Bei Verdacht auf wissenschaftliches Fehlverhalten trifft die Promotionskommission ihre Ent
+scheidung grundsätzlich erst, wenn die Kommission „Selbstkontrolle in der Wissenschaft “ ihren 
+Bericht abgegeben hat. 2Hat die Promotionskommission in besonderen Fälle n bereits vorab ent
+schieden, bleibt die weitere Befassung durch die Kommission „Selbstkontrolle in der Wissen
+schaft“  unberührt. 3Ein erklärter Verzicht auf den Doktorgrad hat keinen Einfluss auf die Einleitung 
+und den Fortgang des Verfahrens nach den Sätzen 1 und 2 . 
+(4) Im Falle des Nichtbestehens der Doktorprüfung gemäß Abs. 2 Satz 1 ist die Promotionsurkunde 
+einzuziehen.  
+(5) Im Übrigen richtet sich der Entzug des Doktorgrades nach Art. 101 BayHIG  in Verbindung mit den 
+einschlägigen Vorschriften des BayVwVfG . 
+§ 25  
+Einsichtsrecht  
+1Nach Erhalt des Bescheids nach § 15 Abs. 4 oder nach der erfolglosen Beendigung des Promotionsprü
+fungsverfahrens kann die Doktorand in oder der Doktorand  Einsicht in die Promotionsunterlagen neh
+men. 2Die Dekanin oder d er Dekan bestimmt Ort und Zeit der Einsichtnahme. 3Der Antrag ist binnen 
+eines Monats nach  Erha lt des Zwischenbescheids nach § 15 Abs.4  oder der erfolglosen Beendigung des 
+Promotionsverfahrens  bei der Dekanin oder dem Dekan der Fakultät für M athematik, Physik und Infor
+matik zu stellen. 4Das Verfahren der Einsichtnahme richtet sich in diesen wie auch anderen Fällen, in 
+denen ein Einsichtsgesuch gestellt wird , nach Art. 29 ff. BayVwVfG.  
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 25 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 26  
+Berücksichtigung von Schutzbestimmungen  
+(1) 1Die Inanspruchnahme von Schutzfristen des Mutterschutzgesetzes ist zu gewährleisten. 2Auf An
+trag ist die Inanspruchnahme der Elternzeit nach dem Bundeselterngeld  und Elternzeitgesetz 
+sowie der Zeiten für die Pflege einer oder eines nahen Angehörigen im Sinn von §  7 Abs.  3 des 
+Pflegezeitgesetzes, die oder der pflegebedürftig im Sinn der §§  14, 15 des Elften Buches Sozial
+gesetzbuch ist, zu gewährleisten. 3Die entsprechenden Nachweise sind zu führen; Änderungen in 
+den Voraussetzungen sind unverzüglich mitzuteilen.  
+(2) 1Auf Fristen werden auf Antrag Zeiten nicht angerechnet, in denen d ie Promotion  aus von der 
+Doktoran din oder vom Doktoranden nicht zu vertretenden  Gründen nicht oder nur sehr einge
+schränkt betrieben werden kann. 2Die entsprechenden Nachweise sind zu führen; im Falle von 
+Krankheit  sind ärztliche Atteste vorzulegen. 3Änderungen in den Voraussetzungen sind unver
+züglich mitzuteilen . 
+§ 27  
+Berücksichtigung besonderer Belange von Menschen mit Behinderung oder chroni
+scher Erkrankung und in besonderen Lebenslagen  
+(1) 1Zur Wahrung ihrer Chancengleichheit ist auf die besonderen Belange von Bewerberinnen und 
+Bewerbern/Doktorandinnen und Doktoranden mit Behinderung oder chronischer Erkrankung im 
+Sinne des Bayerischen Behindertengleichstellungsgesetzes in angemessener Weise Rücksicht zu 
+nehmen. 2Die Promotionskommission legt auf schriftlichen Antrag der Bewerberin oder des Be
+werbers/der Doktorandin oder des Doktoranden nach der Schwere der nachgewiesenen Prü
+fungsbehinderung oder chronischen Erkrankung fest, in welcher Form di e Prüfungsleistung zu 
+erbringen ist bzw. gewährt eine Arbeitszeitverlängerung oder einen sonstigen Nachteilsaus
+gleich. 3Der Nachweis der Prüfungsbehinderung oder der chronischen Erkrankung ist durch ein 
+ärztliches Zeugnis zu führen, aus dem hervorgeht, das s wegen einer länger andauernden oder 
+ständigen Behinderung oder einer chronischen Erkrankung die Prüfung ganz oder teilweise nicht 
+in der vorgesehenen Form abgelegt werden kann. 4Der Antrag ist dem Antrag auf Annahme zur 
+Promotion beizufügen. 5Wird der Antrag später eingereicht, gilt er nur für zukünftige Leistungen.  
+(2) 1Bewerberinnen und Bewerber/Doktorandinnen und Doktoranden in besonderen Lebenslagen 
+können bei der Promotionskommission einen Nachteilsausgleich entsprechend Abs.  1 beantra
+gen. 2Über das Vorl iegen einer besonderen Lebenslage und den Umfang des Nachteilsausgleichs 
+entscheidet die Promotionskommission . 
+Promotionsordnung für die Fakultät für Mathematik, Physik und Informatik  
+der Universität Bayreuth vom 20 . September 2017  
+in der Fassung der Sammelä nderungssatzung vom 30.März 2023 Seite 26 
+Erstellt durch die Abteilung I, Referat I/1  der Zentralen Universitätsverwaltung, Universität Bayreuth  § 28  
+Inkraft treten, Übergangs regelung  
+(1) 1Diese Promotionsordnung tritt am 2 1. September 2017 in Kraft; gleich zeitig  tritt die Promotions
+ordnung für die Fakultät für Mathematik und Physik der Universität Bayreuth vom 1.  September 
+2009 (AB UBT 2009/062) in der Fassung der Sammeländerungssatzung vom 5.  Juli 2011 (AB UBT 
+2011/032)  außer Kraft.  2Promotionen, bei denen die D issertation bereits vor Inkrafttreten dieser 
+Ordnung eingereicht wurde, werden nach der zum Zeitpunkt der Einreichung gültigen Ordnung 
+zu Ende geführt.*)  
+(2) 1Für Bewerberinnen und Bewerber, die vor Inkrafttreten dieser Promotionsordnung bereits eine 
+Betreuungszusage erhalten haben,  finden die Regelungen dieser Satzung mit folgenden Maßga
+ben Anwendung:  
+1. Die Betreuungszusage tritt an die Stelle der nach § 4 Abs.1 Nr. 3 i.V. m. § 7 dieser Satzung 
+abzuschließenden Betreuungsvereinbarung  
+2. Die Voraussetzungen nach § 4 Abs. 1 N r. 1, 2 ,4 sind von diesen Bewerberinnen und Bewer
+bern mit dem Antrag auf Zulassung zu m Promotionsprüfung sverfahren gemäß §  8 nach
+zuweisen,  
+ 2Die Promotionskommission kann  hierzu bereits vorab auf einen bei der Dekanin oder bei dem 
+Dekan abzugebenden Antrag der Bewerberin oder des Bewerbers entscheide n. 3Im Übrigen gel
+ten § 9 Abs. 1 und Abs. 2 Nr.  2 entsprechend . 
+*) Die Sammelä nderungssatzung vom 30. Mär z 2023 beinhaltet folgende Inkrafttretens regelung:   
+ 
+Diese Satzung tritt mit Wirkung vom 31. März 2023 in Kraft.  

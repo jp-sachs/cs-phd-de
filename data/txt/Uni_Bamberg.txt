@@ -1,0 +1,733 @@
+OttoFriedrich Universität Bamberg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Promotionsordnung  
+der Fakultät  
+Wirtschaftsinformatik und Angewandte Informatik  
+an der Otto Friedrich Universität Bamberg  
+Vom 20. Januar 2012  
+ 
+ (Fundstelle: http://www.uni bamberg.de/fileadmin/uni/amtliche_veroeffentlichungen/2012/2012 01.pdf ) 
+ 
+ 
+geändert durch:  
+Dritte Satzung zur Änderung der Promotionsordnung der Fakultät Wirtschaftsinformatik und An ge
+wandte Informatik an der Otto Friedrich Universität Bamberg vom  29. August 2023 
+(Fundstelle:  
+http://www.uni bamberg.de/fileadmin/abt studium/amtliche veroeffentlichungen/2023/2023 68.pdf ) 
+ 
+Zweite Satzung zur Änderung der Promotionsordnung der Fakultät Wirtschaftsinformatik und An
+gewandte Informatik an der Otto Friedrich Universität Bamberg vom  21. August 2014 
+(Fundstelle:  
+http://www.uni bamberg.de/fileadmin/www.abt studium/amtliche veroeffentlichungen/2014/2014 41.pdf ) 
+ Satzung zur Änderung der Promotionsordnung der Fakultät Wirtschaftsinformatik  und Angewandte 
+Informatik an der Otto Friedrich Universität Bamberg vom 28. September 2012 
+(Fundstelle:  http://www.uni bamberg.de/fileadmin/uni/amtliche_veroeffentlichungen/2012/2012 60.pdf ) 
+ 
+ 
+ 2 
+ INHALTSVERZEICHNIS  
+ 
+  
+§ 1
+ Promotion  ............................................................................................................................... 3 
+§ 2 Ständiger Promotionsausschuss ........................................................................................... 3 
+§ 3 Voraussetzungen für die Zulassung zur Promotion ........................................................... 4 
+§ 4 Spezielle Voraussetzungen für die Zulassung von Absolventinnen und Absolventen  
+von Diplom Studiengängen an Fachhochschulen .............................................................. 6 
+§ 5 Antrag auf Zulassung zum Promotionsverfahren  .............................................................. 6 
+§ 6 Zulassung zum Promotionsverfahr en ................................................................................. 7 
+§ 7 Promotionskommission  ........................................................................................................ 8 
+§ 8  Kolloquium  ............................................................................................................................. 9 
+§ 9 Dissertati on .......................................................................................................................... 10 
+§ 10  Einreichung der Dissertation .............................................................................................. 11 
+§ 11  Beurteilung der Dissertation ............................................................................................... 11 
+§ 12  Disputation  ........................................................................................................................... 13 
+§ 13  Feststellung des Promotionsergebnisses ........................................................................... 14 
+§ 14  Veröffentlichung der Dissertation ...................................................................................... 15 
+§ 15  Verleihung des Doktorgrades ............................................................................................. 16 
+§ 16  Einsichtsrecht  ....................................................................................................................... 16 
+§ 17 Ehrenpromotion ................................................................................................................... 18 
+§ 18  Ungültigkeit der Promotion und Aberkennung des Doktorgrades ................................. 18 
+§ 19  InKraft Treten ..................................................................................................................... 19 
+ 
+ 
+ 3 
+  
+  
+Aufgrund des Art. 13 Absatz  1 Satz 2 in Verbindung mit Art. 6 Absatz  3 und Art. 64 A b
+satz 1 Satz 3 des Bayer ischen Hochschulgesetzes   BayHSchG  erlässt die Otto Friedrich 
+Universität Bamberg folgende   
+Promotionsordnung : 
+ 
+  § 1 Promo tion 
+  
+(1) Die Fakultät Wirtschaftsinformatik und Angewandte Informatik verleiht den ak a
+demischen Grad des doctor rerum politicarum (Dr. rer. pol.) oder des doctor 
+rerum naturalium (Dr. rer. nat.) an Personen, die durch ein Kolloquium, eine wi s
+senschaftliche A rbeit (Dissertation) und deren Verteidigung (Disputation) die Fä
+higkeit zur selbständigen Bearbeitung wissenschaftlicher Fragestellungen auf den Gebieten der Wirtschaftsinformatik oder der Informatik sowie umfassende Fac h
+kenntnisse und wissenschaftliches U rteilsvermögen nachgewiesen haben.  
+(2) 
+1Der zu verleihende Doktorgrad richtet sich in der Regel nach der Fächergruppe, 
+welcher die Betreuerin bzw. der Betreuer der Dissertation angehört. 
+2Professorinnen und Professoren, die der Fächergruppe Wirtschaftsinformat ik 
+angehören, besitzen das Promotionsrecht zum Dr. rer. pol.; Professorinnen und Professoren, die den Fächergruppen Informatik und Angewandte Informatik a n
+gehören, besitzen das Promotionsrecht zum Dr. rer. nat.  
+(3) Die Fakultät Wirtschaftsinformatik und Angewa ndte Informatik kann den akad e
+mischen Grad des doctor rerum politicarum honoris causa (Dr. rer. pol. h.c.) oder des doctor rerum naturalium honoris causa (Dr. rer. nat. h.c.) an Personen verle i
+hen, die sich besondere Verdienste um die Wirtschaftsinformatik  oder die Info r
+matik erworben haben. 
+  
+§ 2 Ständiger Promotionsausschuss 
+  
+(1) Für die durch diese Promotionsordnung zugewiesenen Aufgaben wird ein Ständ i
+ger Promotionsausschuss gebildet.  
+(2) 
+1Der Ständige Promotionsausschuss besteht aus der Dekanin bzw. dem Dekan, 
+der Studiendekanin bzw. dem Studiendekan, drei weiteren Professorinnen 
+und/oder Professoren und zwei promovierten oder habilitierten hauptberuflichen wissenschaftlichen Mitarbeiterinnen und/oder Mitarbeitern. 
+2Eine bzw. einer der 
+Professorinnen und Professoren führt den Vorsitz. 3Die bzw. der Vorsitzende, d e
+ren bzw. dessen Stellvertreterin bzw. Stellvertreter und die anderen Mitglieder 
+ 
+ 4 
+ werden vom Fakultätsrat bzw. vom Gründungsausschuss für die Dauer von zwei 
+Jahren gewählt.  
+(3) Der Ständige Promotionsausschu ss ist beschlussfähig, wenn sämtliche Mitglieder 
+mindestens eine Woche vorher schriftlich geladen wurden und die Mehrheit der Mitglieder, darunter mindestens drei Professorinnen und/oder Professoren, a n
+wesend und stimmberechtigt ist.  
+(4) 
+1Der Ständige Promotio nsausschuss beschließt mit der Mehrheit der abgegeb e
+nen Stimmen in Sitzungen. 2Bei Stimmengleichheit gibt die Stimme der bzw. des 
+Vorsitzenden den Ausschlag. 3Stimmenthaltungen, geheime Abstimmungen und 
+Stimmrechtsübertragungen sind nicht zulässig. 4Bei Be schlüssen, die die Bestel
+lung von Gutachterinnen und Gutachtern sowie Prüferinnen und Prüfern sowie die Bewertung von Prüfungsleistungen betreffen, sind nur die Mitglieder des Ständigen Promotionsausschusses stimmberechtigt, die Hochschullehrerinnen und Ho chschullehrer sind.  
+(5) 
+1Über den Verlauf jeder Sitzung ist eine Niederschrift anzufertigen. 2Diese muss 
+Tag und Ort der Sitzung, die Namen der anwesenden Personen, die behandelten 
+Gegenstände sowie Anträge, Beschlüsse und das Abstimmungsergebnis entha l
+ten. 
+(6) Der Ausschluss wegen persönlicher Beteiligung richtet sich nach Art.  51 Abs. 2 
+des Bayerischen Hochschulinnovationsgesetzes (BayHIG) . 
+(7) Jede Entscheidung ist der bzw. dem Betroffenen unverzüglich schriftlich mitzuteilen, bei Entscheidungen zu Ungunsten der bz w. des Betroffenen unter Angabe 
+von Gründen und mit Rechtsbehelfsbelehrung.  
+  
+§ 3 Voraussetzungen für die Zulassung zur Promotion  
+  
+(1) Zum Promotionsverfahren wird zugelassen, wer sowohl  
+1. einen Masterstudiengang der Wirtschaftsinformatik, der Informatik, der An
+gewandten Informatik oder der Betriebswirtschaftslehre an einer Universität 
+oder Fachhochschule  in der Bundesrepublik Deutschland oder einen entspr e
+chenden Diplomstudiengang an einer Universität in der Bundesrepublik Deutschland mit der Gesamtnote "gut" o der einer besseren Gesamtnote abge
+schlossen hat,  
+2. zwei Semester an der Fakultät Wirtschaftsinformatik und Angewandte Info r
+matik der Otto Friedrich Universität Bamberg studiert hat,  
+3. die deutsche Sprache ausreichend beherrscht,  
+4. den Grad des Dr. rer. pol., des Dr. rer. nat. oder einen gleichartigen wir t
+schafts  oder naturwissenschaftlichen Doktorgrad nicht schon von einer and e
+ren Universität  verliehen bekommen hat,  
+5. ein Promotionsverfahren zum Erwerb des Grades des Dr. rer. pol., des Dr. rer. 
+nat. oder eines gleichartigen wirtschafts  oder naturwissenschaftlichen Do k
+ 
+ 5 
+ torgrades an einer anderen Universität  nicht schon endgültig ohne Erfolg a b
+geschlossen hat, als auch  
+6. keine Bedingungen erfüllt, welche die Entziehung des Doktorgrades rechtfer
+tigen würden.  
+(2) Bewerberinnen und Bewerber, die den Mastergrad oder den Diplomgrad (Univ.) 
+nicht an der Fakultät Wirtschaftsinformatik und Angewandte Informatik der Otto 
+Friedrich Universität Bamberg erworben haben, müssen die Regelvoraussetzung 
+für die Zulassung zum Promotionsverfa hren an der Fakultät erfüllen, an der sie 
+das Abschlussexamen abgelegt haben.  
+(3) 1Vom Ständigen Promotionsausschuss kann in Abweichung von den Vorausset
+zungen nach Absatz 1 Nr. 1 ausnahmsweise zum Promotionsverfahren zugela s
+sen werden, wer  
+1. in einem Studienga ng der Wirtschaftsinformatik, der Informatik oder der B e
+triebswirtschaftslehre an einer Universität  in der Bundesrepublik Deutschland 
+einen anderen akademischen Grad als einen Master abschluss oder einen Di p
+lomabschluss mit der Gesamtnote "gut" oder einer b esseren Gesamtnote er
+worben hat oder  
+2. ein Examen, das den in Absatz 1 Nr. 1 oder in Absatz 3 Satz 1 Nr. 1 genannten 
+gleichwertig und gleichartig ist, an einer ausländischen wissenschaftlichen Hochschule bestanden hat oder  
+3. ein Examen, das den in Absatz 1 Nr.  1 oder in Absatz 3 Satz 1 Nr. 1 oder Nr. 2 
+genannten gleichwertig ist, in einem anderen Studienfach bestanden hat oder  
+4. ein Examen gemäß Absatz 1 Nr. 1 oder gemäß Absatz 3 Satz 1 Nr. 1 oder Nr. 2 
+oder Nr. 3 mit einer schlechteren Gesamtnote als "gut", jedo ch nicht schlec h
+ter als "befriedigend" bestanden hat.  
+2In begründeten Fällen kann der Ständige Promotionsausschuss die Bewerberin 
+bzw. den Bewerber auch von den Zulassungsvoraussetzungen gemäß Absatz 1 Nr. 2 oder gemäß Absatz 2 Satz 1 befreien. 
+3Der Ständige Promotionsausschuss 
+kann die Zulassung von Ausnahmen von der Erbringung zusätzlicher Studien  
+und Prüfungsleistungen abhängig machen. 
+(4) 1Auf schriftlichen Antrag einer Bewerberin bzw. eines Bewerbers stellt der Stä n
+dige Promotion sausschuss fest, ob die Voraussetzungen gemäß Absatz 1 Nr. 1 
+und Absatz 2 Satz 1 erfüllt sind oder ob die Bewerberin bzw. der Bewerber gemäß Absatz 3 zum Promotions verfahren zugelassen werden kann. 
+2Gegebenenfalls 
+teilt er der Bewerberin bzw. dem Bewerber mit, welche Voraussetzungen sie bzw. er noch erfüllen müsste, um zugelassen werden zu können. 
+3Im Antrag soll die 
+Betreuerin bzw. der Betreuer der Dissertation benannt werden. 4Die in § 5 Absatz  
+2 Nr. 1 genannten Unterlagen sind dem Antrag beizufügen.  
+ 
+ 
+ 6 
+  
+§ 4 Spezielle Voraussetzu ngen für die Zulassung von Absolventinnen und Absolven
+ten von Diplom Studiengängen an Fachhochschulen  
+  
+(1) Wer den Diplom Studiengang Wirtschaftsinformatik, Informatik oder Betrieb s
+wirtschaft an einer Fachhochschule in der Bundesrepublik Deutschland mindes
+tens mit der Gesamtnote " gut" abgeschlossen hat, wird zum Promotionsverfa hren 
+zugelassen, wenn sie bzw. er die in § 3 Absatz  1 Nrn. 2 bis 6 genannten Vorau s
+setzungen erfüllt und zusätzliche Module gemäß den Absätzen 2 bis 4 erfol greich 
+abgelegt hat.  
+(2) Die zusä tzlichen Module sind, sofern der  Grad eines Dr. rer. pol . angestrebt wird, 
+aus dem Programm der Masterstudiengänge Wirtschaftsinformatik oder Wirtschaftspädagogik mit dem Schwerpunkt Wirtschaftsinformatik der Otto Friedrich 
+Universität Bamberg zu entnehmen. Sofern der Grad eines Dr. rer. nat. angestrebt wird, sind sie aus dem Programm des Masterstudiengangs Angewandte Inform a
+tik zu entnehmen.  
+(3) Der Umfang der zu absolvierenden Module ist von der berücksichtigungsfähigen Regelstudienzeit des qualifizierenden D iplom Studiengangs abhängig. Dabei we r
+den für jedes Regelstudienzeitsemester 30 ECTS Punkte angesetzt. Der Umfang 
+der zu absolvierenden Module beträgt die Differenz zwischen 300 und den aus 
+dem Diplom Studiengang anrechenbaren ECTS Punkten, mindestens jedo ch 60 
+ECTS Punkte.  
+(4) Die zusätzlich zu absolvierenden Module müssen insgesamt  mindestens mit der 
+Gesamtnote “ gut“ abgeschlossen werden. Die Gesamtnote wird dabei als das mit 
+ECTS gewichtete arithmetische Mittel der Einzelnoten der Module berechnet.  
+ 
+ 
+§ 5 Antrag auf Zulassung zum Promotionsverfahren  
+ 
+ 
+(1) Die Doktorandin bzw. der Doktorand richtet einen Antrag auf Zulassung zum 
+Promotionsverfahren an den Ständigen Promotionsausschuss.  
+(2) 
+1Dem Antrag sind beizufügen:  
+1. Studienbücher und Prüfungszeugnisse,  
+2. eine Erklärung , dass die Bedingungen von § 3 Absatz  1 Nrn. 5 und 6 erfüllt 
+sind,  
+3. ein Lebenslauf, der insbesondere über den Bildungsgang der Doktorandin 
+bzw. des Doktoranden Aufschluss gibt,  
+4. ein amtliches Führungszeugnis, falls die Doktorandin bzw. der Doktorand 
+schon lä nger als drei Monate exmatrikuliert ist und sich nicht in einem ö f
+fentlichen Amt befindet,  
+5. die Angabe der Betreuerin bzw. des Betreuers der Dissertation gemäß § 7, 
+ 
+ 7 
+ 6. eine Betreuungsvereinbarung mit der Betreuerin bzw. dem  Betreuer der Di s
+sertation gemäß Absa tz 3, 
+7. die Angabe, welcher Doktorgrad angestrebt wird,  
+8. die Angabe der gewünschten Fächer für das Kolloquium gemäß § 8 Absatz  3, 
+9. gemäß § 7 Absatz  2 der Vorschlag einer Promotionskommission,  
+10. eine Erklärung darüber, welche Form des Kolloquiums gemäß § 8 Absatz  4 
+die Doktorandin bzw. der Doktorand wählt und  
+11. gegebenenfalls die Nachweise gemäß § 3 Absatz  2 Satz 1 sowie Nachweise 
+über die Erfüllung von Auflagen gemäß § 3 Absatz  3 Satz 3. 
+2Kann die Doktorandin bzw. der Doktorand ohne ihr bzw. sein Verschulden die 
+erforderlichen Unterlagen nicht beibringen, so kann ihr bzw. ihm der Ständige 
+Promotionsausschuss auf Antrag gestatten, die entsprechenden Nachweise auf 
+andere Art zu führen.  
+(3) Die Betreuungsvereinbarung regelt das Verhältnis zwischen der Doktorandin bzw. 
+dem Doktoranden und der Betreuerin bzw. dem Betreuer der Dissertation. Sie b e
+rücksichtigt mindestens folgende Aspekte:  
+1. Beteiligte des Promotionsverfahrens,  
+2. Thema oder Arbeitstitel der Dissertation,  
+3. Arbeitsplan der Dissertation,  
+4. Aufgaben und Pflichten der Dokto randin bzw. des Doktoranden,  
+5. Aufgaben und Pflichten der Betreuerin bzw. des Betreuers sowie 
+6. beidseitige Verpflichtung auf die Grundsätze guter wissenschaftlicher Praxis.  
+Falls zutreffend, soll die Betreuungsvereinbarung Regelungen zur Integration der 
+Dokto randin bzw. des Doktoranden in die Arbeitsgruppe der Betreuerin bzw. des 
+Betreuers sowie zur Ausstattung des Arbeitsplatzes der Doktorandin bzw. des 
+Doktoranden enthalten.  
+ 
+ 
+§ 6 Zulassung zum Promotionsverfahren 
+  
+(1) 
+1Über die Zulassung zum Promotionsverfahren entscheidet die bzw. der Vorsi t
+zende des Ständigen Promotionsausschusses aufgrund der eingereichten Unter
+lagen. 2In Zweifelsfällen hat sie bzw. er den Antrag dem Ständigen Promotions
+ausschuss zur Entscheidung vorzulegen. 3Die Zulassung erfolgt für einen b e
+stimmten Doktorgrad.  
+(2) Die Zulassung ist zu versagen, wenn die Bewerberin bzw. der Bewerber  
+1. die Voraussetzungen des § 3 oder § 4 nicht erfüllt oder  
+2. die in § 5 Absatz  2 genannten Unterlagen nicht ordnungsgemäß oder nicht 
+vollständig vorgelegt hat.  
+ 
+ 8 
+ (3) 1Die Dokt orandin bzw. der Doktorand kann den Antrag auf Zulassung zum Pro
+motionsverfahren zurücknehmen, solange ihr bzw. ihm noch keine Entscheidung 
+über die Dissertation gemäß § 11 Absatz  7 zugegangen ist. 2Ein zurückgenomm e
+ner Promotionsantrag kann nur einmal erneut gestellt werden.  
+ (4) 
+1Verletzt die Doktorandin bzw. der Doktorand die Promotionsvereinbarung g e
+mäß § 5 Absatz 3 in grober Weise, so entscheidet der Ständige Promotionsau s
+schuss nach Anhörung der Doktorandin bzw. des Doktoranden sowie der Betreuerin bzw. d es Betreuers über eine Rücknahme der Zulassung zur Promotion. 
+2Eine Rücknahme der Zulassung ist nicht möglich, solange das mit dem Bestehen 
+des Kolloquiums gemäß § 8 erworbene Recht zur Einreichung der Dissertation besteht.  
+ 
+ § 7 Promotionskommission  
+  
+(1) Die Promotionskommission stellt die Betreuerinnen und Betreuer für das Koll o
+quium, die Betreuerin bzw. den Betreuer der Dissertation sowie die Disputations
+gegner.  
+(2) 
+1Mit der Zulassung zum Promotionsverfahren bestellt die bzw. der Vorsitzende 
+des Ständigen Promo tionsausschusses auf Vorschlag der Doktorandin bzw. des 
+Doktoranden und im Benehmen mit den Vorgeschlagenen drei Professorinnen und/oder Professoren zu Mitgliedern der Promotionskommission. 
+2Ein Anspruch 
+der Doktorandin bzw. des Doktoranden auf Bestellung der Vorgeschlagenen b e
+steht nicht.  
+(3) 1Zu Mitgliedern der Promotionskommission können Hochschullehrerinnen und 
+Hochschullehrer sowie emeritierte und pensionierte Professorinnen und Professoren der Fakultät Wirtschaftsinformatik und Angewandte Informatik und P rofes
+sorinnen und Professoren anderer Fakultäten der OttoFriedrich Universität Ba m
+berg , einer anderen Universität oder einer Fachhochschule bestellt werden. 
+2Höchstens ein Mitglied der Promotionskommission kann einer anderen Fakultät 
+der OttoFriedrich Universität Bamberg, einer anderen Universität oder einer 
+Fachhochschule angehören.  3Die Mitgliedschaft in der Promotionskommission 
+kann auch nach der Emeritierung oder Pensionierung und nach der Berufung an eine andere Universität bis zum Abschluss des Prom otionsverfahrens fortgeführt 
+werden.  
+(4) Die Zusammensetzung der Promotionskommission wird der Doktorandin bzw. 
+dem Doktoranden schriftlich mitgeteilt.  
+(5) 
+1Die Promotionskommission wählt aus ihrer Mitte eine bzw. einen Vorsitzenden, 
+die bzw. der der Fakultät Wirt schaftsinformatik und Angewandte Informatik a n
+gehören muss. 2Mit Übergabe des Prüfungsprotokolls der Disputation an die Vo r
+sitzende bzw. den Vorsitzenden des Ständigen Promotionsausschusses ist die Promotionskommission aufgelöst.  
+ 
+ 9 
+ (6) 1Über Veränderungen der Zu sammensetzung der Promotionskommission wä h
+rend des Promotionsverfahrens entscheidet der Ständige Promotionsausschuss. 
+2Wenn die Betreuerin bzw. der Betreuer die Dissertation nicht mehr weiterb e
+treuen kann, so sorgt der Ständige Promotionsausschuss auf Antr ag der Dokto r
+andin bzw. des Doktoranden im Rahmen des Möglichen für eine Weiterbetreuung 
+der Arbeit. 3Kann eine neue Betreuerin bzw. ein neuer Betreuer nicht gefunden 
+werden, so bleibt es der Doktorandin bzw. dem Doktoranden unbenommen, die Arbeit ohne Bet reuung fortzusetzen.  
+ 
+ § 8  Kolloquium  
+  
+(1) 
+1Das Kolloquium dient dem Nachweis von fachlich inhaltlichen und von fo r
+schungsmethodischen Kenntnissen mit thematischem Bezug zur Dissertation. 
+2Die Kenntnisse können u.a. in Doktorandenseminaren der Mitglieder der  Prom o
+tionskommission oder im Rahmen eines Graduiertenkollegs erworben werden.  
+(2) 1Die Gegenstände des Kolloquiums werden aus drei Fächern entnommen, die aus 
+zwei verschiedenen Fächergruppen gewählt werden. 2In der Regel ist aus einem 
+dieser Fächer das Thema der Dissertation entnommen.  
+(3) 1Fächergruppen sind:  
+1. Fächer der Wirtschaftsinformatik (vertreten an der Fakultät Wirtschaftsi n
+formatik und Angewandte Informatik, kurz WIAI)  
+2. Fächer der Angewandten Informatik  (vertreten an der Fakultät WIAI)  
+3. Fächer der Informati k (vertreten an der Fakultät WIAI)  
+4. Fächer der Betriebswirtschaftslehre (vertreten an der Fakultät Sozial  und 
+Wirtschaftswissenschaften)  
+2Auf Antrag kann ein Fach außerhalb dieser Fächergruppen gewählt werden, das 
+an der Otto Friedrich Universität Bamberg oder einer anderen inländischen oder 
+ausländischen Universität vertreten ist. 3Der Ständige Promotionsausschuss ent
+scheidet in diesem Fall, ob die von der Doktorandin bzw. von dem  Doktoranden 
+gewählte Fächerkombination sinngemäß der Forderung von Absatz 2 Satz 1 g e
+nügt.  
+(4) 1Das Kolloquium wird im Allgemeinen in Form eines Fachgesprächs mit den 
+Mitgliedern der Promotionskommission durchgeführt. 2Das Fachgespräch u m
+fasst einen Kurzvortrag der Doktorandin bzw. des Doktoranden, an den sich eine 
+Fachdiskussion ansc hließt; es wird als Kollegialgespräch oder in Form von drei 
+Einzelgesprächen mit den Mitgliedern der Promotionskommission geführt. 3Die 
+Dauer des Kollegialgesprächs beträgt etwa eine Stunde, die Dauer der Einzelg e
+spräche jeweils etwa eine halbe Stunde.  
+(5) Entscheidet sich die Doktorandin bzw. der Doktorand für das Kollegialgespräch, 
+so bestimmt die bzw. der Vorsitzende der Promotionskommission im Einver
+ 
+ 10 
+ nehmen mit den übrigen Kommissionsmitgliedern Ort und Zeitpunkt und lädt 
+die Doktorandin bzw. den Doktorande n.  
+(6) 1Hinsichtlich des Ergebnisses des Kolloquiums wird zwischen bestanden oder 
+nicht bestanden unterschieden. 2Im Falle von Einzelgesprächen müssen diese 
+einzeln positiv testiert sein. 3Sind ein oder mehrere Einzelgespräche negativ tes
+tiert, so entscheidet  die Promotionskommission über das Ergebnis des Kolloqu i
+ums und ggf. die Erfordernis der Wiederholung von Einzelgesprächen.  
+(7) 1Über das Kolloquium ist ein Protokoll zu führen, in das Zeit, Ort, Hauptgege n
+stände und Form des Kolloquiums sowie das erzielte Erg ebnis aufzunehmen sind. 
+2Das Protokoll ist bei einem Kollegialgespräch von den drei Mitgliedern der Pr o
+motionskommission, bei Einzelgesprächen vom jeweiligen Mitglied und einem Schriftführer zu unterzeichnen.  
+(8) Das Kolloquium soll so rechtzeitig durchgeführt  werden, dass die gemäß Absatz 1 
+erworbenen Kenntnisse nutzbringend für die Anfertigung der Dissertation eing e
+setzt werden können.  
+(9) 
+1Das mit dem Bestehen des Kolloquiums erworbene Recht auf Einreichung der 
+Dissertation verfällt nach fünf Jahren. 2Eine Verlä ngerung dieser Frist ist in b e
+gründeten Ausnahmefällen auf Antrag möglich.  
+  
+§ 9 Dissertation 
+  
+(1) Die Dissertation soll die Fähigkeit der Doktorandin bzw. des Doktoranden zum 
+selbständigen wissenschaftlichen Arbeiten nachweisen und zum Fortschritt der Wisse nschaft beitragen.  
+ 
+(2) Das Thema der Dissertation muss bei Zulassung zum Dr. rer. pol. aus der Fächergruppe 1 gemäß § 8 Absatz  3, bei Zulassung zum Dr. rer. nat. aus den F ä
+chergruppen 2 oder 3 entnommen sein.  
+ 
+(3) 1Die Dissertation kann in Form einer Monographie oder als kumulative Dissert a
+tion angefertigt werden. 2Bei einer kumulativen Dissertation werden die spezif i
+schen Anforderungen durch die Promotionskommission  festgelegt. 3Der Antrag 
+auf Festlegung der Anforderungen kann von der Doktorandin bzw. dem Dokt o
+randen nach der Zulassung zur Promotion gestellt werden.  
+ 
+(4) 1Eine kumulative Dissertation umfasst mindestens drei in inhaltlichem Zusa m
+menhang stehende Einzelarbeiten zum Thema der Dissertation. 2Mindestens eine 
+der Arbeiten muss in alleiniger Autorenschaft verfasst sein. 3Die Arbeiten sollen 
+qualitativ hochstehend publiziert oder zur Publikation angenommen sein. 4In 
+Ausnahmefällen können auch nicht publizierte Arbeiten eingereicht werden. 
+5Bestandteil der kumulativen Dissertation ist darüber hinaus eine Einfüh rung s
+schrift, welche die Einzelbeiträge im Thema der Dissertation positioniert und i h
+ren Zusammenhang aufzeigt. 6Soweit die kumulative Dissertation Arbeiten mit 
+ 
+ 11 
+ mehreren Autoren umfasst, muss der jeweilige Beitrag der Doktorandin bzw. des 
+Doktora nden quali tativ dargelegt sein.  
+ 
+(5) 1Die Dissertation soll in deutscher oder englischer Sprache abgefasst sein. 2In 
+Ausnahmefällen kann der Ständige Promotionsausschuss von diesem Erfordernis absehen, wenn sichergestellt ist, dass eine Begutachtung möglich ist. 
+3In jed em 
+Fall ist eine ausführliche Zusammenfassung in deutscher Sprache beizufügen.  
+ 
+ § 10  Einreichung der Dissertation 
+  
+(1) 
+1Die Doktorandin bzw. der Doktorand reicht die Dissertation bei der bzw. dem 
+Vorsitzenden des Ständigen Promotionsausschusses ein. 2Die Ei nreichung setzt 
+den erfolgreichen Abschluss des Kolloquiums voraus. 3Die Arbeit sollte in ihrer 
+Gesamtheit noch nicht publiziert sein.  
+ 
+(2) Die Einreichung umfasst:  
+1. drei Exemplare  der gedruckten Dissertation und eine elektronische Fassung , 
+2. eine Erklärung, das s die Doktorandin bzw. der Doktorand die Dissertation 
+selbständig, das heißt auch ohne die Hilfe einer Promotionsberaterin bzw.  ei
+nes Promotionsberaters angefertigt, dabei keine anderen Hilfsmittel als die im Quellen  und Literaturverzeichnis genannten benutzt und alle aus Quellen und 
+Literatur wörtlich oder sinngemäß entnommenen Stellen als solche kenntlich gemacht hat,  
+3. bei einer kumulativen Dissertation, die Arbeiten mit mehreren Autoren u m
+fasst, eine Erklärung gemäß §  9 Absatz  4 Satz 6, 
+4. eine Versicherung, dass die Dissertation oder wesentliche Teile derselben nicht 
+bereits einer anderen Prüfungsbehörde zur Erlangung des Doktorgrades vorl a
+gen, 
+5. eine Erklärung darüber, ob und in welcher Form die Arbeit oder Teile daraus 
+bereits publiziert sind . 
+(3) Wird eine be reits publizierte Arbeit als Dissertation eingereicht, so kann anstelle 
+der gedruckten Exemplare eine entsprechende Anzahl von Belegexemplaren tr e
+ten. 
+ 
+ 
+§ 11  Beurteilung der Dissertation 
+ 
+ 
+(1) 
+1Nach der Einreichung werden zur Beurteilung der Dissertation unverzüglich 
+zwei Gutachterinnen bzw.  Gutachter bestellt, von denen eine bzw. einer aus dem 
+Kreise der Promotionskommission kommen muss.  2Eine Gutachterin bzw. ein 
+Gutachter muss Mitglied der Fakultät Wirtschaftsinformatik und Angewandte I n
+formatik sein  3Die bzw. der Vorsitzende des Ständigen Promotionsausschusses 
+ 
+ 12 
+ übermittelt den Mitgliedern dieses Ausschusses einen Vorschlag für die Bestel
+lung der Gutachterinnen und Gutachter. 4Falls innerhalb einer von der bzw. dem 
+Vorsitzenden bestimmten Frist ein Mitglied  des Ständigen Promotions
+ausschusses dies beantragt, entscheidet der Ständige Promotionsausschuss über die Bestellung der Gutachterinnen und Gutachter. 
+5Andernfalls bestellt die bzw. 
+der Vorsitzende die vorgeschlagenen Gutachter.  
+(2) Jede Gutachterin bzw. jed er Gutachter gibt in der Regel innerhalb von drei Mona
+ten ein schriftliches Gutachten über die Dissertation ab und schlägt dem Ständ i
+gen Promotionsausschuss die Annahme oder Ablehnung der Dissertation sowie ihre Bewertung mit einer der folgenden Noten vor : 
+0  oder 0.3  (summa cum laude)  
+0.7 oder 1.0 oder 1.3 (magna cum laude)  
+1.7 oder 2.0 oder 2.3 (cum laude)  
+2.7 oder 3.0  (rite) 
+3.3 oder 3.7 oder 4.0  (insufficienter).  
+(3) Der Ständige Promotionsausschuss bestellt eine dritte Gutachterin bzw. einen 
+dritten Gu tachter, wenn die Noten der beiden Gutachterinnen und/oder Gutac h
+ter um 2.0 oder mehr voneinander abweichen oder wenn eine Gutachterin bzw. ein Gutachter die Annahme, der andere die Ablehnung der Arbeit empfiehlt.  
+(4) Kann eine Gutachterin bzw. ein Gutachter a us unvorhergesehenen Gründen das 
+Gutachten nicht erstellen, setzt der Ständige Promotionsausschuss eine andere Gutachterin bzw. einen anderen Gutachter ein.  
+(5) 
+1Nach Eingang des letzten Gutachtens veranlasst die bzw. der Vorsitzende des 
+Ständigen Promotionsau sschusses die Auslegung der Dissertation und der Gu t
+achten zur Unterrichtung der Hochschullehrerinnen und Hochschullehrer der Fakultät Wirtschaftsinformatik und Angewandte Informatik. 
+2Die Auslegung s
+dauer beträgt vier Wochen. 3Ort der Auslegung und Auslegu ngsfristen sind rech t
+zeitig bekannt zu geben. 4Über die Einsichtnahme führt die Fakultät ein Protokoll . 
+5Die Einsichtsberechtigten können innerhalb der Auslegungsfrist schriftlich zu 
+begründende Einwände erheben. 6Wurden schriftlich begründete Einwendungen 
+erhoben, so gibt die bzw. der Vorsitzende des Ständigen Promotionsausschusses den Gutachterinnen bzw. Gutachtern Gelegenheit, ihre Gutachten unter Berüc k
+sichtigung der erhobenen Einwände zu ändern . 
+7Der Ständige Promotionsau s
+schuss kann in diesen Fällen f erner eine weitere Gutachterin bzw. einen weiteren 
+Gutachter zur Beurteilung der Dissertation bestellen. 8Wenn mindestens ein Gu t
+achten gemäß Satz 6 geändert wurde oder das Gutachten der gemäß Satz 7 be
+stellten weiteren Gutachterin bzw. des gemäß Satz 7 bestellten weiteren Gutac h
+ters vorliegt, legt die bzw. der Vorsitzende des Ständigen Promotionsausschusses die Dissertation zusammen mit dem Gutachten und den schriftlichen Einwänden nochmals aus. 
+9Für die nochmalige Auslegung gelten die Sätze 1 bis 3 entspr e
+chend; die Erhebung von Einwänden und die Bestellung einer weiteren Gutacht e
+rin bzw. eines weiteren Gutachters sind ausgeschlossen.  
+ 
+ 13 
+ (6) 1Die Dissertation ist angenommen, wenn die Mehrheit der Gutachterinnen und 
+Gutachter die Annahme vorschlägt. 2In diesem Fal l ist die Note der Dissertation 
+das nicht gerundete arithmetische Mittel der von den Gutachterinnen und Gu t
+achtern vorgeschlagenen Noten, aber nicht schlechter als 3.0.  
+(7) 1Die Annahme oder die Ablehnung der Dissertation ist der Doktorandin bzw. dem 
+Doktorand en nach Ablauf der Auslegungsfrist gemäß Absatz 5 Satz 2 schrif tlich 
+mitzuteilen.  2Gleichzeitig erhält die Doktorandin bzw. der Doktorand Einsicht in 
+die Gutachten zur Dissertation.  
+(8) 1Ist die Dissertation abgelehnt worden, so kann die Doktorandin bzw. der D okto
+rand eine neue Dissertation vorlegen. 2Eine zweite Wiederholung der Dissertation 
+ist ausgeschlossen.  
+ 
+ § 12  Disputation  
+  
+(1) 
+1Gegenstand der Disputation ist die Verteidigung der Hauptergebnisse und der 
+Forschungsmethoden der Dissertation. 2Dabei wird gep rüft, ob die Doktorandin 
+bzw. der Doktorand ihr bzw. sein Arbeitsgebiet beherrscht, hinreichende Kennt
+nisse in davon berührten Fachgebieten besitzt sowie aktuelle Entwicklungen auf diesen Gebieten kennt.  
+(2) 
+1Die Disputation findet in Form eines öffentlichen P rüfungsgesprächs statt. 
+2Prüferinnen und Prüfer (Disputationsgegnerinnen und Disputationsgegner) sind 
+im Regelfall die drei Mitglieder der Promotionskommission. 3Den Vorsitz führt 
+die bzw. der Vorsitzende der Promotionskommission.  
+(3) 1Die bzw. der Vorsitzend e der Promotionskommission bestimmt im Benehmen 
+mit der Doktorandin bzw. dem Doktoranden und den weiteren Mitgliedern der Promotionskommission den Termin der Disputation. 
+2Die Doktorandin bzw. der 
+Doktorand legt der bzw. dem Vorsitzenden spätestens zwei Wo chen vor der Di s
+putation Thesen zu den Hauptergebnissen der Dissertation in schriftlicher Form vor. 
+3Die Dekanin bzw. der Dekan leitet den Disputationsgegnern sowie den wei
+teren prüfungsberechtigten Mitgliedern der Fakultät die Thesen zusammen mit der Einl adung zur Disputation zu. 
+(4) 
+1In der Disputation trägt die Doktorandin bzw. der Doktorand etwa 20 Minuten 
+die wesentlichen Ergebnisse ihrer bzw. seiner Dissertation vor. 2Vortrag und an
+schließendes Prüfungsgespräch sollen etwa 60 Minuten betragen. 3Die Dispu tati
+on ist öffentlich.  
+(5) 1Über die Disputation ist ein Protokoll zu führen, in das Zeit, Ort und Haupt 
+gegenstände der Disputation aufzunehmen sind. 2Das Protokoll ist von den drei 
+Mitgliedern der Promotionskommission zu unterzeichnen.  
+(6) 1Nach Abschluss der Di sputation berät die Promotionskommission nichtöffentlich 
+über das Ergebnis der Disputation. 2Jede Disputationsgegnerin bzw. jeder Disp u
+tationsgegner erteilt dabei eine Note entsprechend § 11 Absatz  2. 3Die Note der 
+ 
+ 14 
+ Disputation ist das nicht gerundete arith metische Mittel der von den drei Prüfern 
+erteilten Fachnoten. 4Die Disputation ist bestanden, wenn wenigstens zwei der 
+drei Prüferinnen und/oder Prüfer die Disputationsleistung mindestens mit der 
+Note „rite“ bewertet haben und das arithmetische Mittel nich t schlechter als „rite“ 
+ist. 
+(7) Die Disputation ist nicht bestanden, wenn der Disputationstermin von der Do k
+torandin bzw. dem Doktoranden ohne zureichenden Grund nicht eingehalten wurde oder wenn mindestens zwei Prüferinnen und/oder Prüfer die Note "insu f
+ficienter" erteilen.  
+(8) Eine nicht bestandene Disputation kann auf Antrag einmal wiederholt werden.  
+(9) Wird nach nicht bestandener Disputation kein Antrag auf Wiederholung gestellt 
+oder wird die Disputation ein zweites Mal nicht bestanden, so ist das Promotionsverfa hren endgültig ohne Erfolg abgeschlossen.  
+(10) 
+1Die Disputation soll in der Regel innerhalb einer Frist von drei Monaten nach 
+Annahme der Dissertation abgeschlossen sein. 2Während der vorlesungsfreien 
+Zeit finden im Allgemeinen keine Disputationen statt. 3Die b zw. der Vorsitzende 
+des Ständigen Promotionsausschusses kann aus wichtigem Grund mit Zusti m
+mung der Beteiligten Ausnahmen zulassen. 4Doktorandinnen bzw. Doktoranden 
+mit einer Behinderung oder einer chronischen Erkrankung, die mit prüfungsrelevanten Beeintr ächtigungen verbunden ist, ist ein Nachteilsausgleich zu gewähren. 
+5Die Art des Nachteilsausgleich s ist in angemessener Weise vom Promotionsaus
+schuss festzulegen, die betroffene Doktorandin bzw. der betroffene Doktorand können Vorschläge unterbreiten. 
+6Nachteilsausgleich gemäß Satz 5 wird nur auf 
+schriftlichen Antrag hin gewährt. 7Der Antrag ist spätestens mit dem Einreichen 
+der Dissertation an den zuständigen Promotionsausschuss zu richten; die Behinderung oder chronische Krankheit ist durch ein ärztliches Zeugnis glaubhaft zu 
+machen.  
+ 
+ 
+§ 13  Feststellung des Promotionsergebnisses 
+ 
+ 
+(1) Das Promotionsverfahren ist erfolgreich abgeschlossen, wenn die Dissertation a n
+genommen und die Disputation bestanden ist.  
+(2) 
+1Die Gesamtnote der Promotion ergibt sich aus der Summ e der doppelten Note 
+der Dissertation gemäß § 11 Absatz  6 und der einfachen Note der Disputation g e
+mäß § 12 Absatz  6 geteilt durch drei. 2Diese Noten gehen nicht gerundet in die 
+Mittelwertbildung ein. 3Die Gesamtnote wird auf zwei Stellen geschnitten und 
+lautet bei einem Mittelwert  
+  bis 0.50  „summa cum laude"  
+  über 0.50 bis 1.50  „magna cum laude"  
+  über 1.50 bis 2.50  „cum laude"  
+  über 2.50 bis 3.00  „rite" 
+ 
+ 15 
+ (3) 1Unmittelbar nach Abschluss der Disputation stellen die Mitglieder der Promot i
+onskommission di e Gesamtnote der Promotion fest. 2Das Prüfungsprotokoll mit 
+sämtlichen Noten wird sodann der bzw. dem Vorsitzenden des Ständigen Prom o
+tionsausschusses übergeben.  
+(4) 1Über das Ergebnis des Promotionsverfahrens erteilt die bzw. der Vorsitzende des 
+Ständigen Pr omotionsausschusses der Doktorandin bzw. dem Doktoranden einen 
+schriftlichen Bescheid, der sämtliche Noten enthält. 2Dieser Bescheid berechtigt 
+nicht zur Führung des Doktorgrades.  
+ 
+ 
+§ 14 Veröffentlichung der Dissertation 
+  
+(1) 
+1Um die Dissertation in angemessener Weise der wissenschaftlichen Öffentlic h
+keit zugänglich zu machen, hat die Doktorandin bzw. der Doktorand  
+1. ihre bzw. seine Dissertation in einem Verlag als Monographie oder in einem 
+Sammelband mit internationaler Standard Buchnummer oder in einer Zei t
+schrift mit internationaler St andard Seriennummer in einer Mindestauflage 
+von 150 zu veröffentlichen und 6 Exemplare dieser Auflage kostenfrei bei der Fakultät Wirtschaftsinformatik und Angewandte Informatik abzuliefern oder  
+2. sechs Exemplare der Originalfass ung in ausgedruckter, gebundener Form auf 
+alterungsbeständigem, holz  und säurefreiem Papier sowie eine elektronische 
+Kopie kostenfrei bei der Fakultät Wirtschaftsinformatik und Angewandte I n
+forma tik abzuliefern.  
+ 
+2Eine Buchveröffentlichung gemäß Nummer 1  ist auf der Rückseite des Titelbla t
+tes als Dissertation unter Angabe des Dissertationsortes auszuweisen. 3Das Date n
+format sowie die Abgabe der elektroni schen Kopie gemäß Nummer 2 werden von 
+der Universitätsbibliothek im Benehmen mit dem  Ständigen  Promotionsau s
+schuss festgelegt.  4Bei einer Veröffentlichung gemäß Nummer 2 überträgt die 
+Doktorandin bzw. der Doktorand der Otto Friedrich Universität Bamberg das 
+Recht, weitere Kopien der Dissertation herzustellen und zu verbreiten oder die 
+Dissertation in Datennetzen zur Verfügung zu stellen.  
+(2) 1Die Dissertation ist in der vo n der bzw. dem  Vorsitzenden des Ständigen Prom o
+tions ausschusses im Einvernehmen mit den Gutachtern genehmigten Fassung zu 
+veröffentlichen. 2Die Druckerlaubnis kann nur davon abhängig gemacht w erden, 
+dass in den Gutachten angeregte Änderungen der ursprünglich vorgelegten Fa s
+sung vorgenommen werden.  
+(3) Bei Veröffentlichung der Dissertation gemäß Absatz 1 Nr. 1 kann die bzw. der 
+Vorsitzende des Ständigen Promotionsausschusses im Einvernehmen mit den 
+Gutachtern Abweichungen der Druckfassung von der ursprünglich vorgelegten Fassung auch dann zulassen, wenn sie nicht in den Gutachten angeregt worden sind.  
+ 
+ 16 
+ (4) Die bei der Fakultät Wirtschaftsinformatik und Angewandte Informatik kostenfrei 
+einzuliefernden Exem plare der Dissertation müssen der vom Ständigen Promot i
+onsausschuss vorgeschriebenen Form entsprechen.  
+(5) 1Die Verpflichtung gemäß Absatz 1 ist binnen 18 Monaten seit dem Tag der Pr o
+motion gemäß § 15 Absatz  2 zu erfüllen. 2In begründeten Ausnahmefällen, insb e
+sondere bei einer Veröffentlichung gemäß Absatz 1 Nr. 1, kann die bzw. der Vo r
+sitzende des Ständigen Promotionsausschusses diese Frist verlängern.  
+(6) Kommt die Doktorandin bzw. der Doktorand ihren bzw. seinen Verpflichtungen 
+nach den Absätzen 1 bis 4 nicht innerhalb der Fristen nach Absatz 5 nach, erl ö
+schen alle im Promotionsverfahren erworbenen Rechte.  
+ 
+ 
+§ 15  Verleihung des Doktorgrades 
+ 
+ 
+(1) Hat die Doktorandin bzw. der Doktorand die Pflichtexemplare fristgemäß abgeli e
+fert, vollzieht die Dekanin bzw. der Dekan der Fakultät Wirtschaftsinformatik und 
+Angewandte Informatik die Promotion durch Aushändigung der Promotionsu r
+kunde.  
+(2) 1Die Promotionsurkunde enthält den verliehenen Doktorgrad, den Titel der Di s
+sertation, die Gesamtnote und den Tag der Promotion. 2Als Tag d er Promotion 
+wird der Tag der Disputation eingesetzt. 3Die Promotionsurkunde wird von der 
+Dekanin bzw. dem Dekan der Fakultät Wirtschaftsinformatik und Angewandte I n
+formatik und von der Präsidentin bzw. dem Präsidenten der OttoFriedrich 
+Universität Bamber g unterzeichnet und mit dem Siegel der Otto Friedrich 
+Universität Bamberg versehen.  
+(3) Vom Zeitpunkt der Aushändigung der Promotionsurkunde an darf die Doktora n
+din bzw. der Doktorand den verliehenen Doktorgrad führen.  
+(4) Ausnahmsweise kann die bzw. der Vorsitzende des Ständigen Promotionsau s
+schusses vor Ablieferung der Pflichtexemplare die vorläufige Führung des Do k
+torgrades gestatten, falls eine besondere Notwendigkeit dafür nachgewiesen und 
+ein Verlagsvertrag, in dem die Veröffentlichung der Dissertation gemäß § 14 A b
+satz 1 Nr. 2 vereinbart ist, vorgelegt wird.  
+ 
+ § 16 Einsichtsrecht   
+ 
+ 
+1Nach Abschluss des Promotionsverfahrens wird der Doktorandin bzw. dem Do k
+toranden auf Antrag Einsicht in die Prüfungsprotokolle gewährt. 2Der Antrag ist 
+binnen eines Monats nach Aushändigung des Bescheides gemäß § 13 Absatz  4 an 
+die Vorsitzende bzw. den Vorsitzenden des Ständigen Promotionsausschu sses zu 
+richten. 3Die bzw. der Vorsitzende des Ständigen Promotionsausschusses b e
+stimmt Ort und Zeit der Einsichtnahme. Die Einsichtnahm e in die Gutachten ist 
+in § 11 Absatz  7 geregelt.  
+ 
+ 17 
+  
+ 
+ 18 
+  
+§ 17 Ehrenpromotion 
+  
+(1) Auf begründeten schriftlichen Antrag von drei Hochschullehrerinnen und/oder 
+Hochschullehrern der Fakultät Wirtschaftsinformatik und Angewandte Inform a
+tik entscheidet der Ständige Pr omotionsausschuss über die Einleitung eines Eh
+renpromotionsverfahrens.  
+(2) Der Ständige Promotionsausschuss bestellt mindestens drei Hochschullehreri n
+nen und/oder Hochschullehrer zur Begutachtung der besonderen Verdienste um die Wirtschaftsinformatik und Ange wandte Informatik, die sich die zu ehrende 
+Person erworben hat.  
+(3) 
+1Der Antrag und die Gutachten sind den Mitgliedern des Fakultätsrates zuzuleiten 
+und für alle Hochschullehrerinnen und Hochschullehrer, die nicht Mitglieder des Fakultätsrates sind, auszulegen. 
+2§ 11 Absatz  5 Sätze 2 bis 4 gelten entsprechend.  
+(4) 1Der Fakultätsrat entscheidet über die Ehrenpromotion unter Würdigung des A n
+trages und der Gutachten sowie der gemäß § 11 Absatz  5 Satz 4 vorgelegten Ste l
+lungnahmen. 2Für die Beschlussfassung sind zwei D rittel der Stimmen erforde r
+lich und ausreichend, über welche die dem Fakultätsrat bzw. dem Gründungsau s
+schuss angehörenden Professorinnen und Professoren und promovierten Vertr e
+terinnen und Vertreter anderer Mitgliedergruppen zusammen verfügen.  
+(5) 1Die Dekanin bzw. der Dekan vollzieht die Ehrenpromotion durch feierliche Au s
+händigung einer Urkunde an die geehrte Persönlichkeit. 2Die Verdienste des 
+Promovierten sind in der Urkunde hervorzuheben.  
+ 
+ § 18 Ungültigkeit der Promotion und Aberkennung des Doktorgrades 
+  
+(1) Ergibt sich vor Aushändigung der Urkunde, dass sich die Doktorandin bzw. der 
+Doktorand im Promotionsverfahren einer Täuschung schuldig gemacht hat, so erklärt der Ständige Promotionsausschuss alle im Verfahren erworbenen Rechte 
+für ungültig und stellt d as Verfahren ein.  
+(2) Wird die Täuschung erst nach Aushändigung der Urkunde bekannt, so ist das 
+Promotionsverfahren nachträglich für nicht erfolgreich abgeschlossen zu erklä
+ren. 
+(3) 
+1Waren die Voraussetzungen für die Zulassung zur Promotion nicht erfüllt, ohne 
+dass die Doktorandin bzw. der Doktorand hierüber täuschen wollte, und wird di e
+se Tatsache erst nach Aushändigung der Urkunde bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt. 
+2Hat die Doktorandin bzw. der Dokt o
+rand die Zulassung vorsätzli ch zu Unrecht erwirkt, so entscheidet der Ständige 
+Promotionsausschuss über die erforderlichen Maßnahmen unter Beachtung der allgemeinen Grundsätze für die Rücknahme rechtswidriger Verwaltungsakte.  
+ 
+ 19 
+ (4) Die bzw. der Betroffene muss vor einer Entscheidung nach den Absätzen 1 bis 3 
+gehört werden.  
+(5) Im Übrigen richtet sich die Aberkennung des Doktorgrades nach den gesetzlichen 
+Vorschriften.  
+(6) Bei Aberkennung des Doktorgrades ist die Promotionsurkunde einzuziehen.  
+ 
+ § 19 InKraft Treten 
+  
+(1) Diese Promotionsordnung t ritt am Tag nach ihrer Bekanntmachung in Kraft.  
+ 
+(2) Die Promotionsordnung der Fakultät Wirtschaftsinformatik und Angewandte I n
+formatik an der Otto Friedrich Universität Bamberg vom 31. März 2008 (Fundste l
+le: http://www.uni bamberg.de/fileadmin/uni/amtliche_veroeffentlichungen/2008 
+/2008 69.pdf ), geändert durch Satzung zur Änderung der Promotionsordnung der 
+Fakultät Wirt schaftsinformatik und Angewandte Inf ormatik an der Otto Friedrich 
+Universität Bamberg vom 15. Dezember 2011 (Fundstelle: http://www.uni 
+bamberg.de/fileadmin/uni/amtliche_veroeffentlichungen/2011/2011 61.pdf), tritt 
+zum gleichen Zeitpunkt außer Kraft.  
+ 
+ § 20 Übergangsregelung 
+  
+Doktorandinnen und Doktoranden, die vor Inkrafttreten dieser Ordnung zur Promotion zugelassen wurden, sind von der Verpflichtung gemäß § 5 Absatz  2 Nr. 6 (Betreuung s
+vereinbarung) befreit.  
+ 
+ 
+ 20 
+  
+Ausgefertigt aufgrund des Beschlusses des  Senats der Otto Friedrich Universität  Bam
+berg vom 20. Juli 2011 und der Universitätsleitung der Otto Friedrich Universität Ba m
+berg vom 23. November 2011 sowie der Genehmigung gemäß  Artikel 13 Absatz  2 Satz 2 
+in Ver bindung mit Art ikel 64 Absatz  1 Satz 3 BayHSchG durch den Präsidenten der Otto 
+Friedrich Universität Ba mberg vom 20. Januar 2012. 
+ 
+Bamberg, 20. Januar  2012 
+ Prof. Dr. Dr. habil. G. Ruppert  
+Präsident  
+  Die Satzung wurde am 20. Januar 2012 in der Universität Bamberg niedergelegt; die Ni e
+derlegung wurde am gleichen Tag durch Anschlag in  der Hochschule bekannt gemacht. 
+Tag der Bekanntm achung ist daher der 20. Januar 2012. 

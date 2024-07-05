@@ -1,0 +1,1088 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Promotionsordnung 
+der LudwigMaximiliansUniversität München 
+für die Fakultät für Mathematik, Informatik und Statistik 
+ 
+Vom 12. Juli 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Auf Grund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 64 Abs. 1 Satz 5 des 
+Bayerischen Hochschulgesetzes (BayHSchG) erlässt die LudwigMaximilians
+Universität München folgende Satzung: 
+ 
+ 2  
+ 
+ 
+Inhaltsübersicht 
+ 
+I. Allgemeines 
+ 
+§ 1 Akademische Grade 
+§ 2 Promotionsausschuss, Promotionskommission, Prüfungskollegium 
+ 
+II. Annahme als Bewerberin bzw. Bewerber 
+ 
+§ 3 Zulassungsvoraussetzungen 
+§ 4 Promotionseignungsprüfung 
+§ 5 Anrechnung von Kompetenzen 
+§ 6 Annahme als Bewerberin bzw. Bewerber 
+ 
+III. Dissertation 
+ 
+§ 7 Betreuung der Dissertation und Themenvergabe 
+§ 8 Dissertation 
+ 
+IV. Promotionsverfahren 
+ 
+§ 9 Prüfungsleistungen 
+§ 10 Zeitlicher Ablauf des Promotionsverfahrens 
+§ 11 Bewertung von Prüfungsleistungen 
+§ 12 Beurteilung der Dissertation 
+§ 13 Disputation 
+§ 14 Gesamtnote 
+ 
+V. Druck der Dissertation 
+ 
+§ 15 Druckverpflichtung 
+§ 16 Veröffentlichung der Dissertation 
+ 
+VI. Führung des Doktorgrades 
+ 
+§ 17 Ausstellung der Urkunde und des Prüfungszeugnisses 
+§ 18 Erneuerung der Doktorurkunde 
+§ 19 Entzug des Doktorgrades 
+ 
+VII. Ehrenpromotion 
+ 
+§ 20 Verfahren 
+ 
+VIII. Vergabe des Doktorgrades im Rahmen  
+bi bzw. multinationaler Promotionsverfahren 
+ 
+§ 21 Promotion in gemeinsamer Betreuung mit einer oder mehreren ausländischen 
+Universitäten 
+§ 22 Urkunde und Führung des Doktorgrades bei bi bzw. multinationalen 
+ 3  
+ 
+Promotionen 
+ 
+IX. Schlussbestimmungen 
+ 
+§ 23 Inkrafttreten, Übergangsbestimmungen 
+ 
+ 4  
+ 
+ 
+I. Allgemeines 
+ 
+§ 1 
+Akademische Grade 
+ 
+(1) 1Die Fakultät für Mathematik, Informatik und Statistik verleiht für die Ludwig
+MaximiliansUniversität München den akademischen Doktorgrad der 
+Naturwissenschaften (Dr. rer. nat.), wenn die Befähigung zu vertiefter 
+wissenschaftlicher Arbeit in einem der Promotionsfächer – Mathematik, Informatik, 
+Statistik, Didaktik der Mathematik oder Informatik, Bioinformatik, Medieninformatik 
+und Geschichte der Naturwissenschaften – nachgewiesen wird. 2Die Verleihung 
+(Promotion) beruht auf einer selbständigen wissenschaftlichen Arbeit (Dissertation) 
+und einer mündlichen Prüfung (Disputation); die Beurteilung der Dissertation und die 
+Disputation sind Bestandteile der Doktorprüfung. 3Die Dissertation wird in der Regel 
+von einer Hochschullehrerin oder einem Hochschullehrer der Fakultät für 
+Mathematik, Informatik und Statistik angeregt und betreut; sie muss eine 
+wissenschaftliche Leistung darstellen, die zu neuen Erkenntnissen führt. 4Mit der 
+Disputation soll ein genügender Umfang an Fachwissen nachgewiesen werden. 
+ 
+(2) Als seltene Auszeichnung kann der akademische Grad eines Doktors der 
+Naturwissenschaften ehrenhalber (Dr. rer. nat. h. c.) an Persönlichkeiten verliehen 
+werden, die durch besonders hervorragende wissenschaftliche Leistungen auf den 
+in der Fakultät für Mathematik, Informatik und Statistik gepflegten 
+Wissenschaftsgebieten hervorgetreten sind. 
+ 
+§ 2 
+Promotionsausschuss, Promotionskommission, Prüfungskollegium 
+ 
+(1) Die Entscheidung in allen Promotionsangelegenheiten obliegt dem 
+Promotionsausschuss (Abs. 2) der Fakultät für Mathematik, Informatik und Statistik, 
+soweit diese Promotionsordnung sie nicht der Dekanin oder dem Dekan, der nach 
+Abs. 3 und 4 für ein einzelnes Promotionsverfahren bestellten 
+Promotionskommission oder dem gemäß Abs. 5 für die Promotionseignungsprüfung 
+gebildeten Prüfungskollegium überträgt. 
+ 
+(2) 1Dem Promotionsausschuss gehören an 
+ 
+1. stimmberechtigt: 
+ 
+a) Professorinnen und Professoren sowie Juniorprofessorinnen und 
+Juniorprofessoren der Fakultät für Mathematik, Informatik und Statistik 
+(Art. 17 Abs. 1 Satz 1 BayHSchG in Verbindung mit Art. 2 Abs. 1 
+Satz 1 Nrn. 1 und 2 BayHSchPG), 
+ 
+b) entpflichtete und im Ruhestand befindliche Professorinnen und 
+Professoren der Fakultät für Mathematik, Informatik und Statistik (Art. 17 
+ 5  
+ 
+Abs. 1 Satz 2 BayHSchG) sowie Honorarprofessorinnen und 
+Honorarprofessoren der Fakultät für Mathematik, Informatik und Statistik 
+(gemäß Art. 17 Abs. 1 Satz 1 in Verbindung mit Art. 2 Abs. 2 Nr. 1 
+BayHSchPG), sofern sie bis zum Beginn eines akademischen Jahres 
+(1. Oktober) ihre Bereitschaft zur Mitwirkung bei der Dekanin oder beim 
+Dekan schriftlich bekundet haben oder mit ihrer Zustimmung für ein 
+bestimmtes Promotionsverfahren von der Dekanin oder vom Dekan in den 
+Promotionsausschuss berufen werden, 
+ 
+c) die an Einrichtungen der Fakultät für Mathematik, Informatik und Statistik 
+tätigen Privatdozentinnen und Privatdozenten und außerplanmäßigen 
+Professorinnen und Professoren (Art. 2 Abs. 2 Nr. 2 BayHSchPG), 
+ 
+2. beratend 
+ 
+die oder der Frauenbeauftragte der Fakultät für Mathematik, Informatik und 
+Statistik, sofern sie oder er nicht schon nach Nr. 1 stimmberechtigtes Mitglied 
+ist. 
+ 
+3. 1Der Fakultätsrat kann auf Antrag durch Beschluss Hochschullehrerinnen und 
+Hochschullehrer (im Sinne von Art. 2 Abs. 3 Satz 1 BayHSchPG) und weitere 
+an Einrichtungen der Fakultät für Mathematik, Informatik und Statistik tätige 
+promovierte Wissenschaftlerinnen und Wissenschaftler beratend oder 
+stimmberechtigt in den Promotionsausschuss berufen, sofern diese ein 
+berechtigtes Interesse an der Betreuung von Dissertationen haben; hierzu 
+gehören insbesondere drittmittelgeförderte Nachwuchsgruppenleiterinnen und 
+Nachwuchsgruppenleiter. 2Die Voraussetzungen des § 4 Sätze 2 und 3 
+Hochschulprüferverordnung (HSchPrüferV) müssen erfüllt sein. 
+ 
+(3) 1Für das Promotionsverfahren bestellt der Promotionsausschuss auf Antrag der 
+Betreuerin oder des Betreuers der Dissertation eine Promotionskommission, in der 
+Regel aus dem Kreis seiner Mitglieder. 2Ihr obliegt die Durchführung der Disputation. 
+3Der Antrag soll so rechtzeitig gestellt werden, dass die Berichterstatterinnen und 
+Berichterstatter (§ 12 Abs. 1) unmittelbar nach Eröffnung des Promotionsverfahrens 
+ihre Arbeit aufnehmen können. 4Im Fall einer nicht betreuten Dissertation wird die 
+Promotionskommission im Zusammenhang mit der Beschlussfassung nach § 7 
+Abs. 3 gebildet. 
+ 
+(4) 1In die Promotionskommission werden zwei, bei fächerübergreifenden 
+Dissertationen drei Berichterstatterinnen und Berichterstatter nach Maßgabe von 
+§ 12 Abs. 1, sowie mindestens ein weiteres Mitglied, höchstens drei weitere 
+Mitglieder und ein stellvertretendes Mitglied bestellt. 2Mindestens eine oder einer der 
+Berichterstatterinnen oder Berichterstatter muss Professorin oder Professor an der 
+Fakultät für Mathematik, Informatik und Statistik sein. 3Die anderen müssen den 
+Rang einer Hochschullehrerin oder eines Hochschullehrers an einer Universität 
+haben; ein Mitglied kann unter den Voraussetzungen des § 7 Abs. 1 Satz 3 
+Professorin oder Professor an einer Fachhochschule sein. 4Die zweite 
+Berichterstatterin oder der zweite Berichterstatter soll in der Regel nicht der Fakultät 
+für Mathematik, Informatik und Statistik angehören. 5Eines ihrer Mitglieder, in der 
+Regel keine oder keiner der Berichterstatterinnen und Berichterstatter, wird von dem 
+ 6  
+ 
+Promotionsausschuss zur Vorsitzenden oder zum Vorsitzenden der 
+Promotionskommission bestellt. 6Die Dekanin oder der Dekan gibt die Mitglieder der 
+Promotionskommission bekannt und lädt zu den Sitzungen der 
+Promotionskommission ein. 
+ 
+(5) Die Dekanin oder der Dekan bestellt drei Prüferinnen und Prüfer aus dem 
+Promotionsausschuss als Prüfungskollegium für die Promotionseignungsprüfung 
+(§ 4) und eine bzw. einen von diesen zur oder zum Vorsitzenden; in Ausnahmefällen 
+kann der Promotionsausschuss auch gleichrangige Wissenschaftlerinnen oder 
+Wissenschaftler anderer Fakultäten, gleichrangige auswärtige Wissenschaftlerinnen 
+oder Wissenschaftler oder Professorinnen oder Professoren einer Fachhochschule 
+als Prüferinnen oder Prüfer bestellen. 
+ 
+II. Annahme als Bewerberin bzw. Bewerber 
+ 
+§ 3 
+Zulassungsvoraussetzungen 
+ 
+(1) 1Wer die Zulassung zum Promotionsstudium beantragt, soll die deutsche oder die 
+englische Sprache beherrschen. 2Eine gleichartige Doktorprüfung darf nicht endgültig 
+nicht bestanden sein. 3Es dürfen keine Gründe für die Entziehung eines Doktorgrades 
+nach den gesetzlichen Bestimmungen vorliegen. 
+ 
+(2) Zulassungsvoraussetzungen für die Annahme als Bewerberin bzw. Bewerber sind: 
+ 
+1. die allgemeine Hochschulreife oder die einschlägige fachgebundene 
+Hochschulreife, 
+ 
+2. ein ordentliches, fachlich einschlägiges Studium (Abs. 3) eines für das 
+Promotionsvorhaben einschlägigen Faches an einer Universität, an einer dieser 
+gleichstehenden Hochschule oder an einer Fachhochschule, das mit einer fachlich 
+einschlägigen Abschlussprüfung (Abs. 4), die mit einer überdurchschnittlichen 
+Leistung (Abs. 5) bestanden wurde, und 
+ 
+3. eine besondere Befähigung für wissenschaftliches Arbeiten in dem angestrebten 
+Promotionsfach; die besondere Befähigung für wissenschaftliches Arbeiten ist 
+gegeben, wenn 
+ 
+a) zwei Mitglieder des Promotionsausschusses die wissenschaftliche Eignung 
+und wissenschaftliche Vorkenntnisse der Bewerberin oder des Bewerbers 
+feststellen und die Annahme als Bewerberin bzw. Bewerber befürworten oder 
+wenn 
+ 
+b) die Bewerberin oder der Bewerber eine Promotionseignungsprüfung nach § 4 
+bestanden haben. 
+ 
+(3) 1Fachlich einschlägig im Sinne des Abs. 2 Nr. 2 für ein Promotionsfach ist das 
+Studium folgender Fächer: 
+ 7  
+ 
+ 
+1. für die Promotionsfächer Mathematik und Didaktik der Mathematik: Mathematik 
+einschließlich Didaktik der Mathematik, Wirtschaftsmathematik, Informatik, Statistik 
+und Physik; 
+ 
+2. für die Promotionsfächer Informatik, Didaktik der Informatik und Medieninformatik: 
+Informatik einschließlich Didaktik der Informatik, Bioinformatik, Medieninformatik, 
+Wirtschaftsinformatik, Mathematik einschließlich Didaktik der Mathematik, 
+Wirtschaftsmathematik, Statistik und Physik;  
+ 
+3.  für das Promotionsfach Bioinformatik: Bioinformatik, Informatik, Medieninformatik, 
+Wirtschaftsinformatik, Mathematik, Wirtschaftsmathematik, Statistik, Biostatistik, 
+und Physik;  
+ 
+4. für das Promotionsfach Statistik: Statistik, Biostatistik, Bioinformatik, Informatik, 
+Wirtschaftsinformatik, Mathematik, Wirtschaftsmathematik und Physik; 
+ 
+5. für das Promotionsfach Geschichte der Naturwissenschaften: Mathematik 
+einschließlich Didaktik der Mathematik und Wirtschaftsmathematik, Informatik 
+einschließlich Didaktik der Informatik, Bioinformatik, Medieninformatik, 
+Wirtschaftsinformatik und Statistik. 
+ 
+2Außerdem ist jedes andere Fach einschlägig, das zum Sachgebiet der Dissertation 
+gehört. 3Über die Einschlägigkeit entscheidet auf Antrag die Dekanin oder der 
+Dekan. 4Sie oder er kann im Einzelfall eine Stellungnahme von drei Mitgliedern des 
+Promotionsausschusses einholen. 
+ 
+(4) Fachlich einschlägige Abschlussprüfungen im Sinne des Abs. 2 Nr. 2 sind die an 
+einer deutschen Universität oder dieser gleichstehenden Hochschule oder an einer 
+Fachhochschule abgelegte DiplomHauptprüfung, Master/MagisterPrüfung oder 
+Bachelorprüfung in einem einschlägigen Fach oder die Erste Staatsprüfung für das 
+Lehramt an Gymnasien mit einer Schriftlichen Hausarbeit (Zulassungsarbeit) in einem 
+deutschen Bundesland in einem einschlägigen Fach. 
+ 
+(5) 1Eine überdurchschnittliche Leistung im Sinne des Abs. 2 Nr. 2 ist gegeben, 
+wenn entweder 
+ 
+1. eine benotete schriftliche Abschlussarbeit vorliegt und mindestens mit der Note 
+„gut“ bewertet wurde oder  
+ 
+2. keine benotete schriftliche Abschlussarbeit vorliegt, der erzielte Notendurchschnitt 
+der Abschlussprüfung aber mindestens die Note „gut“ ergibt. 
+ 
+2Andernfalls kann die Überdurchschnittlichkeit der Leistungen auch durch 
+wissenschaftliche Leistungen, wie z.B. Veröffentlichungen, nachgewiesen werden. 
+3Hierüber entscheidet auf Antrag die Dekanin oder der Dekan.  
+ 
+(6) 1Noten im Sinne des Abs. 5, die nicht nach einem Notensystem mit fünf Notenstufen 
+ermittelt wurden, werden linear auf ein solches Notensystem umgerechnet. 2Die Note 
+„gut“ ist erreicht, wenn die Umrechnung einen numerischen Wert kleinergleich 2,50 
+ 8  
+ 
+ergibt. 
+ 
+§ 4 
+Promotionseignungsprüfung 
+ 
+(1) Die Bewerberin oder der Bewerber soll in der Promotionseignungsprüfung 
+Kenntnisse und Fähigkeiten nachweisen, die erforderlich sind, um im gewählten 
+Promotionsfach ein Dissertationsthema mit Aussicht auf Erfolg zu bearbeiten. 
+ 
+(2) 1Der Antrag auf Zulassung zur Promotionseignungsprüfung ist schriftlich an die 
+Dekanin oder den Dekan zu stellen. 2Dem Antrag sind folgende Unterlagen im Original 
+oder in Form amtlich beglaubigter Abschriften beizufügen: 
+ 
+1. ein Lebenslauf, der Aufschluss über den wissenschaftlichen Bildungsweg und eine 
+ggf. ausgeübte Berufstätigkeit gibt; 
+ 
+2. Nachweise über die in § 3 bezeichneten Zulassungsvoraussetzungen; 
+ 
+3. das Studienbuch oder eine entsprechende Bescheinigung; 
+ 
+4. ein amtliches Führungszeugnis bzw. bei ausländischen Bewerberinnen und 
+Bewerbern eine entsprechende Bescheinigung der zuständigen Behörde. 
+ 
+3Über den Zulassungsantrag ist innerhalb von drei Monaten zu entscheiden. 
+ 
+(3) 1Sind die Unterlagen gemäß Abs. 2 vollständig und liegen die entsprechenden 
+Voraussetzungen vor, lässt die Dekanin oder der Dekan zur 
+Promotionseignungsprüfung zu. 2Die Dekanin oder der Dekan setzt den 
+Prüfungstermin fest. 3Die Promotionseignungsprüfung muss spätestens sechs 
+Monate nach Eingang des Antrags auf Zulassung zur Promotionseignungsprüfung 
+durchgeführt worden sein. 4Die Ladung zur Promotionseignungsprüfung ist 
+mindestens acht Tage vor dem Prüfungstermin unter Mitteilung der Namen der 
+Prüferinnen oder Prüfer zu übersenden. 5Im Fall der Verhinderung einer 
+vorgesehenen Prüferin oder eines vorgesehenen Prüfers kann die oder der 
+Vorsitzende kurzfristig eine Ersatzprüferin oder einen Ersatzprüfer bestellen; die 
+Ordnungsmäßigkeit der Ladung wird dadurch nicht berührt. 6§ 13 Abs. 6 gilt 
+entsprechend. 
+ 
+(4) 1Die Promotionseignungsprüfung wird als Kollegialprüfung abgehalten. 2Die 
+Promotionseignungsprüfung ist eine mündliche Prüfung von 60 Minuten Dauer. 3Sie 
+besteht aus einem wissenschaftlichen Vortrag mit Diskussion sowie aus einer 
+mündlichen Prüfung über das übergreifende Fachgebiet der Promotion. 4Der 
+wesentliche Ablauf ist in einem Protokoll festzuhalten, das von einem promovierten 
+Mitglied der Fakultät für Mathematik, Informatik und Statistik geführt wird. 
+ 
+(5) 1Die Promotionseignungsprüfung ist bestanden, wenn Leistungen erbracht wurden, 
+die durchschnittliche Anforderungen an ein Promotionsstudium übertreffen. 2Über die 
+bestandene Promotionseignungsprüfung wird ein Zeugnis ausgestellt. 3Ist die 
+Promotionseignungsprüfung nicht bestanden oder gilt sie als nicht bestanden, so erteilt 
+ 9  
+ 
+die Dekanin oder der Dekan darüber einen schriftlichen Bescheid, der mit einer 
+Rechtsbehelfsbelehrung zu versehen ist. 
+ 
+(6) 1Die Promotionseignungsprüfung kann auch als bestanden erklärt werden, wenn 
+zusätzliche Studien und Prüfungsleistungen verlangt werden, deren Erbringung nicht 
+mehr als ein Jahr erfordert. 2Die oder der Vorsitzende des Prüfungskollegiums stellt eine 
+Bescheinigung aus, ob und, wenn ja, in welchem Umfang zusätzliche Studien und 
+Prüfungsleistungen zu erbringen sind. 3Nach Erbringung der zusätzlichen Studien und 
+Prüfungsleistungen mit überdurchschnittlichem Erfolg stellt die oder der Vorsitzende des 
+Prüfungskollegiums eine Bescheinigung darüber aus. 
+ 
+(7) 1Eine nicht bestandene Promotionseignungsprüfung kann einmal wiederholt 
+werden. 2Die Wiederholung hat spätestens innerhalb eines Jahres nach der 
+Mitteilung über die nicht bestandene Promotionseignungsprüfung stattzufinden; eine 
+zweite Wiederholung ist nur in Ausnahmefällen mit Zustimmung des 
+Promotionsausschusses innerhalb einer Frist von sechs Monaten zulässig. 
+ 
+§ 5 
+Anrechnung von Kompetenzen 
+ 
+(1) 1Studienzeiten, Studien und Prüfungsleistungen, die in einem anderen Studiengang 
+an der LudwigMaximiliansUniversität München oder in Studiengängen an anderen 
+staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, 
+durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines 
+Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der 
+Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen 
+erbracht worden sind, sind anzurechnen, außer es bestehen wesentliche Unterschiede 
+hinsichtlich der erworbenen Kompetenzen (Lernergebnisse). 2Gleiches gilt für 
+Studienzeiten, Studien und Prüfungsleistungen, die an einer staatlichen oder staatlich 
+anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 
+Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 
+Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+ 
+(2) 1Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen 
+Berufs und Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 
+Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können 
+angerechnet werden, wenn sie gleichwertig sind. 2Außerhalb des Hochschulbereichs 
+erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden 
+Kompetenzen ersetzen. 
+ 
+(3) Über die Anrechnung von Kompetenzen entscheidet auf Antrag die Dekanin oder der 
+Dekan. 
+ 
+§ 6 
+Annahme als Bewerberin bzw. Bewerber 
+ 
+(1) 1Der Antrag auf Annahme als Bewerberin bzw. Bewerber ist schriftlich an die 
+Dekanin oder den Dekan unter Angabe des Promotionsfachs (§ 1 Abs. 1 Satz 1) zu 
+ 10  
+ 
+stellen. 2Folgende Unterlagen sind im Original oder in Form amtlich beglaubigter 
+Abschriften beizufügen: 
+ 
+1. ein Lebenslauf, der Aufschluss über den wissenschaftlichen Bildungsweg und eine 
+ggf. ausgeübte Berufstätigkeit gibt; 
+ 
+2. eine Erklärung darüber, ob bereits anderweitig mit oder ohne Erfolg versucht 
+wurde, sich einer Doktorprüfung zu unterziehen; 
+ 
+3. ein amtliches Führungszeugnis bzw. bei ausländischen Bewerberinnen und 
+Bewerbern eine entsprechende Bescheinigung der zuständigen Behörde; 
+ 
+4. der Nachweis über eine fachlich einschlägige Abschlussprüfung im Sinne des § 3 
+Abs. 4 sowie ggf. der Nachweis über eine bestandene Promotionseignungsprüfung 
+im Sinne des § 4 Abs. 1. 
+ 
+(2) 1Der Promotionsausschuss entscheidet über die Annahme als Bewerberin bzw. 
+Bewerber. 2Die Annahme als Bewerberin bzw. Bewerber erfolgt, wenn alle gemäß 
+Abs. 1 geforderten Unterlagen eingereicht wurden, und sich aus diesen Unterlagen 
+ergibt, dass die in § 3 genannten Zulassungsvoraussetzungen erfüllt sind; im Falle einer 
+nicht betreuten Dissertation erfolgt die Annahme als Bewerberin bzw. Bewerber bei 
+Vorliegen der übrigen Voraussetzungen nach einem positiven Beschluss des 
+Promotionsausschusses gemäß § 7 Abs. 3. 3Die Annahme als Bewerberin bzw. 
+Bewerber ist unverzüglich durch die Dekanin oder den Dekan mitzuteilen. 
+ 
+(3) 1Wurden die Angaben nicht vollständig gemacht oder die Unterlagen nicht 
+vollständig vorgelegt, so hat die Dekanin oder der Dekan schriftlich unter Bestimmung 
+einer angemessenen Frist zu ihrer Ergänzung aufzufordern. 2Verstreicht diese Frist 
+ungenutzt, so ist die Annahme als Bewerberin bzw. Bewerber von der Dekanin oder vom 
+Dekan zu verweigern. 3Hierauf ist bei der Aufforderung zur Ergänzung des Antrags 
+hinzuweisen. 
+ 
+(4) Die Annahme als Bewerberin bzw. Bewerber ist abzulehnen, wenn 
+ 
+1. die Unterlagen unvollständig oder unrichtig sind, 
+ 
+2. die Zulassungsvoraussetzungen nach § 3 nicht erfüllt sind, 
+ 
+3. die Dissertation nicht betreut oder ohne Kenntnis einer Fachvertreterin oder eines 
+Fachvertreters aus dem Promotionsausschuss angefertigt werden wird und der 
+Promotionsausschuss durch Beschluss feststellt, dass sich keine Berichterstatterin 
+oder kein Berichterstatter (§ 7 Abs. 3) aus dem Kreis seiner Mitglieder bestellen 
+lässt. 
+ 
+(5) 1Eine Ablehnung der Annahme als Bewerberin bzw. Bewerber ist vom 
+Promotionsausschuss zu beschließen und unverzüglich durch die Dekanin oder den 
+Dekan schriftlich mitzuteilen. 2Der Bescheid ist zu begründen und mit einer 
+Rechtsbehelfsbelehrung zu versehen. 
+ 
+ 11  
+ 
+(6) 1Der Antrag auf Annahme als Bewerberin bzw. Bewerber kann zurückgenommen 
+werden, solange das Promotionsverfahren noch nicht durch eine ablehnende 
+Entscheidung über die Dissertation nach § 12 Abs. 8 Satz 1 beendet ist oder die 
+Dissertation nach § 12 Abs. 8 Satz 1 angenommen ist. 2Wird der Antrag auf Annahme 
+als Bewerberin bzw. Bewerber zurückgenommen, nachdem ein schriftlicher Bescheid 
+über die Ablehnung der Dissertation ergangen ist oder die Dissertation nach § 12 Abs. 8 
+Satz 1 angenommen ist, so gilt das Promotionsverfahren als ohne Erfolg beendet. 3Die 
+Dekanin oder der Dekan erteilt hierüber einen schriftlichen Bescheid, der zu begründen 
+und mit einer Rechtsbehelfsbelehrung zu versehen ist. 
+ 
+III.  Dissertation 
+ 
+§ 7 
+Betreuung der Dissertation und Themenvergabe 
+ 
+(1) 1Die Anfertigung der Dissertation soll betreut werden. 2Berechtigt zur Betreuung von 
+Dissertationen sind die stimmberechtigten Mitglieder des Promotionsausschusses (§ 2 
+Abs. 2 Satz 1 Nrn. 1 und 3). 3Durch Beschluss des Promotionsausschusses kann diese 
+Berechtigung im Einzelfall auch einer oder einem nebenberuflich an Einrichtungen der 
+Fakultät für Mathematik, Informatik und Statistik tätigen Hochschullehrerin oder 
+Hochschullehrer oder einer oder einem anderen Hochschullehrerin oder 
+Hochschullehrer, die oder der hauptberuflich an einer wissenschaftlichen Einrichtung 
+oder einem Forschungsinstitut außerhalb der Fakultät für Mathematik, Informatik und 
+Statistik tätig ist, sowie Professorinnen und Professoren einer Fachhochschule gewährt 
+werden; sie endet in der Regel mit dem Abschluss des jeweiligen Promotionsverfahrens. 
+ 
+(2) 1Wenn eine Dissertation außerhalb der Fakultät für Mathematik, Informatik und 
+Statistik angefertigt und nicht unter den Voraussetzungen des Abs. 1 Satz 3 durch 
+eine Professorin oder einen Professor einer Fachhochschule betreut wird, ist einem 
+Mitglied des Promotionsausschusses, das dem Thema der Dissertation fachlich nahe 
+steht und Fachvertreterin oder Fachvertreter des Faches ist, dem das Thema 
+entstammt, stets Gelegenheit zu geben, sich über den Fortgang der Arbeit zu 
+unterrichten. 2Dieses Mitglied des Promotionsausschusses gilt für das weitere Verfahren 
+als Betreuerin oder Betreuer der Dissertation. 
+ 
+(3) Wird eine Dissertation vorgelegt, die ohne eine aktive Verbindung zu einer 
+Fachvertreterin oder einem Fachvertreter des Promotionsausschusses oder unter den 
+Voraussetzungen des Abs. 1 Satz 3 einer Professorin oder eines Professors einer 
+Fachhochschule angefertigt wurde, prüft der Promotionsausschuss, ob sich eine 
+Berichterstatterin oder ein Berichterstatter (§ 12 Abs. 1) aus dem Kreis seiner Mitglieder 
+bestellen lässt; ist das der Fall, so wird dieses Mitglied zur Berichterstatterin oder zum 
+Berichterstatter bestellt und gilt für das Verfahren als Betreuerin oder Betreuer der 
+Dissertation. 
+ 
+(4) 1Der Themenbereich der Dissertation wird zu Beginn der Betreuung durch die 
+Betreuerin oder den Betreuer schriftlich festgelegt. 2Die Niederschrift wird von der 
+Betreuerin oder dem Betreuer bis zum Abschluss des Promotionsverfahrens aufbewahrt; 
+die Bewerberin oder der Bewerber erhält eine Ausfertigung. 
+ 12  
+ 
+ 
+(5) 1Scheidet die Betreuerin oder der Betreuer aus der LudwigMaximiliansUniversität 
+München bzw. unter den Voraussetzungen des Abs. 1 Satz 3 aus der Fachhochschule 
+aus, so kann sie oder er bis zu drei Jahre die Betreuung fortführen und als erste 
+Berichterstatterin oder erster Berichterstatter bestellt werden. 2Die Dekanin oder der 
+Dekan kann bei Vorliegen wichtiger Gründe diese Frist verlängern. 
+ 
+(6) 1Kann die Betreuerin oder der Betreuer die Dissertation nicht mehr betreuen, so sorgt 
+die Dekanin oder der Dekan für eine geeignete Weiterbetreuung der Dissertation durch 
+ein anderes Mitglied des Promotionsausschusses oder durch eine oder einen nach 
+Maßgabe des Abs. 1 bestellte Hochschullehrerin oder bestellten Hochschullehrer oder 
+nach Maßgabe des Abs. 1 bestellte Professorin oder eines Professors einer 
+Fachhochschule. 2Die Betroffenen sollen hierzu Vorschläge machen; die Dekanin oder 
+der Dekan ist bei ihrer oder seiner Entscheidung nicht an die Vorschläge gebunden. 
+3Satz 1 gilt nicht, wenn die Bewerberin oder der Bewerber die Beendigung der 
+Betreuung selbst zu vertreten hat. 
+ 
+§ 8 
+Dissertation 
+ 
+(1) Die Dissertation muss eine selbständige wissenschaftliche Arbeit darstellen, die auf 
+einem Sachgebiet zu neuen Erkenntnissen geführt hat, das den Forschungsbereichen 
+der Fakultät für Mathematik, Informatik und Statistik oder angrenzenden 
+Forschungsbereichen angehört und einem Promotionsfach nach § 1 Abs. 1 Satz 1 
+zugeordnet werden kann (Angabe im Antrag auf Annahme als Bewerberin bzw. 
+Bewerber). 
+ 
+(2) Folgende Unterlagen sind bei der Einreichung der Dissertation im Original 
+beizufügen: 
+ 
+1. ein aktualisierter Lebenslauf; 
+ 
+2. die druckfertige Dissertation in doppelter Ausfertigung (nach Abschluss des 
+Verfahrens wird ein Exemplar zurückgegeben, das zweite verbleibt bei den Akten 
+der Fakultät für Mathematik, Informatik und Statistik); 
+ 
+3. eine Erklärung, ob und von wem die Dissertation betreut wurde; sofern die Arbeit 
+nicht betreut oder nicht mit Kenntnis einer Fachvertreterin oder eines 
+Fachvertreters aus dem Promotionsausschuss angefertigt wurde, ist dies zu 
+begründen; 
+ 
+4. bei Bewerberinnen oder Bewerbern, die eine Promotionseignungsprüfung abgelegt 
+haben, eine Bescheinigung über zusätzlich zu erbringende Studien und 
+Prüfungsleistungen (vgl. § 4 Abs. 6); 
+ 
+5. eine eidesstattliche Versicherung über die Eigenständigkeit der erbrachten 
+wissenschaftlichen Leistungen. 2Insbesondere bei einer Beratung, einer 
+Vorbereitung oder einer Beschaffung von Material zur Anfertigung der Dissertation 
+durch Personen, die sich gewerbsmäßig oder gegen Entgelt hierzu erbieten, sind 
+ 13  
+ 
+die wissenschaftlichen Leistungen nicht eigenständig erbracht. 3Der 
+Eigenständigkeit der erbrachten wissenschaftlichen Leistungen steht die 
+gebührenpflichtige Benutzung einer Datenbank oder die Inanspruchnahme von 
+Hilfstätigkeiten, wie Programmier und ähnliche Dienste, die gegen Entgelt 
+durchgeführt werden, nicht entgegen; 
+ 
+6. eine Erklärung darüber, ob und ggf. von wem bei der sprachlichen Abfassung der 
+Dissertation Hilfe geleistet wurde; 
+ 
+7. eine Erklärung, ob die Dissertation ganz oder in wesentlichen Teilen einer anderen 
+Prüfungskommission vorgelegt worden ist und 
+ 
+8. eine Bescheinigung über eine Immatrikulation zum Promotionsstudium an der 
+LudwigMaximiliansUniversität München für eine Dauer von mindestens zwei 
+Fachsemestern. 2Ausnahmsweise können dafür vom Promotionsausschuss zwei 
+Semester in einer Tätigkeit als wissenschaftliche Hilfskraft oder als 
+wissenschaftliche Mitarbeiterin oder wissenschaftlicher Mitarbeiter an der Ludwig
+MaximiliansUniversität München oder eine gleichwertige Tätigkeit anerkannt 
+werden. 
+ 
+(3) 1Die Dissertation soll druckfertig in deutscher oder englischer Sprache vorgelegt 
+werden, und zwar im Original möglichst in Größe DIN A4 oder in einer Vervielfältigung in 
+der Größe DIN A4 oder DIN A5. 2Auf Antrag kann die Dekanin oder der Dekan 
+genehmigen, dass die Dissertation in einer anderen fremden Sprache eingereicht wird. 
+3Voraussetzung hierfür ist, dass die Erstellung der Gutachten gemäß § 12 Abs. 1 sowie 
+die Auslegung und der Zugang gemäß § 12 Abs. 3 dadurch nicht behindert werden und 
+dass zusätzlich eine Kurzfassung der Dissertation im Umfang eines wissenschaftlichen 
+Zeitschriftenartikels in deutscher oder englischer Sprache vorgelegt wird. 4Die 
+Dissertation muss gebunden (fest oder mit Spiralbindung), paginiert und mit einem 
+Inhaltsverzeichnis versehen sein sowie eine Zusammenfassung enthalten, die über 
+Problemstellung und Ergebnisse Auskunft gibt; diese Zusammenfassung ist in deutscher 
+und in englischer Sprache sowie im Fall von Satz 2 in der Sprache, in der die 
+Dissertation abgefasst ist, zu verfassen. 5Es ist gestattet, der Dissertation als Einfügung 
+oder als getrennten Anhang Zusätze beizufügen, die nicht zum Druck bestimmt und als 
+solche gekennzeichnet sind. 
+ 
+(4) 1Die Dissertation muss eigenständig erarbeitet worden sein. 2Die benutzte Literatur, 
+auch wenn sie in elektronischer Form verwendet wurde, sowie sonstige Hilfsquellen sind 
+vollständig anzugeben. 3Wörtlich oder nahezu wörtlich dem Schrifttum entnommene 
+Stellen sind kenntlich zu machen. 
+ 
+IV. Promotionsverfahren 
+ 
+§ 9 
+Prüfungsleistungen 
+ 
+Prüfungsleistungen sind die Dissertation (§ 8) und die Disputation (§ 13). 
+ 
+ 14  
+ 
+§ 10 
+Zeitlicher Ablauf des Promotionsverfahrens 
+ 
+1Alle Entscheidungen im Promotionsverfahren sind unverzüglich zu treffen. 2Die 
+Gutachten aller Berichterstatterinnen oder Berichterstatter über die Dissertation sollen 
+innerhalb von drei Monaten nach Abgabe der Dissertation vorliegen. 
+ 
+§ 11 
+Bewertung von Prüfungsleistungen 
+ 
+1Die Prüfungsleistungen (§ 9) werden mit den Noten 1 bis 3 bewertet.2Die Noten 
+können zur Berechnung um 0,3 erhöht oder erniedrigt werden. 3Ein Prädikat wird 
+nach folgendem Schema bestimmt:  
+ 
+bis 0,7: summa cum laude; 
+ 
+über 0,7 bis 1,5: magna cum laude; 
+ 
+über 1,5 bis 2,5: cum laude; 
+ 
+über 2,5 bis 3,3: rite. 
+ 
+ 
+4Das Prädikat „summa cum laude“ (Note 0,7) soll nur in Ausnahmefällen vergeben 
+werden.  
+ 
+§ 12 
+Beurteilung der Dissertation 
+ 
+(1) 1Die Beurteilung der Dissertation erfolgt durch die Berichterstatterinnen oder 
+Berichterstatter in der Promotionskommission. 2Das erste Gutachten (Votum 
+informativum) gibt im Allgemeinen die Betreuerin oder der Betreuer der Arbeit ab (erste 
+Berichterstatterin oder erster Berichterstatter). 3Kommt die eigentliche Betreuerin oder 
+der eigentliche Betreuer nicht als Berichterstatterin oder Berichterstatter in Frage, so gilt 
+die oder der vom Promotionsausschuss bestellte erste Berichterstatterin oder 
+Berichterstatter für die Fortsetzung des Verfahrens als Betreuerin oder Betreuer. 4Für 
+das zweite Gutachten (Votum informativum secundum) soll eine zweite Berichterstatterin 
+oder ein zweiter Berichterstatter bestellt werden, die oder der dem Thema der Arbeit 
+möglichst nahe steht. 5Mindestens einer der Berichterstatterinnen oder Berichterstatter 
+muss Professorin oder Professor an der Fakultät für Mathematik, Informatik und Statistik 
+sein. 6Die anderen müssen den Rang einer Hochschullehrerin oder eines 
+Hochschullehrers an einer Universität oder einer Professorin oder eines Professors an 
+einer Fachhochschule haben. 7Die zweite Berichterstatterin oder der zweite 
+Berichterstatter soll in der Regel nicht der Fakultät für Mathematik, Informatik und 
+Statistik angehören. 
+ 
+(2) 1Jedes Gutachten muss die erbrachte Leistung kennzeichnen und eine Empfehlung 
+zur Annahme, Ablehnung oder Rückgabe der Dissertation zur Umarbeitung enthalten. 
+ 15  
+ 
+2Bei einer Empfehlung zur Annahme ist ein Notenvorschlag gemäß § 11 zu machen. 
+3Auch bei Empfehlung zur Annahme können die Gutachten Änderungs und 
+Ergänzungsvorschläge enthalten, die bei der Veröffentlichung der Dissertation zu 
+berücksichtigen sind. 
+ 
+(3) 1Nach Abschluss der Begutachtung ist die Dissertation zusammen mit den 
+Gutachten und dem Lebenslauf der Bewerberin oder des Bewerbers zehn Tage lang 
+im Dekanat auszulegen und passwortgeschützt im Internet den Mitgliedern des 
+Promotionsausschusses zugänglich zu machen. 2Die Mitglieder der 
+Promotionskommission und mindestens vier weitere Mitglieder des 
+Promotionsausschusses, unter denen sich Vertreterinnen oder Vertreter des 
+Fachgebietes befinden müssen, werden von der Dekanin oder vom Dekan gebeten, 
+in diesem Zeitraum je eine Stellungnahme abzugeben. 3Außerdem kann jedes 
+Mitglied des Promotionsausschusses diese Unterlagen einsehen und mit einer 
+Stellungnahme versehen oder die Einholung eines weiteren Gutachtens vorschlagen. 
+4Stellungnahmen und Vorschläge zur Einholung weiterer Gutachten sind per 
+elektronischer Post oder in Schriftform der Dekanin oder dem Dekan zu übermitteln. 
+5Auf die Auslegung und Zugänglichmachung der Dissertation im Internet wird durch 
+elektronische Post hingewiesen. 6Über die Einholung eines weiteren Gutachtens 
+entscheidet der Promotionsausschuss. 
+ 
+(4) 1Stimmen die Empfehlungen der Gutachten in Bezug auf Annahme, Ablehnung oder 
+Rückgabe zur Umarbeitung überein, beträgt der Abstand der Notenvorschläge der 
+Berichterstatter höchstens 1,0 und wird in dem Verfahren gemäß Abs. 3 keine 
+Stellungnahme abgegeben, die von den Empfehlungen oder von den Notenvorschlägen 
+der Berichterstatterinnen und Berichterstatter um mehr als 1,0 abweicht oder eine 
+explizite Behandlung der Dissertation in der Promotionskommission verlangt, so ist die 
+Dissertation angenommen oder abgelehnt oder zur Umarbeitung zurückzugeben. 2Mit 
+der Ablehnung der Dissertation ist die Doktorprüfung nicht bestanden und das 
+Promotionsverfahren beendet. 
+ 
+(5) 1Ist die Dissertation gemäß Abs. 4 angenommen, so errechnet sich die Note der 
+Dissertation aus dem arithmetischen Mittel der Notenvorschläge der 
+Berichterstatterinnen oder Berichterstatter. 2Das Prädikat für die Dissertation wird  
+gemäß § 11 bestimmt. 
+ 
+(6) 1Liegt gemäß Abs. 4 Satz 1 keine Übereinstimmung der Empfehlungen in Bezug auf 
+Annahme, Ablehnung oder Rückgabe zur Umarbeitung vor oder ist der Abstand der 
+Notenvorschläge größer als 1,0 oder wird eine explizite Behandlung der Dissertation in 
+der Promotionskommission verlangt, so ist über Annahme, Rückgabe zur Umarbeitung 
+oder Ablehnung in einer Sitzung der Promotionskommission, zu der ggf. die 
+Verfasserinnen oder Verfasser abweichender Stellungnahmen nach Abs. 3 und ebenso 
+viele weitere sachkundige Mitglieder des Promotionsausschusses mit beratender 
+Stimme hinzu zu ziehen sind, zu beraten und zu beschließen. 2Die 
+Promotionskommission kann zur Vorbereitung ihrer Entscheidung ein oder mehrere 
+weitere Gutachten einholen. 3Beschließt die Promotionskommission die Annahme der 
+Arbeit als Dissertation, so entscheidet sie auch über die Note. 4Rechtfertigen die Mängel 
+der Arbeit weder ihre Ablehnung noch die Rückgabe zur Umarbeitung, so kann die 
+Promotionskommission die Annahme mit der Auflage verbinden, vor der 
+Veröffentlichung (§ 16) Änderungs und Ergänzungsvorschläge zu berücksichtigen. 
+ 16  
+ 
+ 
+(7) 1Ist die Arbeit zur Umarbeitung zurückzugeben, so teilt die Dekanin oder der Dekan 
+die festgestellten Mängel mit. 2Das gemäß Abs. 3 Satz 1 ausgelegte Exemplar bleibt bei 
+den Akten. 3Die umgearbeitete Fassung der Arbeit ist innerhalb von zwei Jahren nach 
+der Mitteilung über die festgestellten Mängel einzureichen. 4Anstelle der Umarbeitung 
+kann innerhalb dieser Frist auch eine neue Arbeit vorgelegt werden. 5Wird die Frist nicht 
+eingehalten, so gilt die Arbeit als abgelehnt. 6Eine umgearbeitete Fassung der 
+Dissertation bzw. die neue Arbeit wird von den gleichen Berichterstatterinnen oder 
+Berichterstattern beurteilt wie die ursprüngliche; Ausnahmen bedürfen eines 
+Beschlusses des Promotionsausschusses. 7Im Übrigen gelten § 7 und § 8 
+entsprechend. 8Eine zweite Rückgabe zur Umarbeitung oder nochmalige Vorlage einer 
+neuen Dissertation ist ausgeschlossen. 
+ 
+(8) 1Die Dekanin oder der Dekan teilt die Annahme bzw. Ablehnung der Dissertation 
+schriftlich mit. 2Eine Ablehnung ist schriftlich zu begründen und mit einer 
+Rechtsbehelfsbelehrung zu versehen. 3Mit der Mitteilung einer Ablehnung ist das 
+Promotionsverfahren beendet. 
+ 
+(9) Die Wiederholung einer bereits eingereichten Dissertation zur Notenverbesserung ist 
+nicht möglich. 
+ 
+§ 13 
+Disputation 
+ 
+(1) 1Ist die Dissertation angenommen, so lädt die Dekanin oder der Dekan mindestens 
+acht Tage vorher unter Nennung der Mitglieder der Promotionskommission und der 
+jeweiligen Stellvertreterin oder des jeweiligen Stellvertreters schriftlich zur Disputation 
+ein. 2Mit Zustimmung der Bewerberin oder des Bewerbers kann die Frist verkürzt 
+werden. 
+ 
+(2) 1Die Disputation ist eine vertiefte wissenschaftliche Aussprache, die zeigen soll, dass 
+die Bewerberin oder der Bewerber die benutzten Arbeitsmethoden, die 
+Problemstellung und Ergebnisse ihrer oder seiner Dissertation kritisch zu diskutieren 
+und in das Gesamtgebiet des Fachs, in dessen Rahmen die Dissertation fällt, 
+einzuordnen vermag. 2Die Disputation ist öffentlich und besteht aus einem Vortrag 
+der Bewerberin oder des Bewerbers über die Dissertation und danach einer 
+mündlichen Prüfung durch die Mitglieder der Promotionskommission über das 
+Fachgebiet der Dissertation gemäß Satz 1. 3Anschließend können auch alle anderen 
+anwesenden Mitglieder des Promotionsausschusses Fragen zum Gegenstand der 
+Prüfung an die Bewerberin oder den Bewerber stellen. 4Die Disputation wird von der 
+oder dem Vorsitzenden der Promotionskommission geleitet. 5Ist das Promotionsfach 
+Didaktik der Mathematik oder der Informatik, so muss die mündliche Prüfung sich auch 
+auf das jeweilige Fach Mathematik oder Informatik erstrecken; eine weitere Fachdidaktik 
+darf nicht Gegenstand der mündlichen Prüfung sein. 6Der Vortrag dauert 45 Minuten; die 
+anschließende mündliche Prüfung dauert 30 Minuten. 7Während der Disputation ist 
+eine Anwesenheitsliste der Mitglieder des Promotionsausschusses zu führen. 
+ 
+(3) 1Bei der Festsetzung und bei der Bekanntgabe des Prüfungsergebnisses ist die 
+Öffentlichkeit ausgeschlossen. 2Die oder der Vorsitzende fertigt über den wesentlichen 
+ 17  
+ 
+Ablauf der Disputation ein Protokoll an, das von allen anwesenden Mitgliedern der 
+Promotionskommission gegenzuzeichnen ist. 
+ 
+(4) 1Im unmittelbaren Anschluss an die mündliche Prüfung beurteilt die 
+Promotionskommission nach gemeinsamer Aussprache, ob die Disputation bestanden 
+ist. 2Eine bestandene Disputation wird gemäß § 11 benotet. 3Die Bewertungen der 
+Disputation und der Dissertation werden in das Protokoll aufgenommen.  
+ 
+(5) 1Die Disputation kann einmal wiederholt werden. 2Das Gesuch um Zulassung zur 
+Wiederholungsprüfung kann frühestens sechs Monate und muss spätestens ein Jahr 
+nach Mitteilung des Nichtbestehens der Disputation bei der Dekanin oder beim Dekan 
+eingereicht werden. 3Eine erneute Beurteilung der Dissertation findet nicht statt. 4Eine 
+zweite Wiederholung der Disputation ist nur in besonderen Ausnahmefällen mit 
+Zustimmung der Promotionskommission zulässig. 5Das Gesuch um Zulassung zur 
+zweiten Wiederholungsprüfung muss innerhalb von sechs Monaten nach der 
+Bekanntgabe des Nichtbestehens der ersten Wiederholungsprüfung bei der Dekanin 
+oder beim Dekan eingereicht werden. 
+ 
+(6) 1Die Disputation gilt als nicht bestanden, wenn sie von der Bewerberin oder dem 
+Bewerber aus einem selbst zu vertretenden Grund versäumt wird oder wenn die 
+Bewerberin oder der Bewerber aus einem selbst zu vertretenden Grund zurücktritt. 2Der 
+Grund für den Rücktritt oder das Versäumnis muss bei der Dekanin oder dem Dekan 
+unverzüglich schriftlich geltend und glaubhaft gemacht werden.3Bei Krankheit muss ein 
+ärztliches Attest vorgelegt werden; die Vorlage einer Arbeitsunfähigkeitsbescheinigung 
+genügt nicht. 4Die Dekanin oder der Dekan kann im Einzelfall oder allgemein die 
+Vorlage eines amtsärztlichen Attestes oder eines Attestes einer oder eines von der 
+Dekanin oder dem Dekan bestimmten Ärztin oder Arztes verlangen. 5Wird der Grund 
+anerkannt, so wird ein neuer Termin anberaumt. 
+ 
+(7) Ist die Disputation nicht bestanden oder gilt sie als nicht bestanden, so erteilt die 
+Dekanin oder der Dekan einen schriftlichen Bescheid, der mit einer 
+Rechtsbehelfsbelehrung zu versehen ist. 
+ 
+(8) Die Wiederholung einer bereits bestandenen Disputation zur Notenverbesserung ist 
+nicht möglich. 
+ 
+§ 14 
+Gesamtnote 
+ 
+(1) Die Doktorprüfung ist bestanden, wenn die Dissertation angenommen wurde und die 
+Disputation bestanden ist. 
+ 
+(2) Die Gesamtnote der bestandenen Doktorprüfung wird aus der doppelt gewichteten 
+Note der Dissertation und der einfach gewichteten Note der Disputation berechnet und 
+das Prädikat gemäß § 11 bestimmt. 
+ 
+(3) 1Die Noten der Prüfungsteile und ggf. die Gesamtnote sind im Anschluss an die 
+Disputation mündlich mitzuteilen. 2Im Falle einer Wiederholung ist nur noch die Note für 
+die Wiederholung mitzuteilen. 
+ 18  
+ 
+ 
+(4) 1Über das Ergebnis der bestandenen Prüfung erteilt die Dekanin oder der Dekan 
+einen Zwischenbescheid. 2Dieser Zwischenbescheid berechtigt nicht zur Führung des 
+Doktortitels; auch Bezeichnungen wie Doktor designatus (Dr. des.) und ähnliche sind 
+unzulässig. 3Diese Bestimmung ist in den Zwischenbescheid aufzunehmen. 
+ 
+(5) Nach Mitteilung der Noten gemäß Abs. 3 kann auf Antrag, der binnen eines Monats 
+zu stellen ist, Einsicht in die Promotionsunterlagen genommen werden. 
+ 
+V. Druck der Dissertation 
+ 
+§ 15 
+Druckverpflichtung 
+ 
+(1) 1Nach Bestehen der Doktorprüfung ist die Dissertation zu drucken und zu binden. 
+2Als Druck sind normaler Satzdruck (zum Beispiel Laserdrucker) und Fotodruck 
+zugelassen. 3Abweichungen von diesen Druckverfahren bedürfen der Genehmigung der 
+Dekanin oder des Dekans. 4Ist die Annahme der Dissertation mit Auflagen nach § 12 
+Abs. 2 Satz 3 oder § 12 Abs. 6 Satz 4 verbunden, so ist vor der Drucklegung die 
+geänderte Fassung der ersten Berichterstatterin oder dem ersten Berichterstatter der 
+Arbeit vorzulegen und von dieser oder diesem eine Bestätigung einzuholen, dass die 
+Auflagen erfüllt sind. 5Andere Änderungen der Dissertation vor ihrem Druck sind 
+ebenfalls nur mit Genehmigung der ersten Berichterstatterin oder des ersten 
+Berichterstatters zulässig. 
+ 
+(2) 1Das äußere Titelblatt muss die Bezeichnung „Dissertation an der Fakultät für 
+Mathematik, Informatik und Statistik der LudwigMaximiliansUniversität München“ 
+enthalten; außerdem ist der Tag anzugeben, an dem die Dissertation der Fakultät für 
+Mathematik, Informatik und Statistik eingereicht wurde. 2Auf dem inneren Titelblatt sind 
+zusätzlich die Berichterstatterinnen oder Berichterstatter und der Tag der Disputation 
+aufzuführen. 3Die Bewerberin oder der Bewerber kann auf ihren oder seinen eigenen 
+Wunsch am Schluss der Dissertation den mit dem Antrag auf Annahme als Bewerberin 
+oder Bewerber vorgelegten Lebenslauf anfügen. 
+ 
+(3) 1Ist der Umfang der Dissertation außergewöhnlich groß, so kann die Dekanin oder 
+der Dekan auf Antrag gestatten, nur einen Teil der Dissertation drucken oder erscheinen 
+zu lassen. 2Dieser Teil muss ein in sich abgeschlossenes Ganzes bilden und die 
+Hauptergebnisse der Dissertation enthalten. 3Es ist zu vermerken, dass es sich um 
+einen Teildruck handelt. 4In Anbetracht der Möglichkeit des § 8 Abs. 3 Satz 5 kann 
+einem Antrag auf Genehmigung eines Teildrucks nur in Ausnahmefällen stattgegeben 
+werden. 
+ 
+(4) Zwei Exemplare der gedruckten Dissertation sind unentgeltlich im Dekanat der 
+Fakultät für Mathematik, Informatik und Statistik abzuliefern; eines davon verbleibt bei 
+den Fakultätsakten, das andere erhält die fachlich zuständige Bibliothek der zur Fakultät 
+für Mathematik, Informatik und Statistik gehörenden wissenschaftlichen Einrichtungen. 
+ 
+ 19  
+ 
+§ 16 
+Veröffentlichung der Dissertation 
+ 
+(1) 1Die Dissertation ist in angemessener Weise der wissenschaftlichen Öffentlichkeit 
+zugänglich zu machen. 2Sie ist innerhalb eines Jahres nach bestandener Prüfung 
+gemäß den Vorschriften in Abs. 2 der Universitätsbibliothek zur Verfügung zu stellen. 
+3Auf begründeten Antrag kann die Dekanin oder der Dekan die Ablieferungspflicht 
+verlängern. 
+ 
+(2) 1In angemessener Weise der wissenschaftlichen Öffentlichkeit zugänglich gemacht 
+ist eine Dissertation dann, wenn die Bewerberin oder der Bewerber neben den im 
+Dekanat abzuliefernden Exemplaren unentgeltlich an die Hochschulbibliothek abliefert: 
+sechs Exemplare und eine identische elektronische Version, deren Dateiformat und 
+Datenträger mit der Universitätsbibliothek abzustimmen sind. 2Der Universitätsbibliothek, 
+der DDB (Die Deutsche Bibliothek) in Frankfurt/Leipzig und ggf. der DFG
+Sondersammelgebietsbibliothek ist das Recht zu übertragen, die elektronische Version 
+in Datennetzen zu veröffentlichen. 3Die Universitätsbibliothek überprüft die abgelieferte 
+Version auf Lesbarkeit und Übereinstimmung mit den geforderten Vorgaben.4Die 
+Abgabe von Dateien, die den geforderten Vorgaben hinsichtlich Dateiformat und 
+Datenträger nicht entsprechen, gilt nicht als Veröffentlichung. 5Der Universität ist das 
+Recht zu übertragen, weitere Kopien von der Dissertation herzustellen und zu 
+verbreiten. 
+ 
+(3) 1Die Dekanin oder der Dekan kann die Anforderungen der Abs. 1 und 2 auch dann 
+als erfüllt ansehen, wenn die Dissertation aufgrund eines Sperrvermerks wegen eines 
+patentrechtlichen Anmeldeverfahrens zeitlich verzögert der Öffentlichkeit zugängig 
+gemacht wird. 2Voraussetzung hierfür ist, dass die jeweiligen Abgabeerfordernisse 
+vollständig erfüllt wurden, der Zeitpunkt, zu dem die Veröffentlichung spätestens erfolgt, 
+aus dem Sperrvermerk hervorgeht und die Veröffentlichung selbständig durch die 
+Universitätsbibliothek vorgenommen werden kann; die Universitätsbibliothek erteilt 
+hierüber eine entsprechende Bescheinigung. 3Ein Sperrvermerk kann für die Dauer von 
+maximal zwei Jahren mit dem von der Universitätsbibliothek vorgegebenen Formular 
+beantragt und zweimal verlängert werden.  
+ 
+(4) Über die Erfüllung der Voraussetzungen der Abs. 1 bis 3 stellt die 
+Universitätsbibliothek eine Bescheinigung aus. 
+ 
+VI. Führung des Doktorgrades 
+ 
+§ 17 
+Ausstellung der Urkunde und des Prüfungszeugnisses 
+ 
+(1) 1Nach Bestehen der Doktorprüfung und der Vorlage der Bescheiningung über die 
+Erfüllung der Voraussetzungen gemäß § 16 Abs. 1 bis 3 fertigt die Dekanin oder der 
+Dekan die Urkunde über die Verleihung des Doktorgrades aus. 2Gleichzeitig erstellt sie 
+oder er ein Prüfungszeugnis. 
+ 
+ 20  
+ 
+(2) 1Die Urkunde bestätigt in deutscher und englischer Sprache die erfolgte Promotion 
+mit Angabe des Titels der Dissertation, des Promotionsfaches und der Noten der 
+Dissertation und der Disputation sowie der Gesamtnote der bestandenen Promotion in 
+ihrer lateinischen Bezeichnung gemäß § 11. 2Die Urkunde wird auf den Tag der 
+mündlichen Prüfung datiert, mit dem Siegel der LudwigMaximiliansUniversität 
+München versehen und von der Dekanin oder vom Dekan der Fakultät für Mathematik, 
+Informatik und Statistik unterzeichnet. 
+ 
+(3) 1Zusammen mit der Urkunde wird ein Prüfungszeugnis ausgehändigt, das die in 
+Ziffern ausgedrückten differenzierten Noten gemäß § 11 für die Dissertation und für die 
+Disputation, die in Ziffern ausgedrückte Gesamtnote, den Titel der Dissertation und die 
+Angabe des Promotionsfaches enthält. 2Das Prüfungszeugnis wird auf den Tag der 
+mündlichen Prüfung datiert, mit dem Siegel der LudwigMaximiliansUniversität 
+München versehen und von der Dekanin oder dem Dekan sowie von der oder dem 
+Vorsitzenden der Promotionskommission unterschrieben. 
+ 
+(4) Das Recht zur Führung des Doktorgrades wird erst durch die Aushändigung der 
+Urkunde begründet. 
+ 
+§ 18 
+Erneuerung der Doktorurkunde 
+ 
+Die Doktorurkunde kann von der Fakultät für Mathematik, Informatik und Statistik auf 
+Antrag der Leitung einer ihrer wissenschaftlichen Einrichtungen nach 50 Jahren 
+erneuert werden, wenn dies mit Rücksicht auf die Persönlichkeit der Jubilarin oder des 
+Jubilars angebracht erscheint. 
+ 
+§ 19 
+Entzug des Doktorgrades 
+ 
+(1) Wurde bei einer Doktorprüfung getäuscht, so muss der Promotionsausschuss die 
+Doktorprüfung für nicht bestanden erklären und ggf. einen bereits erteilten 
+Zwischenbescheid, eine bereits verliehene Urkunde und ein bereits verliehenes 
+Prüfungszeugnis einziehen. 
+ 
+(2) 1Waren die Voraussetzungen für die Zulassung zum Promotionsverfahren ohne 
+Täuschungsabsicht nicht erfüllt, so wird dieser Mangel durch das Bestehen der Prüfung 
+geheilt. 2Wurde die Zulassung vorsätzlich zu Unrecht erwirkt, so entscheidet der 
+Promotionsausschuss über erforderliche Maßnahmen unter Beachtung der allgemeinen 
+Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
+ 
+(3) Im Übrigen richtet sich der Entzug des Doktorgrades nach den geltenden 
+gesetzlichen Vorschriften. 
+ 
+(4) Der oder dem Betroffenen muss vor der Entscheidung die Möglichkeit gegeben 
+werden, sich mündlich oder schriftlich zu äußern. 
+ 
+ 21  
+ 
+VII. Ehrenpromotion 
+ 
+§ 20 
+Verfahren 
+ 
+(1) 1Ein Antrag auf Verleihung des Doktorgrades ehrenhalber (Dr. rer. nat. h. c.) kann 
+nur von der Leitung einer wissenschaftlichen Einrichtung der Fakultät für Mathematik, 
+Informatik und Statistik gestellt werden und muss eine ausführliche Würdigung der 
+wissenschaftlichen Leistungen der oder des zu Ehrenden enthalten. 2Der Antrag nach 
+Satz 1 muss von mindestens zwei weiteren Professorinnen oder Professoren der 
+Fakultät für Mathematik, Informatik und Statistik unterstützt werden. 3Die Dekanin oder 
+der Dekan hat die Mitglieder des Promotionsausschusses und die entpflichteten oder im 
+Ruhestand befindlichen Professorinnen oder Professoren sowie die 
+Honorarprofessorinnen oder Honorarprofessoren der Fakultät für Mathematik, Informatik 
+und Statistik, soweit sie dem Promotionsausschuss nicht angehören, von diesem Antrag 
+zu unterrichten und ihnen Gelegenheit zu geben, innerhalb einer Frist von zwei Monaten 
+dazu Stellung zu nehmen. 4Anschließend entscheidet der Promotionsausschuss auf 
+einer Sitzung über den Antrag. 5Die Einladung zu dieser Sitzung muss den Hinweis 
+enthalten, dass über eine Ehrenpromotion abgestimmt werden soll. 6Den Mitgliedern des 
+Promotionsausschusses sind mit der Einladung sämtliche Stellungnahmen gemäß 
+Satz 3 zuzuleiten. 
+ 
+(2) Die Ehrenpromotion erfolgt durch feierliche Überreichung einer mit dem Siegel der 
+LudwigMaximiliansUniversität München versehenen und sowohl von der Präsidentin 
+oder dem Präsidenten der LudwigMaximiliansUniversität München als auch von der 
+Dekanin oder dem Dekan der Fakultät für Mathematik, Informatik und Statistik 
+unterzeichneten Urkunde, in der die Verdienste der Persönlichkeit hervorzuheben sind. 
+ 
+VIII. Vergabe des Doktorgrades im Rahmen  
+bi bzw. multinationaler Promotionsverfahren 
+ 
+§ 21 
+Promotion in gemeinsamer Betreuung  
+mit einer oder mehreren ausländischen Universitäten 
+ 
+(1) Ein binationales Promotionsverfahren wird gemeinsam mit einer ausländischen 
+Bildungseinrichtung durchgeführt, um der Bewerberin oder dem Bewerber 
+internationale Kompetenz zu vermitteln und eine Auseinandersetzung mit 
+verschiedenen Wissenschaftssystemen und Hochschulkulturen zu ermöglichen. 
+ 
+(2) Ein binationales Promotionsverfahren setzt voraus, dass 
+ 
+1. mit der ausländischen Universität/Fakultät eine Vereinbarung über die 
+grenzüberschreitende Betreuung (cotutelle) der Promotion abgeschlossen 
+wird, 
+ 
+ 22  
+ 
+2. die Voraussetzungen für die Zulassung zur Promotion sowohl an der 
+ausländischen Universität/Fakultät als auch nach Maßgabe des § 3 dieser 
+Promotionsordnung vorliegen und 
+ 
+3. die Bewerberin oder der Bewerber sich verpflichtet, jeweils nur einen 
+Doktorgrad, entweder den der ausländischen Universität/Fakultät oder 
+denjenigen der LudwigMaximiliansUniversität München, nicht aber beide 
+gemeinsam, zu führen, 
+ 
+4. die Bewerberin oder der Bewerber einen mindestens sechsmonatigen 
+Forschungsaufenthalt an der jeweiligen wissenschaftlichen Partnereinrichtung 
+absolviert hat. 
+ 
+(3) Die Vereinbarung ist von Seiten der ausländischen Universität/Fakultät von der 
+Betreuerin oder dem Betreuer der Dissertation, der Dekanin oder dem Dekan und 
+der Präsidentin oder dem Präsidenten bzw. der Rektorin oder dem Rektor und von 
+Seiten der LudwigMaximiliansUniversität München von der Betreuerin oder dem 
+Betreuer der Dissertation, der Dekanin oder dem Dekan und der Präsidentin oder 
+dem Präsidenten zu unterschreiben. 
+ 
+(4) Die Abs. 1 bis 3 gelten für multinationale Promotionen entsprechend. 
+ 
+§ 22 
+Urkunde und Führung des Doktorgrades  
+bei bi bzw. multinationalen Promotionen 
+ 
+(1) Die Ausstellung der Urkunde und des Prüfungszeugnisses richten sich nach 
+§ 17. 
+ 
+(2) 1Der Doktorgrad kann wahlweise in seiner deutschen Form oder in der Form des 
+Doktorgrades der jeweiligen wissenschaftlichen Partnereinrichtung geführt werden. 
+2Beide Titel dürfen nicht gleichzeitig geführt werden. 
+ 
+IX. Schlussbestimmungen 
+ 
+§ 23 
+Inkrafttreten, Übergangsbestimmungen 
+ 
+(1) Diese Satzung tritt mit Wirkung vom 30. Juni 2011 in Kraft. 
+ 
+(2) Promotionsverfahren, zu denen eine Bewerberin oder ein Bewerber beim 
+Inkrafttreten dieser Promotionsordnung bereits zugelassen ist, werden nach den 
+Bestimmungen der Promotionsordnung für die Fakultät für Mathematik, Informatik und 
+Statistik vom 25. August 2005 zu Ende geführt, es sei denn, die Bewerberin oder der 
+Bewerber beantragt bis zum Zeitpunkt des Beginns der Beurteilung der Dissertation bei 
+der Dekanin oder dem Dekan die Fortführung des Promotionsverfahrens nach der hier 
+vorliegenden Promotionsordnung. 
+ 23  
+ 
+ 
+ 
+ 
+ 
+Ausgefertigt aufgrund des Beschlusses des Senats der LudwigMaximiliansUniversität 
+München vom 30. Juni 2011 sowie der Genehmigung des Präsidenten der Ludwig
+MaximiliansUniversität München vom 12. Juli 2011, Nr. I.3H/472/11. 
+ 
+ 
+ 
+München, den 12. Juli 2011 
+ 
+ 
+ 
+gez. 
+ 
+Prof. Dr. Bernd Huber 
+Präsident 
+ 
+ 
+Die Satzung wurde am 12. Juli 2011 in der LudwigMaximiliansUniversität München 
+niedergelegt, die Niederlegung wurde am 12. Juli 2011 durch Anschlag in der Ludwig
+MaximiliansUniversität München bekannt gegeben. Tag der Bekanntmachung ist daher 
+der 12. Juli 2011. 
+ 

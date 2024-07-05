@@ -1,0 +1,604 @@
+I 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)Änderung der  Promotions
+ordnung der MathematischNaturwissenschaftlichen 
+Fachbereiche d
+er Johann Wolfgang GoetheUniversität Frankfurt am Main 
+Genehmigt durch Beschluss des Präsidiums der Johann Wolfgang GoetheUniversität Fran kfurt am Main am 
+08.03.2022 
+Hier: Änderung 
+Aufgrund de
+r Beschlüsse der Fachbereichsräte der an der Promotionsordnung beteiligten Fachbereiche (05, 11
+15) wird die Promotionsordnung der MathematischNaturwissenschaftlichen Fachbereiche der Johann
+Wolfgang GoetheUniversität Frankfurt am Main vom 26. Mai 1993 (ABL.1/94, S. 21), zuletzt geändert am 17.
+November 2015 (UniReport 4. Januar 2016), wie folgt geändert:
+Inhalt 
+§ 1 Promotion
+srecht
+§ 2 Promotionsausschuss und Geschäftsstelle
+§ 3 Voraussetzungen zur Promotion
+§ 4 Annahme als Doktorand oder Doktorandin
+§ 5 Graduiertenstudium
+§ 6 Dissertation
+§ 7 Einleitung des Prüfungsverfahrens
+§ 8 Begutachtung der Dissertation
+§ 9 Prüfungskommission
+§ 10 Bewertung der Promotionsleistung
+§ 11 Disputation und Entscheidung
+§ 12 Wiederholung
+§ 13 Vollzug der Promotion
+§ 14 Veröffentlichung
+§ 15 Aberkennung des Doktorgrades
+§ 16 Gebühren
+§ 17 Ehrenpromotion
+§ 18 Gemeinsame Promotionen
+§ 19 Einsichtnahme
+§ 20 Widerspruch gegen Entscheidungen im Promotionsverfahren
+§ 21 Übergangsregelung
+§ 22 Inkrafttreten
+Anlagen 
+Anlage 1: Muster für das Titelblatt 
+Anlage 2: Rück
+seite des Titelblattes 
+Anlage 3: Bescheinigung über das Prüfungsergebnis 
+Anlage 4: Promotionsurkunde  
+
+1 § 1 Promotionsrecht
+(1) Der Fachbereich Physik (13) der Johann Wolfgang Goethe Universität Frankfurt am Main verleiht den
+akademischen Grad „doctor philosophiae naturalis, Dr. phil. nat.“, die Fachbereiche Psychologie und 
+Sportwissenschaften (5), Geowissenschaften/Geographie (11), Informatik und Mathematik (12), Biochemie, 
+Chemie und Pharmazie (14), sowie Biowissenschaften (15) der Johann Wolfgang GoetheUniversität Frankfurt 
+am Main verleihen den akademischen Grad „doctor rerum naturalium, Dr. rer.nat.“ (* § 18). Vorausgesetzt werden 
+Promotionsleistungen im MathematischNaturwissenschaftlichen Bereich, bzw. in einer der zugehörigen 
+Didaktiken, und zwar im Fachbereich Psychologie und Sportwissenschaften im Fach Psychologie, im Fachbereich 
+Geowissenschaften/Geographie in den Fächern Geographie, Geowissenschaften, Meteorologie und 
+Umweltwissenschaften, im Fachbereich Informatik und Mathematik in den Fächern Bioinformatik, 
+Wirtschaftsinformatik, Didaktik der Informatik, Didaktik der Mathematik, Informatik und Mathematik, im 
+Fachbereich Physik in den Fächern Didaktik der Physik und Physik, im Fachbereich Biochemie, Chemie und 
+Pharmazie in den Fächern Biochemie, Chemie, Didaktik der Chemie und Pharmazie, im Fachbereich 
+Biowissenschaften in den Fächern Bioinformatik, Biologie und Didaktik der Biologie. 
+(2) Durch die Promotion wird eine besondere wissenschaftliche Qualifikation nachgewiesen, die über die mit der
+Diplom, Master oder Staatsprüfung verbundene Qualifikation hinausgeht.
+(3) Die Promotionsleistungen bestehen aus einer vom Bewerber oder der Bewerberin verfassten Dissertation in
+einem der in Abs.1 genannten Fächer (§ 6) und einer öffentlichen Disputation (§ 11).
+§ 2 Promotionsausschuss und Geschäftsstelle
+(1) In jedem Fachbereich ist der Promotionsausschuss der für die ord nungsgemäße Abwicklung und Durchführung
+der Promotion verantwortliche Ausschuss. Er entscheidet insbesondere über die Annahme als Doktorand bzw.
+Doktorandin (§ 4), die Einleitung des Prüfungsverfahrens (§ 7), die Bestellung der Gutachter bzw. Gutachterinnen
+(§ 8 Abs. 1) und die Bildung der Prüfungskommission (§ 9). Der Promotionsausschuss kann diese Aufgabe ganz
+oder teilweise an den Dekan bzw. die Dekanin delegieren. Gegen Entscheidungen des Dekans bzw. der Dekanin
+kann der Promotionsausschuss angerufen werden. Für das Fach Bioinformatik ist der Promotionsausschuss des
+Fachbereichs (12 bzw. 15) zuständig, in dem der jeweilige Betreuer oder die jeweilige Betreuerin Erstmitglied ist.
+(2) Der Promotionsausschuss besteht aus dem Dekan bzw. der Dekanin als Vorsitzenden bzw. Vorsitzende, drei
+weiteren Professoren oder Professorinnen, einem wissenschaftlichen Mitarbeiter oder einer wissenschaftlichen
+Mitarbeiterin und einem Studenten oder einer Studentin, der bzw. die mindestens die BachelorPrüfung bestanden
+hat. Die Mitglieder und deren Stellvertreter bzw. Stellvertreterinnen werden auf Vorschlag der jeweiligen
+Gruppenvertreter bzw. Gruppenvertreterinnen vom zuständigen Fachbereichsrat für die Dauer von zwei Jahren
+(der Student bzw. die Studentin und dessen bzw. deren jeweiligen Stellvertreter bzw. jeweilige Stellvertreterin für
+ein Jahr) gewählt. Der Dekan bzw. die Dekanin kann im Rahmen der Geschäftsverteilung auch den Studiendekan
+bzw. die Studiendekanin oder den Prodekan bzw. die Prodekanin mit seiner bzw. ihrer Vertretung beauftragen.
+(3) Der Promotionsausschuss berät und entscheidet in nichtöffentlicher Sitzung. Er ist beschlussfähig, wenn
+mindestens die Hälfte seiner Mitglieder anwesend sind; er entscheidet mit der Mehrheit der anwesenden
+Mitglieder. Wenn ein Mitglied verhindert ist, nimmt das stellvertretende Mitglied teil und ist stimmberechtigt.
+Beschlüsse, die die Bestellung der Gutachter bzw. Gutachterinnen, die Bildung der Prüfungskommission sowie
+die Betreuung des Doktoranden oder der Doktorandin betreffen, bedürfen außer der Stimmenmehrheit der
+Anwesenden auch der Stimmenmehrheit der Professoren bzw. Professorinnen des Ausschusses. Eine geheime
+Abstimmung und Enthaltung in Prüfungsangelegenheiten ist ausgeschlossen.
+(4) Ablehnende Bescheide in Promotionsangelegenheiten sind zu begründen, mit einer Rechtsbehelfsbelehrung zu
+versehen und vom Dekan bzw. von der Dekanin zu unterzeichnen.
+(5) Die in § 1 genannten Fachbereiche richten eine gemeinsame Geschäftsstelle zur verwaltungsmäßigen
+Durchführung der Promotionen ein; sie können eine Geschäftsordnung erlassen, die insbesondere die Bestellung
+des oder der geschäftsführenden Vorsitzenden regelt.
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+2 § 3 Voraussetzungen zur Promotion
+(1)Voraussetzung für die Annahme als Doktorand bzw. Doktorandin ist ein mindestens mit „befriedigend“
+abgeschlossenes, in der Regel auf das Promotionsfach bezogenes wissenschaftliches Hochschulstudium von 
+mindestens acht Semestern. Regelabschlüsse sind der Master, das Diplom, das erste Staatsexamen für das Lehramt 
+an Gymnasien, der zweite Prüfungsabschnitt nach der Approbationsordnung für Apotheker oder die Hauptprüfung, 
+Teil A für Lebensmittelchemiker bzw. Lebensmittelchemikerinnen (Hochschulabschluss).  
+(2) In Verbindung mit einer gesonderten Eignungsfeststellung können auch Bewerber oder Bewerberinnen zur
+Promotion zugelassen werden, die
+a)ein abgeschlossenes Hochschulstudium in einem nicht auf das Promotionsfach bezogenen
+wissenschaftlichen Hochschulstudium, oder
+b)ein abgeschlossenes Hochschulstudium in weniger als acht Semestern, oder
+c)die Staatsprüfung für das Lehramt an Grund, Haupt und Realschulen (näheres regelt Abs. 4), oder
+d)ein abgeschlossenes Fachhochschulstudium im gleichen oder verwandten Fach (Master, Diplom; näheres
+regelt Abs. 5)
+absolviert haben. Das Verfahren zur Eignungsfeststellung soll klären, ob ein Bewerber oder eine Bewerberin zur 
+selbstständigen wissenschaftlichen Arbeit im Rahmen einer Promotion befähigt ist. Der Promotionsausschuss 
+prüft die Eignung nach Einsicht der Bewerbungsunterlagen und der bislang erbrachten Studienleistungen und kann 
+die Zulassung von der Erfüllung zusätzlicher Studien oder Prüfungsleistungen abhängig machen. Diese können 
+insbesondere die Ableistung von Prüfungen und der Besuch bestimmter Lehrveranstaltungen in den 
+entsprechenden oder vergleichbaren Masterstudiengängen sein. Die Fachbereiche können für ihre jeweiligen 
+Fächer Ausführungsbestimmungen beschließen. 
+(3) Der Promotionsausschuss entscheidet über die Anerkennung ausländischer Studienabschlüsse. In
+Zweifelsfällen ist die Zentralstelle für ausländisches Bildungswesen zu hören; dabei sind die von der
+Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen zu
+beachten. Abs. 2 ist anzuwenden.
+(4) Für die Promotion in einem didaktischen Fach (vgl. § 1 Abs. 1) können auch Abschlüsse nach Abs. 2 (c)
+anerkannt werden. Vor der Annahme als Doktorand bzw. Doktorandin ist ein mindestens zweisemestriges
+fachwissenschaftliches Ergänzungsstudium im Masterstudium zu absolvieren und eine abschließende
+Eignungsprüfung oder eine dieser äquivalenten Prüfungsleistung abzulegen. Die Eignungsprüfung ist vor zwei
+Professoren oder Professorinnen abzulegen und dauert insgesamt eine Stunde. Die Eignungsprüfung muss in den
+vom Promotionsausschuss festgelegten Schwerpunkten bzw. Prüfungsfächern mit Prädikat, d.h. mindestens mit
+„befriedigend“ (3), bestanden werden. Sie kann einmal wiederholt werden. 
+(5) Der Antrag des Bewerbers bzw. der Bewerberin nach Abs. 2 (d) (abgeschlossenes Fachhochschulstudium im
+gleichen oder verwandten Fach (Master, Diplom)) muss von zwei Professoren oder Professorinnen, von denen
+mindestens einer bzw. eine dem Fachbereich angehört, durch schriftliche Empfehlungen unterstützt werden. Der
+Promotionsausschuss kann auf der Grundlage der Empfehlungen die Zulassung zur Promotion mit Auflagen zur
+Sicherstellung der Voraussetzung zur wissenschaftlichen Arbeit verbinden. Diese Auflagen müssen spätestens in
+dem Semester, das der Einleitung des Promotionsverfahrens vorausgeht, erfüllt sein.
+(6) Zur Promotion kann nicht zugelassen werden, wer
+a)bereits einen Doktorgrad besitzt, der dem angestrebten entspricht,
+b)sich einer Täuschung oder eines Täuschungsversuchs im Zusammenhang mit den
+Zulassungsvoraussetzungen schuldig gemacht hat.
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+3 § 4 Annahme als Doktorand oder Doktorandin
+(1) Für die Annahme als Doktorand oder Doktorandin ist der Nachweis der in § 3 genannten Voraussetzungen zur
+Promotion erforderlich.
+(2) Vor der Beantragung der Annahme als Doktorand bzw. Doktorandin bemüht sich der Bewerber bzw. die
+Bewerberin um ein Thema für die Dissertation, gegebenenfalls durch Vermittlung des Promotionsausschusses.
+(3) Der Doktorand bzw. die Doktorandin wird bei der Durchführung der Doktorarbeit betreut. Die Festlegung des
+Arbeitstitels geschieht im Einvernehmen mit dem Betreuer bzw. der Betreuerin. Es soll eine
+Betreuungsvereinbarung geschlossen werden. Für die Betreuung kommen in Betracht:
+a)Professoren bzw. Professorinnen,
+b)emeritierte oder pensionierte Professoren bzw. Professorinnen,
+c)Honorarprofessoren bzw. Honorarprofessorinnen des Fachbereichs,
+d)außerplanmäßige Professoren bzw. Professorinnen,
+e)Junior bzw. Qualifikationsprofessoren bzw. –professorinnen,
+f)habilitierte, im Fachbereich in Lehre und Forschung tätige Wissenschaftler bzw. Wissenschaftlerinnen,
+oder
+g)promovierte Wissenschaftler und Wissenschaftlerinnen, die sich durch besondere wissenschaftliche
+Leistungen ausgewiesen haben (EmmyNoether oder HeisenbergFellows und vergleichbare
+Nachwuchsgruppenleiter bzw. leiterinnen, deren Leistungen durch ein PeerReviewVerfahren
+begutachtet wurden).
+Mit Zustimmung des Promotionsausschusses kann dies auch ein anderes wissenschaftliches Mitglied des 
+Fachbereichs sein, das die Einstellungsvoraussetzungen gemäß dem Hessischen Hochschulgesetz (HHG) erfüllt. 
+Dies sind z.B. 
+h)promovierte Wissenschaftler und Wissenschaftlerinnen, deren Promotion mindestens drei Jahre
+zurückliegt und die die Promotionsstelle in einem PeerReview und kompetitiven Verfahren selbst
+eingeworben haben.
+In den Fällen (g) und (h) ist im Rahmen der Betreuung eine zusätzliche Betreuerin oder ein Betreuer zu benennen, 
+die bzw. der die professoralen Voraussetzungen gemäß dem HHG besitzt. Das Erfordernis der Benennung einer 
+zweiten Betreuerin oder eines zweiten Betreuers gilt entsprechend für Professorinnen und Professoren im 
+Ruhestand (b) und Honorarprofessorinnen und –professoren (c).
+Der Betreuer bzw. die Betreuerin ist für die wissenschaftliche Betreuung und für die Bereitstellung der materiellen 
+Ausstattung zur Durchführung der Arbeit verantwortlich. Das Betreuungsverhältnis soll dann nicht begründet 
+werden, wenn abzusehen ist, dass die Betreuung nicht bis zum Abschluss des Promotionsverfahrens gewährleistet 
+werden kann. Zur Betreuung kann ein promovierter wissenschaftlicher Mitarbeiter bzw. eine promovierte 
+wissenschaftliche Mitarbeiterin hinzugezogen werden. Hiervon ist der Promotionsausschuss schriftlich zu 
+unterrichten. 
+(4) Das Thema soll so beschaffen sein, dass die Dissertation voraussichtlich in drei Jahren angefertigt werden
+kann.
+(5) Der Bewerber bzw. die Bewerberin beantragt beim Vorsitzenden bzw. der Vorsitzenden des zuständigen
+Promotionsausschusses die Annahme als Doktorand bzw. als Doktorandin. Im Antrag sind aufzuführen:
+a)das Fach (vgl. § 1 Abs. 1), in dem die Promotion angestrebt wird,
+b)der vorläufige Arbeitstitel der Dissertation unter Nennung des Wissenschaftlers bzw. der
+Wissenschaftlerin, der bzw. die die Betreuung der Dissertation übernimmt.
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+4 Dem Antrag sind beizufügen: 
+1.die zum Nachweis der Promotionsvoraussetzungen nach § 3 erforderlichen Unterlagen,
+2.eine Bezeichnung des vorläufigen Arbeitstitels und ein kurz gefasstes Arbeitsprogramm,
+3.eine schriftliche Erklärung über frühere Promotionsversuche,
+4.eine schriftliche Erklärung über die Beachtung der Grundsätze der wissenschaftlichen Praxis,
+5.eine Stellungnahme des für die Betreuung Verantwortlichen zum Arbeitstitel und über die materiellen
+Voraussetzungen zur Durchführbarkeit der Arbeit.
+(6) Der Promotionsausschuss soll in der Regel innerhalb von zwei Monaten über den Antrag des Bewerbers bzw.
+der Bewerberin entscheiden. Der Dekan oder die Dekanin teilt die Entscheidung dem Bewerber bzw. der
+Bewerberin schriftlich mit. Der Antrag auf Annahme als Doktorand bzw. Doktorandin ist abzulehnen, wenn
+a)die Voraussetzungen nach § 3 nicht erfüllt sind, oder
+b)kein Professor oder keine Professorin des Fachbereichs für die Begutachtung des gewählten Themas
+fachlich zuständig ist; in Zweifelsfällen entscheidet der Promotionsausschuss nach Anhörung der in Frage
+kommenden Professoren bzw. Professorinnen und des Fachbereichsrates, oder
+c)die materielle Ausstattung zur Durchführbarkeit der Arbeit nicht gegeben ist, oder
+d)der Bewerber bzw. die Bewerberin bereits zwei Promotionsversuche im gleichen Fach erfolglos
+unternommen hat.
+(7) Mit der Annahme erhält der Bewerber bzw. die Bewerberin den Status eines Doktoranden bzw. einer
+Doktorandin; jeder Doktorand und jede Doktorandin kann sich an der Johann Wolfgang GoetheUniversität
+Frankfurt am Main immatrikulieren. Der Status eines Doktoranden bzw. einer Doktorandin verpflichtet den
+Promotionsausschuss, die Durchführung des Prüfungsverfahrens zu gewährleisten, und den Fachbereich, seine
+Forschungseinrichtungen dem Doktoranden bzw. der Doktorandin nach Möglichkeit zugänglich zu machen.
+(8) Der Promotionsausschuss führt eine Liste der von ihm angenommenen Themen, in der insbesondere die Namen
+der Doktoranden und Doktorandinnen, Zeitpunkt der Annahme, Name des Betreuers bzw. der Betreuerin und
+Zeitpunkt des Abschlusses des Promotionsverfahrens enthalten sind.
+(9) Auf Antrag des Doktoranden bzw. der Doktorandin, seines bzw. ihres Betreuers oder seiner bzw. ihrer
+Betreuerin oder des bzw. der Vorsitzenden des Promotionsausschusses kann der Promotionsausschuss eine
+Änderung des Betreuungsverhältnisses genehmigen; alle Beteiligten sind zu hören.
+(10) Auf Antrag des Doktoranden bzw. der Doktorandin, seines bzw. ihres Betreuers oder seiner bzw. ihrer
+Betreuerin oder des bzw. der Vorsitzenden des Promotionsausschusses kann der Promotionsausschuss den
+Fortgang der Arbeit unter Anhörung des Doktoranden bzw. der Doktorandin und seines bzw. ihres Betreuers oder
+seiner bzw. ihrer Betreuerin überprüfen. Besteht keine Aussicht auf einen erfolgreichen Abschluss der
+Doktorarbeit, nachdem der Promotionsausschuss eine für die Bearbeitung angemessene Frist gesetzt hat, so soll
+der Promotionsausschuss das Doktorandenverhältnis beenden. Dies ist dem Doktoranden bzw. der Doktorandin
+und dem Betreuer bzw. der Betreuerin schriftlich mitzuteilen. Das von dem Doktoranden bzw. der Doktorandin
+bearbeitete Thema ist aus der Liste der Promotionsthemen zu streichen.
+§ 5 Graduiertenstudium
+Da mit der Promotion der Nachweis einer über die Diplom, Master oder Staatsprüfung hinausgehenden 
+wissenschaftlichen Qualifikation verbunden ist, sollen die Kenntnisse auch in dem Arbeitsgebiet benachbarten 
+Fächern im Rahmen eines Graduiertenstudiums erweitert und vertieft werden 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+5 § 6 Dissertation
+(1) Die Dissertation muss wissenschaftlichen Ansprüchen genügen und zum Fortschritt der wissenschaftlichen
+Erkenntnis beitragen. Sie muss eine gewichtige, selbständige Leistung des Doktoranden bzw. der Doktorandin
+enthalten. Ist die Dissertation aus gemeinsamer Forschungsarbeit entstanden, so müssen die individuellen
+Leistungen des Doktoranden bzw. der Doktorandin deutlich abgrenzbar und bewertbar sein und als solche
+gekennzeichnet sein. Sie müssen für sich den Anforderungen an eine Dissertation genügen.
+(2)Die Dissertation kann ganz oder teilweise vorher veröffentlicht sein. Die Dissertation kann auch mehrere
+Artikel im Sinne einer kumulativen Dissertation umfassen; in diesem Fall ist eine für sich allein lesbare,
+ausführliche zusammenfassende Darstellung voranzustellen. Der Eigenanteil des Doktoranden bzw. der
+Doktorandin muss klar erkennbar sein. Über die Qualitätsmerkmale der kumulativen Dissertation, insbesondere
+hinsichtlich der Kriterien und Form, können die Fachbereiche Ausführungsbestimmungen erlassen.
+(3)Die Dissertation ist in der Regel in deutscher oder englischer Sprache abzufassen. Neben der Papierform ist sie
+zu Überprüfungszwecken in geeigneter (lesbarer) elektronischer Fassung einzureichen. Der Promotionsausschuss
+kann dem Doktoranden bzw. der Doktorandin gestatten, eine in einer anderen Sprache geschriebene Dissertation
+vorzulegen, wenn es sachlich begründet und organisatorisch möglich ist und die Gutachter und Gutachterinnen
+dem zustimmen. In jedem Fall ist eine Zusammenfassung in deutscher oder englischer Sprache erforderlich.
+(4)Die Form des Titelblattes soll dem als Anlage 1 beigefügten Muster entsprechen. Der Lebenslauf ist auf der
+letzten Seite aufzuführen.
+§ 7 Einleitung des Prüfungsverfahrens
+(1) Doktoranden und Doktorandinnen, die die Voraussetzungen nach § 3 erfüllen, können die Einleitung des
+Prüfungsverfahrens beantragen. Der Antrag ist an den Vorsitzenden bzw. die Vorsitzende des
+Promotionsausschusses zu richten. Im Antrag sind aufzuführen:
+a)das Fach (vgl. § 1 Abs.1), in dem die Promotion angestrebt wird,
+b)das Thema der Dissertation und die Namen des Betreuers bzw. der Betreuerin,
+c)die Namen der Gutachter bzw. Gutachterinnen, die der Doktorand bzw. die Doktorandin vorschlägt.
+(2)Dem Antrag sind beizufügen:
+a)ein Lebenslauf mit Lichtbild, der auch über den Studien und Bildungsgang des Doktoranden bzw. der
+Doktorandin Aufschluss gibt,
+b)die zum Nachweis der Promotionsvoraussetzungen nach § 3 erforderlichen Unterlagen, soweit sie nicht
+bei der Annahme als Doktorand oder Doktorandin vorgelegt wurden,
+c)eine schriftliche Erklärung über frühere Promotionsverfahren,
+d)die Dissertation in fünf gleichlautenden Exemplaren, außerdem eine gesonderte Zusammenfassung (vgl.
+§ 8 Abs. 5) von höchstens zwei Seiten. Neben der Papierform ist die Dissertation zu
+Überprüfungszwecken in geeigneter (lesbarer) elektronischer Fassung einzureichen.
+e)eine schriftliche Erklärung darüber, dass der Doktorand bzw. die Doktorandin die Dissertation selbst
+verfasst hat und die Angabe, dass er bzw. sie bei der Ausarbeitung der Dissertation nur die in der
+Dissertation angegebenen Hilfen oder Hilfsmittel benutzt hat, einschließlich einer Erklärung über die
+Beachtung der Grundsätze der guten wissenschaftlichen Praxis,
+f)eine schriftliche Erklärung des Doktoranden bzw. der Doktorandin, nicht die Hilfe einer kommerziellen
+Promotionsvermittlung in Anspruch genommen zu haben,
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+6 g)eine schriftliche Erklärung, dass Primärdaten, falls vorhanden, zehn Jahre lang aufgehoben und
+zugänglich gehalten werden,
+h)falls vorhanden, ein Verzeichnis der bereits veröffentlichten wissenschaftlichen Arbeiten,
+i)gegebenenfalls ein Nachweis der im Rahmen des Promotionsstudiums erforderlichen Leistungen,
+j)die Quittung über die gezahlte Prüfungsgebühr (§ 16).
+(3)Die Einleitung des Prüfungsverfahrens ist zu versagen, wenn
+a)die Unterlagen nach wiederholter Aufforderung unvollständig vorgelegt werden, oder
+b)der Doktorand bzw. die Doktorandin sich einer Täuschung insbesondere im Zusammenhang mit den
+Zulassungsvoraussetzungen oder auch der Dissertation schuldig gemacht hat, oder
+c)der Doktorand bzw. die Doktorandin die Promotionsprüfung im jeweiligen Fach mehr als einmal
+erfolglos versucht hat, oder
+d)kein Professor oder keine Professorin des Fachbereichs für die Begutachtung des gewählten Themas
+zuständig ist; in Zweifelsfällen entscheidet der Promotionsausschuss nach Anhörung der in Frage
+kommenden Professoren bzw. Professorinnen und des Fachbereichsrats, oder
+e)die Voraussetzungen nach § 3 oder § 7 Abs. 1 und Abs. 2 nicht erfüllt sind, oder
+f)der Doktorand bzw. die Doktorandin die gleiche Dissertation bereits in einem anderen Promotionsfach
+oder einer anderen Universität erfolgreich vorgelegt hat.
+(4)Der Antrag kann nicht mehr zurückgenommen werden, sobald eines der Gutachten (vgl. § 8) bei dem oder der
+Vorsitzenden des Promotionsausschusses vorliegt. Tritt der Doktorand bzw. die Doktorandin danach von de r
+Prüfung zurück, so gilt das Promotionsverfahren als erfolglos beendet.
+§ 8 Begutachtung der Dissertation
+(1) Die Dissertation wird in der Regel von zwei Personen begutachtet; hierf ür kommen die in § 4 Abs. 3 genannten
+Personen in Betracht. Ein Gutachter bzw. eine Gutachterin soll die für die Betreuung der Dissertation
+verantwortliche Person sein. Einer der Gutachter muss Professor bzw. eine der Gutachterinnen muss Professorin
+des Fachbereichs im Sinne des HHG sein; hiervon kann der Promotionsausschuss abweichen, wenn der Betreuer
+bzw. die Betreuerin der Dissertation zum Zeitpunkt der Annahme als Doktorand Professor bzw. Professorin des
+Fachbereichs im Sinne des HHG war und dieser als Gutachter bzw. diese als Gutachterin bestellt wird. Die Namen
+der Gutachter bzw. Gutachterinnen werden dem Doktoranden bzw. der Doktorandin mitgeteilt. Wurde bei der
+Betreuung ein wissenschaftlicher Mitarbeiter bzw. eine wissenschaftliche Mitarbeiterin nach § 4 Abs. 3 (vorletzter
+Satz) hinzugezogen, so hat dieser bzw. diese das Recht, eine schriftliche Stellungnahme zur Dissertation
+abzugeben. Die Gutachten sollen unabhängig voneinander erstellt werden.
+(2)Solange keine Entscheidung der Prüfungskommission über die Bewertung der Dissertation getroffen ist, kann
+der Promotionsausschuss in begründeten Fällen bis zu zwei weitere promovierte Gutachter bzw. Gutachterinnen
+bestellen. Gutachter bzw. Gutachterinnen werden vom Promotionsausschuss mit deren Einverständnis bestellt.
+(3)Die Gutachten sollen einen Monat, nachdem die Gutachter bzw. Gutachterinnen die Unterlagen erhalten haben,
+vorliegen. Der Promotionsausschuss bemüht sich um die rechtzeitige Vorlage der Gutachten. Die Gutachten
+können auch in englischer Sprache vorgelegt werden; die Bewertung hat sich nach den Regelungen dieser Ordnung
+(§ 10 Abs. 1) zu richten.
+(4)Die Gutachter bzw. Gutachterinnen unterbreiten Bewertungsvorschläge nach § 10 Abs. 1. Für die Note
+„ausgezeichnet“ (0) bedarf es einer besonderen Begründung (§ 10 Abs. 3). Die Gutachter bzw. Gutachterinnen 
+können Änderungen der Dissertation für die endgültige Drucklegung vorschlagen (Abs. 9 und § 11 Abs. 9). 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+7 (5) Liegen die Gutachten vor, so ist den Professoren und Professorinnen der in § 1 genannten Fachbereiche Einsicht
+in die Gutachten zu gewähren. Für diese Einsichtnahme legt der Promotionsausschuss eine Frist von mindestens
+vier, längstens sechs Wochen fest. Den Professoren und Professorinnen des promovierenden Fachbereichs und
+den Dekanen und Dekaninnen der anderen in § 1 genannten Fachbereiche ist unter Beifügung der
+Zusammenfassung (vgl. § 7 Abs. 2 (d)) die Auslage bekanntzugeben, dabei sind die Namen der Gutachter bzw.
+Gutachterinnen und deren Notenvorschläge zu nennen.
+(6)Die Professoren und Professorinnen der in § 1 genannten Fachbereiche haben das Recht, in schriftlicher Form
+zu den Gutachten Stellung zu nehmen, gegen die Bewertungsvorschläge Einspruch zu erheben und gegebenenfalls
+Änderungen der Dissertation für die endgültige Drucklegung vorzuschlagen (Abs. 9 und § 11 Abs. 9).
+(7)Die einzelnen Fachbereiche können für die Einsichtnahme innerhalb des Fachbereichs ein Umlaufverfahren
+bei allen Professoren und Professorinnen des Fachbereichs beschließen; dabei sind die Dissertation und die
+Gutachten in Umlauf zu geben.
+(8) Schlagen alle Gutachter bzw. Gutacht erinnen die Ablehnung („non rite“) vor, so erklärt die
+Prüfungskommission die Prüfung für nicht bestanden. Schlägt von den Gutachtern bzw. Gutachterinnen einer bzw. 
+eine die Ablehnung vor, so ist ein weiterer Gutachter bzw. eine weitere Gutachterin durch den 
+Promotionsausschuss zu bestellen. Schlägt diese Person ebenfalls die Ablehnung vor, so erklärt die 
+Prüfungskommission die Prüfung für nicht bestanden. § 8 Abs. 2 ist anzuwenden. 
+(9)Haben die Gutachter bzw. Gutachterinnen oder andere Professoren oder Professorinnen Vorschläge für die
+endgültige Drucklegung der Dissertation gemacht (Abs. 4 und Abs. 6), so entscheidet der Promotionsausschuss
+im Einvernehmen mit den Gutachtern bzw. Gutachterinnen und nach Anhörung des Doktoranden bzw. der
+Doktorandin, ob die vorgeschlagenen Änderungen durchgeführt werden müssen und ob dies vor der Disputation
+zu geschehen hat. Die Auflagen gelten als erfüllt, wenn die Zustimmung der Gutachter bzw. Gutachterinnen
+vorliegt.
+§ 9 Prüfungskommission
+(1)Der Promotionsausschuss beruft die Prüfungskommission und setzt die Prüfungstermine fest.
+(2)Die Prüfungskommission bewertet die Dissertation und die Disputation. Die Note für die Dissertation wird auf
+der Grundlage der Gutachten und nach Prüfung eventuell vorliegender Einsprüche und Stellungnahmen festgelegt.
+(3)Der Prüfungskommission gehören die Gutachter bzw. Gutachterinnen und zwei weitere Professoren bzw.
+Professorinnen, emeritierte oder pensionierte Professoren bzw. Professorinnen oder Honorarprofessoren bzw.
+Honorarprofessorinnen oder andere habilitierte Wissenschaftler bzw. Wissenschaftlerinnen bzw. deren
+Stellvertreter oder Stellvertreterinnen an, wobei mindestens drei der Mitglieder Professoren bzw. Professorinnen
+im Sinne des HHG sein müssen. Im Fach Bioinformatik soll der Prüfungskommission immer ein Mitglied aus dem
+jeweils anderen Fachbereich (12 oder 15) angehören. Die Mitglieder der Prüfungskommission, die dem
+promovierenden Fachbereich angehören, sollen in der Kommission die Mehrheit haben.
+(4)Der Promotionsausschuss bestellt eines der Mitglieder der Prüfungskommission zum Vorsitzenden bzw. zur
+Vorsitzenden.
+(5)Den Mitgliedern der Prüfungskommission sind die Dissertation und die Gutachten und eventuelle
+Stellungnahmen und Einsprüche zugänglich zu machen.
+(6)Die Prüfungskommission berät und entscheidet in nichtöffentlicher Sitzung. Beschlüsse kommen mit der
+Mehrheit der Stimmen der Anwesenden zustande. Eine geheime Abstimmung und Enthaltung in
+Prüfungsangelegenheiten ist ausgeschlossen.
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+8 § 10 Bewertung der Promotionsleistung
+(1) Die Promotionsleistungen werden mit den Noten
+sehr gut (magna cum laude) (1) 
+gut (cum laude) (2) 
+genügend (rite) (3) 
+nicht genügend (non rite) (4)  
+bewertet. 
+Für besonders hervorragende Leistungen kann das Prädikat 
+ausgezeichnet (summa cum laude) (0) 
+erteilt werden. Die Ziffern dienen nur als Berechnungsgrundlage und erscheinen nicht in der Urkunde. Bei der 
+Vergabe des Prädikats „ausgezeichnet“ für die Dissertation soll grundsätzlich ein drittes Gutachten eingeholt 
+werden; eines der drei Gutachten soll extern sein. 
+(2)Ergeben sich bei der Durchschnittsbildung Bruchteile, so wird bei Werten bis einschließlich …,5 die bessere
+Note, über …,5 die schlechtere Note gegeben.
+(3)Das Prädikat „ausgezeichnet“ für die Dissertation kann nur erteilt werden (§ 11 Abs. 5), wenn alle Gutachter
+bzw. Gutachterinnen für die Dissertation dieses Prädikat vorgeschlagen haben.
+§ 11 Disputation und Entscheidung
+(1) Den Termin für die öffentliche Disputation setzt der Promotionsausschus s im Benehmen mit den Mitgliedern
+der Prüfungskommission und dem Doktoranden bzw. der Doktorandin fest. Für die Disputation ist eine Zeitdauer
+von ein bis zwei Stunden vorgesehen. Die Disputation kann mit einstimmiger Zustimmung der
+Prüfungskommission in einer anderen Sprache als deutsch oder englisch durchgeführt werden.
+(2) Zur Disputation werden der Doktorand bzw. die Doktorandin, die Mitglieder der Prüfungskommission und die
+Dekane bzw. die Dekaninnen der in § 1 genannten Fachbereiche persönlich eingeladen. Der Termin de r
+Disputation wird in diesen Fachbereichen durch Aushang bekanntgegeben.
+(3) In der Disputation verteidigt der Doktorand bzw. die Doktorandin seine bzw. ihre Dissertation vor der
+Prüfungskommission; er bzw. sie soll dabei seine bzw. ihre wissenschaftliche Qualifikation nachweisen. Die
+Disputation beginnt mit einem etwa 15minütigen Bericht des Doktoranden bzw. der Doktorandin über die
+Dissertation. Die Disputation ist eine vertiefte wissenschaftliche Aussprache, die zeigen soll, dass der Doktorand
+bzw. die Doktorandin das Fachgebiet, dem die Dissertation entstammt, beherrscht und moderne Entwicklungen
+seines bzw. ihres Faches kennt. Sie erstreckt sich darüber hinaus auf ausgewählte Themen angrenzender
+Fachgebiete, die sachlich und methodisch mit dem Arbeitsgebiet zusammenhängen. Der bzw. die Vorsitzende der
+Prüfungskommission leitet die Disputation; er bzw. sie kann Fragen aus der Öffentlichkeit zulassen.
+(4) Die Disputation wird vom Promotionsausschuss für nicht bestanden erklärt, wenn der Doktorand bzw. die
+Doktorandin ohne wichtigen Grund die Disputation versäumt oder vor Beendigung der Prüfung die Teilnahme
+abgebrochen hat. Der für das Versäumnis oder den Abbruch der Prüfung geltend gemachte Grund muss der
+Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses unverzüglich nach Bekanntwerden des Grundes
+schriftlich angezeigt und glaubhaft gemacht werden. Über die Anerkennung des Säumnis oder Rücktrittsgrundes
+entscheidet der Promotionsausschuss. Bei Anerkennung des Grundes wird unverzüglich ein neuer Termin
+bestimmt.
+(5) Die Prüfungskommission tritt in der Regel unmittelbar nach Abschluss der Disputation zusammen, um die
+Noten für die Leistungen in der Dissertation, in der Disputation und für die Gesamtnote festzustellen.
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+9 (6) Der Doktorand bzw. die Doktorandin kann nur promoviert werden, wenn die Dissertation und die Disputation
+jeweils mindestens mit der Note „genügend" (rite) (3) bewertet worden sind.
+(7) Die Prüfungskommission bewertet die Disputation nach den in § 10 Abs. 1 genannten Noten. Die Gesamtnote
+ergibt sich zu zwei Dritteln aus der Note für die Dissertation und zu einem Drittel aus der Note, mit der die
+Prüfungskommission die Leistung in der Disputation bewertet hat. § 10 Abs. 2 ist anzuwenden. Die Gesamtnote
+„ausgezeichnet" kann nur e rteilt werden, wenn sowohl die Dissertation als auch die Disputation mit diesem
+Prädikat bewertet wurden.
+(8) Über die Disputation ist ein Protokoll aufzunehmen, das die Namen der Mitglieder der Prüfungskommission,
+die Zeitdauer der Prüfung, einen Überblick über die Inhalte der Disputation und die Noten enthalten muss.
+(9) Im Anschluss an die Entscheidung gibt der bzw. die Vorsitzende der Prüfungskommission dem Doktoranden
+bzw. der Doktorandin das Ergebnis bekannt sowie eventuell noch ausstehende Auflagen (§ 8 Abs. 4, 6 und 10) für
+die endgültige Drucklegung der Pflichtexemplare. Nach Anhörung des Doktoranden bzw. der Doktorandin setzt
+die Prüfungskommission eine Frist für die Vorlage der überarbeiteten Pflichtexemplare fest.
+(10) Der Doktorand bzw. die Doktorandin erhält vom Promotionsausschuss eine Bescheinigung, in der das
+Prüfungsergebnis enthalten ist (s. Anlage 3).
+§ 12 Wiederholung
+(1) Ist die Dissertation abgelehnt worden, so kann nur ein weiterer Promotionsv ersuch unternommen werden. Das
+Prüfungsverfahren kann frühestens nach einem Jahr vom Zeitpunkt der Ablehnung der Dissertation gerechnet
+eingeleitet werden.
+(2) Die Disputation kann nur einmal auf Antrag wiederholt werden. Dies kann frühestens nach zwei Monaten und
+muss innerhalb eines Jahres nach dem Termin der ersten Disputation geschehen.
+§ 13 Vollzug der Promotion
+(1) Nachdem die Dissertation nach der in § 14 beschriebenen Weise veröffentlicht wo rden ist, händigt der Dekan
+bzw. die Dekanin dem Doktoranden bzw. der Doktorandin die Promotionsurkunde aus. Die Urkunde (s. Anlage
+4) enthält das Fach, in dem die Promotion durchgeführt worden ist, den Titel sowie das Datum der Dissertation
+und die Gesamtnote. Sie ist auf den Tag der Disputation ausgestellt, mit dem Siegel des Fachbereichs versehen
+und vom Dekan oder der Dekanin unterschrieben. Zusätzlich wird eine vom Dekan oder der Dekanin
+unterschriebene beglaubigte englische Übersetzung der Urkunde ausgehändigt.
+(2) Nach Aushändigung der Urkunde hat der bzw. die Promovierte das Recht auf Führung des Doktorgrades.
+§ 14 Veröffentlichung
+(1) Die Dissertation ist als Buchdruck, als Beitrag eines Sammelbandes, als vervielfältigtes Manuskript, in
+Zeitschriften oder in elektronischer Form in der vom Fachbereich genehmigten Fassung zu veröffentlichen. Als
+Pflichtexemplare sind hiervon innerhalb eines Jahres nach der Promotion unentgeltlich an die
+Universitätsbibliothek abzuliefern:
+a)Vier Exemplare in Buchdruck zum Zwecke der Verbreitung, oder
+b)Drei Sonderdrucke, wenn die Veröffentlichung in einer Zeitschrift erfolgt, oder
+c)Drei Exemplare der von einem gewerblichen Verleger vertriebenen Veröffentlichung, sofern eine
+Mindestauflage von 150 Exemplaren nachgewiesen wird, oder
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+10 d)Fünf Ex e
+mplare in kopierfähiger Maschinenschrift zusammen mit der Mutterkopie und fünf weiteren
+Kopien in Form von Mikrofiches; in diesem Fall überträgt der Doktorand der Hochschule das Recht,
+weitere Kopien in Form von Mikrofiches von seiner Dissertation herzustellen und zu verbreiten, oder
+e)Fünf CDROMs zusammen mit vier gedruckten Exemplaren für die Archivierung, die auf
+alterungsbeständigem holz und säurefreiem Papier ausgedruckt und dauerhaft gebunden sein müssen,
+oder
+f)eine zur Veröffentlichung im Internet bestimmte elektronische Version, deren Datenformat und deren
+Datenträger mit der Universitätsbibliothek abzustimmen sind, zusammen mit zwei Exemplaren für die
+Archivierung, die auf alterungsbeständigem holz und säurefreiem Papier ausgedruckt und dauerhaft
+gebunden sein müssen.
+(2) Die Pflichtexemplare der Dissertation sind mit einem Titelblatt gemäß Anlagen 1 und 2 zu versehen. Am
+Schluss ist der Lebenslauf beizufügen.
+(3) Für die in Abs. 1 genannten Pflichtexemplare ist eine verkürzte bzw. veränderte Fassung zulässig, wenn diese
+den wesentlichen Gehalt der Arbeit nicht verändert und den Beweisgang voll wiedergibt; hierfür ist die
+Zustimmung des Dekans oder der Dekanin und der Gutachter oder Gutachterinnen erforderlich.
+§ 15 Aberkennung des Doktorgrades
+(1) Der Doktorgrad soll durch den Promotionsausschuss aberkannt werden , wen n  sich herausstellt, dass er durch
+Täuschung erlangt worden ist oder nach seiner Verleihung alte oder neue Tatsachen bekannt werden, die seine
+Verleihung ausgeschlossen hätten. Im Übrigen wird auf die gesetzlichen Regelungen verwiesen.
+(2)Vor der Beschlussfassung des Promotionsausschusses über die Aberkennung des Doktorgrades ist dem
+Betroffenen bzw. der Betroffenen Gelegenheit zu geben, sich zu den Vorwürfen zu äußern.
+§ 16 Gebühren
+Die Promotionsgebühr von € 150. , bei Wied erholung € 75. , ist vor dem Antrag auf Eröffnung des
+Prüfungsverfahrens an die Universitätskasse zu überweisen.1 
+§ 17 Ehrenpromotion
+(1) Für ausgezeichnete wissenschaftliche und wissenschaftlichtechnische Leistung en im Fachgebiet eines
+Fachbereichs kann dieser die Würde eines „Doktor der Naturwissenschaften ehrenhalber“ (Dr.  phil. nat. h.c. oder
+Dr. rer. nat. h.c.) verleihen.
+(2) Der Antrag auf Ehrenpromotion muss von mindestens zwei Professoren oder Professorinnen beim
+Fachbereichsrat gestellt werden. Er muss schriftlich begründet werden.
+(3) Der Fachbereichsrat beschließt über die Einleitung des Ehrenpromotionsverfahrens. Der Fachbereichsrat setzt
+zur Vorbereitung der Entscheidung eine Kommission bestehend aus drei Professoren bzw. Professorinnen, einem
+wissenschaftlichen Mitglied und einem studentischen Mitglied ein, die in der Regel zwei Stellungnahmen von
+auswärtigen Gutachtern bzw. Gutachterinnen einholt. Die Professoren, Professorinnen und promovierten
+Mitglieder des betreffenden Fachbereichs sind vom Eröffnungsbeschluss zu benachrichtigen. Außerdem sind die
+anderen in § 1 genannten Fachbereiche zu unterrichten.
+(4) Alle Professoren bzw. Professorinnen und promovierten Mitglieder in § 1 genannten Fachbereiche sind
+berechtigt, Stellungnahmen abzugeben.
+1Die Zahlungsaufforderung wird beim Einreichen im Promotionsbüro ausgehändigt
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+11 (5) Der Fachbereichsrat entscheidet über die Verleihung des Grades unter Beachtung der Regelungen in § 2 Abs.
+3 dieser Ordnung mit 2/3 Mehrheit der anwesenden stimmberechtigten Mitglieder.
+(6) Die Ehrenpromotion vollzieht der Dekan bzw. die Dekanin durch Überreichen einer Urkunde, in der die
+Verdienste des bzw. der Promovierten hervorzuheben sind.
+§ 18 Gemeinsame Promotionen
+(1) Diese Ordnung ist auch auf gemeinsame Promotionen anzuwenden. Gem einsame Promotionen sind
+Promotionsverfahren mit einer anderen Forschungseinrichtung (kooperative Promotion) sowie binationale
+Promotionsverfahren mit auswärtigen Hochschulen (Cotutelle de Thèse). Als Forschungseinrichtungen eines
+kooperativen Promotionsverfahrens kommen insbesondere in Betracht:
+a)Fachhochschulen, oder
+b)außeruniversitäre Forschungseinrichtungen.
+(2) Als Betreuer bzw. Betreuerinnen einer gemeinsamen Promotion kommen die in § 4 Abs. 3 genannten Personen
+in Betracht, sowie Personen, die über vergleichbare wissenschaftliche Qualifikationen verfügen. Von den
+Betreuern bzw. Betreuerinnen muss einer bzw. eine Mitglied des Promotionsfachbereichs sein. Der bzw. die
+andere kann aus einer Fachhochschule, einer auswärtigen Hochschule oder einer außeruniversitären
+Forschungseinrichtung stammen.
+(3) Der Bewerber oder die Bewerberin für eine gemeinsame Promotion muss sowohl die
+Annahmevoraussetzungen an der Johann Wolfgang GoetheUniversität Frankfurt am Main als auch die
+Annahmevoraussetzungen der beteiligten Forschungseinrichtung erfüllen.
+(4) Nach erfolgreichem Abschluss eines gemeinsamen Promotionsverfahrens wird eine Promotionsurkunde
+ausgestellt. Bei einer binationalen Promotion (Cotutelle de Thèse) ist sie von beiden Hochschulen zu unterzeichnen
+und mit Siegeln zu versehen; zudem muss sich aus der Urkunde ergeben, dass es sich um einen gemeinsam
+verliehenen Doktorgrad im Rahmen einer binationalen Promotionsbetreuung (Cotutelle de Thèse) handelt und dass
+dieser nicht dazu berechtigt, einen doppelten Doktortitel zu führen. Bei einer kooperativen Promotion im Sinne
+von Abs. 1 (a) und (b) kann die Urkunde folgenden zusätzlichen Hinweis für den beteiligten Kooperationspartner
+enthalten:
+„Die Dissertation wurde gemeinsam mit (Name des Kooperationspartners) betreut. Für die Förderung der 
+Dissertation (Unterschrift des bzw. der Unterschriftsberechtigten des Kooperationspartners und Logo des 
+Kooperationspartners).“
+(5) Die Einzelheiten der Durchführung gemeinsamer Promotionsverfahren (bspw. die Zusammensetzung der
+Prüfungskommission) werden in einer individuellen Kooperationsvereinbarung geregelt.
+§ 19 Einsichtnahme
+Der Doktorand bzw. die Doktorandin hat das Recht, nach Abschluss des Prom otionsverfahrens und in begründeten 
+Fällen auch im laufenden Promotionsverfahren die Promotionsunterlagen einzusehen.  
+§ 20 Widerspruch gegen Entscheidungen im Promotionsverfahren
+Gegen belastende Entscheidungen im Promotionsverfahren kann der Doktorand bzw. die Doktorandin schriftlich 
+binnen eines Monats nach Bekanntgabe Widerspruch einlegen. Wird dem Widerspruch nicht abgeholfen, 
+entscheidet der Präsident bzw. die Präsidentin. 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+12 § 21 Übergangsregelung
+(1) Diese Änderung gilt für alle Doktoranden und Doktorandinnen, die nach Inkrafttreten  dieser Änderung der
+Promotionsordnung der MathematischNaturwissenschaftlichen Fachgereiche zur Promotion angenommen
+werden. Doktoranden und Doktorandinnen, die zum Zeitpunkt des Inkrafttretens dieser Promotionsordnung bereits
+im Fachbereich Biochemie, Chemie und Pharmazie an der Johann Wolfgang GoetheUniversität Frankfurt am
+Main zur Promotion angenommen worde n sind, haben auf Antrag die Wahlmöglichkeit, zum „Dr. phil. nat.” oder 
+zum „Dr. rer. nat.” promoviert zu werden. Dieser schriftliche Antrag ist spätestens bis zum Einreichen der 
+Dissertation beim zuständigen Promotionsausschuss des Fachbereichs und längstens bis zu zwei Jahren nach 
+Inkrafttreten dieser Änderung zu stellen. 
+(2) Für bislang ohne Betreuung durchgeführte Promotionsarbeiten benennt der Promotionsausschuss des
+betreffenden Fachbereichs nach Vorschlag durch den Doktoranden bzw. die Doktorandin einen Betreuer bzw. eine
+Betreuerin, der bzw. die die Voraussetzungen nach § 4 Abs. 3 erfüllt. Liegt innerhalb einer Frist von drei Monaten
+nach Inkrafttreten dieser Ordnung kein Vorschlag vor, benennt der Promotionsausschuss des betreffenden
+Fachbereichs einen Betreuer bzw. eine Betreuerin, der bzw. die die Voraussetzungen nach § 4 Abs. 3 erfüllt.
+§ 22 Inkrafttret
+en
+(1) Diese Promotionsordnung tritt nach Beschlussfassung des Senats und Genehmigung durch das Präsidium am
+Tag nach ihrer Veröffentlichung im UniReport der GoetheUniversität in Kraft.
+(2) Tritt für einen Fachbereich eine eigene Promotionsordnung in Kraft, so bleibt die vorliegende Ordnung für die
+übrigen Fachbereiche gültig.
+Frankfurt am Main 
+gez.
+Prof. Dr. Sonja Rohrmann 
+Dekanin des FB Psychologie und Sportwissenschaften gez.
+Prof. Dr. Harald Appelshäuser 
+Dekan des FB Physik 
+gez.
+Prof. Dr. Jürgen Runge 
+Dekan des FB Geowissenschaften/Geographie gez.
+Prof. Dr. Martin Möller 
+Dekan des FB Informatik und Mathematik 
+gez.
+Prof. Dr. Clemens Glaubitz 
+Dekan des FB Biochemie, Chemie und Pharmazie gez.
+Prof. Dr. Sven Klimpel 
+Dekan des FB Biowissenschaften Impressum
+UniRepor t Satzungen un d Ord nungen erscheint 
+unregelmäßig und anlassbezogen als Sonderausgabe des 
+UniReport. Die Auflage wir d für jede Ausgabe separat 
+festgesetzt. 
+Herausgeber Der  Präsident der Johann Wolfgang Goethe
+Unive
+rsität Frankfurt am Main 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+13 Anlage 1: Muster für das Titelblatt (vgl. § 6 Abs. 4) 
+(Titel der Dissertation) 
+Dissertation 
+zur Erlangung des Doktorgrades 
+der Naturwissenschaften 
+vorgelegt beim Fachbereich ..... 
+der Johann Wolfan g GoetheUniversität 
+in Frankfurt am Main 
+von 
+(Vorname und Name de s Verfassers) 
+aus (Geburtsort) 
+Frankfurt (Jahr des Druckes) 
+(D 30) 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+14 Anlage 2: Rückseite des Titelblattes 
+Vom Fachbereich ….. der
+Johann Wolfgang Goethe  Universität als Dissertation angenommen. 
+Dekan: …
+Gutachter: 
+Datum der Disputation: 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+15 Anlage 3: Bescheinigung über das Prüfungsergebnis 
+Fachbereich (Name des Fachbereichs) 
+der Johann Wolfgang GoetheUniversität 
+Frau/Herr 
+Vorname und Nachname 
+hat heute das Promotionsverfahren im Fach (Promotionsfach) 
+mit der Gesamtnote „(Gesamtnote)“
+abgeschlossen. 
+Die einzelnen Prüfungsleistungen wurden wie folgt bewertet: 
+Dissertation: „(Note der Dissertation)“ 
+Disputation: „(Note der Disputation)“
+Das Recht zur Führung des Doktortitels wird nicht durch diese Bescheinigung 
+sondern erst durch Aushändigung der Urkunde erworben. 
+Frankfurt am Main, (Datum der Disputation) 
+Der Dekan/Die Dekanin 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)
+16 Anlage 4: Promotionsurkunde 
+Der Fachbereich (Name des Fachbereichs) der 
+Johann Wolfgang GoetheUniversität 
+verleiht
+Herrn/Frau 
+Vorname und Nachname 
+geb. am (Datum) in (Geburtsort) 
+den Grad eines Doktors der Naturwissenschaften (Dr. rer. Nat./Dr.phil.Nat.) 
+im Fach (Promotionsfach) 
+nachdem er/sie in ordnungsgemäßem Promotionsverfahren durch die Arbeit 
+“Thema der Dissertation”
+und eine öffentliche Disputation 
+seine/ihre wissenschaftliche Befähigung erwiesen hat. 
+Die Promotionsleistung wurde mit 
+“(Gesamtnote)”
+beurteilt. 
+Frankfurt am Main, den (Datum der Disputation) 
+Prof. Dr. (Name des/der DekanIn) Dekan/Dekanin 
+UniReport Satzungen und Ordnungen  (veröffentlicht am 26.04.2022)

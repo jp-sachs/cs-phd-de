@@ -1,0 +1,268 @@
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fakultät für Informatik und Mathematik  
+Fachp romotionsordnung  
+vom 15. Oktober 2018  
+ in der Fassung der Änderungssatzung vom 12. Mai 2022 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+2 
+ Bitte beachten:  
+Rechtlich verbindlich ist ausschließlich der amtliche,  
+im offiziellen Amtsblatt veröffentlichte Text. 
+ 
+ 
+Fachpromotionsordnung  
+der Fakultät für Informatik und Mathematik  
+an der Universität  Passau  
+ 
+ 
+Vom 15. Oktober 2018 
+ 
+in der Fassung der Änderungssatzung vom 12. Mai 2022 
+ 
+Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 64 Abs. 1 Satz 5 des Bayerischen 
+Hochschulgesetzes (BayHSchG) erlässt die Universität Passau folgende Satzung:  
+ 
+ 
+Inhaltsverzeichnis 
+ 
+§ 1 Geltungsbereich  
+§ 2 Zusammensetzung von Gremien 
+§ 3  Annahmevoraussetzungen der Fakultät für Informatik und Mathematik  
+§ 4  Form der Dissertation  
+§ 5  Zusätzliche Anforderungen an die Gutachter und Gutachterinnen 
+§ 6  Rigorosum an der Fakultät für Informatik und Mathematik  
+§ 7  Noten und Prädikate 
+§ 8  Veröffentlichung der Dissertation  
+§ 9  Vorzeitige Führung eines Grades  
+§ 10  Inkrafttreten, Außerkrafttreten und Übergangsbestimmung  
+ 
+ 
+ 
+§ 1 Geltungsbereich 
+ 
+1Diese Fachpromotionsordnung gilt für alle Verfahren an der Fakultät für Informatik und 
+Mathematik der Universität Passau für die Verleihung, die Rücknahme und den Entzug von 
+Doktorgraden und ergänzt die Allgemeine Promotionsordnung der Universität Passau.  
+2Ergibt sich, dass eine Bestimmung dieser Satzung mit der Allgemeinen Promotionsordnung 
+nicht vereinbar ist, so hat die Vorschrift der Allgemeinen Promotionsordnung Vorrang vor den 
+Bestimmungen dieser Satzung.  
+  
+§ 2 Zusammensetzung von Gremien 
+ 
+(1) Der Promotionsausschuss besteht aus sechs Mitgliedern aus dem Kreis der Professoren 
+und Professorinnen und Juniorprofessoren und Juniorprofessorinnen.  
+ (2) Gutachter und Gutachterinnen sind nicht Mitglied der Promotionsversammlung.  
+ 
+FPromO Fakultät für Informatik und Mathematik  
+3 
+ (3) Der oder die Vorsitzende der Promotionsprüfungskommission ist aus dem Kreis der 
+Mitglieder des Promotionsausschusses zu bestel len und ist nicht stimmberechtigt.  
+  
+§ 3 Annahmevoraussetzungen der Fakultät für Informatik und Mathematik  
+ (1) Die Annahme als Doktorand oder Doktorandin an der Fakultät für Informatik und Mathe
+matik hat zur Voraussetzung, dass der Bewerber oder die Bewerberin:  
+1. ein Hochschulstudium in Informatik oder Mathematik oder mit Bezug zur Informatik oder Mathematik durch eine Diplom , Magister  oder Masterprüfung an einer Hoch
+schu le in Deutschland oder ein gleichwertiges Studium an einer ausländischen Hoch
+schule mit einer besseren Note als 2,5 abgeschlossen hat  
+oder 
+2. für den Erwerb eines Dr. rer. nat. die erste Staatsprüfung für ein Lehramt an Gym 
+nasien mit einer besseren Note als 2,5 absolviert und die Zulassungsarbeit im Fach Mathematik oder Informatik verf asst hat, wobei die Zulassungsarbeit mit mindestens 
+„gut“ bewertet worden sein muss  
+oder 
+3. für den Erwerb eines Dr. phil. nat. die erste Staatsprüfung für ein Lehramt an öffent li
+chen Schulen mit einer besseren Note als 2,5 absolviert und die Zulassungsarbeit im 
+Themenbereich Mathematik , Informatik, Didaktik der Mathematik oder Didaktik der 
+Informatik ver fasst hat, wobei die Zulassungsarbeit mit mindestens „gut“ bewertet 
+worden sein muss.  
+ (2) Der Promotionsausschuss kann von dem  Erfordernis des überdurchs chnittlichen Studien 
+abschlusses befreien, wenn der Bewerber oder die Bewerberin nach dem Studienabschluss 
+überdurchschnittliche Leistungen in Informatik oder Mathematik erbracht hat, und zwei Pro
+fessoren oder Professorinnen der Fakultät die Annahme befürworten.  
+ (3) 
+1Auf schriftlichen Antrag des Betreuers oder der Betreuerin des Bewerbers oder der 
+Bewerberin kann der Promotionsausschuss von dem Erfordernis der in Abs. 1 genannten 
+Regelungen befreien. 2Der Promotionsausschuss kann die Annahme in diesem Fall mit 
+zusätzlichen Auflagen verknüpfen; auf Art. 64 Abs. 1 Satz 3 Halbsatz 2 BayHSchG wird hingewiesen.  
+ 
+ 
+§ 4 Form der Dissertation 
+ 
+1Die Dissertation wird in der Regel in monographischer, noch nicht veröffentlichter Form er 
+bracht. 2Der Promotionsausschuss kann zulassen, dass stattdessen eine Mehrzahl  ver öf
+fentlichungs fähiger Aufsätze oder bereits fachlich begutachteter und in einschlägigen Fach
+zeitschriften oder Konferenzbänden veröffentlichter oder zur Veröffentlichung angenom me
+ner Aufsätze (publikationsbasierte Dissertation) eingereicht werden kann, die in einem inne
+ren Zusammenhang stehen, der in einem ergänzenden zusammenfassenden Text dar zustel
+len ist; diese muss eine einer Promotionsleistung in  monographischer Form  gleichwertige 
+Leistung darstellen. 3Der Promotionsausschuss kann zulassen, dass Texte, die in Ko
+Autorenschaft erbracht worden und als solche deutlich gekennzeichnet sind, eingereicht werden, soweit der eigene Beitrag des Doktoranden oder der Doktorandin dargelegt worden 
+FPromO Fakultät für Informatik und Mathematik  
+4 
+ ist und dieser eine einer Promotionsleistung in alleiniger Autorenschaft gleichwertige Leis 
+tung darstellt. 4Stellungnahmen der KoAutoren und KoAutorinnen sind vorzulegen.  
+ 
+ 
+§ 5 Zusätzliche Anforderungen an die Gutachter und Gutachterinnen 
+ 
+1Die Gutachter und Gutachterinnen werden auf Vorschlag des Erstbetreuers oder der Erst be
+treuerin bestellt. 2Mindestens ein Gutachter oder eine Gutachterin darf nicht Mitglied der Uni 
+versität Passau sein und keine gemeinsamen Veröffentli chungen mit dem Doktoranden oder 
+der Doktorandin verfasst und in den letzten fünf Jahren keine gemeinsamen Publikationen 
+oder Projekte mit den übrigen Gutachtern und Gutachterinnen und den Betreuern und Betreuerinnen durchgeführt haben.  
+  
+§ 6 Rigorosum an der Fakultät für Informatik und Mathematik  
+ 
+(1) 
+1Das Rigorosum besteht aus einem Vortrag über den Gegenstand der Dissertation und 
+einer mündlichen Prüfung in Informatik und/oder Mathematik und/oder Didaktik der Mathe
+matik und/oder der Didaktik der Informatik. 2Der Vortrag und die mündliche Prüfung dauern 
+jeweils etwa 45 Minuten. 3Ausgehend vom Thema der Dissertation erstreckt sich die mündli
+che Prüfung auf den Inhalt der Dissertation, auf Fragestellungen, die an das behandelte Spezial gebiet angrenzen, und auch auf entferntere Bereiche der Informatik und/oder Mathe
+matik und/oder der Didaktik der Informatik und/oder der Didaktik der Mathematik, wobei der 
+Doktorand oder die Doktorandin unter anderem durch die hier angesprochenen Fragen seine 
+oder ihre Fähigkeit, die eigene Arbeit einzuordnen, unter Beweis stellen soll. 
+4Auf schrift li
+chen Antrag des Doktoranden oder der Doktorandin und mit einstimmiger Zustimmung des 
+Promotionsausschusses und der Promotionsprüfungs kommission wird das Rigorosum in 
+englischer Sprache abgehalten.  
+ 
+(2) 1Der oder die Vorsitzende der Promotionsprüfungskommission lädt die Mitglieder des 
+Fakul tätsrates und alle Mitwirkungsberechtigten zum öffentlichen Vortrag spätestens acht 
+Tage vor dem Termin schriftlich ein. 2In der nicht  öffentlichen mündlichen Prüfung können 
+nur Mitwirkungsberechtigte anwesend sein und dürfen Fragen stellen.  
+ 
+ 
+§ 7 Noten und Prädikate  
+ (1) 
+1Es werden folgende Prädikate vergeben:  
+ Summa cum laude   eine ganz hervorragende, den Durchschnitt weit 
+überragende und besonders anzuerkennende Leistung,  
+ Magna cum laude  eine besonders anzuerkennende, den Durchschnitt überragende Leistung,  
+ Cum laude  eine den Durchschnitt überragende Leistung,  
+ Rite  eine dem Durchschnitt genügende Leistung,  
+ Insufficienter  eine an erheblichen Mängeln leidende, insgesamt nicht mehr 
+brauchbare Leistung (nicht bestanden) . 
+ 
+FPromO Fakultät für Informatik und Mathematik  
+5 
+ (2) Jeder Gutachter und jede Gutachterin bewertet die Dissertation und jeder Prüfer und jede 
+Prüferin bewertet die mündliche Prüfungsleistung einzeln mit folgenden Noten und 
+Prädikaten:  
+ 
+Summa cum laude 1 
+Magna cum laude 2 
+Cum laude  3 
+Rite   4 
+Insufficienter   5 
+ 
+(3) Die Prädikate der Dissertation, der mündlichen Prüfung und der Promotion im Ganzen 
+ergeben sich aus folgenden Noten:  
+ 
+Summa cum laude 1,0 
+Magna cum laude bis 2,0  
+Cum laude  bis 3,0 
+Rite   bis 4,0  
+Insufficienter   über 4,0 
+ 
+ 
+§ 8 Veröffentlichung der Dissertation 
+ (1) 
+1Vervielfältigung und Publikation einer als Monographie verfassten Dissertation kann nur 
+mit schriftlicher Erlaubnis des oder der Vorsitzenden des Promotionsausschusses erfolgen (Druckerlaubnis). 
+2Die Druckerlaubnis wird nach erfolgreichem Abschluss des Promotions 
+verfahrens erteilt, wenn das für die Ablieferung der Pflichtexemplare zu vervielfältigende oder 
+zu publizierende Exemplar der Dissertation den Änderungsauflagen der Gutachten ent 
+spricht. 3Eine Bestätigung darüber ist von dem oder der Vorsitzenden des Promotions 
+ausschusses von den Gutachtern und Gutachterinnen einzuholen; die Übermittlung kann in 
+elektronischer oder gedruckter Form erfolgen. 4Eine Verweigerung der Bestätigung ist 
+schriftlich zu begründen. 5Aus wichtigem Grund kann der oder die Vorsitzende des 
+Promotionsausschusses im Einvernehmen mit den Gutachtern und Gut achter innen eine 
+Abweichung der Druckfassung vom eingereichten Text genehmigen.  
+ 
+(2) 1Der Doktorand oder die Doktorandin ist verpflichtet, die Dissertation der wissenschaft li
+chen Öffentlichkeit durch Vervielfältigung und Verbreitung zugänglich zu machen. 2Zu die
+sem Zweck ist eine vom Promotionsausschuss festgelegte Anzahl an gedruckten und gebun
+denen Pflichtexemplaren sowie eine elektronische Version der Dissertation, der en Datei for
+mat und Datenträger mit der Universitätsbibliothek abzustimmen ist, kostenlos bei der Fakul 
+tät abzuliefern. 2Der Doktorand oder die Doktorandin überträgt der Universität das Recht, im 
+Rahmen der gesetzlichen Aufgaben der Hochschulbibliotheken weitere Kopien der Dis ser
+tation herzustellen und zu verbreiten beziehungsweise in Datennetzen zur Verfügung zu stellen. 
+4Die Pflichtexemplare müssen als an der jeweiligen Fakultät der Universität Passau 
+angefertigte Dissertation kenntlich gemacht werden; hierzu kann der Promotionsausschuss 
+detaillierte Vorgaben beschließen. 5Es sollen auch die Gutachter oder Gutachterinnen sowie 
+der Tag der mündlichen Prüfung angegeben werden. 6Die Exemplare der Dissertation, die 
+zur Begutachtung vorgelegen haben, verbl eiben bei den Akten der Fakultät.  
+ 
+FPromO Fakultät für Informatik und Mathematik  
+6 
+ (3) 1Der Doktorand oder die Doktorandin muss die Pflichtexemplare innerhalb einer durch 
+den Promotionsausschuss festzulegenden Frist nach Bestehen der mündlichen Prüfung 
+abliefern. 2Liefert der Doktorand oder die Doktorandin die Pflichtexemplare nicht fristgerecht 
+ab, so verpflichtet der oder die Vorsitzende des Promotionsausschusses ihn oder sie durch schriftlichen Bescheid, die Pflichtexemplare binnen einer festgesetzten Frist abzuliefern.
+ 3Der 
+oder die Vorsitzende des Promotionsausschusses kann die Fristen auf Antrag des 
+Bewerbers oder der Bewerberin verlängern.  
+  
+§ 9 V orzeitige Führung eines Grades  
+ 
+Die vorzeitige Führung eines Grades nach § 14 Abs. 2 Satz 2 APromO ist nicht möglich.  
+  
+§ 10 Inkrafttreten, Außerkra fttreten und Übergangsbestimmung 
+ (1) Diese Promotionsordnung tritt am Tage nach der Bekanntmachung in Kraft.  
+ (2) Gleichzeitig tritt die Promotionsordnung für die Fakultät für Informatik und Mathematik der 
+Universität Passau vom 10. Februar 2009 (vABlUP S. 1), in der Fassung der Änderungs 
+satzung vom 16. Mai 2012 (vABlUP S. 71) außer Kraft.  
+ 
+(3) Abweichend von Abs. 2 findet  die dort genannte Promotionsordnung weiterhin 
+Anwendung auf Doktoranden und Doktorandinnen, die zum Zeitpunkt des Inkrafttretens dieser Satzung bereits als Doktoranden oder Doktorandinnen angenommen worden sind.  
+ 
+  
+FPromO Fakultät für Informatik und Mathematik  
+7 
+ Ausgefertigt aufgrund des Beschlusses des Senats der Universität Passau vom 11. Juli  2018 und 
+der Genehmigung durch die Präsidentin der Uni versität Passau vom 10. Oktober 2018, Az.: IV/5.I 
+10.3450/2018.   
+Passau, den 15. Oktober 2018  
+UNIVERSITÄT PASSAU  
+Die Präsidentin 
+ 
+ 
+ 
+Prof. Dr. Carola Jungwirth 
+ Die Satzung wurde am 15. Oktober 2018 in der Hochschule niedergelegt; die 
+Niederlegung wurde am 15. Oktober 2018 durch Anschlag in der Hochschule bekannt gegeben.  
+Tag der Bekanntmachung ist der 15. Oktober 2018.  
+ 
+ 
+ 

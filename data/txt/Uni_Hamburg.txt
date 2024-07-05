@@ -1,0 +1,723 @@
+Keine amtliche Fassung. In diesem Dokument sind zur besseren Übersicht die Änderungen vom 
+2. Mai 2012 und vom 10. Oktober 2012 direkt in den Text eingefügt. Die amtliche Fassung der 
+Promotionsord nung und die Änderungen sind zu finden unter  
+http://www.uni hamburg.de/campuscenter/studienorganisation/ordnungen 
+satzungen/promotionsordnungen.html   
+ 
+Promotionsordnung der Fakultät für Mathematik, Informatik und  
+Naturwissenschaften  der Universität Hamburg  
+– Vom Fakultätsrat am 01. Dezember 2010 beschlossen – 
+mit Änderung en der Promotionsordnung der Fakultät für Mathematik, Informatik und 
+Naturwissenschaften der Universität Hamburg  
+vom 2. Mai 2012  und vom 10. Oktober 2012  
+Das Präsidium der Universität Hamburg hat am 5 . November  2012 die von der Fakultät 
+für Mathematik, Infor matik und Naturwissenschaften am 10. Oktober  2012 aufgrund 
+von § 91 Absatz 2 Nummer 1 des Hamburgischen Hochschulgesetzes (HmbHG) vom 18. 
+Juli 2001 (HmbGVBl. S. 171), in der Fassung vom 20. Dezember 2011 (HmbGVBl . S. 550), 
+beschlossene Änderung der Promotionsordnung der Fakultät vom 1. Dezember 2010 
+(Amt. Anz. S. 982) gemäß § 108 Absatz 1 HmbHG genehmigt.  
+ 
+Präambel  ................................ ................................ ................................ ................................ ............  2 
+§ 1 Bedeutung der Promotion, Doktorgrad  ................................ ................................ .....................  2 
+§ 2 Promotionsausschüsse  ................................ ................................ ................................ ...............  2 
+§ 3 Zulassungsvoraussetzungen  ................................ ................................ ................................ ...... 3 
+§ 4 Zulassungsverfahren  ................................ ................................ ................................ ...................  5 
+§ 5 Einschreibung als Studierende zum Promotionsstudium  ................................ .......................  6 
+§ 6 Durchführung des Dissertationsvorhabens, Betreuung, Regelbearbeitungszeit  .................  6 
+§ 7 Dissertation  ................................ ................................ ................................ ................................ .. 8 
+§ 8 Prüfungskommission  ................................ ................................ ................................ ..................  9 
+§ 9 Begutachtung der Dissertation  ................................ ................................ ................................  10 
+§ 10 Entscheidung über die Dissertation und Ansetzung der Disputation  ................................  11 
+§ 11 Disputation  ................................ ................................ ................................ ................................  12 
+§ 12 Entscheidung über die Disputation und die Promotion  ................................ .......................  12 
+§ 13 Veröffentlichungs  und Ablieferun gspflicht  ................................ ................................ .........  13 
+§ 14 Promotionsurkunde  ................................ ................................ ................................ .................  13 
+§ 15 Widerspruch und Überprüfung des Verfahrens  ................................ ................................ .... 14 
+§ 16 Gemeinsame Promotion mit ausländischen Einrichtungen  ................................ ...............  14 
+§ 17 Verleihung der Ehrendoktorwürde  ................................ ................................ .........................  15 
+§ 18 Aberkennung des Doktorgrads  ................................ ................................ ...............................  15 
+§ 19 Verfahrenseinstellung, Rücktritt  ................................ ................................ ............................  16 
+§ 20 Inkrafttreten, Außerkrafttreten und Übergangsregelung en ................................ ..............  16 
+ 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 2 von 16 Präambel  
+Das Präsidium der Universität Hamburg hat am 24. Januar 2011 aufgrund von § 108 Absatz 1 des 
+Hamburgischen Hochschulgesetzes (HmbHG) vom 18. Ju li 2001 (HmbGVBl. S. 171) in der Fassung 
+vom 16. November 2010 (HmbGVBl. S. 605) die vom Fakultätsrat der Fakultät für Mathematik, 
+Informatik und Naturwissenschaften am 1. Dezember 2010 auf Grund von § 91 Absatz 2 Nu m
+mer 1 HmbHG beschlossene Promotionsordn ung genehmigt.   
+§ 1 Bedeutung der Promotion, Doktorgrad  
+(1) Die Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg 
+verleiht den Grad einer Doktorin oder eines Doktors der Naturwissenschaften (abgekürzt: Dr. 
+rer. nat.) sowi e für besondere wissenschaftliche Leistungen die Ehrendoktorwürde (abgekürzt: 
+Dr. rer. nat. h.c. sowie Dr. phil. h.c.) aufgrund eines Promotionsverfahrens gemäß den nachst e
+henden Bestimmungen. Auf Antrag verleiht die Fakultät bei Nachweis des erfolgreichen  Ab
+schlusses eines Promotionsstudiums im Rahmen eines Promotions studienganges gemäß § 70 
+Abs 5  des H amburgischen Hochschulgesetzes  statt des Doktorgrads den Grad Doctor of Phil o
+sophy (abgekürzt: Ph.D.). In Ausnahmefällen (Gesundheitswissenschaften, Kosmetikwisse n
+schaft) verleiht die Fakultät den Grad einer Doktorin oder eines Doktors der Philosophie (abg e
+kürzt: Dr. phil.).  
+ 
+(2) Durch die Promotion wird die Befähigung zu vertiefter wissenschaftlicher Arbeit durch e i
+gene Forschungsleistungen nachgewies en.  
+ 
+(3) Die Promotionsleistung besteht aus  
+ 
+ einer schriftlichen Promotionsleistung (Dissertation)  
+sowie  
+ ihrer mündlichen Verteidigung (Disputation).  
+ 
+§ 2 Promotionsausschüsse  
+(1) Das zuständige Fakultätsorgan wählt einen Fakultäts Promotionsausschuss. Der Fakultäts 
+Promotionsausschuss ist ein Prüfungsausschuss nach § 63 Abs. 1 HmbHG i.V.m. § 59 HmbHG 
+mit den dort beschriebenen Kompetenzen. Das zuständige Fakultätsorgan definier t Promot i
+onsfächer und setzt im Regelfall auf Vorschlag der Fachbereiche fachbereichsbezogene Unte r
+ausschüsse ein und ernennt deren Vorsitzende. Mit der Wahrnehmung der Kompetenzen des 
+Fakultäts Promotionsausschusses beauftragt dieser die fachbereichsbezog enen Unterau s
+schüsse („Fach Promotionsausschüsse“) gemäß den Bestimmungen dieser Promotionsor d
+nung. Die Fach Promotionsausschüsse bearbeiten alle Promotionsverfahren auf Fachbereich s
+ebene. Der Fakultäts Promotionsausschuss besteht aus der Prodekanin bzw. d em Prodekan für 
+Forschung der MIN Fakultät als Vorsitzende oder Vorsitzendem sowie den Vorsitzenden der 
+Fach Promotionsausschüsse, den Sprecherinnen oder Sprechern der Graduiertenschulen, einer 
+zur Promotion zugelassenen Doktorandin bzw. einem zugelassenen  Doktoranden, einer pr o
+movierten Wissenschaftlichen Mitarbeiterin oder einem promovierten Wissenschaftlichen 
+Mitarbeiter sowie jeweils einer Vertreterin bzw. einem Vertreter. Die Fach 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 3 von 16 Promotionsausschüsse bestehen aus  46 Hochschullehrerinnen oder Hochschu llehrern bzw. 
+habilitierten Mitgliedern , einer zur Promotion zugelassenen Doktorandin bzw. einem zugela s
+senen Doktoranden, einer promovierten Wissenschaftlichen Mitarbeiterin oder einem prom o
+vierten Wissenschaftlichen Mitarbeiter sowie jeweils einer Vertre terin bzw. einem Vertreter. 
+Die Amtszeit der Mitglieder beträgt 2 Jahre, die des zum Promotionsverfahren zugelassenen 
+Mitgliedes der Fakultät 1 Jahr. Die Wiederwahl eines Mitglieds ist möglich. Scheidet ein Mi t
+glied vorzeitig aus, wird ein Nachfolger oder eine Nachfolgerin für die restliche Amtszeit g e
+wählt.  
+ 
+(2) Die Fach Promotionsausschüsse entscheiden über die Zulassung von Antragstellerinnen 
+oder Antragstellern zum Promotionsverfahren. Sie sind zur Beratung aller Antragstellerinnen 
+oder Antragsteller ve rpflichtet. Bei interdisziplinären Promotionsvorhaben sorgt der Fach 
+Promotionsausschuss für eine angemessene Beteiligung der anderen Fächer an der Begutac h
+tung. In Zweifelsfällen (interdisziplinäre Promotionen) kann der Fakultäts Promotions 
+ausschuss über  die Zulassung entscheiden. Sieht sich ein Fach Promotionsausschuss fachlich 
+für ein Promotionsverfahren nicht zuständig, so kann er die entsprechenden Anträge an den 
+Fakultäts Promotionsausschuss weiterleiten.  
+ 
+(3) Der Fakultäts Promotionsausschuss tagt m indestens einmal pro Semester und wird bei B e
+darf vom Vorsitzenden innerhalb von 3 Wochen (in der vorlesungsfreien Zeit 6 Wochen) einb e
+rufen. Die Fach Promotionsausschüsse tagen mindestens dreimal im Semester (zweimal in der 
+Vorlesungszeit und einmal in de r vorlesungsfreien Zeit). Die Sitzungstermine werden frühzeitig 
+im jeweiligen Fachbereich angekündigt. Alle vollständigen Anträge, die eine Woche vor der 
+Sitzung vorliegen, werden in der Sitzung behandelt. Die Promotionsausschüsse tagen nicht 
+öffentlich.  
+ 
+(4) Die Promotionsausschüsse können Entscheidungen im Einzelfall oder bestimmte Befugni s
+se generell auf ihre Vorsitzende oder ihren Vorsitzenden übertragen und die Übertragung zu 
+jedem Zeitpunkt wieder rückgängig machen. Die Fach Promotionsausschüsse könne n sich G e
+schäftsordnungen geben, in denen z.B. fachspezifisch geregelt wird, welche Aufgaben im Int e
+resse einer zügigen Durchführung der Promotionen an die Vorsitzende oder den Vorsitzenden 
+delegiert werden und welche Entscheidungen ohne formale Sitzungen herbeigeführt werden 
+können. Die Fach Promotionsausschüsse berichten regelmäßig über ihre Arbeit (Statistik über 
+Verfahren, besondere Vorkommnisse) an den Fakultäts Promotionsausschuss. In Problem  oder 
+Konfliktsituationen wird der Fakultäts Promotionsauss chuss von den betroffenen Parteien 
+hinzugezogen.  
+ 
+(5) Der Fakultäts Promotionsausschuss ist dem zuständigen Fakultätsorgan gegenüber reche n
+schaftspflichtig. Er unterrichtet das zuständige Fakultätsorgan jährlich von seiner Arbeit und 
+der Arbeit der Fach Promotionsausschüsse.  
+§ 3 Zulassungsvoraussetzungen  
+(1)  
+Vor Aufnahme des Dissertationsvorhabens ist beim Fach Promotionsausschuss die Zulassung 
+zum Promotionsverfahren zu beantragen.   
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 4 von 16 (2) Voraussetzung für die Zulassung zum Promotionsverfahren ist im Regelf all der erfolgreiche 
+Studienabschluss in einem für das Dissertationsvorhaben wesentlichen Studiengang an einer 
+Hochschule im Geltungsbereich des Grundgesetzes durch die Ablegung  
+ 
+ einer Masterprüfung in einem forschungsorientierten Studiengang im Umfang von  ins
+gesamt – inkl. des zuvor abgeschlossenen Studiengangs – in der Regel 300 Leistung s
+punkten,  
+ einer Magisterprüfung in einem Studiengang an einer Universität oder gleichgestellten 
+Hochschule,  
+ einer Diplomprüfung in einem Studiengang an einer Universität o der gleichgestellten 
+Hochschule,  
+ einer Ersten Staatsprüfung für ein Lehramt an allgemein  oder berufsbildenden Sch u
+len, 
+ eines Staatsexamens in den Fächern Lebensmittelchemie bzw. Pharmazie.  
+ 
+(3) Nach Ablegung einer Bachelorprüfung in einem für das Dissertationsvorhaben wesentlichen 
+Studiengang kann eine Zulassung erfolgen („ fast track “), wenn der Abschluss de n vom Fach 
+Promotionsausschuss festgelegten Kriterien entspricht und eine Feststellungsprüfung durch  
+mindestens  zwei hauptberufliche Hochschull ehrerinnen oder Hochschullehrer oder habilitierte 
+Mitglieder der Fakultät, darunter mindestens eine Professorin oder ein Professor, in einem für 
+das Dissertationsvorhaben wesentlichen Fach erfolgreich durchgeführt wurde. Über die Form 
+der Feststellungsprüf ung entscheidet der Fach Promotionsausschuss. Die Zulassung gemäß 
+den Bestimmungen dieses Absatzes ist mit der Auflage  verbunden, dass die Antragstellerin 
+oder der Antragsteller im Rahmen des Promotionsverfahrens einen Masterabschluss in einem 
+für das Diss ertationsvorhaben wesentlichen Studiengang erwirbt  und kann mit weiteren Au f
+lagen (bei spielsweise die Erbringung von Leistungsnachweisen oder das B estehen bestimmter 
+Modulprüfungen des Masterstudiums innerhalb einer bestimmten Frist) verbunden werden.  
+ 
+(4) Besitzt die Antragstellerin oder der Antragsteller einen anderen als in Abs. 2 und 3 vorges e
+henen Studienabschluss, kann sie oder er zum Promotionsverfahren zugelassen werden, wenn 
+ihre oder seine Qualifikation für das Promotionsfach gewährleistet ist. Da s gilt insbesondere 
+auch, wenn die Antragstellerin oder der Antragsteller eine Masterprüfung  
+ 
+ in einem Studiengang mit einem Umfang von – inkl. des zuvor abgeschlossenen Stud i
+engangs – weniger als 300 Leistungspunkten oder  
+ in einem nicht forschungsorienti erten Studiengang  
+ 
+abgelegt hat. Der Fach Promotionsausschuss kann diesen Antragstellerinnen oder Antragste l
+lern auferlegen, innerhalb einer bestimmten Frist Leistungsnachweise gemäß der Vorgaben der 
+Fach Promotionsausschüsse zu erbringen, deren Erwerb in  dem nach Abs. 2 geforderten Hoc h
+schulstudium üblich oder zur Ergänzung der von der Antragstellerin oder dem Antragsteller 
+nachgewiesenen Kenntnisse und Fähigkeiten für die angestrebte Promotion erforderlich ist.  
+ 
+(5) Als Studienabschluss gemäß Abs. 2 gilt auch ein gleichwertiges Examen an einer Hochschule 
+außerhalb des Geltungsbereiches des Grundgesetzes. Bei Zweifeln an der Gleichwertigkeit ist 
+eine Äquivalenzbescheinigung bei der Zentralstelle für ausländisches Bildungswesen beim Se k
+retariat der Ständige n Konferenz der Kultusminister der Länder in der Bundesrepublik Deutsc h
+land einzuholen. Falls eine Gleichwertigkeit nicht festgestellt wird, prüft der Fach 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 5 von 16 Promotionsausschuss, ob nach Erfüllung von Bedingungen im Sinne von Abs. 3 eine Gleichwe r
+tigkeit her gestellt werden kann.  
+ 
+(6) Hat die Antragstellerin oder der Antragsteller einen Abschluss in einem Diplomstudiengang 
+an einer Fachhochschule oder einer Berufsakademie erworben, kann sie oder er zugelassen 
+werden, wenn ihre oder seine Qualifikation für das Promotionsfach gewährleistet ist. Der 
+Nachweis kann insbesondere durch eine Abschlussprüfung an einer Fachhochschule oder 
+Berufsakademie in einem für das Dissertationsvorhaben wesentlichen Studiengang mit einer 
+nach der Notenskala der jeweiligen Prüfungsor dnung bestmöglichen Gesamtnote geführt 
+werden. Der Fach Promotionsausschuss entscheidet, ob im Einzelfall gemäß Abs. 4 zu verfa h
+ren ist.  
+§ 4 Zulassungsverfahren  
+(1) Anträge auf Zulassung zum Promotionsverfahren sind mit den folgenden Unterlagen an den 
+zust ändigen Fach Promotionsausschuss oder in Ausnahmefällen an den Fakultäts 
+Promotionsausschuss zu richten:  
+ 
+a) Zeugnisse, Urkunden und Qualifikationsnachweise, die gemäß § 3 erforderlich sind,  
+b) ein tabellarischer Lebenslauf mit Übersicht über die im Zusammenhang  mit dem bea b
+sichtigten Dissertationsvorhaben einschlägigen Tätigkeiten und Erfahrungen,  
+c) eine Erklärung, ob bereits früher eine Anmeldung der Promotionsabsicht erfolgt ist oder 
+ob ein Promotionsverfahren bei einer anderen Hochschule oder einer anderen Fakultät 
+durchgeführt wird oder wurde, gegebenenfalls nebst vollständigen Angaben über 
+frühere Anmeldungen oder Vorhaben zur Promotion,  
+d) eine Erklärung, dass die geltende Promotionsordnung der Antragstellerin oder dem A n
+tragsteller bekannt ist,  
+ 
+(2) Dem Zul assungsantrag ist eine Darstellung des Themas und eine Skizze des Forschungsvo r
+habens beizufügen. Den Umfang und das Format der Skizze regeln die Fach 
+Promotionsausschüsse.  Das Dissertationsvorhaben muss von mindestens einer Hochschulle h
+rerin oder einem H ochschullehrer oder einem habilitierten Mitglied der Fakultät für Mathem a
+tik, Informatik und Naturwissenschaften betreut werden. Weiterhin muss dieses Mitglied der 
+Fakultät einen Arbeitsplatz für das Dissertationsvorhaben bestätigen. Bei extern durchgefüh r
+ten Dissertationsvorhaben muss eine Verzichtserklärung auf einen Arbeitsplatz in der Fakultät 
+für Mathematik, Informatik und Naturwissenschaften vorliegen. Die Darstellung des Dissert a
+tionsvorhabens und die Erklärungen sind Bestandteil der Promotionsakte.  Für Bewerberinnen 
+und Bewerber, die nach § 3 Abs. 3 zugelassen werden sollen, kann der zuständige Fach 
+Promotionsausschuss (abweichend von § 4 Abs. 4 b) die Zulassung mit der Auflage beschließen, 
+dass Darstellung, Skizze und Erklärungen innerhalb einer bes timmten Frist nachzureichen sind.  
+ 
+(3) Über Anträge auf Zulassung zum Promotionsverfahren  entscheidet der Fach 
+Promotion saus schuss in der Regel in der nächsten Sitzung nach Eingang des Antrages. Able h
+nungen sind schriftlich zu begründen.  
+ 
+(4) Der Promotion santrag wird abgelehnt, wenn:  
+ 
+a) die Voraussetzungen gemäß § 3 nicht vorliegen,  
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 6 von 16 b) Unterlagen gemäß Abs. 1 und 2 fehlen,  
+c) ein Promotionsverfahren in dem jeweiligen Fach oder einem Teilgebiet des Faches b e
+reits erfolgreich beendet worden ist,  
+oder  
+d) der Fach Prom otionsausschuss und der Fakultäts Promotionsausschuss sich für fac h
+lich unzuständig erklärt .  
+ 
+(5) Die Zulassung gilt zunächst für vier Jahre. Innerhalb dieser Frist soll die Dissertation beim 
+Fach Promotionsausschuss eingereicht werden. Die Frist kann auf  Antrag verlängert we r
+den. Der Antrag soll drei Monate vor Ablauf der vier Jahre an den Fach 
+Promotionsausschuss gerichtet werden. Der Fach Promotionsausschuss weist die Betreu e
+rin oder den Betreuer sowie die Doktorandin oder den Doktoranden rechtzeitig vo r Ablauf 
+auf diese Frist hin.  
+§ 5 Einschreibung als Studierende zum Promotionsstudium  
+(1) Doktorandinnen oder Doktoranden müssen sich an der Universität Hamburg als Studierende 
+zum Promotionsstudium immatrikulieren lassen. Dies gilt auch für extern durchzu führende 
+Dissertationsvorhaben. Eine Immatriku lation muss  spätestens zum folgenden Semester  nach 
+Zulassung  erfolgen.  
+§ 6 Durchführung des Dissertationsvorhabens, Betreuung, Regelbearbeitungszeit  
+(1) Mit der Zulassung der Doktorandin oder des Doktoranden z um Promotionsverfahren ve r
+pflichtet sich die Fakultät, die Betreuung und spätere Begutachtung des Dissertationsvorh a
+bens sicherzustellen. Außerdem stellt sie sicher, dass den Doktorandinnen und Doktoranden zu 
+Beginn des Promotionsverfahrens die „Richtlinie n zur Sicherung guter wissenschaftlicher Pr a
+xis und zur Vermeidung wissenschaftlichen Fehlverhaltens an der Universität Hamburg“ vom 
+9. September 1999 in der jeweils gültigen Fassung ausgehändigt werden.  
+ 
+(2) Der Fach Promotionsausschuss bestellt mit der Z ulassung nach § 4 auf Vorschlag der A n
+tragstellerin oder des Antragstellers entweder  
+a) mindestens eine Betreuerin oder einen Betreuer ,  
+oder  
+b) eine dreiköpfige Betreuungskommission, bestehend aus einer oder einem Vorsitzenden, 
+einer Betreuerin oder einem Betre uer und einer Co Betreuerin oder einem Co Betreuer.  
+ 
+(3) Betreuerinnen oder Betreuer eines Dissertationsvorhabens sind im Regelfall Hochschulle h
+rerinnen oder Hochschullehrer oder habilitierte Mitglieder der Fakultät. Die Betreuung eines 
+Dissertationsvorhab ens ist andauernde Pflicht der Betreuerinnen und Betreuer und darf nicht 
+delegiert werden. Den Betreuerinnen oder Betreuern gemäß Abs. 2 (a) bzw. der Betreuung s
+kommission gemäß Abs. 2 (b) gehört mindestens eine hauptberufliche Professorin oder ein 
+hauptber uflicher Professor oder ein in der Fakultät tätiges, habilitiertes Mitglied  der Fakultät 
+für Mathematik, Informatik und Naturwissenschaften an, die oder der in der Regel als Gutac h
+terin oder Gutachter der Dissertation bestellt wird.  
+ 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 7 von 16 (4) Abweichend von Abs . 3 haben in den Promotionsverfahren der Fakultät für Mathematik, 
+Informatik und Naturwissenschaften auch andere Personen die Rechte und Pflichten von 
+Hochschullehrerinnen und Hochschullehrern sowie habilitierten Mitgliedern dieser Fakultät:  
+ 
+ Angehörige au ßeruniversitärer Forschungseinrichtungen und Bildungsstätten, denen 
+von der Universität Hamburg im Rahmen von Kooperationsvereinbarungen im Einve r
+nehmen mit der Fakultät ad personam das Recht gewährt worden ist, als Betreuerinnen 
+oder Betreuer, Gutachterin nen oder Gutachter und als Prüferinnen oder Prüfer bei 
+Promotionen mitzuwirken.  
+ Aus Drittmitteln finanzierte Nachwuchsgruppenleiterinnen oder leiter, für die die Un i
+versität Hamburg aufnehmende Einrichtung ist und denen im Einvernehmen mit dem 
+Fakultäts Promotionsausschuss im Rahmen eines Vertrages das Recht zuerkannt wo r
+den ist, Doktorandinnen oder Doktoranden zur Promotion zu führen.  
+ Promovierte Wissenschaftlerinnen oder Wissenschaftler können in begründeten Fällen 
+vom Fach Promotionsausschuss  als Betreuerinnen oder Betreuer, Gutachterinnen oder 
+Gutachter und als Prüferinnen oder Prüfer bei Promotionen bestellt werden, wenn sie 
+für das zu betreuende Dissertationsvorhaben nachweislich ausgewiesen sind.  
+ 
+(5) Externe Betreuerinnen oder Betreuer mü ssen auch dann, wenn ihr dienstliches Tätigkeit s
+feld überwiegend außerhalb der Freien und Hansestadt Hamburg liegt, eine geordnete Betre u
+ung gewährleisten und insbesondere dafür Sorge tragen, dass der persönliche Kontakt mit der 
+Doktorandin oder dem Doktor anden sichergestellt ist. Weiter muss in einem solchen Fall mi n
+destens eine Betreuerin bzw. ein Betreuer bestellt werden, der aus dem Kreis der Hochschulle h
+rerinnen oder Hochschullehrer bzw. habilitierten Mitglieder der Fakultät stammt.  
+ 
+(6) Das Thema des  Dissertationsvorhabens kann frei gewählt werden, die Wahl muss jedoch im 
+Einvernehmen mit den Betreuerinnen bzw. Betreuern erfolgen. Die Betreuerinnen bzw. Betre u
+er schließen mit der Doktorandin oder dem Doktoranden eine Betreuungsvereinbarung ab, in 
+der das Promotionsthema und die Vorgehensweise abgestimmt werden. Das beinhaltet unter 
+anderem einen verbindlichen und regelmäßigen Austausch über den Fortschritt des Dissertat i
+onsvorhabens und regelmäßige Rückmeldungen zu Leistungen und Potentialen der Doktor an
+din oder des Doktoranden.  
+ 
+(7) Während der Bearbeitungszeit des Dissertationsvorhabens sollen die Doktorandinnen und 
+Doktoranden ihre Fortschritte im Dissertationsvorhaben in geeignetem Rahmen vorstellen.  
+ 
+(8) In der Regel sollte die Dissertation nach dr ei Jahren abgeschlossen werden (Regelbearbe i
+tungszeit). Für Doktorandinnen und Doktoranden, die gemäß § 3 Abs.  3 zum Promotionsverfa h
+ren zugelassen wurden, legt der Fach Promotionsausschuss entsprechend angepasste Fristen 
+fest.  
+ 
+(9) Sehen sich eine Betreue rin oder ein Betreuer oder die Doktorandin oder der Doktorand im 
+Laufe der Arbeit aus gewichtigen Gründen veranlasst, das Betreuungsverhältnis zu beenden, so 
+sind sie verpflichtet, die Vorsitzende oder den Vorsitzenden des Fach Promotionsausschusses 
+unter Angabe der Gründe unverzüglich zu benachrichtigen. Nach Beendigung des Betreuung s
+verhältnisses kann die Doktorandin oder der Doktorand eine neue Betreuerin oder einen neuen 
+Betreuer suchen.  Der Fach Promotionsausschuss unterstützt die Doktorandin oder den Dokt o
+randen bei der Suche.  
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 8 von 16 Stellt der Fach Promotionsausschuss fest, dass die Beendigung des Betreuungsverhältnisses 
+auf eindeutige Versäumnisse oder auf Fehlverhalten der Betreuerin oder des Betreuers zurüc k
+zuführen ist, setzt der Fach Promotionsausschus s eine neue Betreuerin oder einen neuen B e
+treuer ein, unter deren bzw. dessen Betreuung das Vorhaben weitergeführt wird.  
+Gelingt es nicht eine neue Betreuerin oder einen neuen Betreuer zu finden, so erlischt die Z u
+lassung zum Promotionsvorhaben vier Monat e nach Beendigung des Betreuungsverhältnisses. 
+Plant die Doktorandin oder der Doktorand, die Dissertation innerhalb dieser Frist einzureichen, 
+so benennt der Fach Promotionsausschuss in Abstimmung mit der Doktorandin oder dem Do k
+toranden eine Professorin o der einen Professor, die bzw. der nach Einblick in die zur Einre i
+chung geplante Dissertation dem Fach Promotionsausschuss eine schriftliche Stellungnahme 
+darüber abgibt, ob das Manuskript die Anforderungen an eine Dissertation erfüllt. Auf der Basis 
+dieser  Stellungnahme entscheidet der Fach Promotionsausschuss über die Zulässigkeit der 
+Einreichung.  
+  
+(10) Endet die Mitgliedschaft einer Betreuerin oder eines Betreuers zur Universität Hamburg, so 
+behält sie oder er vier Jahre lang das Recht, die Betreuung ein es begonnenen Dissertationsvo r
+habens zu Ende zu führen und der Prüfungskommission mit Stimmrecht anzugehören.  
+§ 7 Dissertation  
+(1) Mit der schriftlichen Promotionsleistung (Dissertation) ist die Befähigung zu selbstständiger, 
+vertiefter wissenschaftlicher  Arbeit und ein Fortschritt der wissenschaftlichen Erkenntnis mit 
+beachtenswerten, publikationswürdigen Ergebnissen zu dokumentieren.  
+ 
+(2) Als Dissertation, die in deutscher, englischer oder auf Antrag in einer anderen Wisse n
+schaftssprache abzufassen ist, kann vorgelegt werden  
+ 
+a) eine Dissertation, die eine in sich abgeschlossene Darstellung der Forschungsarbe i
+ten und ihrer Ergebnisse enthält,  
+oder  
+b) eine kumulative Dissertation, die aus Einzelarbeiten besteht, die in ihrer Gesamtheit 
+eine einer Dissertation gemäß Buchst. a) gleichwertige Leistung darstellt. Die Anfo r
+derungen an eine kumulative Dissertation regeln die Fach Promotionsausschüsse. 
+Eine kumulative Dissertation, die einen Gesamttitel erhalten muss, besteht zusät z
+lich zu den in § 7 Abs. 5 vorgesehenen Angaben aus den Einzelarbeiten, einer Einle i
+tung und einem verbindenden Text, der die in die kumulative Dissertation eingefü g
+ten Einzelarbeiten übergreifend interpretiert, bewertet und diskutiert.  
+ 
+(3) Bei Dissertationen, die in Zusammenarbeit  mit anderen Wissenschaftlerinnen oder Wisse n
+schaftlern entstanden sind, muss der Anteil der Doktorandin oder des Doktoranden eindeutig 
+abgrenzbar und bewertbar sein. Die Doktorandin oder der Doktorand ist verpflichtet, ihren o
+der seinen Anteil bei Konzept ion, Durchführung und Berichtsabfassung im Einzelnen darzul e
+gen.  
+ 
+(4) Die Doktorandin oder der Doktorand muss alle Hilfsmittel und Hilfen angeben und an Eides 
+statt versichern, die Dissertation selbst verfasst und keine anderen als die angegebenen Hilf s
+mittel benutzt zu haben. Die Dissertation darf nicht schon einmal in einem früheren Promot i
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 9 von 16 onsverfahren angenommen oder als ungenügend beurteilt worden sein. In Zweifelsfällen sind 
+die eingereichten Schriften aus früheren Promotionsverfahren zum Vergleich vor zulegen.  
+ 
+(5) Die Dissertation muss auf dem Titelblatt den Namen der Verfasserin oder des Verfassers, 
+unter Nennung der Fakultät sowie der Organisationseinheit die Bezeichnung als an der Unive r
+sität Hamburg eingereichte Dissertation und das Jahr der Einrei chung enthalten sowie ein Vo r
+blatt für die Namen der Gutachterinnen oder Gutachter vorsehen. Bei interdisziplinär durchg e
+führten Dissertationen kann auch mehr als ein Fachbereich genannt werden. Als Anhang muss 
+sie Kurzfassungen ihrer Ergebnisse in deutsch er und englischer Sprache sowie eine Liste der 
+aus dieser Dissertation hervorgegangenen Vorveröffentlichungen enthalten. Darüber hinaus 
+muss die Dissertation die notwendigen fachspezifischen oder rechtlichen Ergänzungen entha l
+ten.  
+ 
+(6) Die maschinenschrift liche Dissertation ist in  ausreichender Anzahl an gebundenen Exem p
+laren und in elektronischer Form beim für das Promotionsverfahren zuständigen Fach 
+Promotionsausschuss einzureichen. Jede Gutachterin oder jeder Gutachter  und jedes Mitglied 
+der Prüfungskomm ission  erhält ein Exemplar  in gebundener und  in elektronischer Form  oder 
+nur in elektronischer Form , ein Exemplar verbleibt bei der Fakultät und wird archiviert. Der 
+Fach Promotionsausschuss kann Regelungen zum Format der Dissertation treffen , die Anzahl 
+an abzugebenden Exemplaren  fest legen  und entscheiden  in welcher Form Exemplare an Gu t
+achter und Mitglieder der Prüfungskommission versandt werden.  
+§ 8 Prüfungskommission  
+(1) Für jedes Promotionsverfahren setzt der zuständige Fach Promotionsausschuss eine Pr ü
+fungskommission ein, nachdem die Doktorandin oder der Doktorand die Dissertation eing e
+reicht hat. Die Doktorandin oder der Doktorand hat ein Vorschlagsrecht für die Mitglieder der 
+Prüfungskommission. Der Fach Promotionsausschuss bestellt eine Vorsitzende oder einen Vo r
+sitzenden und eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden, die 
+jeweils Hochschullehrerin oder Hochschullehrer oder habilitiertes Mitglied der Universität sein 
+müssen. Den Vorsitz hat eine Hochschulle hrerin oder  ein Hochschullehrer  oder ein habilitiertes 
+Mitglied der Fakultät. Die Prüfungskom mission bestellt ein Mitglied der Prüfungskommission 
+zur Protokollführerin oder zum Protokollführer.  
+ 
+(2) Die Prüfungskommission besteht aus mindestens drei für das Promotion sverfahren betre u
+ungsbe rechtig ten Personen, davon  mehrheitlich  Hochschullehreri nnen oder Hochschullehrer . 
+Der Prüfungskommission soll nicht mehr als eine Hochschullehrerin oder ein Hochschullehrer 
+angehören, die oder der entpflichtet oder in den Ruhestand versetzt worden ist.  
+ 
+(3) Für ausscheidende oder aus zwingenden Gründen verhinderte Mitglieder der Prüfung s
+kommission ergänzt der Fach Promotionsausschuss die Prüfungskommission unter Beachtung 
+der Maßgaben von Abs. 2 entsprechend.  
+ 
+(4) Die Aufgaben der P rüfungskommission sind:  
+ 
+a) Bewertung der Dissertation auf der Grundlage der vorliegenden Gutachten und evtl. 
+Stellungnahmen nach § 9 Abs. 5,  
+b) Durchführung der Disputation,  
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 10 von 16 c) Bewertung der Disputation,  
+d) Festlegung des Gesamtprädikats, das die Einzelbewertungen für Dissertation und 
+Disputation gemäß §§ 11, 12 berücksichtigt.  
+ 
+(5) Die Prüfungskommission tagt nicht öffentlich.  
+ 
+(6) Die Prüfungskommission fasst Beschlüsse mit der Mehrheit ihrer Mitglieder. Alle Absti m
+mungen über Leistungsbewertungen erfolgen offen, Stimmenthaltungen sind nicht zulässig. 
+Entscheidungen über Leistungsbewertungen dürfen nur unter Beteiligung aller Mitglieder der 
+Prüfungskommission getroffen werden.  
+§ 9 Begutachtung der Dissertation  
+(1) Der Fach Promotionsausschuss bestellt umgehend die Gutachterinnen oder Gutachter für 
+die Dissertation, nachdem die Doktorandin oder der Doktorand diese eingereicht hat.  
+ 
+(2) Als eine Gutachterin oder ein Gutachter für die Dissertation ist grundsätzlich eine Betreu e
+rin oder ein Betreuer des Dissertationsvor habens bzw. ein Mitglied der Betreuungskommission 
+zu bestellen. Mindestens eine Gutachterin oder ein Gutachter muss Hochschul lehrerin oder 
+Hochschullehrer  der Fakultät sein. Mindestens eine Gutachterin oder ein Gutachter muss dem 
+Fachgebiet der Dissertatio n angehören. Berühren wesentliche methodische oder sachliche A s
+pekte der Dissertation ein Fachgebiet, das hauptsächlich in einer anderen Fakultät vertreten ist, 
+soll eine weitere Gutachterin oder ein weiterer Guta chter dieser Fakultät angehören;  § 6 Abs. 4  
+gilt entsprechend . Die Doktorandin oder der Doktorand kann Gutachterinnen oder Gutachter 
+vorschlagen. Dem Vorschlag ist, soweit möglich und vertretbar, zu entsprechen.  
+ 
+(3) Die Gutachten sind unabhängig voneinander zu verfassen und innerhalb von sechs Woc hen 
+nach ihrer Anforderung einzureichen. Die Mitglieder des Fach Promotionsausschusses und der 
+Prüfungskommissionen müssen die Gutachten vertraulich behandeln. Die Gutachten müssen 
+die Bedeutung der Dissertation und ihrer Ergebnisse in einem größeren Zusam menhang wü r
+digen und etwaige Mängel darstellen. In der Gesamtbeurteilung hat jede Gutachterin oder 
+jeder Gutachter entweder die Annahme unter Angabe einer Bewertung nach § 10 oder die A b
+lehnung zu empfehlen. Gehen aus einem Gutachten die erforderlichen Beu rteilungen nicht 
+eindeutig hervor, gibt der Fach Promotionsausschuss das Gutachten zur Überarbeitung zurück.  
+ 
+(4) Weichen die Bewertungen in den Gutachten um mehr als eine Note voneinander ab (Dez i
+malzahlenwert 1.0), kann der Fach Promotionsausschuss nach Rücksprache mit den Mitgli e
+dern der Prüfungskommission eine weitere Gutachterin oder einen weiteren Gutachter beste l
+len. Lautet eines von zwei Gutachten „ungenügend“, muss ein drittes Gutachten angefordert 
+werden.  
+ 
+(5) Das Prädikat „summa cum laude“ wird n ur auf übereinstimmenden Vorschlag aller Gut 
+achterinnen bzw. Gutachter erteilt. Mindestens ein Gutachten muss durch eine externe Gu t
+achterin oder einen externen Gutachter erstellt werden. Wurden zu Beginn des Begutac h
+tungsverfahrens nur zwei Gutachten ein geholt, die beide das Prädikat „summa cum laude“ 
+vorschlagen, so ist ein drittes, externes Gutachten anzufordern. Die Entscheidung über die Pe r
+son, die dieses Gutachten abgeben soll, muss im Fach Promotionsausschuss ohne Gegensti m
+me erfolgen. Diese Person sollte in den letzten 5 Jahren weder mit der Betreuerin oder dem 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 11 von 16 Betreuer der Dissertation noch mit der Doktorandin bzw. dem Doktoranden ein gemeinsames 
+Projekt oder eine gemeinsame Publikation haben.  
+ 
+(6) Die Dissertation liegt innerhalb der Einladungsfri st zur Disputation für die Hochschulöffen t
+lichkeit zur Einsicht aus, falls nicht z.B. patentrechtliche Gründe dies ausdrücklich ausschließen. 
+Die Gutachten liegen innerhalb der Einladungsfrist in anonymisierter Form den nach §6, Abs. 3 
+und Abs. 4 betreuung sberechtigten Mitgliedern der Fakultät sowie der Doktorandin oder dem 
+Doktoranden zur Einsicht aus.  
+§ 10 Entscheidung über die Dissertation und Ansetzung der Disputation  
+(1) Die Prüfungskommission entscheidet über die Annahme oder Ablehnung der Dissertati on 
+nach Eingang der Gutachten, die Zulassung der Doktorandin oder des Doktoranden zur Disp u
+tation sowie über die Festsetzung der Note der Dissertation . 
+ 
+Sie verwendet im Fall der Annahme die Prädikate:  
+ 
+– sehr gut (magna cum laude, 1 ,0 oder 1,3 ) 
+– gut (cum laude, 1,7, 2,0 oder 2,3 )  
+– genügend (rite, 2,7 oder 3,0).  
+ 
+(2) In Ausnahmefällen kann auch das Prädikat „mit Auszeichnung (summa cum laude)“ verg e
+ben werden . 
+ 
+Das Prädikat „summa cum laude“ für die Dissertation darf nur dann vergeben werden, wenn 
+auch das dritte Gutachten gemäß § 9 Abs. 5 dieses Prädikat vorschlägt.  
+ 
+(3) Im Fall der Ablehnung der Dissertation erklärt die Prüfungskommission ohne Ansetzung der 
+Disputation die Promotion für nicht bestanden und begründet die Entscheidung. Die Able h
+nung ist der Doktorandin oder dem Doktoranden durch die Vorsitzende oder den Vorsitzenden 
+des Fach Promotionsausschusses schriftlich und unter Angabe der Begründung dieser En t
+scheidung durch die Prüfungskommission mitzuteilen.  
+ 
+(4) Nach Annahme der Disser tation teilt die Prüfungskommission der Doktorandin oder dem 
+Doktoranden ihre Entscheidung (einschließlich der Note) mit und bestimmt den Termin der 
+Disputation im Einvernehmen mit der Doktorandin bzw. dem Doktoranden. Sie soll innerhalb 
+von 2 Monaten nach  dem Eingang des letzten Gutachtens durchgeführt werden. Über begrü n
+dete Ausnahmen entscheidet auf Antrag die oder der Vorsitzende des Fach 
+Promotionsausschusses. Zu der Disputation lädt die oder der Vorsitzende des Fach 
+Promotionsausschusses spätestens ei ne Woche vor dem Disputationstermin ein.  
+ 
+(5) Erklärt die Doktorandin oder der Doktorand ihren oder seinen Verzicht auf die Durchführung 
+der Disputation, so ist die Promotion nicht bestanden. Dies ist der Doktorandin oder dem Do k
+toranden von der oder dem Fach Promotionsausschussvorsitzenden schriftlich mitzuteilen.  
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 12 von 16 § 11 Disputation  
+(1) Die Disputation hat den Zweck, die Fähigkeit der Doktorandin oder des Doktoranden zur 
+mündlichen Darstellung und Erörterung wissenschaftlicher Probleme nachzuweisen. Die Di s
+putation findet je nach Wunsch der Doktorandin oder des Doktoranden in deutscher oder en g
+lischer Sprache statt. Über die Durchführung der Disputation in einer anderen Wissenschaft s
+sprache entscheidet der Fach Promotionsausschuss auf Antrag der Doktorandin oder des Do k
+toranden. Die Disputation ist hochschul öffentlich. Die oder der Vorsitzende kann, sofern die 
+ordnungsgemäße Durchführung der Disputation dies erforderlich macht, die Öffentlichkeit 
+ausschließen; die Mitglieder des Fakultäts Promotionsausschusse s und des zuständigen Fach 
+Promotionsausschusses gehören nicht zur Öffentlichkeit in diesem Sinne. Die Mitglieder der 
+Prüfungskommission sind verpflichtet, an der Disputation teilzunehmen.  
+ 
+(2) Die Doktorandin oder der Doktorand stellt die Ergebnisse der Dissertation und deren Bede u
+tung in größerem fachlichem Zusammenhang in einem ca. halbstündigen Vortrag dar. A n
+schließend verteidigt die Doktorandin oder der Doktorand die Dissertation und beantwortet 
+Fragen von Mitgliedern der Prüfungskommission. Die Frag en sollen sich auch auf die Einor d
+nung der Probleme der Dissertation in größere wissenschaftliche Zusammenhänge beziehen. 
+Anschließend kann die oder der Vorsitzende der Prüfungskommission Fragen  der Hochschulö f
+fentlichkeit zum Disputationsthema zulassen. D ie Befragung sollte 30 Minuten nicht unte r
+schreiten und 90 Minuten nicht überschreiten.  
+ 
+(3) Die oder der Vorsitzende der Prüfungskommission koordiniert die wissenschaftliche Au s
+sprache und entscheidet über Vorrang und nötigenfalls Zulässigkeit von Fragen.  
+ 
+(4) Die Protokollführerin oder der Protokollführer führt ein Protokoll über den Ablauf der Disp u
+tation. Das Protokoll ist zu den Promotionsunterlagen zu nehmen. Das Protokoll muss folgende 
+Angaben enthalten:  
+ 
+ Tag/Uhrzeit/Ort der Disputation  
+ Anwesenheitsliste der Mitglieder der Prüfungskommission  
+ Benotung der Dissertation  
+ Stichpunktartige Angabe der Fragen  
+ Benotung der Disputation  
+ Gesamtnote und Prädikat nach § 12  
+ Besondere Vorkommnisse  
+ 
+Das Protokoll ist von allen Mitgliedern der Prüfungskomm ission zu unterzeichnen.  
+ 
+(5) Versäumt die Doktorandin oder der Doktorand die Disputation unentschuldigt, so gilt sie als 
+nicht bestanden. Dies ist der Doktorandin oder dem Doktoranden schriftlich mitzuteilen.  
+§ 12 Entscheidung über die Disputation und die  Promotion  
+(1) Im Anschluss an die Disputation bewertet die Prüfungskommission in nicht öffentlicher Si t
+zung die Disputation und setzt, sofern die Disputation bestanden wurde, unter Verwendung 
+der in § 10 Abs. 1 angegebenen Bewertungsskala die Note fest. S odann legt die Prüfungsko m
+mission die Gesamtnote unter Verwendung der in § 10 Abs. 1 angegebenen Bewertungsskala 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 13 von 16 fest. In die Bildung der Gesamtnote geht die Bewertung der Dissertation mit einem doppelt so 
+hohen Gewicht ein wie die Note der Disputation. Da s Gesamtprädikat der Promotion lautet 
+nach Rundung des entsprechenden gewichteten Mittels wie folgt:  
+ 
+ab 1,00 bis unter 1,50: „sehr gut“ (magna cum laude),  
+ab 1,50 bis unter 2,50: „gut“ (cum laude),  
+ab 2,50 : „genügend“ (rite).  
+ 
+Das Gesamtprädikat „mit Aus zeichnung (summa cum laude)“ darf nur dann gegeben werden, 
+wenn die Dissertation dieses Prädikat und die Disputation die Note 1.0 erhalten hat. Die Pr ü
+fungskommission informiert die Doktorandin oder den Doktoranden über die Einzelbewertu n
+gen für die Disser tation und Disputation sowie das Gesamtprädikat.  
+ 
+(2) Nach Festsetzung des Gesamtprädikats durch die Prüfungskommission erhält die Dokto r
+andin oder der Doktorand ein vorläufiges Zeugnis, das den Titel der Dissertation, die Einzelpr ä
+dikate von Dissertation und Disputation sowie das Gesamtprädikat enthält. Dieses vorläufige 
+Zeugnis berechtigt nicht zum Führen des Doktorgrades.  
+ 
+(3) Ist die Disputation nicht bestanden, so ist die begründete Entscheidung der Doktorandin 
+oder dem Doktoranden von der oder dem Fac hPromotionsausschussvorsitzenden schriftlich 
+innerhalb von vier Wochen mitzuteilen. Die Disputation darf dann einmal frühestens nach drei, 
+spätestens nach sechs Monaten wiederholt werden.  
+ 
+(4) Ist auch die zweite Disputation nicht bestanden, so erklärt die Prüfungskommission die 
+Promotion für nicht bestanden und begründet ihre Entscheidung. Die Entscheidung wird der 
+Doktorandin oder dem Doktoranden von der oder dem Fach Promotionsausschussvo rsitzenden 
+schriftlich innerhalb von zwei Wochen mitgeteilt.  
+§ 13 Veröffentlichungs  und Ablieferungspflicht  
+(1) Die Dissertation ist innerhalb von einem Jahr nach Vollzug der Promotion zu veröffentlichen 
+(Abs. 2). Kann die Veröffentlichung nicht innerhal b der festgelegten Zeit erfolgen, so kann die 
+bzw. der Vorsitzende des Fach Promotionsausschusses auf begründeten Antrag hin die Frist 
+verlängern.  
+ 
+(2) Der Fakultäts Promotionsausschuss legt im Einklang mit den Anforderungen der Staats  
+und Universitätsbib liothek fest, wie viele Exemplare der gedruckten oder vervielfältigten Di s
+sertation die Doktorandin oder der Doktorand abzuliefern hat. Er legt außerdem fest, in we l
+cher Weise gedruckte Exemplare durch solche auf anderen Informationsträgern ersetzt werden 
+können, um seiner Veröffentlichungspflicht nachzukommen.  
+§ 14 Promotionsurkunde  
+(1) Über die Promotion wird eine Urkunde in deutscher Sprache ausgestellt. Auf Antrag kann 
+auch eine Kopie in englischer Sprache ausgestellt werden. In der Urkunde werden die Fakultät, 
+der Fachbereich, der Titel der eingereichten Dissertation, das Gesamtprädikat sowie das Datum 
+der erfolgreich bestandenen Disputation angegeben. Die Urkunde wird sowohl von der Dek a
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 14 von 16 nin bzw. dem Dekan der Fakultät für Mathematik, Informatik und Na turwissenschaften als 
+auch der bzw. de m Fach Promotionsausschussvorsitzenden unterschrieben.  
+ 
+(2) Stellt sich vor der Aushändigung der Promotionsurkunde heraus, dass die Voraussetzungen 
+für die Aberkennung der Promotion vorliegen, wird die Urkunde der Antr agstellerin oder dem 
+Antragsteller nicht ausgehändigt. In diesem Fall werden der Antragstellerin oder dem Antra g
+steller die Gründe für die unterbliebene Aushändigung mitgeteilt. Ferner wird sie oder er auf 
+die Möglichkeit des Widerspruchs gegen diese Entsc heidung hingewiesen.  
+ 
+(3) Die Promotionsurkunde soll innerhalb von drei Monaten nach Mitteilung über die Erfüllung 
+der Veröffentlichungspflicht gemäß § 13 ausgehändigt werden. Die Promotionsurkunde b e
+rechtigt zur Führung des Doktorgrades.  
+§ 15 Widerspruch und Überprüfung des Verfahrens  
+Widersprüche gegen Entscheidungen der Prüfungskommission sind, sofern eine Rechtsmitte l
+belehrung erteilt wurde, innerhalb eines Monats, sonst innerhalb eines Jahres nach Bekann t
+gabe bei dem oder der Vorsitzenden der Prüfungsk ommission einzulegen. Hilft die Prüfung s
+kommission dem Widerspruch nicht ab, ist die Angelegenheit dem Widerspruchsausschuss in 
+Promotionsangelegenheiten der Universität zur Entscheidung zuzuleiten (§ 66 Hamburgisches 
+Hochschulgesetz vom 18. Juli 2001 in d er jeweils gültigen Fassung). Auch gegen Entscheidungen 
+der Promotionsausschüsse kann die Bewerberin bzw. der Bewerber Rechtsmittel einlegen.  
+§ 16 Gemeinsame Promotion mit ausländischen Einrichtungen  
+(1) Das Promotionsverfahren kann gemeinsam mit ausländis chen Hochschulen oder gleichg e
+stellten Bildungs  oder Forschungseinrichtungen durchgeführt werden, wenn  
+ 
+a) die Antragstellerin oder der Antragsteller die Voraussetzungen für die Zulassung zum 
+Promotionsverfahren an der Fakultät für Mathematik, Informatik und  Naturwisse n
+schaften der Universität Hamburg erfüllt  
+und  
+b) die ausländische Einrichtung nach ihren nationalen Rechtsvorschriften das Promotion s
+recht besitzt und der von dieser Einrichtung zu verleihende Grad im Geltungsbereich 
+des Grundgesetzes anzuerkennen wäre.  
+ 
+(2) Die Durchführung des gemeinsamen Promotionsverfahrens muss vertraglich geregelt we r
+den. Die vertraglichen Regelungen gelten neben den Bestimmungen dieser Promotionsor d
+nung. Bei ihrer Vereinbarung sind hinsichtlich der Anforderungen und des Verfahrens zur S i
+cherstellung der Gleichwertigkeit die Regelungen dieser Promotionsordnung zu berücksicht i
+gen. Es muss einvernehmlich festgelegt werden, welche Promotionsordnung anzuwenden ist. 
+Die auswärtige Promotionsordnung muss ggf. in deutscher oder e nglischer Übersetzung vorg e
+legt werden, damit festgestellt werden kann, ob diese in Anforderungen und Verfahren der 
+Promotionsordnung der Fakultät gleichwertig ist. Ist die ausländische Promotionsordnung 
+maßgeblich, muss sichergestellt werden, dass die ess entiellen Regelungen der Promotionsor d
+nung der Fakultät für Mathematik, Informatik und Naturwissenschaften der Universität Ha m
+burg ebenfalls gewährleistet werden.  
+ 
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 15 von 16 (3) Die Doktorandin oder der Doktorand muss an den beteiligten Einrichtungen als Promotion s
+studentin  oder Promotionsstudent  zugelassen sein.  
+ 
+(4) Die Sprachen, in der die Dissertation verfasst werden kann, müssen vertraglich geregelt 
+werden. Die Dissertation muss neben der deutschen und englischen Zusammenfassung geg e
+benenfalls eine Zusammenfassu ng in der dritten Sprache enthalten.  
+ 
+(5) Die Prüfungskommission wird paritätisch mit jeweils zwei Hochschullehrerinnen oder 
+Hochschullehrern oder habilitierten Mitgliedern der beteiligten Fakultäten aus jeder beteili g
+ten Hochschule oder gleichwertigen For schungs  oder Bildungseinrichtung besetzt. Beide Gu t
+achterinnen oder Gutachter sind Mitglieder der Kommission. Die Kommission kann auf Antrag 
+um bis zu zwei weitere Hochschullehrerinnen oder Hochschullehrer oder habilitierte Mitglieder 
+der beteiligten Faku ltäten erweitert werden, wobei die paritätische Besetzung erhalten bleiben 
+muss. Es muss sichergestellt sein, dass alle Prüfungskommissionsmitglieder die Prüfungsspr a
+che beherrschen.  
+ 
+(6) Bei divergierenden Notensystemen in beiden Ländern muss eine Einigu ng erfolgen, wie die 
+gemeinsam festgestellten Prüfungsnoten benannt und einheitlich dokumentiert werden.  
+ 
+(7) Es wird von der Universität Hamburg und der ausländischen Hochschulen bzw. gleichg e
+stellten Bildungs  oder Forschungseinrichtung gemeinsam eine z weisprachige Promotionsu r
+kunde nach dem von der Hochschulrektorenkonferenz (HRK) entwickelten Muster ausgestellt. 
+Damit erwirbt die Doktorandin oder der Doktorand das Recht, den Doktorgrad entweder in der 
+deutschen oder in der ausländischen Form zu führen.  Es wird jedoch nur ein Doktorgrad verli e
+hen.  
+§ 17 Verleihung der Ehrendoktorwürde  
+(1) Auf Vorschlag von mehreren Professorinnen oder Professoren eines Fachbereiches kann der 
+erweiterte Fachbereichsvorstand die Eröffnung des Verfahrens zur Verleihung einer  Ehren dok
+torwürde  beim Fach Promotionsausschuss beantragen. Die Voraussetzungen für die Verle i
+hung werden durch eine vom zuständigen Fach Promotionsausschuss entsprechend § 8 eing e
+setzte Ehrenpromotionskommission auf der Grundlage von drei durch den Fach 
+Promotionsausschus s bestellten Gutachten geprüft. Zwei dieser Gutachten sollen durch exte r
+ne Gutachterinnen oder externe Gutachter angefertigt werden.  
+ 
+(2) Die Ehrenpromotionskommission leitet dem Fakultätsrat eine Beschlussvorlage zu. Für die 
+Verleihung de r Ehrenpromotion ist eine 3/4 Mehrheit der stimmberechtigten Mitglieder des 
+Fakultätsrats erforderlich. Die Ehrenpromotion erfolgt durch die Überreichung einer hierüber 
+ausgefertigten Urkunde, in der die Verdienste der bzw. des Promovierten hervorzuheben s ind. 
+§ 18 Aberkennung des Doktorgrads  
+Für die Aberkennung des Doktorgrades gelten die gesetzlichen Bestimmungen.  
+ Promotionsordnung MIN Fakultät UHH mit Änderungen vom 02.05.2012 und 10.10.2012, keine amtliche Fassung.   
+ 
+Seite 16 von 16 § 19 Verfahrenseinstellung, Rücktritt  
+(1) Wurde die Dissertation nicht innerhalb der Zulassungsfrist gemäß §  4 Abs.  7 beim Fach 
+Promotionsaussc huss eingereicht, so kann das Verfahren nach Anhörung der Doktorandin oder 
+des Doktoranden und der Betreuerin oder des Betreuers eingestellt werden. Der Einstellung s
+bescheid ist zu begründen. Er erfolgt schriftlich durch die Vorsitzende oder den Vorsitzend en 
+des Fach Promotionsausschusses. Ein erneuter Antrag auf Zulassung zum Promotionsverfa h
+ren wird dadurch nicht ausgeschlossen.  
+ 
+(2) Die Doktorandin oder der Doktorand hat bis zum Eingang des zuerst eingehenden Gutac h
+tens das Recht zum Rücktritt. Die bishe rigen Verfahrensschritte gelten nach einem Rücktritt 
+nicht als Dissertationsverfahren.  
+§ 20 Inkrafttreten, Außerkrafttreten und Übergangsregelungen  
+(1) Diese Fakultäts Promotionsordnung wird vom Fakultätsrat beschlossen und durch das Pr ä
+sidium genehmigt. Sie tritt am Tage nach ihrer Veröffentlichung im Amtlichen Anzeiger der 
+Freien und Hansestadt Hamburg in Kraft. Alle ab diesem Zeitpunkt beantragten Promotion s
+vorhaben der Fakultät für Mathematik, Informatik und Naturwissenschaften fallen unter diese 
+Ordnu ng. 
+ 
+(2) Ist die Zulassung zur Promotion nach einer der Fachbereichs Promotionsordnungen der F a
+kultät für Mathematik, Informatik und Naturwissenschaften der Universität Hamburg vor I n
+krafttreten der vorliegenden Ordnung erfolgt, besteht bei Einreichung der Dissertation die 
+Möglichkeit zu wählen, ob nach dieser Ordnung oder nach der Fachbereichs 
+Promotionsordnung, nach der die Zulassung erfolgt ist, vorgegangen werden soll.  
+ 
+ 
+ 
+Die Ände rungen der Promotionsordnung vom 2 . Mai 2012  (Änderung 2. Teil) und vom 10. Okt o
+ber 2012  treten am 1. Dezember  2012 in Kraft.  
+ 
+Hamburg, den 05. November  2012  
+Universität Hamburg  

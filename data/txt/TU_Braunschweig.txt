@@ -1,0 +1,1456 @@
+
+ 
+  
+PROMOTIONSORDNUNG  
+  
+DER FAKULTÄT FÜR 
+ 
+ELEKTROTECHNIK , INFORMATIONSTECHNIK , PHYSIK (FK EITP) 
+ 
+DER TECHNISCHEN  UNIVERSITÄT  
+CAROLO‐WILHELMINA  ZU BRAUNSCHWEIG  
+ 
+ 
+ 
+     
+ 
+
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 2 Inhalt 
+Präambel  ................................................................................................................................... 3  
+§ 1 Geltungsbereich  und Zuständigk eiten .................................................................................... 3  
+§ 2 Promotionsrecht  und Doktorgrade......................................................................................... 3  
+§ 3 Zweck und Formen der Promotion ......................................................................................... 3  
+§ 4 Mentor/Mentorin  bei Promotionen  zum Grad Dr. rer. nat. ................................................... 4  
+§ 5 Zulassungsvoraussetzungen  zur Promotion............................................................................ 5  
+§ 6 Zulassung  zur Promotion......................................................................................................... 8  
+§ 7 Betreuung  bei Promotionen  zum Grad Dr.‐Ing. ...................................................................... 8  
+§ 8 Eröffnung  des Promo tionsve rfahrens ..................................................................................... 9  
+§ 9 Promotionskommission  und Referentinnen  oder Referenten ............................................. 11  
+§ 10 Dissertat ion ................................................................................................................... ...... 12  
+§ 11 Bewertung  der Dissertat ion ................................................................................................ 13  
+§ 12 Mündliche  Prüfung.............................................................................................................. 14  
+§ 13 Gesamtprädikat  der Promotion .......................................................................................... 15  
+§ 14 Vollzug der Promotion  und Urkunde .................................................................................. 16  
+§ 15 Publikation  der Disserta tion................................................................................................ 16  
+§ 16 Entziehung  des Doktorgr ades ............................................................................................. 17  
+§ 17 Einsichtnahme  in die Promotion sakte ................................................................................ 17  
+§ 18 Rechte gegen Entscheidungen  im Promotionsve rfahren ................................................... 17  
+§ 19 Erneuerung  der Promotionsurkunde .................................................................................. 18  
+§ 20 Ehrenprom otion ................................................................................................................. .1 8 
+§ 21 Gemeinsame  Promotionsve rfahren.................................................................................... 19  
+§ 22 Promotionsau sschuss.......................................................................................................... 20  
+§ 23 Inkrafttreten  und Übergangsreg elungen ............................................................................ 20  
+Anlage 1  Muster‐Betreuungsvereinbarung  (Dr.‐lng. oder Dr. rer.nat.)................................. 21  
+Anlage 2   Muster der Urkunde............................................................................................... 22  
+Anlage 3   Muster Titelblatt – eing
+ereichte Dissertation........................................................ 23  
+Anlage 4   Muster Titelblatt – genehmigte  Dissertat ion......................................................... 24  
+Anlage 5  Formale Mindestanforderungen  für Dissertationen  mit publikationsbasierten  
+Arbeiten (kumulative  Variante der Dissertation)  gemäß § 10 Absatz  3 ................. 25  
+Anlage 6,  Anhang  A: Allgemeine  Richtlinien  – Veröffentlichung  / Ablieferung  von 
+Dissertatio nen ......................................................................................................... 26  
+Anlage 6,  Anhang  B: Muster für die Rechtsverbindliche  Erklärung  
+(zu § 8 Prom
+otionsor dnung) ................................................................................... 28  
+Anlage 6,  Anhang  C: Muster Bescheinigung  Revisionsschein  (zu § 15 Promotionsordnung) 29 
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 3 Präambel   
+Der Fakultätsrat  der Fakultät für Elektrotechnik,  Informationstechnik,  Physik (FK EITP) der Technischen  
+Universität  Braunschweig  (TU Braunschweig)  hat diese  Promotionsordnung  am 13. Januar 2014 unter 
+Berücksichtigung  der Grundlagen  der Rahmenpromotionsordnung  der Niedersächsischen  Technischen  
+Hochschule  (RPO‐NTH) in der Fassung vom 15.07.2011  beschlossen.  In dieser Promotionsordnung  der 
+FK EITP werden darüber  hinaus konkretisierend  und ergänze nd weitere Regelungen  getroffen.  Soweit 
+dies zur Wahrung  der fachlichen  Identität  erforderlich  ist, werden dabei in den  Naturwissenschaften  
+und in den Ingenieurwissenschaften  bestehende  spezifische  Grundprinzipien  mit jeweils fachbezoge‐
+nen und gegebenenfalls  gesonderten  Bestimmungen  berücksichtigt.  
+ 
+§ 1 Geltungsbereich  und Zuständigkeiten  
+(1) Diese Promotionsordnung  gilt für die Fakultät für Elektrotechnik,  Informationstechnik,  Physik der 
+TU Braunschweig  (FK EITP) und regelt Promotionen  in den  an der FK EITP vertretenen  Fachgebie ‐
+ten. 
+(2) Als Fakultät handelt, sofern in dieser Ordnung keine  anderslautenden  Regelungen  getroffen  sind, 
+bei Promotionen  zum Grad  Dr. rer.nat. die Dekanin oder der Dek an und bei Promotionen  zum 
+Grad Dr.‐Ing. der Fakultätsrat.  Anträge in Promotionsangelegenheiten  sind schriftlich  stets  an die 
+Dekanin oder den  Dekan der FK EITP zu richten. Entscheidungen  der zuständigen  Stelle  in Promo‐
+tionsangelegenheiten  teilt die Dekanin oder der Dekan der FK EITP durch schriftlichen  Bescheid 
+mit. 
+ 
+§ 2 Promotionsrecht  und Doktorgrade  
+(1) Die FK EITP verleiht gemäß § 9 Absatz 1 Niedersächsisches  Hochschulgesetz  (NHG) vom 26. Febru‐
+ar 2007 (Nds.  GVBl. 2007, S. 69) in der jeweils aktuellen  Fassung für wissenschaftliche  Leistungen  
+in der jeweils zutreffenden  Form den  Grad einer Doktorin  oder eines Doktors der Naturwissen ‐
+schaften  (Dr. rer. nat.) in den von der FK EITP vertretenen  natur wissenschaftlichen  Fachgebieten  
+sowie den Grad einer Doktor‐Ingenieurin  oder eines Doktor‐Ingenieurs  (Dr.‐Ing.) in den von der FK 
+EITP vertretenen  ingenieurwissenschaftlichen  Fachgebieten.  Der Grad Dr. rer. nat. oder der Grad 
+Dr.‐Ing. kann einer Bewerberin  oder einem Bewerber  jeweils nur einmal verliehen  werden. 
+(2) Die FK EITP kan n gemäß § 20 in den ihr zugeordneten  Fachgebieten  auch den Grad einer Doktorin 
+oder eines Doktors  der Naturwissenschaften  Ehren halber (Dr. rer. nat. h. c.) oder den  Grad  einer 
+Doktor‐lngenieurin  Ehren halber oder eines Doktor‐Ingenieurs  Ehren halber (Dr.‐lng. E. h.) verlei‐
+hen.  
+ 
+§ 3 Zweck und Formen der Promotion   
+(1) Die Promotion  dient  dem Nachweis  der Befähigung  zu vertiefter  selbstständiger  wissenschaftlicher  
+Arbeit auf einem in der FK EITP ausgewiesenen  Fachgebiet.   
+(2) Der Nachweis  wird durch eine schriftliche  wissenschaftliche  Abhandlung  (Dissertation)  gemäß § 10 
+und eine mündliche  Prüfung gemäß § 12 erbracht. Die mündliche  Prüfung  wird bei Promotionen  
+zum  Grad Dr. rer. nat. ge mäß  § 12 Absatz  3 Buchstabe  a) und bei Promotionen  zum  Grad Dr.‐Ing. 
+gemäß § 12 Absatz 3 Buchstabe  b) durchgeführt.   
+(3) Personen,  die von der FK EITP gemäß § 6 als Doktorandin  oder Doktorand  zugelassen  wurden,  
+sollen  sich gemäß § 9 Absatz  2 NHG an der TU Braunschweig  als Promotionsstudieren de immatri‐
+kulieren.  
+(4) Die Promotion  zum  Grad einer oder eines Dr. rer. nat. oder zum Grad einer oder eines Dr.‐Ing. 
+kann, soweit dies angeboten  wird, auch im Rahmen des Strukturierten  Doktorats  der FK EITP oder 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 4 des Strukturierten  Doktorats  einer anderen Fakultät der TU Braunschweig,  an dem die FK EITP be‐
+teiligt ist, durchgeführt  werden. Für das Strukturierte  Doktorat gelten, neben  dieser Ordnung,  fol‐
+gende besondere  Bestimmungen:  
+a) Die Doktorandinnen  und Doktoranden  haben  sich für mindestens  vier Semester  als Promoti‐
+onsstudierende  an der TU Braunschweig  in der FK EITP einzus chreiben.  Sind die Zulassungs ‐
+voraussetzungen  nach § 5 zum Zeitpunkt  der Immatrikulation  noch nicht erfüllt, kann  die Dok‐
+torandin  oder der Doktorand  auf Antrag vorläufig als Promotionsstudierende  oder Promoti‐
+onsstudierender  mit der Auflage zugelassen  werden, die Zulassungsvoraussetzungen  bis zur 
+Eröffnung  des Promotionsverfahrens  nachzuweisen.  
+b)  Doktorandinnen  und Doktoranden  haben an min destens  vier Workshops  aus dem Bereich der 
+überfachlichen  Qualifizierung  (sog.  Soft Skills) erfolgreich  teilzunehmen.  Ein entsprechendes  
+Angebot wird von der FK EITP ohne Kosten für die Doktorandin  oder den Doktoranden  angebo‐
+ten. Für strukturierte  Doktorate,  an denen die FK EITP beteiligt ist, gilt Entsprechendes.  Vor‐
+aussetzung  für die Teilnahme  an o.g. Workshops  ist, dass die Doktorandin  oder der Doktorand  
+zu di
+esem  Zeitpunkt  als Promotionsstudierende  oder Promotionsstudierender  an der TU 
+Braunschweig  in der FK EITP eingeschrieben  ist.  
+c) ln Ausnahmefällen  ist es für die Doktorandinnen  und Doktoranden  möglich, sich auch ander‐
+weitig  angeeignete  überfachliche  Qualifizierungen  anrechnen  zu lassen. Die Überprüfung  auf 
+Gleichwertigkeit  erfolgt du rch den  Betreuer oder die Betreuerin  oder die Mentorin  oder den 
+Mentor. Für jeden  angerechneten  Kurs verringert  sich die Mindestdauer  des Studiums  nach 
+Buchstabe  a) um ein Semester,  maximal jedoch um drei  Semester.  
+ 
+§ 4 Mentor/Mentorin  bei Promotionen  zum Grad Dr. rer. nat.  
+(1) Bei Promotionen  zum Grad  Dr. rer. nat. ist von der Bewerberin  oder dem Bewerber  spätestens  bis 
+zum Zeitpunkt  der Zulassung  des Verfahrens  nach § 6 eine Mentorin  oder ein Mentor zu wählen. 
+(2) Die Mentorin  oder der Mentor erklärt mit der Annahme  der Wahl die Bereitschaft,  die Bewerberin  
+oder den Bewerber  vor der Eröffnun g und während des Verfahrens  zu betreuen.  Die Mentorin  
+oder der Mentor berät die Fakultät in Bezug auf die Qualität, Originalität  und Wahrung  der wissen‐
+schaftlichen  Standards  in dem jeweiligen  Promotionsverfahren.  
+(3) Mentorin  oder Mentor können sein: 
+a)  Mitglieder  der Gruppe der Hochschullehrerinnen  und Hochschullehrer  der FK EITP, di e an ei‐
+nem der Physik zuzurechnenden  Institut tätig sind,  
+b) Professorinnen  und Professoren  im Ruhestand  und entpflichtete  Professorinnen  und Professo‐
+ren der FK EITP, die an einem der Physik zuzurechnendes  Institut  tätig waren sowie Honorar‐
+professorinnen  und Honorarprofessoren  der FK EITP mit dem Grad Dr. rer. nat., die der Phys ik 
+zuzurechnen  sind, 
+c)  nicht beurlaubte  Privatdozentinnen  und Privatdozenten  sowie apl. Professorinnen  oder apl. 
+Professoren  der FK EITP mit dem Grad  Dr. rer. nat. oder einem  ohne Zusatz zu führenden  Dok‐
+torgrad, die einem in der FK EITP vertretenen  Institut der Physik zugeordnet  sind, 
+d) sofern der Fakultätsrat  hierfür  die Berechtigung  erkl ärt, Mitglieder  der Gruppe der Hochschul‐
+lehrerinnen  und Hochschullehrer  mit dem Grad Dr. rer. nat. aus anderen naturwissenschaftli ‐
+che Gebiete vertretenden  Fakultäten  der Technischen  Universität  Braunschweig,   
+e) sofern der Fakultätsrat  hierfür  die Berechtigung  erklärt, Mitglieder  der Gruppe der Hochschul‐
+lehrerinnen  und Hochschullehrer,  die mit dem Grad Dr. rer. nat. an einem der E lektrotechnik  
+und Informationstechnik  zuzurechnenden  Institut  der FK EITP tätig sind, 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 5 f) sofern der Fakultätsrat  hierfür die Berechtigung  erklärt, Professorinnen  und Professoren  im 
+Ruhestand  und entpflichtete  Professorinnen  und Professoren  der FK EITP,  die mit dem Grad 
+Dr. rer. nat. an einem der Elektrotechnik  und Informationstechnik  zuzurechnenden  Institut  der 
+FK EITP tätig waren sowie Honorarprofessorinnen  oder Honorarprofessoren,  die den in der FK 
+EITP vertretenen  Fachgebi eten der Elektrotechnik  und Informationstechnik  zuzurechen  sind, 
+g) sofern der Fakultätsrat  hierfür die Berechtigung  erklärt, nicht beurlaubte  Privatdozentinnen 
+und Privatdozenten  sowie apl. Professorinnen  oder apl. Professoren  der FK EITP mit dem Grad 
+Dr. rer. nat. oder einem  ohne Zusatz zu führenden  Doktorgrad,  die einem in der FK EITP vertre‐
+tenen Ins titut  der Elektrotechnik  und Informationstechnik  zugeordnet  sind.  
+(4) Nachwuchsgruppenleiterinnen  und Nachwuchsgruppenleiter  die ein  naturwissenschaftliches  
+Fachgebiet  vertreten,  die auf Grund  eines externen Evaluationsverfahrens  durch eine Forschungs ‐
+förderungseinrichtung,  insbesondere  durch das Emmy Noether‐Programm  der Deutschen  For‐
+schungsgemeinschaft  (DFG), die VW‐Stiftung,  das European  Research Council (ERC) oder durch 
+vergleichbare  Organisationen  gefördert  werden oder Nachwu chsgruppenleiterinnen  oder Nach‐
+wuchsgruppenleiter,  die in einem internen Besetzungsverfahren  unter Beteiligung  von externen 
+Gutachtern  in ihre Funktion eingesetzt  wurden, können  mit Zustimmung  des Fakultätsrats  der FK 
+EITP ebenfalls als Mentorin  oder Mentor zugelassen  werden. 
+(5) Die Mentorin  oder der Mentor sollte  dem Fachgebiet  der Arbeit möglichst  nahe stehen. Es muss 
+sich ni
+cht um die Person handeln, die die Dissertation  angeregt hat. Bei Bedarf ist die Dekanin 
+oder der Dekan behilflich,  eine geeignete  Person zu gewinnen.  Die Mentorin  oder der Mentor ge‐
+hört der Promotionskommission  gemäß § 9 an. 
+(6) Zwischen  der Mentorin  oder dem Mentor und der Doktorandin  oder de m Doktoranden  ist eine 
+Promotionsbetreuungsvereinbarung,  die im Sinne der Betreuungsvereinbarung  der RPO‐NTH zu 
+verstehen  ist, zu schließen  (Anlage  1). Die Betreuungsvereinbarung  ist bei der Zulassung  zur Pro‐
+motion nachzuweisen.  
+(7) Die Mentorin  oder der Mentor kann  die mit der Vereinbarung  gemäß Absatz  6 gegebene  Betreu‐
+ungszusage  aus wichtigem  Grund  zurückziehen.  Dies ist der Fa kultät unter Angabe  der Gründe 
+schriftlich  mitzuteilen.  Sofern sich keine andere Mentorin  oder kein  anderer  Mentor findet, verfällt 
+die Zulassung  zur Promotion.  Dies ist der Bewerberin  oder dem Bewerber  schriftlich  unter Darle‐
+gung  der Gründe  und mit einer Rechtsbehelfsbelehrung  versehen,  mitzuteilen.  Unter Vorlage einer 
+neuen Promotionsbetreuungsvereinbarung  ist die Bewerberin  oder der Bewerber  bere chtigt, die 
+Zulassung  erneut zu beantragen.  
+(8) Verlässt die Mentorin  oder der Mentor die TU Braunschweig,  verfällt die Zulassung  zur Promotion.  
+Dies ist der Bewerberin  oder dem Bewerber  schriftlich  unter Darlegung  der Gründe  und mit einer 
+Rechtsbehelfsbelehrung  versehen,  mitzuteilen.  Der Fakultätsrat  kann  auf Antrag der Mentorin 
+oder des Me
+ntors die Fortführung  der Betreuung  durch diese  Mentorin  oder diesen  Mentor ge‐
+nehmigen.  Auf Antrag der Bewerberin  oder des Bewerbers  kann der Fakultätsrat  die Fortführung  
+der Betreuung  durch eine andere Mentorin  oder einen  anderen Mentor genehmigen.  
+(9) Kooperative  Formen  der Betreuung  sind zugelassen.  In diesem Fall muss  die Betreuu ngsvereinba ‐
+rung  nach Absatz  6 von der Mentorin  oder dem Mentor und der oder den übrigen Betreuerinnen  
+oder Betreuern  unterschrieben  sein. ln der kooperativen  Betreuung  sollen  die in der Vereinbarung  
+vorgesehenen  regelmäßigen  fachlichen  Gespräche  mit allen  Betreuerinnen  und/oder  Betreuern  
+geführt werden (Anlage 1). 
+ 
+§ 5 Zulassungsvoraussetzungen  zur Promotion  
+(1) Für eine Zulassung  zur Promotion  sind nachzuweisen:  
+a) Der Abschluss  eines einschlägigen  universitären  Diplomstudiengangs  (bzw. bei einer beabsich‐
+tigten  Promotion  zum Grad Dr. rer. nat. auch eines entsprechenden  Staatsexamenstudien ‐
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 6 gangs von mindestens  8 Semestern  Dauer) an einer deutschen  Hochschule  in einem an der FK 
+EITP vertretenen  Fachgebiet  oder einem  ähnlichen  naturwissenschaftlichen  oder ingenieur ‐
+wissenschaftlichen  Fachgebiet;  oder  
+b) eines einschlägigen  Masterstudiengangs  mit Anfertigung  einer wissenschaftlichen  Abschluss ‐
+arbeit an einer  deutschen  Hochschule  in einem  an der FK EITP vertretenen  Fachgebiet  oder ei‐
+nem ä
+hnlichen naturwissenschaftlichen  oder ingenieurwissenschaftlichen  Fachgebiet;  oder 
+c) der Abschluss  eines nicht unter Buchstabe  a) fallenden  universitären  Diplomstudiengangs  an 
+einer deutschen  Hochschule  von mindestens  9 Semestern  und Kenntnisprüfungen  nach Absatz 
+2 Buchstabe  a); oder  
+d) der Abschluss  eines nicht  unter Buchstabe  b) fallenden  Masterstudienganges  mit Anfertigung  
+einer wissenschaftlichen  Abschlussarbeit  an einer de utschen  Hochschule  und Kenntnisprüfun ‐
+gen nach Absatz  2 Buchstabe  a); oder 
+e) ein Diplomabschluss  eines einschlägigen  Studienganges  von mindestens  8 Semestern  an einer 
+deutschen  Fachhochschule  in einem  an der FK EITP vertretenen  Fachgebiet  oder in einem  ähn‐
+lichen naturwissenschaftlichen  oder ingenieurwissenschaftlichen  Fachgebiet.  ln der Regel 
+müssen dabei die Gesamtnote  und di e Note der Abschlussarbeit  jeweils mindestens  "sehr gut" 
+lauten. Sofern eine Note mindestens  „sehr gut“ und eine Note mindestens  "gut" lauten, kann 
+ein Antrag auf Ausnahme  gestellt werden. Dem Antrag ist ein Gutachten  eines Mitglieds  des in 
+§ 4 Absatz 3 bzw. § 7 Absatz  1 genannten  Personenkreises  beizufügen,  in dem die b esondere 
+wissenschaftliche  Qualifikation  der Bewerberin  oder des Bewerbers  zu beurteilen  und gege‐
+benenfalls  festzustellen  ist. Über  den  Antrag entscheidet  der Fakultätsrat.  Bewerber  oder Be‐
+werberinnen  haben  die Fähigkeit zur vertieften  wissenschaftlichen  Arbeit durch Kenntnisprü ‐
+fungen nach Absatz  2 Buchstabe  b) nachzuweisen;  oder 
+f)  ein außerhalb  Deutschlands  erworbener  Abschluss,  der zu eine m  der inländischen  Abschlüsse  
+nach Absatz 1 Buchst.  (a) bis (e) gleichwertig  ist. Ausländische  Studienabschlüsse  bedürfen  der 
+Anerkennung.  Die Anerkennung  setzt die Gleichwertigkeit  mit den inländischen  Abschlüssen 
+voraus. Bei der Entscheidung  über die Gleichwertigkeit  ausländischer  Studienabschlüsse  sind 
+die von der Kultusministerkonferenz  und der Hochschulrektorenkonferenz  gebilligten  Äquiva‐
+lenzvereinbarungen  oder entsprechende  gesetzliche  Regel ungen zu berücksichtigen.  Bei Zwei‐
+feln an der Gleichwertigkeit  soll die Zentralstelle  für Ausländisches  Bildungswesen  gehört wer‐
+den. Gleichwertige  oder als gleichwertig  erklärte  Abschlüsse  werden entsprechend  Buchsta ‐
+ben  a) bis e) behandelt.  Ergänzend  hierzu kann ein außerhalb  Deutschlands  erworbener  Ab‐
+schluss anerkannt  werden,  wenn  der betreffende  Abschluss  aufgrund von Abkommen  der TU 
+Braunschwei
+g mit Partnerhochschulen  als gleichwertig  mit einem entsprechenden  an der TU 
+Braunschweig  zu erwerbenden  Abschluss  nach Absatz 1 Buchst.  a oder b zu bewerten  ist. Auf‐
+grund  eines im Ausland  erworbenen  Abschlusses  kann  der Fakultätsrat  der Antragstellerin  
+oder dem Antragsteller  darüber hinaus im Rahmen  der Zulassung  gemäß § 6 über Absatz  1 hi‐
+nausgehe
+nde Auflagen  erteilen, die in einem fachlichen  Zusammenhang  mit dem Wissen‐
+schaftsgebiet  stehen,  das in der Dissertation  behandelt  wird bzw. werden soll. 
+(2) Der Bewerberin  oder dem Bewerber  nach Absatz 1 Buchst. c) bis e) werden Auflagen  nach Absatz 
+2 Buchst. a) oder b) erteilt.  Diese Aufla gen  sind in den Zulassungsbescheid  nach § 6 Absatz 3 auf‐
+zunehmen.  Auflagen sind spätestens  bis zur Eröffnung  des Promotionsverfahrens  gemäß § 8 zu er‐
+füllen. 
+a) Bewerberinnen  oder Bewerber  nach Absatz 1 Buchst. c) oder d) haben Kenntnisprüfungen  in 
+von der FK EITP angebotenen  Pflicht‐ oder Wahlpflichtfächern  im Umfang  von mindestens  20 
+Leistungspunkten  abzulegen.  Mindestens  10 Leistungspunkte  müssen aus dem Pflichtfachkata ‐
+log einer dem Promotionsthema  nahe stehender  Vertiefungsrichtung  stammen.  Die Prüfungen  
+sind von Lehrenden  abzunehmen,  die in den  Studiengängen  der FK EITP zu Prüferinnen  oder 
+Prüfern bestellt sind. Die Festlegu ng der Fächer sowie der Prüferinnen  oder Prüfer  obliegt bei 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 7 Promotionen  zum  Grad Dr. rer. nat. auf Vorschlag  der Mentorin  oder des Mentors dem für 
+Promotionen  zuständigen  Mitglied des Dekanats  und bei Promotionen  zum  Grad Dr.‐Ing.  dem 
+Fakultätsrat.  Sofern das Thema der jeweiligen  Studienabschlussarbeit  auch von einem zur Ab‐
+nahme  von Abschlussprüfungen  berechtigten  Lehrenden  hätte gestellt werden können, kön‐
+nen bei Promotionen  zu m Grad Dr. rer. nat. auf Antrag der Mentorin  oder des Mentors bzw. 
+bei Promotionen  zum Grad  Dr.‐Ing.  auf Antrag der Betreuerin  oder des Betreuers  10 Leis‐
+tungspunkte  aus dem Wahlpflichtbereich  anerkannt  werden. Sofern die Abschlussarbeit  der 
+Bewerberin  oder des Bewerbers  von einer oder einem Lehrenden  der FK EITP betreu t wurde, 
+werden die Kenntnisprüfungen  nach Satz  1 auf 10 Leistungspunkte  aus dem Pflichtfachkatalog  
+nach Satz 2 reduziert.  
+b) Bewerberinnen  oder Bewerber  nach Absatz 1 Buchst. e) haben Kenntnisprüfungen  in von der 
+FK EITP angebotenen  Pflicht‐ oder Wahlpflichtfächern  im Umfang von mindestens  45 Leis‐
+tungspunkten  abzulegen.  Mindestens  20 Leistungspunkte  müssen aus dem Pflichtfachkatalog 
+einer dem Promotionsthema  nahe ste
+hender Vertiefungsrichtung  stammen.  Die Prüfungen 
+sind von Lehrenden  abzunehmen,  die in den  Studiengängen  der FK EITP zu Prüferinnen  oder 
+Prüfern bestellt sind. Die Festlegung  der Fächer sowie der Prüferinnen  oder Prüfer  obliegt bei 
+Promotionen  zum  Grad Dr. rer. nat. auf Vorschlag  der Mentorin  oder des Mento rs dem für 
+Promotionen  zuständigen  Mitglied des Dekanats  und bei Promotionen  zum Grad Dr.–Ing. dem 
+Fakultätsrat.  Sofern das Thema der jeweiligen  Studienabschlussarbeit  auch von einem zur Ab‐
+nahme  von Abschlussprüfungen  berechtigten  Lehrenden  hätte gestellt werden können, kön‐
+nen  bei Promotionen  zum Grad Dr. rer. nat. auf Antrag der Me ntorin  oder des Mentors bzw. 
+bei Promotionen  zum Grad  Dr.‐Ing.  auf Antrag der Betreuerin  oder des Betreuers  10 Leis‐
+tungspunkte  aus dem Wahlpflichtbereich  anerkannt  werden. Sofern die Abschlussarbeit  der 
+Bewerberin  oder des Bewerbers  von einer oder einem Lehrenden  der FK EITP betreut wurde, 
+werden die Kenntnisprüfungen  nach Satz  1 auf 10 Le istungspunkte  aus dem Pflichtfachkatalog  
+nach Satz 2 reduziert.  
+(3) Personen  mit herausragender  Befähigung,  denen  in Deutschland  ein Bachelorgrad  in einem an der 
+FK EITP vertretenen  Fachgebiet  verliehen  wurde, können aufgrund einer Eignungsfeststellung  zur 
+Promotion  zugelassen  werden. Die Eignung wird anhand folgender  Kriterien beurteilt:  
+a)  Die Gesamtnote  und die Note der Abs chlussarbeit  müssen jeweils mindestens  "sehr gut" lau‐
+ten. 
+b) Zwei Gutachten  von Mitgliedern  des in § 4 Absatz 3 bzw. § 7 Absatz 1 genannten  Personen ‐
+kreises, die die besondere  wissenschaftliche  Qualifikation  der Bewerberin  oder des Bewerbers  
+feststellen.   
+c)  Das  Studium bis zum  Abschluss  des Bachelorstudiengangs  soll die jeweilige  Regelstudienzeit  
+um nich
+t länger als zwei Semester  überschreiten.   
+d) die Kandidatin  oder der Kandidat  gehört nachweislich  zu den  besten  5% des Abschlussjahr ‐
+gangs des jeweiligen  Kalenderjahres  in dem von ihr oder von ihm  absolvierten  Bachelorstu ‐
+diengang. 
+Ferner sind Kenntnisprüfungen  nach Absatz 2 Buchstabe  b) zu erbringen.  Eine Anerkennung  oder 
+Reduzierung  von 10 Leistu ngspunkten  ist ausgeschlossen.   
+(4) Auf schriftlichen  Antrag prüft die Dekanin oder der Dekan der FK EITP, ob die Voraussetzungen  
+nach Absatz 1 bis 4 bereits erfüllt sind. Falls dies nicht der Fall ist, teilt die Dekanin oder der Dekan 
+der FK EITP bzw. das zuständige  Mitglied des Dekanats  der Antragstellerin  oder dem Antrags teller 
+mit, ob und ggf. durch welche weitergehenden  Auflagen oder Kenntnisprüfungen  die Vorausset ‐
+zungen  noch erfüllt werden können. Dem Prüfungsantrag  sind beizufügen:   
+a)  die nach Absatz  1 bis 3 jeweils erforderlichen  Zeugnisse  und Nachweise; 
+b) die Nennung  des voraussichtlichen  Gegenstandes  beziehungsweise  Fachgebietes  der Disserta‐
+tion. 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 8 § 6 Zulassung  zur Promotion  
+(1) Wer die Zulassungsvoraussetzungen  nach § 5 erfüllt und die Anfertigung  einer Dissertation  beab‐
+sichtigt, soll bei der FK EITP zu Beginn der Arbeit an der Dissertation  die Zulassung  zur Promotion  
+und damit die Annahme  als Doktorandin  oder Doktorand  beantragen.   
+(2) Mit der Annahme  als Doktorandin  oder Doktorand  wird die grundsätzliche  Bereitschaft  der Fakul‐
+tät ausgedrückt,  ei
+ne Dissertation  über das beabsichtigte  Thema als wissenschaftliche  Arbeit zu 
+bewerten  und die Doktorandin  oder den Doktoranden  bei der Erstellung  ihrer oder seiner Arbeit 
+begleitend  zu betreuen.  
+(3) Dem Antrag sind beizufügen:  
+a) der Nachweis  der Zulassungsvoraussetzungen  gemäß § 5,  
+b) die Angabe  des in Aussicht ge nommenen  Themas der Dissertation  und eine  Promotions ‐
+betreuungszusage  nach Anlage  1,  
+c)  ein Lebenslauf  mit der Darstellung  des persönlichen  und beruflichen  Werdegangs,   
+d)  eine Erklärung  über laufende oder vorausgegangene  Promotionsgesuche;  ggfs.  ist dabei an‐
+zugeben, wann, mit welchem Thema und bei welcher Fakultät/ bei welchem Fachbereich  die 
+Eröffnung  eines Promotionsverfahrens  beantragt  wur de,  
+e)  gegebenenfalls  Nachweise  der Erfüllung erteilter Auflagen.  
+(4) Die Fakultät entscheidet  i. d. R. innerhalb  von 3 Monaten,  bei Promotionsstudiengängen  zum je‐
+weiligen  Beginn des Curriculums,  über den Antrag. Wenn  die Zulassungsvoraussetzungen  nicht  er‐
+füllt  sind, ist die Zulassung  zur Promotion  abzulehnen  oder die Zulassung  mit der Auflage zu verse‐
+hen, di
+e noch fehlenden  Voraussetzungen  nachzuholen.   
+(5)  Die Entscheidung  über die Zulassung  zur Promotion  ist der Antragstellerin  oder dem Antragsteller  
+schriftlich  mitzuteilen.  Eine Ablehnung  ist zu begründen  und mit einer Rechtsbehelfsbelehrung  zu 
+versehen.  Ablehnungsgründe  können  insbesondere  fehlende Zugangsvoraussetzungen  nach § 5 
+oder die Feststellung  sein, dass das in Aussicht gen ommene Thema nicht in die fachliche Ausrich‐
+tung  der FK EITP fällt  oder die zur Durchführung  des Arbeitsvorhabens  notwendige  materielle  Aus‐
+stattung  nicht in ausreichendem  Umfang bereitgestellt  werden kann.  
+(6) Die Zulassung  zur Promotion  kann aus triftigen Gründen widerrufen  werden, insbesondere  bei 
+Täuschung  über das Vorliegen  von Zugangsvoraussetzungen.    
+(7) Die Zulassung  zur Promotion  verfällt nac h 10 Jahren ab dem Datum der Zulassung.  Auf Antrag 
+kann  der Fakultätsrat  die Zulassung  zur Promotion  verlängern.  
+(8) Mit der Zulassung  zur Promotion  erwirbt die Antragstellerin  oder der Antragsteller  das Recht, an 
+der FK EITP die Eröffnung  des Promotionsverfahrens  nach § 8 zu beantragen.   
+ 
+§ 7 Betreuung  bei Promotionen  zum Grad Dr.‐Ing.  
+(1)  Bei Promotionen  zum Grad Dr.‐Ing.  können  Betreuerinnen  oder Betreuer grundsätzlich  sein: 
+a)  Mitglieder  der Gruppe der Hochschullehrerinnen  und Hochschullehrer  der FK EITP, die an ei‐
+nem der Elektrotechnik  und / oder Informationstechnik  zuzurechnenden  Institut tätig sind  
+b) Professorinnen  und Professoren  im Ruhestand  und entpflichtete  Professorinnen  und Professo‐
+ren der FK EI TP, die an einem der Elektrotechnik  und / oder Informationstechnik  zuzurechnen ‐
+den Institut tätig waren sowie Honorarprofessorinnen  und Honorarprofessoren  der FK EITP mit 
+dem Grad Dr.‐Ing., die der Elektrotechnik  und / oder Informationstechnik  zuzurechnen  sind, 
+c)  nicht beurlaubte  Privatdozentinnen  und Privatdozenten  sowie apl. Professorinnen  oder apl. 
+Professoren  der FK EITP mit de m Grad Dr.‐Ing.  oder einem ohne Zusatz zu führenden  Doktor‐
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 9 grad,  die einem  in der FK EITP vertretenen  Institut  der Elektrotechnik  und / oder Informations ‐
+technik zugeordnet  sind,  
+d) sofern der Fakultätsrat  hierfür  die Berechtigung  erklärt, Mitglieder  der Gruppe der Hochschul‐
+lehrerinnen  und Hochschullehrer,  die mit dem Grad  Dr. rer. nat. an einem  der Physik zuzu‐
+rechnenden  Institut der FK EITP täti g sind, 
+e) sofern der Fakultätsrat  hierfür die Berechtigung  erklärt, Professorinnen  und Professoren  im 
+Ruhestand  und entpflichtete  Professorinnen  und Professoren  der FK EITP,  die mit dem Grad 
+Dr. rer. nat. an einem  der Physik zuzurechnenden  Institut  der FK EITP tätig waren sowie Hono‐
+rarprofessorinnen  oder Honorarprofessoren,  die den  in der FK EITP vertretenen  Institute n der 
+Physik zuzurechen  sind, 
+f) sofern der Fakultätsrat  hierfür die Berechtigung  erklärt, nicht beurlaubte  Privatdozentinnen 
+und Privatdozenten  sowie apl. Professorinnen  oder apl. Professoren  der FK EITP mit dem Grad 
+Dr. rer. nat. oder einem  ohne Zusatz zu führenden  Doktorgrad,  die einem in der FK EITP vertre‐
+tenen Ins titut der Physik zugeordnet  sind.  
+(2)  Nachwuchsgruppenleiterinnen  und Nachwuchsgruppenleiter  im Bereich Elektrotechnik  und /oder 
+Informationstechnik,  die auf Grund eines externen Evaluationsverfahrens  durch eine  Forschungs ‐
+förderungseinrichtung,  insbesondere  durch das Emmy Noether Programm  der DFG, die VW‐
+Stiftung, das ERC oder durch gleichrangige  Organisationen  gefördert  werden,  oder Nachwuchs ‐
+gruppenleiterinnen  oder Nachwuchsgruppenleiter,  die in eine m  internen Besetzungsverfahren  un‐
+ter Beteiligung  von externen Gutachtern  in ihre Funktion eingesetzt  wurden, können  mit Zustim‐
+mung des Fakultätsrats  ebenfalls als Betreuerinnen  und Betreuer von Promotionen  zugelassen  
+werden.  
+(3)  Die Übernahme  der wissenschaftlichen  Betreuung  muss  durch eine Promotionsbetreuungsverein ‐
+barung, die im Sinne der Betreuungsvereinbarung  der Rahmenpromotionsordnung  der NTH zu 
+verstehen  ist, nach
+gewiesen  werden (Anlage  1). 
+(4) Verlässt die Betreuerin  oder der Betreuer die TU Braunschweig,  verfällt die Zulassung  zur Promoti‐
+on. Dies ist der Fakultät unter Angabe  der Gründe schriftlich  mitzuteilen.  Der Fakultätsrat  kann  auf 
+Antrag der Betreuerin  oder des Betreuers  die Fortführung  der Betreuung  durch diese  Betreuerin  
+oder diesen Betreuer gen ehmigen.  Auf Antrag der Bewerberin  oder des Bewerbers  kann der Fakul‐
+tätsrat die Fortführung  der Betreuung  durch eine  andere Betreuerin  oder einen  anderen Betreuer 
+genehmigen.  
+(5) Die Betreuerin  oder der Betreuer  kann die Promotionsbetreuungszusage  aus wichtigem  Grund 
+zurückziehen.  Dies ist der Fakultät unter Angabe  der Gründe schriftlich  mitzuteilen.  Sofern sich 
+keine  a
+ndere Betreuerin  oder kein  anderer Betreuer findet, verfällt die Zulassung  zur Promotion. 
+Dies ist der Bewerberin  oder dem Bewerber  schriftlich  unter Darlegung  der Gründe  und mit einer 
+Rechtsbehelfsbelehrung  versehen,  mitzuteilen.  Unter Vorlage einer neuen  Promotionsbetreuungs ‐
+zusage ist die Bewerberin  oder der Bewerber  berechtigt,  die Betreuung  erneut zu beantragen.  
+(6) Kooperative  Formen  der Betreuun g sind zugelassen.  In diesem Fall muss  die Betreuungsvereinba ‐
+rung  nach Absatz  3 von allen  Betreuerinnen  und/oder  Betreuern  unterschrieben  sein.  ln der ko‐
+operativen  Betreuung  sollen  die in der Vereinbarung  vorgesehenen  regelmäßigen  fachlichen  Ge‐
+spräche mit allen  Betreuerinnen  und/oder  Betreuern  geführt werden (Anlage 1). 
+ 
+§ 8 Eröffnung  des Promotionsverfahrens   
+(1) Der Antrag auf Eröffnung  des Promotionsverfahrens  ist schriftlich  an die Dekanin oder den  Dekan 
+der FK EITP zu stellen. Sämtliche  eingereichten  Unterlagen  (Urschriften  und Zeugnisse  nur in Form 
+von der FK EITP gegebenenfalls  angefertigter  Kopien) gehen  in das Eigentum  der TU Braunschweig  
+über. Dem Antrag sind beizufügen:  
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 10 a)  der Bescheid über die Zulassung  zur Promotion  nach § 6,  
+b) ggfs. der Nachweis  der promotionsvorbereitenden  Studien und Erfüllung eventueller  weiterer 
+Auflagen,   
+c)  ein Lebenslauf  mit der Darstellung  des persönlichen  und beruflichen  Werdegangs,  
+d) ggfs. eine  Liste der wissenschaftlichen  Publikationen  und der wissenschaftlichen  Vorträge, 
+e)  mindestens  drei  Exemplare  und eine el ektronische  Version einer wissenschaftlichen  Abhand‐
+lung (Dissertation  gemäß § 10) mit Titelblatt gemäß Anlage  3. Art und Format der elektroni‐
+schen Version werden im Leitfaden  (Anhang A) in der jeweils gültigen Fassung definiert, 
+f) bei gemeinsam  verfassten  Dissertationen  gemäß § 10 Absatz  4 ein von den Beteiligten  ge‐
+meinsam verfasster  Bericht üb er  die Zusammenarbeit  bei der Dissertation,  Angaben der indi‐
+viduellen Urheberschaft  für die jeweiligen  Teile  der Dissertation,  ferner Angaben über Namen, 
+akademische  Grade, Anschriften  der an der Gruppenarbeit  beteiligten  Personen  sowie Aus‐
+kunft darüber,  ob und gegebenenfalls  welche der Personen  bereits ein Promotionsverfahren  
+beantragt  oder abgeschlossen  und dabei Teile der vorgelegten  Arbeit ben utzt hat, 
+g) eine rechtsverbindliche  Erklärung  der Doktorandin  oder des Doktoranden  gemäß Anhang  B,  
+h) eine Kurzfassung  der wissenschaftlichen  Abhandlung  im Umfang von jeweils einer Seite  in 
+deutscher  und englischer  Sprache,  
+i) ggfs. Nachweise  über den erfolgreichen  Erwerb überfachlicher  Qualifikation  gemäß § 5 Absatz 
+4; in besonderen  Fällen  kann  der Fakultätsrat  auf Antrag Ausnahmen  zulassen,  
+j) bei Promotionen  zum Gra
+d Dr. rer. nat. Namensvorschläge  für die Mitglieder  der Promotions ‐
+kommission  gemäß  § 9 Absatz  1. 
+(2) Über  die Eröffnung  des Promotionsverfahrens  zum  Grad Dr. rer. nat. entscheidet  die Dekanin oder 
+der Dekan.  Der Fakultätsrat  ist in geeigneter  Weise zu unterrich ten.  Bei Promotionsverfahren  zum 
+Dr.‐Ing. entscheidet  der Fakultätsrat  über die Eröffnung.  Über  die Ablehnung  eines Eröffnungsan ‐
+trages entscheidet  stets der Fakultätsrat.  Über  die Entscheidung  erhält die Doktorandin  oder der 
+Doktorand  einen  schriftlichen  Bescheid.  Dieser ist bei ablehnender  Entscheidung  zu begründen  
+und mit einer Rechtsbehelfsbelehrung  zu versehen.   
+(3) Der Antrag auf Eröffnung  des Promotionsverfahrens  kann  zurü ckgenommen  werden, solange noch 
+kein Gutachten  über die Dissertation  erstattet worden ist. Danach ist eine Rücknahme  nur aus 
+wichtigen  persönlichen  Gründen,  die nicht  im Zusammenhang  mit dem Promotionsverfahren  ste‐
+hen dürfen, auf Antrag mit Genehmigung  durch den Fakultätsrat  (Dr.‐Ing.) oder durch die Dekanin 
+oder den Dekan (Dr. rer. nat.) mögli ch. Die nach § 6 erteilte Zulassung  bleibt  gültig.  Das Recht auf 
+Beantragung  der erneuten  Eröffnung  bleibt  unberührt.   
+(4) Durch  die Eröffnung  des Promotionsverfahrens  erwirbt die Doktorandin  oder der Doktorand  den 
+Anspruch  auf Bewertung  der Dissertation.   
+(5) Bei Promotionen  zum Grad  Dr.‐Ing.  werden alle Hochschullehrerinnen  und Ho chschullehrer  gemäß 
+§ 7 Absatz 1, die Mitglieder  der TU Braunschweig  sind, von der Dekanin oder dem Dekan der FK 
+EITP über die Eröffnung  des Promotionsverfahrens  in geeigneter  Weise in Kenntnis gesetzt und um 
+Stellungnahme  innerhalb  einer Frist von zwei  Wochen ersucht, ob sie an dem Promotionsverfah ‐
+ren als Mitglied der Promotionskommission  nach § 9 mitwirke n wollen. Gleichzeitig  werden sie 
+gebeten, mitzuteilen,  ob sie die Dissertation  und die Gutachten  nach Eingang bei der oder dem 
+Vorsitzenden  der Promotionskommission  einsehen  wollen. Bei Promotionen  zum Grad Dr. rer. nat. 
+gilt das Verfahren  nach § 12.  
+(6) Ein erneuter  Antrag auf Eröffnung  eines Promotionsverfahrens  ist nu r einmal und nicht vor Ablauf 
+eines Jahres nach Nichtbestehen  zulässig. Dieses gilt auch dann, wenn  das erste erfolglose  Verfah‐
+ren an einer anderen Hochschule  stattgefunden  hat. Wurde im ersten Verfahren  die eingereichte  
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 11 Dissertation  zurückgewiesen,  darf  diese  nicht wieder zum  Zwecke der Promotion  vorgelegt  wer‐
+den, auch nicht in abgeänderter  Form. Bei dem erneuten  Antrag auf Eröffnung  des Promotionsver‐
+fahrens ist in jedem Falle von dem vorhergegangenen  fehlgeschlagenen  Versuch Mitteilung  zu ma‐
+chen.  Dabei  sind der Zeitpunkt  des ersten Antrages,  die Hochschule  und die Fakultät bzw. der 
+Fachber
+eich, bei der die Arbeit eingereicht  wurde, sowie das Thema der Arbeit anzugeben.  Eine 
+nach § 6 erteilte  Zulassung  zur Promotion  bleibt  für den  erneuten  Antrag zur Eröffnung  des Pro‐
+motionsverfahrens  gültig. 
+ 
+§ 9 Promotionskommission  und Referentinnen  oder Referenten  
+(1) Promotionskommissionen  werden in der FK EITP wie folgt bestellt: 
+a) bei Promotionen  zum Grad Dr.‐Ing.  bestellt  der Fakultätsrat  eine  Promotionskommission  und 
+bestimmt  deren Vorsitzende  oder Vorsitzenden.  Die Kommission  besteht aus mindestens  drei 
+Mitgliedern  und kann  bis zu sechs Mitglieder  umfassen,  ein Mitglied ist die Betreuerin  oder der 
+Betreuer  nach § 7. Sowei t  Kommissionen  mit mehr als drei  Mitgliedern  bestellt werden,  soll 
+auf die Bestellung  mindestens  eines auswärtigen  Mitglieds  hingewirkt  werden;  
+b) bei Promotionen  zum Grad  Dr. rer. nat. bestellt die Dekanin oder der Dekan in Kenntnis der 
+Vorschläge  der Bewerberin  oder des Bewerbers  eine Promotionskommission  und bestimmt  
+deren Vorsitzende  oder Vorsitzende n. Die Kommission  besteht aus mindestens  drei  Mitglie‐
+dern und kann bis zu sechs Mitglieder  umfassen,  die mehrheitlich  dem in § 4 Absatz 3  genann‐
+ten Personenkreis  angehören  müssen. Mindestens  zwei  Mitglieder  der Promotionskommission  
+müssen verschiedene  naturwissenschaftliche  Fachgebiete  vertreten.  Ein weiteres Mitglied  mit 
+der Befugnis zur selbstständigen  Lehre kann ein bel iebiges  an der TU Braunschweig  gelehrtes  
+Fach vertreten.  Die Mentorin  oder der Mentor nach § 4 muss  der Kommission  angehören.  So‐
+weit Kommissionen  mit mehr als drei  Mitgliedern  bestellt werden, soll auf die Bestellung  min‐
+destens eines auswärtigen  Mitglieds  hingewirkt  werden. 
+Die oder der Vorsitzende  und ein weiteres Mitglied müssen bei Promotionen  zum Grad Dr .‐Ing. 
+dem in § 7 Absatz 1 und bei Promotionen  zum Grad  Dr. rer. nat. dem in § 4 Absatz  3 genannten  
+Personenkreis  angehören  und hauptamtlich  an der TU Braunschweig  tätig sein. Eingegangene  Stel‐
+lungnahmen  gemäß § 8 Absatz  5 Satz 1 werden berücksichtigt.  Die für die Eins etzung  der Kommis‐
+sion zuständige  Stelle  kann  für jedes Mitglied der Promotionskommission  eine Stellvertreterin  
+oder einen  Stellvertreter  benennen.   
+(2) Die Promotionskommission  berät auf der Grundlage  schriftlicher  Gutachten  über die Annahme  
+und Benotung  oder über die Ablehnung  einer Dissertation.  Sie führt die mündliche  Prüfung  durch 
+und bewertet  die hierbei  erbrachten  Promotionsleistungen.   
+(3) Promotionskommissionen  tagen in nichtöffentli
+cher Sitzung. Die Promotionskommission  ist be‐
+schlussfähig,  wenn  sämtliche  Mitglieder  oder deren Stellvertreterinnen  oder Stellvertreter  anwe‐
+send  sind. Die Mentorin  oder der Mentor bzw. die Betreuerin  oder der Betreuer können  nur mit 
+Zustimmung  der Kandidatin  bzw. des Kandidaten  vertreten  werden. Die Kommission  entscheidet  
+mit einfacher  Mehrheit.  S timmenthaltungen  sind nicht zulässig. Im Falle von Stimmengleichheit 
+gibt  die Stimme der oder des Vorsitzenden  den  Ausschlag.  Die Beschlüsse  sind in einem  Protokoll 
+festzuhalten.   
+(4) Die Mitglieder  der Promotionskommission  sind verpflichtet,  über Tatsachen  Stillschweigen  zu be‐
+wahren,  die ihnen in nichtöffentlicher  Sitzung bekannt geworden  sind, es sei denn, dass eine Tat‐
+sache berei
+ts offenkundig  ist oder ihrer Bedeutung  nach keiner Vertraulichkeit  bedarf. Verschwie ‐
+genheitspflichten  aufgrund des Dienst‐ und Arbeitsverhältnisses  bleiben unberührt.   
+(5) Für die Beurteilung  der Dissertation  gemäß § 10 werden Referentinnen  oder Referenten  wie folgt 
+bestellt:  
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 12 a) Bei Promotionen  zum Grad  Dr.‐Ing.  bestellt  der Fakultätsrat  zwei oder mehr Referentinnen  
+oder Referenten,  die mit der Bestellung  Mitglieder  der Promotionskommission  werden. Die 
+Betreuerin  oder der Betreuer  ist eine Referentin  oder ein Referent.  Mindestens  eine Referen‐
+tin oder ein Referent muss hauptamtliche  Professorin  oder hauptamtlicher  Professor,  Profes‐
+sorin oder Professor  im Ruhestand,  entpflichte te Professorin  oder entpflichteter  Professor  der 
+FK EITP der Elektrotechnik  und / oder Informationstechnik  sein. Die übrigen Referentinnen  
+oder Referenten  können dem in § 7 Absatz  1 genannten  Personenkreis  oder bei entsprechen‐
+der Qualifikation  (d.h. mit der Befugnis zur selbstständigen  Lehre) auch anderen Fachberei‐
+chen, Fakultäten  oder Hochschulen  ang ehören.  Sofern der Fakultätsrat  mehr als zwei  Referen‐
+tinnen oder Referenten  bestellt, können neben  den beiden nach Satz 2 bzw. 3 zu bestellenden  
+Personen  auch sonstige Personen,  die promoviert  sind, um die Abgabe  eines gutachterlichen  
+Referats gebeten werden.  
+b) Bei Promotionen  zum Grad  Dr. rer. nat. bestellt die Dekanin oder der Dekan für die Beurtei‐
+lung der Diss
+ertation zwei oder mehr Referentinnen  oder Referenten.  Die Mentorin  oder der 
+Mentor ist eine der Referentinnen  oder einer der Referenten.  Mindestens  eine Referentin  
+oder ein Referent muss hauptamtliche  Universitätsprofessorin  oder hauptamtlicher  Universi‐
+tätsprofessor  oder ‐ soweit die Dekanin oder der Dekan der FK EITP eine en tsprechende  Zu‐
+stimmung  erklärt ‐ Professorin  oder Professor  im Ruhestand  oder entpflichtete  Professorin  
+oder entpflichteter  Professor  der FK EITP der Physik sein.  Die übrigen  Referentinnen  oder Re‐
+ferenten können  dem in § 4 Absatz  3 genannten  Personenkreis  oder bei entsprechender  Quali‐
+fikation ‐ d.h. mit der Befugnis zur selbstständigen  Lehre ‐ auch anderen Fa chbereichen,  Fakul‐
+täten oder Universitäten  angehören.  
+ 
+§ 10 Dissertation  
+(1) Mit ihrer bzw. seiner Dissertation  weist die Doktorandin  oder der Doktorand  ihre oder seine  Befä‐
+higung nach, durch selbstständige  wissenschaftliche  Arbeit Ergebnisse  zu erzielen, die der Weiter‐
+entwicklung  des Fachgebietes  dienen aus dem die Dissertation  stammt oder einen Beitrag zum 
+Fortschritt  der Wissenschaft  auf einem  durch die FK EITP vertretenen  Fachg ebiet  leisten. 
+(2) Die Dissertation  darf  nicht bereits vorher veröffentlicht  worden sein;  auszugsweise  Vorveröffentli ‐
+chungen  der Dissertation  sind mit schriftlicher  Zustimmung  der Mentorin  oder des Mentors nach § 
+4 (Dr. rer. nat.) oder der Betreuerin  oder des Betreuers  nach § 7 (Dr.‐Ing.) zulässig. Die FK EITP be‐
+hält sich das Rec ht  vor,  die Dissertation  auch zum Zwecke der Überprüfung  der Einhaltung  allge‐
+mein geltender  wissenschaftlicher  Standards,  insbesondere  auch unter Verwendung  elektroni‐
+scher Datenverarbeitungsprogramme,  zu überprüfen.  Die Doktorandin  oder der Doktorand  wer‐
+den  hierauf hingewiesen.  Dieser Hinweis ist Bestandteil  der Erklärung  gemäß § 8 Absatz  1 Buch‐
+stabe g). 
+(3) Publikationsbasierte  Arbeiten,  die un ter einer gemeinsamen  wissenschaftlichen  Fragestellung  
+entstanden  sein  müssen, sind als wesentlicher  Teil einer Dissertation  mit Zustimmung  der Mento‐
+rin oder des Mentors nach § 4 (Dr. rer.nat.) oder der Betreuerin  oder des Betreuers  nach § 7 (Dr. ‐
+Ing.) zugelassen,  wenn  sie in einem inneren Zusammenhang  stehen und in ihrer Gesamth eit den 
+Anforderungen  nach Absatz 1 entsprechen.  Der innere Zusammenhang  ist in der Dissertation  be‐
+sonders darzulegen  und eine ausführliche  Darstellung  der gemeinsamen  Fragestellung  ist der Dis‐
+sertation voranzustellen.  Dissertationen  mit publikationsbasierten  Arbeiten müssen den  von der 
+Fakultät festgesetzten  formalen  Mindestanforderungen  gemäß Anlage 5 entsprechen.  
+(4) Eine von mehreren  (in der Regel nicht meh r als zwei) Personen  gemeinsam  verfasste wissenschaft ‐
+liche Arbeit kann  bei geeigneter  Themenstellung  als Dissertation  anerkannt  werden. Vorausset ‐
+zung ist, dass die für das Promotionsverfahren  einer der Autorinnen  oder eines der Autoren zu be‐
+rücksichtigenden  Beiträge zweifelsfrei  dieser Doktorandin  oder diesem  Doktoranden  zugerechnet  
+werden können und die Anforderungen  nach Ab satz 1 erfüllen. Die Beiträge der einzelnen  Mitwir‐
+kenden  sind umfassend  im Rahmen der Erklärung  gemäß § 8 Absatz 1 Buchst. f darzulegen  und zu 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 13 beschreiben.  Eine Dissertation  gemäß Absatz 3 ist in diesem Fall ausgeschlossen.  Die Eignung eines 
+Themas für eine Gemeinschaftsarbeit  ist auf Antrag und nach Anhörung  der Bewerberinnen  und 
+Bewerber  sowie der betreuenden  Hochschullehrerinnen  und Hochschullehrer  von dem Fakultäts‐
+rat förmlich festzustellen;  dieses sollte möglichst  vor Beginn  der Arbeit an der Dissertation  ge‐
+schehe
+n. Sollen auf der Grundlage  einer Gemeinschaftsarbeit  mehrere Promotionsverfahren  
+durchgeführt  werden, so werden eine gemeinsame  Promotionskommission  sowie gemeinsame  
+Gutachter  bestellt. Die Bewertung  erfolgt für jeden  Einzelbeitrag  getrennt.  Die mündlichen  Prü‐
+fungen finden zu unterschiedlichen  Zeiten  statt. 
+(5) Die Dissertation  ist in deutscher  oder englischer  Sprache abzufassen.  Die Abfassung  in einer ande‐
+ren Sprache bedarf  der Gen
+ehmigung  durch den  Fakultätsrat.  ln jedem Fall muss die Dissertation 
+eine Zusammenfassung  in deutscher  und in englischer  Sprache enthalten.   
+ 
+§ 11 Bewertung  der Dissertation   
+(1) Die Referentinnen  oder Referenten  prüfen  eingehend  und unabhängig  voneinander,  ob die vorge‐
+legte  Dissertation  als Promotionsleistung  angenommen  werden kann.  Sie beurteilen  die wissen‐
+schaftliche  Leistung einer anzunehmenden  Arbeit,  erstatten hierüber schriftliche,  benotete Gut‐
+achten und vergeben  dafür folgende Prädikate:  
+‐ ausgezeichnet  ‐ , 
+‐ sehr gut ‐ , 
+‐ gut ‐,  
+‐ genügend ‐ . 
+Das Prädikat ‐ ausgezeichnet  ‐
+ findet  nur bei Promotionen  zum Grad Dr. rer.nat. Anwendung. 
+(2) Die Gutachten  sollen  in der Regel innerhalb  einer Frist von drei Monaten nach Eröffnung  des Pro‐
+motionsverfahrens  an die Vorsitzende  oder den Vorsitzenden  der Promotionskommission  erstattet 
+werden. Ist eine Referentin  oder ein Referent nicht in der Lage, ihr oder sein Gutach ten nach Auf‐
+forderung  mit angemessener  Fristsetzung  zu erstellen,  kann  vom Fakultätsrat  in Absprache  mit der 
+Betreuerin  oder dem Betreuer (Dr.‐Ing.) oder von der Dekanin oder dem Dekan in Absprache  mit 
+der Mentorin  oder dem Mentor (Dr. rer. nat.)  eine neue  Referentin  oder ein neuer Referent be‐
+stellt we
+rden. 
+(3) Die Mitwirkungsrechte  an der Bewertung  der Dissertation  sind für die entsprechend  berechtigten  
+Mitglieder  der FK EITP wie folgt festgelegt:   
+a)  Bei Promotionen  zum Grad  Dr.‐Ing.  legt die oder der Vorsitzende  der Promotionskommission  
+den  Mitgliedern  der Promotionskommission  alle Gutachten  nach deren Eingang vor und in‐
+formiert jene Hochschullehrerinnen  un d Hochschullehrer  nach § 8 Absatz  5, die die Dissertati‐
+on und die Gutachten  einsehen wollen. Diese haben  die Möglichkeit,  die Dissertation  und die 
+Gutachten  innerhalb  von zwei  Wochen einzusehen  und schriftlich  Einspruch  gegen die An‐
+nahme, Ablehnung  oder Bewertung  der Dissertation  einzulegen.  Der Einspruch  ist zu begrün‐
+den. 
+b) Bei Promotio nen  zum Grad  Dr. rer. nat. teilt die Dekanin oder der Dekan den  Eingang  aller 
+Gutachten  den Mitgliedern  der Promotionskommission  und den  Referentinnen  oder Referen‐
+ten sowie allen Hochschullehrerinnen  und Hochschullehrern  gemäß  § 4 Absatz  3, die im hoch‐
+schulrechtlichen  Sinne Mitglieder  der Fakultät sind, in geeigneter  Weise mit. Gleichzeitig  wer‐
+den  fü
+r diesen Personenkreis  die Dissertation  und die Gutachten  im Geschäftszimmer  der FK 
+EITP für die Dauer  von zwei  Wochen zur vertraulichen  Einsichtnahme  ausgelegt.  In dieser Zeit 
+besteht die Möglichkeit,  in schriftlicher  Form Einsprüche  gegen die Bewertung  der Arbeit ein‐
+zulegen.  
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 14 (4) Die Dissertation  ist angenommen,  wenn alle  Referentinnen  oder Referenten  die Annahme  der 
+Dissertation  empfohlen  haben und wenn  innerhalb  der Zeit der Einsichtnahme  keine schriftlichen  
+Einsprüche  erhoben worden sind. Bei Annahme  der Dissertation  legt die Promotionskommission  
+die Note der Dissertation  fest. Dabei  kann  die bei Promotionen  zum Grad Dr. rer. nat. gemäß Ab‐
+satz  1 mögli
+che Note "ausgezeichnet"  nur vergeben  werden, wenn  alle Referentinnen  oder Refe‐
+renten diese Note vorgeschlagen  haben.  Haben  nicht alle Referentinnen  oder Referenten  die An‐
+nahme empfohlen  oder liegen schriftliche  Einsprüche  vor,  entscheidet  die Promotionskommission  
+endgültig  über die Annahme  oder Ablehnung  der Dissertation.  Vor der Beschlussfassung  kann  sie 
+den  Fakultäts
+rat um die Einholung  weiterer Gutachten  bitten.  Die Dekanin oder der Dekan der FK 
+EITP teilt der Doktorandin  oder dem Doktoranden  die Annahme  der Dissertation  schriftlich  in der 
+Regel innerhalb  einer Woche nach der Entscheidung  mit. 
+(5) Mit einer abgelehnten  Dissertation  ist das Promotionsverfahren  unmittelbar  und erfolglos been‐
+det. Ein e Ausfertigung  der zurückgewiesenen  Arbeit ist mit sämtlichen  Gutachten  zu den Akten zu 
+nehmen.  Die Dekanin oder der Dekan der FK EITP teilt der Doktorandin  oder dem Doktoranden  die 
+Ablehnung  der Dissertation  schriftlich  in der Regel  innerhalb  einer  Woche nach der Entscheidung  
+mit. Eine ablehnende  Entscheidung  ist mit einer  Rechtsbehelfsbelehrung  zu versehen.  Fü r einen 
+erneuten  Antrag auf Eröffnung  eines Promotionsverfahrens  gilt § 8 Absatz  6 entsprechend.  
+ 
+§ 12 Mündliche  Prüfung  
+(1) Die mündliche  Prüfung soll innerhalb  von vier Wochen nach Annahme  der Dissertation  stattfinden.  
+In Promotionsverfahren  zum Grad Dr. rer. nat. setzt die Dekanin oder der Dekan in Absprache  mit 
+der oder dem Vorsitzenden  der Promotionskommission  unverzüglich  den  Termin für die mündli‐
+che Prüfung  an. Die Terminansetzung  kann bereits mit der Mi tteilung  über den  Eingang  der Gut‐
+achten nach § 11 Absatz  3 unter dem Vorbehalt,  dass keine  Einsprüche  erfolgen, geschehen.  In 
+Promotionsverfahren  zum Grad Dr.‐Ing. setzt die oder der Vorsitzende  der Promotionskommission  
+unverzüglich  den  Termin  für die mündliche  Prüfung an. Dazu sind die Mitglieder  der Promotions ‐
+kommission  einzuladen.  
+(2) Die mündli che  Prüfung  wird als Einzelprüfung  unter Leitung der oder des Vorsitzenden  der Promo‐
+tionskommission  in der Regel  in deutscher  oder englischer  Sprache vorgenommen.  Die Durchfüh ‐
+rung  in einer anderen Sprache bedarf  der Genehmigung  durch den Fakultätsrat.   
+(3) a) Die mündliche  Prüfung  wird bei Promotionen  zum Grad Dr. rer. nat. als Disputation  d urchge‐
+führt. Hierzu  lädt  die oder der Vorsitzende  der Promotionskommission  die Doktorandin  oder 
+den  Doktoranden  und die Mitglieder  der Promotionskommission  ein und gibt  den Termin in 
+der FK EITP in geeigneter  Weise bekannt.  
+Die Disputation  beginnt  mit einem wissenschaftlichen  Vortrag der Kandidatin  oder des Kandi‐
+daten  von 30 Minuten Dauer un d  wird unmittelbar  anschließend  mit einem Kolloquium  von 45 
+bis 60 Minuten Dauer  fortgesetzt  und beendet. Die wissenschaftliche  Aussprache  soll zeigen, 
+ob die Kandidatin  oder der Kandidat  das eigene  Arbeitsgebiet  vertieft beherrscht  und mit wei‐
+teren davon berührten  Fachgebieten  sowie mit modernen  Entwicklungen  ihres oder seines 
+Fachgebietes  vertraut ist. Das Kolloquium  wird dur ch Fragen aus dem Kreise der Promotions ‐
+kommission  eröffnet. Die oder der Vorsitzende  der Promotionskommission  leitet die Diskussi‐
+on. Sie oder er soll Fragen aus dem Publikum  zulassen. Vortrag und Kolloquium  sind hoch‐
+schulöffentlich.  Über Ausnahmen  entscheidet  auf Antrag der Bewerberin  oder des Bewerbers  
+die Dekanin oder der Dekan.  Für die Mitglieder  der Promotionskommission,  bzw. im V erhinde‐
+rungsfalle  für deren Vertreter,  besteht Anwesenheitspflicht.  
+b) Die mündliche  Prüfung  wird bei Promotionen  zum Grad Dr.‐Ing. in zwei  Prüfungsabschnitten  
+durchgeführt.  Die Prüfung  beginnt  mit einem wissenschaftlichen  Vortrag der Doktorandin  oder 
+des Doktoranden  von rund 30 Minuten mit anschließender  Diskussion  von max. 15 Minute n  
+Dauer  über den  Inhalt  der Dissertation.  Dieser Prüfungsabschnitt  ist hochschulöffentlich.  Die 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 15 oder der Vorsitzende  hat das Recht, Fragen aus dem Publikum  zuzulassen.  Der zweite  Ab‐
+schnitt der mündlichen  Prüfung ist nicht  öffentlich,  jedoch kann die oder der Vorsitzende  Zu‐
+hörerinnen  oder Zuhörer zulassen. Zuhörerin  oder Zuhörer darf  nur sein, wer einen  Antrag auf 
+Eröffnung  des Promotionsverfahrens  in Kürze stellen will oder bereits ges tellt hat und dem‐
+nächst die mündliche  Prüfung ablegt. Die Doktorandin  oder der Doktorand  kann  verlangen,  
+dass während der mündlichen  Prüfung keine  Zuhörerinnen  oder Zuhörer anwesend  sind. Die‐
+sem Verlangen  ist stattzugeben.  Die mündliche  Prüfung  erstreckt sich ‐ ausgehend  vom Ge‐
+genstand  der Dissertation ‐  über das betreffende  Fachgebiet.  Der zweite Abschnitt  der mün dli ‐
+chen  Prüfung soll zeigen, dass die Bewerberin  oder der Bewerber  nicht nur auf dem engeren 
+Gebiet der Dissertation  gründliche  Kenntnisse  besitzt, sondern auch die allgemeinen  Grundla‐
+gen des Fachgebietes  beherrscht.  Dieser Prüfungsabschnitt  ist von den Mitgliedern  der Promo‐
+tionskommission  vorzunehmen  und dauert in der Regel 45 Minuten.  
+(4) Unmittelbar  nach de m  Ende der mündlichen  Doktorprüfung  entscheidet  die Promotionskommissi ‐
+on, ob und mit welchen Ergebnis die mündliche  Prüfung  bestanden  ist. Für eine bestandene  Prü‐
+fung können  folgende Prädikate  vergeben  werden:  
+‐ ausgezeichnet   
+‐ sehr gut ‐ 
+‐ gut ‐ 
+‐ genügend ‐ . 
+Ist die mündliche  Prüfung  bestanden,  wird unter Berücksichtigung  der Beurteilung  der Dissertation  
+und der m
+ündlichen  Prüfung das Gesamtprädikat  nach § 13 gebildet. Das Ergebnis wird der Dokto‐
+randin  oder dem Doktoranden  sofort mitgeteilt.  Dabei können  noch Änderungen  und Ergänzungen 
+in der Dissertation  auferlegt werden. Über  den  Gegenstand  der mündlichen  Prüfung  und das Er‐
+gebnis des Promotionsverfahrens  ist ein Protokoll  anzufertigen.  
+(5) Bleibt  die Bewerberin  oder der Bewerber  von einer mündl ichen Prüfung  unentschuldigt  fern, so 
+gilt die Prüfung als nicht  bestanden.  Bei entschuldigtem  Fernbleiben  wird ein neuer Termin  ent‐
+sprechend  Absatz 1 festgelegt.  Über  die Anerkennung  der Entschuldigung  entscheidet  der Vorsit‐
+zende oder die Vorsitzende  der Promotionskommission.   
+(6) Eine nicht bestandene  oder eine als nic ht bestanden  geltende mündliche  Prüfung kann  auf Antrag 
+einmal vor Ablauf eines Jahres wiederholt  werden. Der Antrag ist innerhalb  einer Woche nach dem 
+mündlichen  Prüfungstermin  an die Dekanin oder den Dekan der FK EITP zu stellen. Die Wiederho ‐
+lung ist frühestens  nach einem Monat möglich. Über Ausnahmen  nach Sätzen  1 und 3 entscheide t 
+der Fakultätsrat.  Bei abermaligem  Nichtbestehen  gilt der Promotionsversuch  endgültig  als geschei‐
+tert. Die Dekanin oder der Dekan der FK EITP erteilt der Doktorandin  oder dem Doktoranden  hier‐
+über einen  entsprechenden,  mit einer Rechtsbehelfsbelehrung  versehenen,  Bescheid.  Für einen 
+erneuten  Antrag auf Promotion  gilt § 8 entsprechend. 
+(7) Mit der besta ndenen  mündlichen  Prüfung ist die Promotion  abgeschlossen.  
+(8) Die Dekanin oder der Dekan der FK EITP fertigt nach der Entscheidung  der Prüfungskommission  
+auf Antrag eine  Bescheinigung  aus. Diese enthält  den  Titel und die Gesamtbewertung  der Promo‐
+tion.  Auf der Bescheinigung  ist zu vermerken,  dass diese  noch nicht zum Führen  des Doktorgrades  
+berechtig
+t. 
+ 
+§ 13 Gesamtprädikat  der Promotion  
+(1) Für das Gesamtprädikat  können  folgende Bewertungen  (lateinische  Bezeichnung  als Klammerzu ‐
+satz) vergeben  werden: 
+‐ mit Auszeichnung  bestanden  (summa cum laude) ‐, 
+‐ sehr gut bestanden  (magna cum laude) ‐, 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 16 ‐ gut bestanden  (cum laude) ‐, 
+‐ genügend  bestanden  (rite) ‐. 
+(2) Das Gesamtprädikat  ergibt sich aus den Prädikaten  der Dissertation  und der mündlichen  Prüfung. 
+Das  Gesamtprädikat  mit Auszeichnung  bestanden  (summa cum laude) kann nur erteilt werden, 
+wenn  bei Promotionen  zum Grad Dr. rer. nat. die Dissertation  mit der Note – ausgezeichnet  ‐ un d 
+bei Promotionen  zum Grad Dr.‐Ing.  die Dissertation  mit ‐ sehr gut ‐ bewertet  wurde. 
+ 
+§ 14 Vollzug der Promotion  und Urkunde 
+(1) Die Dekanin oder der Dekan der FK EITP vollzieht die Promotion  durch Aushändigung  der Promoti‐
+onsurkunde.  Diese enthält neben  dem erlangten  Grad den Titel  der Dissertation  und das Gesamt‐
+prädikat der Promotion  (lateinische  Bezeichnung  als Klammerzusatz).  Als Tag der Promotion  wird 
+der Tag der mündlichen  Prüfung  angegeben.  Die Promotionsurkunde  wird na ch dem Muster der 
+Anlage  2 in der jeweils zutreffenden  Form ausgefertigt.   
+(2) Voraussetzung  für die Aushändigung  der Promotionsurkunde  ist die nachgewiesene  Publikation  
+der Dissertation  gemäß § 15. Erst die Aushändigung  der Promotionsurkunde  berechtigt  zum Füh‐
+ren des Doktorgrades.  
+(3) Ergibt sich vor der Aushändigung  der Promotionsurkunde,  dass die Doktorandin  oder der der Dok‐
+torand bei ihren oder seinen  Promotionsleistungen  getäuscht  ha
+t oder dass wesentliche  Voraus‐
+setzungen  für die Zulassung  zur Promotion  irrigerweise  als gegeben angenommen  worden sind, 
+kann  der Fakultätsrat  die Promotionsleistungen  für ungültig erklären. Die Dekanin oder der Dekan 
+der FK EITP erteilt der Doktorandin  oder dem Doktoranden  hierüber eine n  entsprechenden,  mit 
+einer Rechtsbehelfsbelehrung  versehenen,  Bescheid.  Mit der Ungültigkeitserklärung  verfällt auch 
+die Zulassung  nach § 6. Für einen  erneuten  Antrag auf Promotion  gilt § 8 entsprechend.   
+ 
+§ 15 Publikation  der Dissertation   
+(1) Die Doktorandin  oder der Doktorand  ist verpflichtet,  die Dissertation  der wissenschaftlichen  Öf‐
+fentlichkeit  in angemessener  Weise durch Vervielfältigung  und Verbreitung  zugänglich  zu machen. 
+Diese Verpflichtung  stellt eine Einheit im Sinne einer wissenschaftlichen  Leistung dar. 
+(2) Innerhalb  eines Jahres nach der bestandenen  mündlichen  Prüfung  gemäß § 12 hat die Doktorandin  
+oder der Doktorand  die Dissertation  de r wissenschaftlichen  Öffentlichkeit  zugänglich  zu machen. 
+Auf begründeten  Antrag  kann  bei Promotionen  zum Grad Dr. rer. nat. die Dekanin oder der Dekan 
+und bei Promotionen  zum Grad Dr.‐Ing.  der Fakultätsrat  der FK EITP die Frist verlängern.  Für die 
+Veröffentlichung  gelten die vom Fakultätsrat  der FK EITP beschlo ssenen  'Allgemeinen  Richtlinien  
+über die Veröffentlichung  und Ablieferung  von Dissertationen'  in der jeweils gültigen Fassung. Zum 
+Zeitpunkt  des Inkrafttretens  dieser Ordnung gilt die Fassung gemäß Anlage  6, Anhang A.  
+(3) Bei der Bewertung  der Dissertation  gemäß § 11 und / oder in der mündlichen  Prüfung gemäß § 12 
+können  der Doktorandin  oder dem Doktoranden  vo n den  Mitgliedern  der Promotionskommission  
+inhaltliche  und / oder redaktionelle  Änderungen  und Ergänzungen  der Dissertation  auferlegt wer‐
+den. Vor der endgültigen  Drucklegung  ist den  Mitgliedern  der Promotionskommission  ein Probe‐
+abzug  der Dissertation  vorzulegen.  Die oder der Vorsitzende  der Promotionskommission  erteilt, 
+sofern die entsprechenden  Auflagen  umgesetzt  sind, die Druckfreigabe.  Der Fak ultät ist die Druck‐
+freigabe  unter Verwendung  des Revisionsscheins  gemäß Anlage  6, Anhang  C, nachzuweisen.  Die 
+Publikation  ist erst mit dem freigegebenen  Druck im Sinne dieser Promotionsordnung  vollzogen. 
+(4) Für die Druckexemplare  ist das besondere  Titelblatt gemäß  Anlage 4 zu verwenden.  
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 17 § 16 Entziehung  des Doktorgrades   
+(1) Ein bereits verliehener  Doktorgrad  kann  durch Rücknahme  oder Widerruf  entzogen  werden. Die 
+Entziehung  des Doktorgrades  richtet sich nach den hierfür geltenden  gesetzlichen  Bestimmungen.  
+Der Doktorgrad  kann  außer  in den  Fällen der §§ 48, 49 Verwaltungsverfahrensgesetz  auch dann 
+zurückgenommen  oder widerrufen  werden, wenn  die lnhaberin  oder der Inhaber den  mit dem 
+Hochschulgra
+d verbundenen  Anspruch  der Wissenschaftlichkeit  missbräuchlich  verwendet  hat. 
+(2) Waren die Voraussetzungen  für die Zulassung  zur Promotion  nicht erfüllt, ohne dass die Bewerbe‐
+rin oder der Bewerber  sich einer Täuschung  oder eines Täuschungsversuchs  schuldig gemacht hat, 
+und wird diese  Tatsache  erst nach der Aushändigung  der Urkunde bekannt, so wird dieser Mangel 
+durch die vor
+gelegte und anerkannte  Dissertation  und das Bestehen  der mündlichen  Prüfung be‐
+hoben. Eine Entziehung  des Doktorgrades  kommt in diesem Fall nicht in Betracht.  
+(3) Die nach Absatz  1 möglichen  Entscheidungen  trifft der Fakultätsrat.  Das Präsidium  der TU Braun‐
+schweig ist rechtzeitig  vor Vollzug der Maßnahmen  nach Absatz 1 zu unterrichte n. Die Dekanin 
+oder der Dekan der FK EITP vollzieht die Maßnahmen  nach Absatz 1 durch begründeten  und mit 
+Rechtsbehelfsbelehrung  versehenen  Bescheid.   
+ 
+§ 17 Einsichtnahme  in die Promotionsakte  
+Nach Abschluss  des Promotionsverfahrens  wird der Doktorandin  oder dem Doktoranden  auf Antrag 
+Einsicht in die Promotionsakte  gewährt. Der Antrag ist von der Doktorandin  oder dem Doktoranden  
+spätestens  drei Monate nach Aushändigung  der Promotionsurkunde  zu stellen. § 32 des Verwaltungs ‐
+verfahrensgesetzes  gilt entsprechend.   
+ 
+§ 18 Rechte gegen Entscheidungen  im Promotionsverfahren  
+(1) Der Bewerberin  oder dem Bewerber  sind die Entscheidungen  über die Zulassung  zum Promotions ‐
+verfahren,  über die Annahme  oder Ablehnung  der Dissertation  und über die mündliche  Prüfung 
+schriftlich  mitzuteilen.  Jeder von einer im Promotionsverfahren  zuständigen  Stelle  der FK EITP er‐
+teilte belastende  Bescheid ist zu begründen  und mit einer Rechtsbehelfsbelehrung  zu versehen.  
+(2) Gege
+n Entscheidungen,  die die Bewertung  der Promotionsleistungen  betreffen,  hat die Betroffene 
+oder der Betroffene  nach §§ 68 ff. der Verwaltungsgerichtsordnung  das Recht, innerhalb  eines 
+Monats nach Bekanntgabe  der Entscheidung  schriftlich  oder zur Niederschrift  bei der die jeweilige 
+Entscheidung  bekanntgebenden  Stelle  der FK EITP Widerspruch  einzulegen.  Der Widerspruch  kann 
+auch bei der Dekanin oder dem Dekan der FK EITP schriftlich  oder zur Niederschrift  eingelegt  wer‐
+den. Über  den Widerspr uch entscheidet  der Fakultätsrat  der FK EITP. 
+(3)  Soweit sich der Widerspruch  gegen eine Entscheidung  der Promotionskommission  gemäß § 9 oder 
+des Promotionsausschusses  gemäß § 22 richtet, leitet die Dekanin oder der Dekan der FK EITP den 
+Widerspruch  der Promotionskommission  oder dem Promotionsausschuss  zur Überprüfung  zu. Än‐
+dert die Promotionskommission  oder der Promotionsausschuss  ihre Entsche idung antragsgemäß,  
+so hilft  der Fakultätsrat  der FK EITP dem Widerspruch  ab. Andernfalls  prüft der Fakultätsrat  der FK 
+EITP die Entscheidung  darauf, ob  
+a)  von unrichtigen  Voraussetzungen  oder sachfremden  Erwägungen  ausgegangen  wurde, 
+b) gegen allgemein  anerkannte  Grundsätze  oder Bewertungsmaßstäbe  verstoßen  wurde oder 
+c) gegen Rechtsvorschriften  verstoßen  wurde.  
+Über  de
+n Widerspruch  soll innerhalb  von drei  Monaten abschließend  entschieden  werden. Soweit 
+dem Widerspruch  nicht abgeholfen  wird, ist der Bescheid zu begründen  und mit einer Rechtsbe‐
+helfsbelehrung  zu versehen.  
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 18 (4) Gegen die anderen Entscheidungen  im Promotionsverfahren  nach dieser Ordnung ist der Klage‐
+weg eröffnet. 
+ 
+§ 19 Erneuerung  der Promotionsurkunde   
+Die Promotionsurkunde  kann  nach 5o Jahren  erneuert werden, wenn  dieses mit Rücksicht  auf beson‐
+dere wissenschaftliche  Verdienste  oder wegen einer besonders  engen Verknüpfung  der Jubilarin  oder 
+des Jubilars mit der TU Braunschweig  angebracht  erscheint.  Über die Erneuerung  der Promotionsur ‐
+kunde entscheidet  der Fakultätsrat  der FK EITP. 
+ 
+§ 20 Ehrenpromotion   
+(1) a) ln Anerkennung  persönlicher  hervorragender  wissenschaftlicher  Leistungen,  gekennzeichnet  
+durch Forschungsarbeiten,  die wesentlich  zur Entwicklung  eines Fachgebietes  der Physik bei‐
+getragen haben, kann  die FK EITP in den ihr zugeordneten  naturwissenschaftlichen  Fachgebie ‐
+ten mit Zustimmung  des Senates Grad und Würde einer Doktorin  der Naturwissenschaften  Eh‐
+ren halber oder eines Doktors der Naturwissensch aften Ehren halber (Dr. rer. nat. h. c.) als 
+herausragende  Auszeichnung  verleihen.  
+b) In Anerkennung  persönlicher  hervorragender  wissenschaftlicher  Leistungen,  gekennzeichnet  
+durch  
+a)  Forschungsarbeiten  oder  
+b)  die Anwendung  wissenschaftlicher  Erkenntnisse  auf technische  Probleme  oder  
+c)  die schöpferische  Planung und Gestaltung  von Anlagen, Maschinen  und Apparaten,  die 
+richtungsweisend  zur Entwicklung  des Fachgebietes  beigetragen  haben, kan n die FK EITP in 
+den  ihr zugeordneten  ingenieurwissenschaftlichen  Fachgebieten  mit Zustimmung  des Se‐
+nates Grad und Würde einer Doktor‐lngenieurin  Ehren halber oder eines Doktor‐lngenieurs  
+Ehren halber (Dr.‐lng. E. h.) als herausragende  Auszeichnung  verleihen.   
+(2)  Der Antrag zur Ehrenpromotion  nach Absatz  1 Buchstabe  a) oder Buchstabe  b) ist jeweils von min‐
+destens drei  Mitglieder
+n der Gruppe der Hochschullehrerinnen  und Hochschullehrer  der FK EITP 
+zu stellen. Der Antrag hat die wissenschaftlichen  Leistungen  darzulegen  und muss  den  Lebenslauf  
+und eine Liste der Veröffentlichungen  der oder des zu Ehrenden  enthalten.  
+(3) Die Beratung des Antrages erfolgt durch eine vom Fakultätsrat  der FK EITP zu bestelle nde  Eh‐
+rungskommission.  Den Vorsitz hat die Dekanin oder der Dekan der FK EITP.  Der Kommission  gehö‐
+ren bei Ehrenpromotionsverfahren  zum Grad Dr. rer. nat. h. c. noch mindestens  drei  Mitglieder  
+aus dem in § 4 Absatz 3 genannten  Personenkreis  und bei Ehrenpromotionsverfahren  zum Grad 
+Dr.‐Ing.  E. h. noch min destens drei  Mitglieder  aus dem in § 7 Absatz  1 genannten  Personenkreis 
+an. Die Kommission  erarbeitet  einen schriftlichen  Bericht über die Persönlichkeit  und die wissen‐
+schaftlichen  Leistungen  der oder des zur Ehrung Vorgeschlagenen.  Dabei  sind mindestens  zwei 
+auswärtige  wissenschaftliche  Gutachten  einzuholen.  
+(4) Die Dekanin oder der Dekan der FK EI TP gibt  in der der Beschlussfassung  vorangehenden  Fakul‐
+tätsratssitzung  bekannt, dass über einen  Antrag zu einer Ehrenpromotion  zu entscheiden  sein 
+wird. Sie oder er weist gleichzeitig  darauf hin, dass der Antrag, die Gutachten  und der Bericht der 
+Ehrungskomission  für die Mitglieder  des Fakultätsrats  und für die Gruppe der Hochschullehrerin ‐
+nen  un
+d Hochschullehrer  der FK EITP im Geschäftszimmer  der FK EITP zur vertraulichen  Einsicht‐
+nahme ausliegen.   
+(5) Der Fakultätsrat  der FK EITP führt zwei  Lesungen  durch. Zur ersten dieser beiden Lesungen  werden 
+alle Mitglieder  der Hochschullehrergruppe  gemäß § 4 Absatz  3 oder § 7 Absatz  1, die hochschul ‐
+rechtlich Mitglied der TU Braunschwei g und an der FK EITP hauptamtlich  tätig sind, als Beraterin ‐
+nen und Berater eingeladen.  Im Anschluss  an die zweite Lesung beschließt  der Fakultätsrat  der FK 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 19 EITP über die Ehrung in geheimer  Abstimmung.  Zur Annahme  des Ehrungsantrages  ist eine Vier‐
+fünftelmehrheit  der promovierten  stimmberechtigten  Mitglieder  des Fakultätsrates  der FK EITP er‐
+forderlich.   
+(6) Bei Annahme  legt die Dekanin oder der Dekan der FK EITP den Ehrungsantrag  unter Beifügung  
+aller Unterlagen  dem Präsidium  der TU Braunschweig  zur zustimmenden  Beschlussfassung  durch 
+den  Senat vor. Als di
+e oder der Vorsitzende  des Präsidium  gibt die Präsidentin  oder der Präsident  
+der TU Braunschweig  in der Senatssitzung,  die der Beschlussfassung  mindestens  zwei  Wochen vo‐
+rangeht, bekannt, dass der Ehrungsantrag  vorliegt und dass die Unterlagen  bis zur folgenden  Se‐
+natssitzung  im Präsidialbüro  zur vertraulichen  Einsichtnahme  für die Mi tglieder des Senates aus‐
+liegen. 
+(7) Der Senat entscheidet  über die Zustimmung  mit der Mehrheit  der stimmberechtigten  Mitglieder.  
+(8) Nach Zustimmung  durch den  Senat  vollzieht die Dekanin oder der Dekan der FK EITP die Ehren‐
+promotion  durch Überreichen  einer von der Präsidentin  oder dem Präsidenten  der TU Braun‐
+schweig un
+d der Dekanin oder dem Dekan der FK EITP ausgefertigten  Urkunde.  Die Dekanin oder 
+der Dekan der FK EITP lädt zur feierlichen  Ehrung  ein und bestimmt  die Sprecherin  oder den Spre‐
+cher der Laudatio.  Die Präsidentin  oder der Präsident  der TU Braunschweig  hat das Recht, sich an 
+der Übergabe  der Urk unde  zu beteiligen. 
+(9) Die Ehrenpromotion  ist den  deutschen  wissenschaftlichen  Hochschulen  sowie dem Niedersächsi ‐
+schen Ministerium  für Wissenschaft  und Kultur mitzuteilen.  
+(10) Über  einen  ablehnenden  Beschluss  sind die Antragstellerinnen  oder Antragsteller  zu unterrichten.  
+(11) Für die Entziehung  des Ehrendoktorgrades  gilt § 16 entsprechend.  Die Ehrendoktorwürde  kann 
+darüber hinaus entzogen  werden, we nn die mit dem Ehrendoktorgrad  vorgenommene  persönliche  
+Auszeichnung  und Würdigung  der lnhaberin  oder des Inhabers des Ehrendoktorgrades  nachträg‐
+lich ihre Grundlage  verloren hat und durch die Führung des Ehrendoktorgrades  das Ansehen der 
+FK EITP und der TU Braunschweig  geschädigt  werden würde. Dieses wäre insbesondere  der Fall, 
+wenn  die lnhaberin  oder der Inhab er  in schwerer  Weise die mit dem Hochschulgrad  verliehene  
+Würde verletzt hat, insbesondere  durch eine Straftat, oder den mit dem Hochschulgrad  verbunde ‐
+nen  Anspruch  der Wissenschaftlichkeit  missbräuchlich  verwendet  hat. Eine Straftat darf  nur be‐
+rücksichtigt  werden, wenn diese im Bundeszentralregister  eingetragen  ist. Über die Entziehung  des 
+Ehrendoktorgrades  entscheidet  der Fakultätsrat  der FK EI TP  mit Zustimmung  des Senats. Die Be‐
+schlussfassungen  bedürfen  jeweils der Zweidrittel ‐Mehrheit  der stimmberechtigten  Mitglieder.   
+ 
+§ 21 Gemeinsame  Promotionsverfahren  
+(1) Die Durchführung  gemeinsamer  Promotionsverfahren  mit einer  oder ggfs. mehreren  anderen in 
+der Regel promotionsberechtigten  Hochschulen  im ln‐ oder Ausland  und / oder mit einer For‐
+schungseinrichtung  oder mehreren  Forschungseinrichtungen  außerhalb  der TU Braunschweig  ist 
+auf der Grundlage  einer Vereinbarung  zwischen  der TU Braunschweig  und der oder den betreffen ‐
+den Hochschule  bzw . Hochschulen  und / oder der Forschungseinrichtung  bzw. den Forschungsein ‐
+richtungen  möglich. 
+(2) Vereinbarungen  nach Absatz  1 können von den  §§ 1 ‐ 19  abweichen.  Der Zweck der Promotion  
+gemäß § 3 Absatz  1 und die Mitwirkungsrechte  der Hochschullehrerinnen  und Hochschullehrer  
+gemäß §§ 8 und 11 sind in den Vereinbarungen  nach Absatz 1 zu gewährle isten.  Vereinbarungen  
+nach Absatz 1 sollen  in der Regel an den Inhalten dieser Promotionsordnung  orientiert  sein. 
+(3) Zur Förderung  der Mobilität von jungen  Wissenschaftlerinnen  und Wissenschaftlern  können  Pro‐
+motionsverfahren  auch gemeinsam  mit ausländischen  Hochschulen  durchgeführt  und ein gemein‐
+samer  Doktorgrad  verliehen  werden. Voraussetzung  ist, dass die ausländische  Hochschule  ein 
+Promotionsrecht  besi
+tzt und die von ihr vergebenen  Abschlüsse  und verliehenen  Grade denen 
+deutscher  Universitäten  äquivalent  sind. 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 20 (4) Bewerberinnen  oder Bewerber,  die beabsichtigen,  ein von der FK EITP und einer oder mehrerer  
+ausländischen  Fakultät bzw. Fakultäten  gemeinsam  betreutes  Promotionsverfahren  durchzufüh ‐
+ren, haben  dieses rechtzeitig  bei der Dekanin oder dem Dekan der FK EITP und dem oder der Vor‐
+sitzenden  der anderen beteiligten   Fakultät  bzw. Fakultäten  zu beantragen.  Um dem Antra g  ent‐
+sprechen zu können, bedarf  es einer vorherigen  Vereinbarung  mit der ausländischen  Hochschule  
+bzw. den ausländischen  Hochschulen  über die Durchführung  des gemeinsamen  Promotionsverfah ‐
+rens.  
+(5)  ln der Vereinbarung  sind insbesondere  der Verfahrensablauf  und der Umfang der Mitwirkungs ‐
+rechte der Fakultäten  bei der Bewertung  der Leistungen  und der Festsetzung  der Abschlus snote zu 
+regeln. Es ist sicherzustellen,  dass die Mitwirkungsrechte  der Hochschullehrerinnen  und Hoch‐
+schullehrer  gemäß  §§ 8 und 11 gegeben sind. Sofern neben  den nach § 3 zu erbringenden  Promo‐
+tionsleistungen  an der TU Braunschweig  weitere Leistungen  nach der Promotionsordnung  der aus‐
+ländischen  Hochschule  bzw. Hochschulen  erforderlich  sind, ist dieses ebenfalls festzule gen.  Weiter 
+muss  aus der Vereinbarung  hervorgehen,  dass auf Grund der wissenschaftlichen  Leistungen  der 
+Doktorandin  oder des Doktoranden  nur ein gemeinsamer  Grad  verliehen  werden kann.  
+(6) Die Bewerberin  oder der Bewerber  ist berechtigt,  den Doktorgrad  entweder  in der deutschen  oder 
+in der ausländischen  Fassung  zu führen. ln Klammern  können  die Namen der beteili gten  Hochschu ‐
+len hinzugefügt  werden. 
+ 
+§ 22 Promotionsausschuss   
+(1) Der Fakultätsrat  kann  zur Vorbereitung  seiner Beschlüsse  einen  ständigen  Promotionsausschuss  
+bilden.  Dieser besteht aus zwei  Mitgliedern  der Hochschullehrergruppe  und einem promovierten  
+Mitglied aus der Gruppe  der wissenschaftlichen  Mitarbeiter.  Ein Mitglied aus der Hochschullehrer ‐
+gruppe übernimmt  den Vorsitz des Promotionsausschusses.  Der Promotionsausschuss  kann  weite‐
+re beratende  Mitglieder  hinzuziehen.    
+(2) Der Fakultätsrat  kann  dem Promotionsausschuss  auch Ents cheidungsbefugnisse  in Promotionsan ‐
+gelegenheiten  widerruflich  übertragen.  ln Widerspruchsangelegenheiten  kann die Entscheidungs ‐
+kompetenz  nicht übertragen  werden. 
+(3) Die Sitzungen  des Promotionsausschusses  sind nicht öffentlich.  Seine Mitglieder  sind zur Ver‐
+schwiegenheit  verpflichtet.   
+(4) Der Promotionsausschuss  ist beschlussfähig,  wenn  mindestens  zwei  Mitglieder  anwesend  sind. Er 
+beschließt  mit einfacher  Stimmenmehrheit  seiner Mitglieder . Bei Stimmengleichheit  gibt die 
+Stimme der oder des Vorsitzenden  des Ausschusses  den Ausschlag.  Über  die Sitzungen  des Promo‐
+tionsausschusses  ist ein Protokoll zu führen. Das Protokoll ist vertraulich  zu behandeln.  
+ 
+§ 23 Inkrafttreten  und Übergangsregelungen   
+(1) Die Promotionsordnung  tritt am Tage nach ihrer hochschulöffentlichen  Bekanntmachung  in Kraft. 
+Gleichzeitig  treten die bisher geltenden  Promotionsordnungen  der Fakultät für Elektrotechnik  und 
+Informationstechnik  vom 24.10.2005  (TU‐Verkündungsblatt  Nr. 392) und der Fakultät für Physik u. 
+Geowissenschaften  vom 21.09.2005  (TU‐Verkündungsblatt  Nr. 375) außer  Kraft. 
+(2) Doktorandinnen  und Doktoranden,  die vor Inkrafttreten  di eser Ordnung zum Zweck der Promoti‐
+on immatrikuliert  sind oder ihre Zulassung  zur Promotion  oder Eröffnung  des Promotionsverfah‐
+rens beantragt  haben, können das Promotionsverfahren  auf Antrag nach den bisher geltenden  Be‐
+stimmungen  fortsetzen.  Abweichend  von den Bestimmungen  der bisher geltenden  Ordnungen  fin‐
+den  die Regelungen  dieser Ordnung zur Veröffentlichung  der Dis sertation  sowie zur Ausfertigung  
+der Promotionsurkunde  Anwendung.  
+_______________________  
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 21 Anlage  1   Muster‐Betreuungsvereinbarung  (Dr.‐lng. oder Dr. rer.nat.)  
+Diese Mustervereinbarung  soll gemäß § 4 (Dr. rer.nat.) bzw. § 7 (Dr.‐Ing.) verwendet  werden. Sie  kann  für fachspezifische  
+Zwecke modifiziert  und ergänzt werden. Die  Grundelemente  der Betreuungsvereinbarung sollen  dabei beibehalten  werden. 
+Findet die Promotion  im Rahmen des strukturierten  Doktorats  oder vergleichbarer  Programme statt,  soll gemäß Satz  2 eine 
+den betreffenden  Programmen  en tsprechende  Vereinbarung  geschlossen  werden .  
+ 
+Betreuungsvereinbarung  
+Zwischen 
+___________________________________      [Doktorand/in]  und 
+___________________________________      [Betreuer/in]   [Mentor/in]  
+[Doktorand/in]  beabsichtigt,  an der Fakultät für Elektrotechnik,  Informationstechnik, Physik  (FK EITP) der Technischen  Uni‐
+versität Braunschweig  zu promovieren. Die  Promotion  wird betreut durch [Betreuer/ ‐in] [Mentor/in].  Der/die [Betreuer/in  ] 
+[Mentor/in]  sagt zu, die Betreuung  im Rahmen der Promotion  unter Beachtung  der Regelungen  der Promotionsordnung  der 
+FK EITP [PromO] zu gewährleisten.  Diese Vereinbarung  soll die für den Erfolg  des Promotionsvorhabens  benötigte  wissen‐
+schaftliche  Betreuung  seitens [Betreuer  /‐in] [Mentor /‐in] gewährleisten  und [Doktorand/in]  die Teilnahme  an einer inhalt‐
+lich und methodisch  adäquaten  (umfassenden)  Promotionsvorbereitung  ermöglichen.  Im Einzelnen  wird zu diesem  Zweck 
+folgendes  vereinbart:   
+ Frühzeitige  Themenstellung  
+Das Promotionsthema,  mindestens  jedoch ein Promotionsbereich,  wird hiermit wie folgt bestimmt:  
+[Thema  [XY]_______  bzw. Bereich [XY]  _______.  
+Das Thema / der Bereich erlaubt eine  zielgerichtete  wissenschaftliche  Arbeit.  
+ Beachtung  von Grundsätzen  
+Der/die [Betreuer/in  ] [Mentor/in]  und die Doktorandin  / der Doktorand  erkennen  gemeinsam  an, dass  der Nachweis  eigen‐
+ständiger  wissenschaftlicher  Arbeit die Grundvoraussetzung  für eine erfolgreiche  Promotion  darstellt. Für den Nachweis  
+werden im Rahmen der Regelungen  des § 10 PromO  in der Regel Publikation  der eigenen Arbeiten als Erstautor  in internatio ‐
+nalen wiss. Journalen  erwartet.  Darüber hinaus soll die Darlegung  des Promotionsthemas  im Rahmen von Fachtagungen  
+stattfinden.  Für die Teilnahme  an Fachtagungen  soll im Rahmen des Möglichen  ein entsprechendes Budget  vorgesehen  wer‐
+den.  Der/die [Betreuer/in  ] [Mentor/in]  hilft, die Fähigkeit zur eigenständigen  wissenschaftlichen  Arbeit  zu entwickeln.  
+Der/die [Betreuer/in]  [Mentor/in]  und die Doktorandin  / der Doktorand  erkennen  an, dass  die wissenschaftlichen  Arbeiten 
+grundsätzlich  außerhalb  der Dienstaufgaben  erfolgen, die ggf. im Rahmen einer Anstellung  an der TU Braunschweig  exisitie‐
+ren.  Im Rahmen der Anstellung  wird Gelegenheit  zur Promotion  gegeben. 
+Die Doktorandin  [der Doktorand]  erklärt die Bereitschaft,  sich in einer internationalen  Umgebung  offen  und aufgeschlossen  
+zu bewegen und seine Arbeit innerhalb  eines Teams  voranzutreiben.  Betreuer und Doktorand  erklären, dass  sie respektvoll  
+miteinander  und mit anderen Mitgliedern  der Forschungsgruppe  umgehen. 
+Diese Betreuungszusage  schließt die Einhaltung  der Regeln guter wissenschaftlicher  Praxis (vgl. www.tubs.de  oder 
+www.dfg.de ) ein, insbesondere  verpflichtet  sich die /der Doktorand  /in zur Einhaltung  der Grundsätze  und [Betreuer  /‐in] 
+[Mentor / ‐in] verpflichtet  sich, auf die Einhaltung  der Grundsätze  zu achten. 
+Der / die [Doktorand  /‐in] erklärt damit einverstanden  zu sein, dass die Dissertation  auch zum Zwecke der Überprüfung  der 
+Einhaltung  allgemein  geltender  wissenschaftlicher  Standards  genutzt  wird, insbesondere  auch unter Verwendung  elektroni‐
+scher Datenverarbeitungsprogramme.  
+ Regelmäßige  fachliche  Gespräche  
+Ein Promotionsvorhaben  an der FK EITP ist gekennzeichnet  durch kooperative  Zusammenarbeit.  Dafür werden mindestens  
+jährlich unter vier Augen ausführliche  Gespräche  über den Fortgang der Arbeit geführt. Der/die [Betreuer/in]  [Mentor/in]  
+nimmt sich Zeit für die Diskussion  der Arbeit, fördert die Qualität des Promotionsvorhabens  durch Beratung und Diskussion  
+und bietet im Rahmen des ihr /oder ihm Möglichen  Hilfe für das Gelingen des Vorhabens.  Die Doktorandin/der  Doktorand  
+verpflichtet  sich, dem / der [Betreuer/in]  [Mentor/in]  regelmäßig  über den Stand  der Arbeit  zu berichten,  es kann  hierzu die 
+Vorlage  von Zwischenberichten  vereinbart  werden. 
+ Förderung  durch allgemeine  Weiterbildungsmaßnahmen 
+Der/die [Betreuer/in]  [Mentor/in]  ermöglicht  dem Doktoranden/der  Doktorandin  im Rahmen der Möglichkeiten  die Teilnah‐
+me an Weiterbildungsveranstaltungen  zum Erwerb überfachlicher  Zusatzqualifikationen,  die im Rahmen möglichst  jährlicher 
+Personalberatungsgespräche  gemeinsam  festgelegt  werden. 
+ Zügige Bearbeitung  abgegebener  Promotionsschriften  
+Der/die [Betreuer/in]  [Mentor/in]  wird die eingereichte  Dissertationsschrift  umgehend  bearbeiten,  um einen  möglichst 
+schnellen  Abschluss  des Promotionsverfahrens  zu ermöglichen. 
+Datum und Unterschriften:   ___________________________________      (Doktorand/in),  
+      ___________________________________      (Betreuer/ ‐in) (Mentor/in) 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 22 Anlage  2     Muster der Urkunde  
+(entsprechend  dem jeweils aktuellen  Corporate  Design  der TU BS)  
+ 
+ 
+(Siegelband) 
+TECHNISCHE  UNIVERSITÄT   
+CAROLO‐ WILHELMINA  ZU BRAUNSCHWEIG  
+ 
+ 
+Die Fakultät für Elektrotechnik,  Informationstechnik,  Physik 
+der Technischen  Universität  Braunschweig 
+ 
+verleiht unter der Präsidentin  
+ Universitätsprofessorin  oder dem Präsidenten  Universitätsprofessor  
+ 
+.......................................................  
+ 
+und unter dem Dekanat der 
+Universitätsprofessorin  oder des Universitätsprofessors  
+ 
+........................................................  
+  
+Herrn / Frau (Titel, Name) 
+ 
+aus (Geburtsort) 
+ 
+den Grad 
+((*einer Doktorin  der Naturwissenschaften  oder eines Doktors der Naturwissens
+ chaften (Dr. rer. nat.)  
+((*einer Doktor‐Ingenieurin  oder eines Doktor‐Ingenieurs  (Dr.‐Ing.)  
+nachdem  in ordnungsgemäßem  Promotionsverfahren  
+durch die Dissertation 
+(Thema) 
+ 
+sowie durch die mündliche  Prüfung am 
+(Datum) 
+ 
+die wissenschaftliche  Befähigung  erwiesen und dabei 
+ 
+ 
+das Gesamturteil  ...............................  erteilt wurde. 
+ 
+Braunschweig,  den 
+  
+Die Präsidentin  / Der Präsident   (Dienstsiegel)   Die Dekanin / Der Dekan 
+der 
+Fakultät für Elektrote
+chnik, 
+  Informationstechnik,  Physik 
+ ((* ZUTREFFENDES  einsetzen   
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 23 Anlage  3     Muster Titelblatt  – eingereichte  Dissertation    
+ 
+(Titel der Dissertation)  
+ 
+ 
+Der Fakultät für Elektrotechnik,  Informationstechnik,  Physik 
+der Technischen  Universität  Carolo‐Wilhelmina  zu Braunschweig  
+ 
+zur Erlangung  des Grades einer / eines Doktorin / Doktors *) 
+der Naturwissenschaften  (Dr. rer. nat.)  *) 
+der Ingenieurwissenschaften  (Dr.‐Ing.) *) 
+ 
+eingereichte  Dissertation  
+ 
+ 
+von (Vorname  (ggf. Vornamen),  Name ) 
+aus (Geburtsort)   
+ 
+ 
+ 
+1. Referentin  oder Referent:  *) 
+2. Referentin  oder Referent:        (Bitte keine  Eintragung  vornehmen)  
+(ggf. weitere Referenten  )     (Bitte keine  Eintragung  vornehmen  
+ 
+ 
+ 
+ 
+Eingereicht  am:   (Bitte keine  Eintragung  vornehmen)   
+ 
+Mündliche  Prüfung / Disputation  *) am:  (Bitte Keine  Eintragung  vornehmen)   
+ 
+ 
+ 
+ 
+ 
+Braunschweig,   
+ 
+__________________________________________________  
+*) Zutreffendes  einsetzen  / Nichtzutreffendes  streichen  bzw. löschen  
+ 
+ 
+ 
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 24 Anlage  4     Muster Titelblatt  – genehmigte  Dissertation   
+ 
+(Titel der Dissertation)  
+ 
+ 
+Von der Fakultät für Elektrotechnik,  Informationstechnik,  Physik 
+der Technischen  Universität  Carolo‐Wilhelmina  zu Braunschweig  
+ 
+zur Erlangung  des Grades einer / eines Doktorin / Doktors *) 
+der Naturwissenschaften  (Dr. rer. nat.)  *) 
+der Ingenieurwissenschaften  (Dr.‐Ing.) *) 
+ 
+ 
+ 
+genehmigte  Dissertation  
+ 
+ 
+ 
+ 
+ 
+von (Vorname  (ggf. Vornamen),  Name ) 
+ 
+aus (Geburtsort)   
+ 
+eingereicht  am: TT. MM.JJJJ 
+ 
+mündliche  Prüfung (Disputation)  *) am: TT.MM.JJJJ 
+ 
+1. Referentin  oder Referent:  *) 
+2. Referentin  oder Referent:     
+(ggf. weitere Referenten  )  
+ 
+Druckjahr:  JJJJ 
+ 
+ 
+__________________________________________________  
+*) Zutreffendes  einsetzen  / Nichtzutreffendes  streichen  bzw. löschen 
+ 
+ 
+ 
+===================================================================================
+= 
+ 
+(Hinweis:  Bei Verlagsveröffentlichung  mit ISBN‐Nr. soll an geeigneter  Stelle  des Druckwerks  aufge‐
+nommen sein:  
+Dissertation  an der Technischen  Universität  Braunschweig,  
+Fakultät für Elektrotechnik,  Informationstechnik,  Physik) 
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 25 Anlage  5  Formale Mindestanforderungen  für Dissertationen  mit publikationsbasierten  
+Arbeiten (kumulative  Variante der Dissertation)  gemäß § 10 Absatz 3  
+ 
+Stellungnahme  der Betreuerin  / Betreuer (Dr.‐Ing.) oder der Mentorin  / Mentor (Dr. rer. nat.) 
+Die schriftliche  Einverständniserklärung  der Betreuerin  / Betreuer (Dr.‐Ing.) oder der Mentorin  / Men‐
+tor (Dr. rer. nat.) zur kumulativen  Variante der Dissertation  ist gemäß § 10 Absatz  3 erforderlich.  Die 
+Einverständniserklärung  soll eine Aussage  über Qualität und Quantität  der Publikationen,  die als Be‐
+standteile  der Dissertation  vorgelegt  werden, enthalten.  Dadurch werden die Betreuerin  oder der 
+Betreuer  oder die Mentorin  oder der Mentor im Promotionsverfahren  verantwortlich  mit eingebun ‐
+den. 
+ 
+ 
+Anzahl der Veröffentlichungen,  Sprache, Format 
+Es müssen in der Regel  drei Publikationen  in einer referierten  wissenschaftlichen  Zeitschrift  publiziert  
+oder mindestens  zum  Druck angenommen  sein.  ln diesen  muss  die Doktorandin  oder der Doktorand  
+an herausgehobener  Position der Autorenliste  stehen  (Erst‐ oder Letztautor);  anderenfalls  ist eine 
+Bescheinigung  der Betreuerin  / Betreuer  (Dr.‐Ing.) oder der Mentorin  oder des Mentors (Dr. rer. nat.) 
+erforderlich,  die detailliert  den eigenständigen  Beitrag der Doktorandin  oder des Doktoranden  zu die‐
+ser Publikation  beschreibt  und begründet,  warum dieser Beitrag als Dissertationsleistung  anerkannt  
+werden soll. 
+ 
+Die Anzahl weiterer Veröffentlichungen  ist nach oben  offen. Es können  nach Erfüllung obiger Bedin‐
+gung  auch Arbeiten aufgenommen  werden, die erst zur Publikation  eingereicht  wurden. Bei weiteren 
+Publikationen  kann die Doktorandin  oder der Doktorand  auch an anderer Stelle  in der Autorenliste  
+stehen. 
+ 
+Die Veröffentlichungen  sollen  vorgelegt  werden. Das Deckblatt  wird gemäß Anlage 4 der Promotions ‐
+ordnung gestaltet.   
+ 
+ 
+Zusammenfassung  gemäß § 10 Absatz 3 Promotionsordnung   
+Die Zusammenfassung,  die den inneren Zusammenhang  in substanzieller  Art und Weise darlegt, muss 
+fest am Anfang der Dissertation  eingebunden  sein. Für die Länge dieser Zusammenfassung  gibt es 
+keine Vorgabe. 
+ 
+ 
+Verwendete  Sprache des einrahmenden  Teils 
+Als Sprache  für die Zusammenfassung,  Einleitung  und zusammenfassende  Diskussion  (Ausblick und 
+Perspektiven)  der Dissertation  mit publikationsbasierten  Arbeiten ist die Sprache des überwiegenden  
+Teils der zu berücksichtigenden  Publikationen  zu wählen. 
+ 
+ 
+Weitere  Veröffentlichungen  nach Einreichen  der Dissertation 
+Wenn  weitere wesentliche  Veröffentlichungen  nach Einreichung  der Dissertation  erfolgen, können 
+diese  beim späteren endgültigen  Druck der Pflichtexemplare  der Arbeit mit aufgenommen  werden.  
+ 
+Dies ist durch folgende Formulierung  auf einem  Zwischenblatt  kenntlich zu machen: 
+"Nach Einreichen  der Dissertation  und Abschluss  des Prüfungsverfahrens  erfolgte weitere Veröffentli ‐
+chungen"  ... (nennen) ... 
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 26 Anlage  6, Anhang A: 
+Allgemeine  Richtlinien  – Veröffentlichung  / Ablieferung  von Dissertationen   
+Allgemeine  Richtlinien  über die Veröffentlichung  und Ablieferung  von Dissertationen  (zu § 15) 
+ 
+Diese  Richtlinien  hat der Fakultätsrat  der FK EITP am Tag der Beschlussfassung  der Promotionsordnung  für die FK 
+EITP beschlossen.  Die Richtlinien  treten zugleich  mit der Promotionsordnung  in Kraft und gelten ab diesem Da‐
+tum in der jeweils  vom Fakultätsrat  der FK EITP beschlossenen  Fassung.  
+ 
+Publikationsmöglichkeiten  
+ 
+a) Veröffentlichung  über  einen Verlag (mit ISBN‐Nr.) 
+ Bei der TU BS – Universitätsbibliothek  – Dissertationsstelle  (UB) sind einzureichen:   
+  Unentgeltlich  4 Exemplare  der Dissertation  im Format  DIN A 5 mit dem in Anlage 4 der Promotionsord ‐
+nung dargestellten  Titelblatt;  (Bescheinigung  der UB wird ausgestellt); 
+ 
+ Bei der FK EITP sind einzureichen  (nur Originalunterlagen;  ggf. werden von der FK EITP Kopien gefertigt):  
+  Formular  Bescheinigung  Revisionsschein  (nach Anhang C); 
+    Die Vorlage  erfolgt durch Vorsitzende/Vorsitzenden  der Promotionskommission,  Druckfreigabe  durch 
+Bestätigung  Dekanin/Dekan  der FK EITP  
+  Bescheinigung  der UB über die erfolgte Abgabe der Pflichtexemplare;   
+   Schriftlicher  Nachweis  des Verlags über eine Mindestauflage  von 150 Exemplaren,  mit Angabe ISBN‐ Nr.; 
+  Kurzfassung  der Dissertation  (1 Seite DIN A 4) mit Unterschrift  Betreuer/ ‐in (Dr.‐Ing.). 
+   Zusätzliche  Veröffentlichung  online ist nach Absprache  mit dem Verlag zulässig. 
+   Mitglieder  der Promotionskommission  erhalten je 1 gedrucktes  Exemplar. 
+ 
+ 
+b) Veröffentlichung  im Eigenverlag  (Ohne ISBN‐Nr.) 
+ Bei der TU BS – Universitätsbibliothek  – Dissertationsstelle  (UB) sind einzureichen:  
+ Unentgeltlich  40 Exemplare  der Dissertation  im Format DIN A 5 mit dem in Anlage 4 der Promotionsord ‐
+  nung dargestellten  Titelblatt (Bescheinigung  der UB wird ausgestellt);  
+ 
+ Bei der FK EITP sind einzureichen  (nur Originalunterlagen;  ggf. werden von der FK EITP Kopien gefertigt):  
+  Formular  Bescheinigung  Revisionsschein  (nach Anhang C); 
+   Die Vorlage  erfolgt durch Vorsitzende/Vorsitzenden  der Promotionskommission,  Druckfreigabe  durch 
+Bestätigung  Dekanin/Dekan  der FK EITP  
+  Bescheinigung  der UB über die erfolgte Abgabe der Pflichtexemplare;   
+   20 Exemplare  der Dissertation  im Format DIN A 5 mit dem in Anlage 4 der Promotionsordnung  darge‐
+   stellten Titelblatt.  Davon gehen  10 Exemplare  an die Betreuerin/den  Betreuer und 10 Exemplare  in den 
+   Umlauf in der FK EITP 
+  Kurzfassung  der Dissertation  (1 Seite DIN A 4) mit Unterschrift  Betreuer /‐in (Dr.‐Ing.). 
+   Zusätzliche  Veröffentlichung  online ist zulässig. 
+   Mitglieder  der Promotionskommission  erhalten zusätzlich  je 1 gedrucktes  Exemplar.  
+ 
+ 
+c) Veröffentlichung  der Arbeit in wesentlichen  Teilen in einer  wissenschaftlichen  Zeitschrift  
+ Bei der TU BS – Universitätsbibliothek  – Dissertationsstelle  (UB) 
+ und bei der FK EITP sind jeweils einzureichen:   
+  6 Exemplare  der Dissertation  dem in Anlage 4 der Promotionsordnung  dargestellten  Titelblatt  
+   (Bescheinigung  der UB wird ausgestellt);   
+   Bei Promotionen  zum Grad Dr. rer. nat. ist eine schriftliche  Bestätigung  der Mentorin  oder des Mentors 
+    über die Veröffentlichung  mit einzureichen.  
+  Bei Promotionen  zum Grad Dr.–Ing.  ist eine schriftliche  Bestätigung  der Betreuerin   oder des Betreuers  
+    über die Veröffentlichung  mit einzureichen  
+ 
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 27 Anlage  6, ANHANG   A   2. Seite:  
+ 
+d)  Kumulative  Dissertation   
+  Es ist nur die Veröffentlichung  im Eigenverlag  möglich. Zusätzlich  ist das Titelblatt gemäß Anlage 4 mit 
+dem Hinweis  „Kumulative  Arbeit“ zu ergänzen.  
+  
+ Bei der TU BS – Universitätsbibliothek  – Dissertationsstelle  (UB) 
+ und bei der FK EITP sind jeweils einzureichen:  
+ 6 Exemplare  der Dissertation  in der Regel im Format  DIN A 5. Die Einzelpublikationen  müssen erkennbar  sein 
+ und die Dissertation  muss die Zusammenfassung  nach § 10 Absatz 3 enthalten.  
+ 
+ 
+e) Veröffentlichung  über  das Internet (ohne ISBN‐ Nr.)  
+ Bei der TU BS – Universitätsbibliothek  – Dissertationsstelle  (UB) sind einzureichen:  
+  Allgemein:  Es gelten die entsprechenden  Richtlinien  der UB gemäß dem jeweils  aktuellen  "Merkblatt  zur 
+Publikation  von Dissertationen  in elektronischer  Form" der UB der TU BS (s. Homepage  der UB)  
+  ‐     Unentgeltlich  4 gedruckte  Exemplare  der Dissertation  im Format  DIN A 5 mit dem in Anlage 4 der Pro‐
+motionsordnung  dargestellten  Titelblatt (Bescheinigung  der UB wird ausgestellt);  
+  ‐   Rechnerlesbare  Version auf Datenträger  (Anzahl, Formate, Art des Datenträgers  etc. gemäß dem vor‐
+genannten  Merkblatt  der UB) 
+   
+ Bei der FK EITP sind einzureichen  (nur Originalunterlagen;  ggf. werden von der FKEITP  Kopien gefertigt):  
+  Formular  Bescheinigung  Revisionsschein  (nach Anhang C);  
+   Die Vorlage  erfolgt durch Vorsitzende  / Vorsitzenden  der Promotionskommission,  Druckfreigabe  durch 
+Bestätigung  Dekanin /Dekan der FK EITP  
+  Bescheinigung  der UB über die erfolgte Einlieferung  der Pflichtexemplare;   
+   Der Zahl der Mitglieder  der Promotionskommission  entsprechende  Zahl Printexemplare  und Datenträ‐
+ger der Dissertation  im Format DIN A 5 mit dem in Anlage 4 der Promotionsordnung  dargestellten  Titel‐
+blatt zur Weitergabe  an die Mitglieder  der Promotionskommission.  
+  Kurzfassung  der Dissertation  (1 Seite DIN A 4) mit Unterschrift  Betreuer /‐in (Dr.‐Ing.). 
+  Eine Erklärung  über die Gleichheit  von Print‐ und DV‐Version der Dissertation  
+ 
+ 
+ 
+______________________________________________________________________________________________________  
+Promotionsordnung  der FK EITP       Seite 28 Anlage  6, Anhang B:  
+Muster für die Rechtsverbindliche  Erklärung  (zu § 8 Promotionsordnung)  
+ 
+ 
+(Absendeangaben)  
+Vorname  Name 
+Straße  Hausnummer  PLZ Ort 
+ 
+ 
+Rechtsverbindliche  Erklärung  gemäß § 8 der Promotionsordnung   
+der Fakultät für Elektrotechnik,  Informationstechnik,  Physik der TU Braunschweig  
+ 
+ 
+Zu meiner vorliegende  Dissertation  mit dem Thema  "(Titel der Dissertation)  *" 
+ 
+erkläre ich hiermit rechtsverbindlich,  dass  
+ 
+ ich noch kein Promotionsgesuch  gestellt habe,  
+ ich die Dissertation  selbst verfasst habe (Selbständigkeitserklärung),  keine Textabschnitte  von Dritten oder 
+eigener Prüfungsarbeiten  ohne Kennzeichnung  übernommen  und alle von mir benutzten  Hilfsmittel  und 
+Quellen in meiner Arbeit  angegeben  habe,  
+ ich die Dissertation  noch  nicht  als Prüfungsarbeit  für eine staatliche  oder andere  wissenschaftliche  Prüfung 
+eingereicht  habe, 
+ Dritte weder unmittelbar  noch mittelbar  geldwerte  Leistungen  von mir für Vermittlungstätigkeiten  oder für 
+Arbeiten erhalten haben,  die im Zusammenhang  mit dem Inhalt der vorgelegten  Dissertation  stehen, d.h. die 
+wissenschaftliche  Arbeit ist weder in Teilen noch in Gänze von Dritten gegen Entgelt  oder sonstige Gegen‐
+leistung erworben  oder vermittelt  worden, 
+ ich die gleiche oder eine in wesentlichen  Teilen ähnliche Arbeit noch  nicht bei einer anderen Hochschule  als 
+Dissertation  eingereicht  habe   *), 
+  ich keine andere Abhandlung  bei einer anderen  Hochschule  als Dissertation  eingereicht  habe   *), 
+ ich die gleiche oder eine in wesentlichen  Teilen ähnliche Arbeit bei einer anderen Hochschule  als Disserta‐  
+tion eingereicht  habe und diese  Arbeit mit dem  Ergebnis (XXXXX)   *) beurteilt wurde   *),  
+ ich eine andere Abhandlung  bei einer anderen Hochschule  als Dissertation  eingereicht  habe und diese 
+Arbeit mit dem Ergebnis (XXXXXXX)    *) beurteilt wurde   *), 
+ ich die vorliegende  Dissertation  noch nicht veröffentlicht  habe   *),  
+ ich die vorliegende  Dissertation  mit Genehmigung  der zuständigen  Stelle der Fakultät für Elektrotechnik,   
+Informationstechnik,  Physik der Technischen  Universität  Braunschweig  vom TT, MM. JJJJ bereits teilweise  
+veröffentlicht  habe…*),  
+ ich die Grundsätze  zur Sicherung  guter wissenschaftlicher  Praxis  an der TU Braunschweig  kenne und beach‐
+tet habe, 
+  ich die Regeln der geltenden  Promotionsordnung  kenne und eingehalten  habe und mit einer Prüfung nach 
+den Bestimmungen  der Promotionsordnung  einverstanden  bin, 
+ ich damit einverstanden  bin, dass die Dissertation  auch zum Zwecke der Überprüfung  der Einhaltung  allge‐
+mein geltender  wissenschaftlicher  Standards  genutzt werden kann, insbesondere  auch unter Verwendung  
+elektronischer  Datenverarbeitungsprogramme.  
+ 
+Ort, (TT.MM.JJJJ)  *) 
+ 
+Unterschrift  der Doktorandin  / des Doktoranden  *) 
+_________________________________________________________  
+*) Zutreffendes  einsetzen  / Nichtzutreffendes  löschen
+Anlage 6, Anhang C: 
+Muster Bescheinigung Revisionssc hein (zu § 15 Promotionsordnung) 
+_____________________________________________________________________________________________________ 
+Promotionsordnung der FK EITP                             Seite 29  
+Bescheinigung nach § 15 Promotionsordnung     Seite 1 
+der Fakultät für Elektrotechnik, Informationstechnik Physik 
+ 
+Sehr geehrte/r Frau / Herr «Vorname» «Nachname», 
+ 
+bevor Sie Ihre Dissertation drucken lassen, legen Sie bitte den nachstehenden Revisionsschein den 
+Referentinnen oder Referenten sowie der oder dem Vorsitzenden der Promotionskommission zur 
+Unterschrift vor. Der unterschriebene Revisionsschein berechtigt Sie zum Druck der Dissertation in der 
+freigegebenen Fassung.  
+ 
+Bitte reichen Sie den unterschriebenen Revisionsschein mit der von der Universitätsbibliothek – 
+Dissertationsstelle  der TU Braunschweig  nach Ablieferung der Pflichtexemplare Ihrer Dissertation 
+erhaltenen Bescheinigung im Dekanatsgeschäftszimmer der Fakultät für Elektrotechnik, 
+Informationstechnik, Physik ein. 
+ 
+Braunschweig, TT.MM.JJJJ 
+                                          ________________________________________________ 
+                                                          (Unterschrift Vorsitzende(r) Promotionskommission) 
+ 
+R e v i s i o n s s c h e i n    D a t u m :   
+ 
+(Bitte beachten: es ist nur Buchst abe A oder Buchstabe B möglich). 
+ 
+Zur Dissertation von 
+ 
+Frau / Herrn «Vorname» «andere_Vornamen» «Nachname», «Titel» 
+ 
+A)   
+Hiermit wird bestätigt, dass zur Dissertation keine inhaltlichen Änderungen und Ergänzungen 
+empfohlen oder auferlegt wurden und vorgenommene Änderungen sich auf redaktionelle Korrekturen 
+beschränken.  
+ 
+ ________________________________________________________________________ 
+   Unterschrift Vorsitze nde(r) Prom.Kommission) *) 
+ 
+B) 
+Hiermit wird bestätigt, dass sich die vorgenommenen Änderungen auf die von dem oder den 
+Mitgliedern der Promotionskommission oder der oder den Referentinnen oder Referenten 
+empfohlenen bzw. auferlegten Änderungen und Ergänzungen beziehen und sich ansonsten auf 
+redaktionelle Korrekturen beschränken. Eine Aufstellung aller vorgenommenen inhaltlichen 
+Änderungen und Ergänzungen ist als Anlage beigefügt.  
+ 
+ 
+ ________________________________________________________________________ 
+ Unterschriften  (Referentinnen und Referenten sowie  Vorsitzende(r) Prom.Kommission ) *) 
+ 
+*) Zutreffendes ausfüllen, Nichtz utreffendes streichen (einschließlich Buchstabe A oder Buchstabe B)  
+ 
+ 
+ 
+ 
+_____________________________________________________________________________________________________ 
+Promotionsordnung der FK EITP                             Seite 30  
+ 
+Bescheinigung nach § 15 Promotionsordnung     Seite 2 
+der Fakultät für Elektrotechnik, Informationstechnik Physik 
+ 
+Dieses Blatt bitte der/m Kandidatin/en aushändigen 
+ 
+Genehmigung der Art der Veröffentlichung  durch die Promotionskommission 
+ 
+Nach Absprache mit Frau / Herrn  «Vorname» «Nachname» soll diese Dissertation gemäß den 
+„Allgemeinen Richtlinien für die Veröffentlichung und Ablieferung  von Dissertationen“ der Fakultät für 
+Elektrotechnik, Informationstechnik, Physik der wissenschaftlichen Öffentlichkeit zugänglich gemacht 
+werden durch 
+ 
+ 
+        ○       Verlagsverö ﬀentlichung (Anlage 6, Anhang A, Buchstabe a, PromO) *) 
+ 
+Oder 
+ 
+        ○       Veröﬀentlichung im Eigenverlag (Anlage 6, Anhang A, Buchstabe b, PromO) *) 
+ 
+Oder 
+ 
+        ○       Veröﬀentlichung in wissenscha Ōl. Zeitschrift (Anlage 6, Anhang A, Buchstabe c, PromO) *) 
+ 
+Oder 
+ 
+        ○       Veröﬀentlichung über das Internet (Anlage 6, Anhang A, Buchstabe e, PromO) *) 
+ 
+ 
+Sonderregelung für die Veröffentlichung publikationsbasierter Dissertationen („kumulative 
+Dissertation“) 
+ 
+       ○       Veröﬀentlichung im Eigenverlag (Anlage 6, Anhang A, Buchstabe d, PromO) *) 
+ 
+ 
+ 
+ 
+Braunschweig, TT.MM.JJJJ 
+                                          ________________________________________________ 
+                                                          (Unterschrift Vorsitzende (r) Promotionskommission) *) 
+ 
+ 
+*) Zutreffendes ausfüllen bzw. ankreuzen  
+ 
+ 
+ 
+ 
+ 

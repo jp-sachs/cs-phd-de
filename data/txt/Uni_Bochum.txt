@@ -1,0 +1,654 @@
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+NR. 1 454 | 04.0 2.2022  
+ 
+AMTLICHE 
+BEKANNTMACHUNG  
+ 
+Promotionsordnung der  
+Fakultät für Informatik der  
+Ruhr Universität Bochum  
+ 
+vom 25.01.2022 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+1  
+Promotionsordnung der Fakultät für  
+Informatik  
+der Ruhr Universität Bochum  
+vom 25 . 01. 202 2 
+ 
+Aufgrund des § 2 Abs. 4 i.V.m. § 67 Abs. 3 und 4 des Gesetzes über die Hochschulen des Landes 
+Nordrhein Westfalen (Hochschulgesetz   HG) vom 16. September 2014 (GV. NRW. S. 547), zuletzt 
+geändert durch Gesetz vom 25 . November 202 1 (GV. NRW. S. 1 210a), hat die Ruhr Universität 
+Bochum auf der Basis ihrer Allgemeinen Promotionsordnung vom 04.  November 2014 die 
+folgende spezifische Promotionsordnung der Fakultät für Informatik erlassen:  
+ 
+ 
+Inhaltsübersicht  
+ 
+Präambel  
+ 
+§  1 Doktorgrad  
+§  2 Zweck der Promotion 
+§  3 Promotionsausschuss  
+§  4 Interdisziplinärer Promotionsausschuss  
+§  5 Voraussetzungen zur Promotion 
+§  6 Annahme als Doktorandin/Doktorand  
+§ 6a Promotionsstudiengänge und –programme – „entfällt“  
+§  7 Betreuung und Betreuungsvereinbarung  
+§  8 Strukturierung der Promotion 
+§  9 Zulassung zum Promotionsverfahren 
+§ 10 Promotionskommission 
+§ 11 Dissertation  
+§ 12 Bewertung der Dissertation  
+§ 13 Mündliche Prüfung  
+§ 14 Beurteilung der Promotion 
+§ 15 Rechtsmittel  
+§ 16 Pflichtexemplare und Veröffentlichung  
+§ 17 Promotions urkunde und Promotionszeugnis ; Führung und Entziehung des Doktorgrades  
+§ 18 Hochschulübergreifende Promotionsverfahren  
+§ 19 Ehrenpromotion 
+§ 20 Erneuerung der Promotionsurkunde  
+§ 21 Inkrafttreten, Übergangsbestimmungen und Änderungen 
+   
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+2 Präambel  
+An der Ruhr Universität Bochum besteht die Möglichkeit zur Promotion in allen an der Universität 
+vertretenen Fächern und Forschungsschwerpunkten.  
+Mit der Allgemeinen Promotionsordnung verleiht die Ruhr Universität Bochum ihrer Verantwor
+tung für sämtliche Promotionen Ausdruck, indem sie  
+– eine hohe Transparenz und Qualität der Verfahren gewährleistet und damit zur Qualitätssiche
+rung beiträgt;  
+– sowohl universitätsweite Standards setzt als auch den fachspezifischen Regelungsbedürfnissen 
+Rechnung trägt;  
+– interdisziplinäre und universitätsübergreifende Promotionsvorhaben erleichtert.  
+Im Rahmen der Regeln der Allgemeinen Promotionsordnung der Ruhr Universität Bochum oblie
+gen die Gestaltung der Promotion und die Durchführung der Promotionsverfahren den beteil igten 
+Fakultäten bzw. promotionsführenden Einrichtungen. Die Fakultät für Informatik hat diese Regeln 
+in die vorliegende spezifische Promotionsordnung übernommen und durch fachspezifische Be 
+stimmungen präzisiert und ergänzt.  
+Die von allen Fakultäten getra gene Research School unterbreitet allen Promovierenden ein über  
+und außerfachliches Qualifizierungsangebot und ermöglicht es jeder bzw. jedem Promovierenden, 
+die Promotion nach Maßgabe fachspezifischer Bestimmungen und den eigenen Präferenzen entsprechend  zu strukturieren.  
+Doktorandinnen und Doktoranden werden als Nachwuchswissenschaftlerinnen bzw. Nachwuchs
+wissenschaftler angesehen.  
+Die Ruhr Universität Bochum sieht sich einer hohen Betreuungskultur verpflichtet, die durch eine 
+von den Doktorandinnen bzw.  Doktoranden und ihren Betreuerinnen und Betreuern unterzeich
+nete Betreuungsvereinbarung sichtbar wird.  
+Alle Doktorandinnen und Doktoranden sind nach § 67 Abs. 5 HG verpflichtet, sich an der Univer
+sität einzuschreiben. Die Einschreibung zur Promotion an d er Fakultät für Informatik setzt die 
+Annahme als Doktorandin bzw. Doktorand an der Fakultät für Informatik voraus.
+ 
+ 
+§ 1 Doktorgrad  
+(1) Die Ruhr Universität Bochum verleiht durch ihre Fakultäten bzw. promotionsführenden Ein 
+richtungen den Doktorgrad.  
+(2) An der Fak ultät für Informatik der Ruhr Universität Bochum können folgende Doktorgrade 
+vergeben werden: Doktor Ingenieur (Dr. Ing.), Doktor der Naturwissenschaften (Dr. rer. nat.) 
+oder „Philosophiae Doctor“ (Ph.D.).  
+(3) Ein bereits verliehener Doktorgrad kann nicht ein weiteres Mal erlangt werden.  
+(4) An der Fakultät für Informatik der Ruhr Universität Bochum kann ein Doktorgrad für beson
+dere wissenschaftliche Leistungen oder für Verdienste um die Wissenschaft auch ehrenhalber als Doktor Ingenieur honoris causa  (Dr.Ing. h.c .), als Doktor der Naturwissenschaften honoris 
+causa  (Dr. rer. nat. h.c.) oder als Philosophiae Doctor honoris causa (Ph.D. h.c.) verliehen wer
+den.
+ 
+   
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+3 § 2 Zweck der Promotion  
+Durch die Promotion wird eine über das allgemeine Studienziel gemäß § 58 Abs. 1 HG hinausge
+hende Befähigung zu selbständiger wissenschaftlicher Arbeit nachgewiesen. Die Befähigung wird aufgrund einer Arbeit (Dissertation), die den Stand des Wissens in ihrem Fachgebiet erweitert, und einer mündlichen Prüfung festgestellt.  
+ 
+§ 3 Promotionsausschuss  
+(1) Der Promotionsausschuss der Fakultät für Informatik entscheidet über die Durchführung des Promotionsverfahrens sowie über alle Fragen zur Einhaltung der Promotionsordnung. Die Erledigung der laufenden Geschäfte kann der Promotionsausschuss sein er bzw. seinem Vor
+sitzenden übertragen. Der Promotionsausschuss ist Widerspruchsinstanz im Sinne der Ver
+waltungsgerichtsordnung.
+ 
+(2) Dem Promotionsausschuss der Fakultät für Informatik gehören folgende Mitglieder an:  
+1. alle hauptberuflich in der Fakultät beschäf tigten Professorinnen und Professoren,  
+2. alle hauptberuflich in der Fakultät beschäftigten Juniorprofessorinnen und Juniorprofessoren,  
+3. alle hauptberuflich in der Fakultät beschäftigten Privatdozentinnen und Privatdozenten,  
+4. alle hauptberuflich in der Fakultät beschäftigten außerplanmäßigen Professorinnen und 
+Professoren,  
+5. drei in der Fakultät kooptierte Professorinnen und Professoren, sofern vorhanden,
+ 
+6. zwei Mitglieder der Fakultät aus der Gruppe der Doktorand/innen und wissenschaftlichen Mitarbeiter/innen, von denen mindestens eines promoviert sein soll.
+ 
+Promovierte wissenschaftliche Mitarbeiterinnen und Mitarbeiter, denen von der Rektorin bzw. 
+vom Rektor der Ruhr Universität Bochum die selbständige Wahrnehmung von Aufgaben in 
+Lehre und Forschung übertragen wurde, gehören zur Gruppe der Professorinnen und Professoren nach Ziffer 1; sie haben uneingeschränkt deren Rechte und Pflichten. Dies gilt sinnge
+mäß für alle entsprechenden Bestimmungen dieser Promotionsordnung. Nichtpromovierte 
+Mitglieder aus der Gruppe nach Ziffer 6 haben kein Stimmrecht bei Entscheidungen, die die 
+Beurteilung wissenschaftlicher Inhalte zum Gegenstand haben.
+ 
+(3) Die Mitglieder nach Abs. 2 Ziffer 5 und 6 werden vom Fakultätsrat gewählt.  
+(4) Es können auf Antrag weitere Mitglieder aus d er Gruppe der Betreuerinnen und Betreuer ge
+mäß §  7 Abs.  2 vom Fakultätsrat in den Promotionsausschuss gewählt werden.  Die Amtszeit 
+beträgt drei Jahre. Die Wiederwahl ist zulässig.  
+(5) Die bzw. der Promotionsausschussvorsitzende ist entweder die Dekanin bzw. de r Dekan oder 
+eine von ihr bzw. ihm benannte Stellvertreterin bzw. Stellvertreter. Die bzw. der Vorsitzende und die bzw. der stellvertretende Vorsitzende müssen Mitglied einer der in Abs. 2 Ziffer 1 genannten Gruppe sein.
+ 
+(6) Die Sitzungen des Promotionsausschu sses sind nichtöffentlich. Sie werden von der bzw. dem 
+Vorsitzenden einberufen. Der Promotionsausschuss ist beschlussfähig, wenn die Mehrheit seiner Mitglieder anwesend ist. Er trifft seine Entscheidungen mit der Mehrheit der in allen Belangen stimmberecht igten anwesenden Mitglieder. Bei Stimmengleichheit entscheidet die 
+Stimme der bzw. des Vorsitzenden. Über jede Sitzung ist unter der Verantwortung der bzw. des Vorsitzenden ein Ergebnisprotokoll anzufertigen.  
+(7)  Der Promotionsausschuss hat insbesondere folge nde Aufgaben:  
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+4 1. Entscheidung über die Annahme als Doktorandin bzw. Doktorand gemäß § 6,  
+2. Festlegung von promotionsvorbereitenden Studien gemäß § 5 Abs.  3, 
+3. Festlegung weiterer Studienleistungen sowie sonstiger Leistungen gemäß §  5 Abs.  2, 
+4. Entscheidung über die Zulassung zum Promotionsverfahren gemäß §  9, 
+5. Entscheidung über den Doktorgrad nach §  1 unter Berücksichtigung der Angabe der Dok
+torandin bzw. des Doktoranden gemäß § 6 Abs. 1 und § 7 Abs. 6  Ziffer 5, diese Entschei
+dung kann an die Promotionskommission delegiert werden,  
+6. Beschluss über die Annahme der Dissertation gemäß §  12 Abs.  8, 
+7. Entscheidung über die Annahme einer kumulativen Dissertation gemäß §  11 Abs.  6, 
+8. Bestellung der Gutachter bzw. Gutachterinnen gemäß §  10, 
+9. Bestellung der Pr omotionskommission gemäß § 10, 
+10. Festlegung des Termins der mündlichen Prüfung, bei Nichtbestehen Fristsetzung für die 
+Wiederholungsprüfung gemäß § 13 Abs.  1 und 8,  
+11. Feststellung der erfolglosen Beendigung von Promotionsverfahren gemäß §  12 Abs.  9. 
+(8) Die Entsch eidung des Promotionsausschusses über die erfolglose Beendigung des Promoti
+onsverfahrens ist der Bewerberin bzw. dem Bewerber schriftlich unter Angabe der Gründe mitzuteilen. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.  
+(9) Der Promotionsausschuss kann einzelne Aufgaben nach Abs.  7 an die Vorsitzende bzw. den 
+Vorsitzenden zur Ausführung delegieren.  
+ 
+§ 4 Interdisziplinärer Promotionsausschuss  
+(1) Bei interdisziplinären Promotionsverfahren kann auf Vorschlag der Erstbetreuerin bzw. des  
+Erstbetreuers durch die Promotionsausschüsse der beteiligten Fakultäten bzw. promotionsführenden Einrichtungen ein gemeinsamer Promotionsausschuss eingesetzt werden, der aus den Promotionsausschussvorsitzenden der beteiligten Fakultäten bzw. promotionsfüh renden 
+Einrichtungen der Ruhr Universität Bochum und mindestens vier weiteren Mitgliedern aus 
+den jeweiligen Fakultäten bzw. promotionsführenden Einrichtungen besteht. Dieser interdisziplinäre Promotionsausschuss existiert nur für die Dauer des Promotionsv erfahrens.  
+(2) Die weiteren Mitglieder des interdisziplinären Promotionsausschusses werden von den Promotionsausschüssen der beteiligten Fakultäten bzw. promotionsführenden Einrichtungen für die Dauer des Verfahrens gewählt und rekrutieren sich aus den unter §  3 Abs.  2 genannten 
+Statusgruppen.  
+(3) Bei interdisziplinären Promotionsverfahren wird in der Regel einer der in §  1 Abs.  2 genannten 
+Doktorgrade vergeben. Auf Antrag kann auch einer der anderen in §  1 Abs.  3 der Allgemeinen 
+Promotionsordnung genannten Grade d er beteiligten Fakultäten vergeben werden . 
+(4) Im Falle eines interdisziplinären Promotionsverfahrens regeln die Dekanate der betroffenen Fakultäten bzw. promotionsführenden Einrichtungen selbständig und einvernehmlich die administrativen Zuständigkeiten für d as Verfahren.  
+(5) § 3 Abs.  6, 7 und 8 sowie § 19 gelten entsprechend.  
+ 
+§ 5 Voraussetzungen zur Promotion 
+(1) Zur Promotion hat Zugang, wer  
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+5 a) einen Abschluss nach einem einschlägigen Universitätsstudium mit einer Regelstudien 
+zeit von wenigstens acht Semestern, fü r das ein anderer Grad als „Bachelor“ verliehen 
+wird, oder  
+b) einen Abschluss nach einem einschlägigen Hochschulstudium mit einer Regelstudienzeit 
+von wenigstens sechs Semestern und daran anschließende angemessene, auf die Promo
+tion vorbereitende Studien in den Promotionsfächern oder  
+c) einen Abschluss eines Masterstudiengangs im Sinne des §  61 Abs.  2 Satz  2 HG  
+nachweist.  
+(2) Der Zugang zur Promotion ist vom Nachweis eines qualifizierten Abschlusses abhängig. Beim 
+Zugang zur Promotion nac h Abs.  1 kann der Promotionsausschuss in Abhängigkeit des bean
+tragten Doktorgrades (siehe §  6 Abs.  1 und 2) angemessene Auflagen festlegen, deren Umfang, 
+Art, dabei zu erbringende Leistungsnachweise und der Zeitraum für deren Erbringung in jedem Einzelfall  vom Promotionsausschuss im Benehmen mit der Kandidatin bzw. dem Kandi
+daten festgelegt werden. Die mindestens erforderliche durchschnittliche Gesamtnote der zu erbringenden Leistungsnachweise wird ebenfalls vorab vom Promotionsausschuss festgelegt.  
+(3) Ein Zugang zur Promotion nach Abs.  1 Punkt  b) kann nur mit einem Abschluss in Regelstu
+dienzeit und hervorragenden Leistungen erfolgen. Zusätzlich müssen anschließend angemessene auf die Promotion vorbereitende Leistungen von mindestens 60 Leist ungspunkten aus 
+Fächern des zugehörigen Masterstudiengangs innerhalb eines Studienjahres absolviert sein, wobei mindestens 40  LP aus dem Pflicht  und Wahlpflichtbereich mit einer sehr guten durch
+schnittlichen Bewertung enthalten sein müssen. Über Ausnahmen entscheidet der Promoti
+onsausschuss.  
+(4) Für Bewerberinnen und Bewerber, die ihren Studienabschluss in Ländern außerhalb der Europäischen Union erlangt haben, gelten die gleichen Voraussetzungen, soweit die Gleichwertigkeit des Abschlusses festgestellt worden  ist. Über die Gleichwertigkeit der Abschlüsse ent
+scheidet der Promotionsausschuss auf der Grundlage von zwischenstaatlichen Abkommen, der Einstufung der Hochschule, an der der Abschluss erworben wurde, und aufgrund von 
+Abkommen mit Partnerhochschulen. Bei  Zweifeln an der Gleichwertigkeit soll die Zentral
+stelle für ausländisches Bildungswesen gehört werden.  
+(5) Für die Durchführung einer Promotion an der Fakultät für Informatik der Ruhr Universität 
+Bochum muss der Promotionsausschuss festgestellt haben, dass di e Bewerberin bzw. der Be
+werber über ausreichende Kenntnisse in einer hier gängigen Wissenschaftssprache – entwe
+der Deutsch oder Englisch – verfügt.
+ 
+ 
+§ 6 Annahme als Doktorandin/Doktorand  
+(1) Ein Antrag auf Annahme als Doktorandin bzw. Doktorand ist unter Angab e des Arbeitstitels 
+der geplanten Dissertation und des angestrebten Doktorgrades schriftlich an die Vorsitzende 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+6 bzw. den Vorsitzenden des Promotionsausschusses zu richten. Mit der Annahme ist die Ver
+pflichtung zur Immatrikulation als Doktorandin bzw. Dokto rand an der Ruhr Universität Bo
+chum sowie die Aufnahme in die RUB Research School verbunden.  
+(2) Die Beantragung einer Änderung des beantragten Doktorgrades ist bis zum Zeitpunkt der Zulassung zum Promotionsverfahren möglich und muss vom Promotionsausschuss bestätigt 
+werden.  
+(3) Bei einer Annahme nach §  5 Abs.  3 kann sich die Doktorandin bzw. der Doktorand in Abspra
+che mit der Erstbetreuerin bzw. dem Erstbetreuer in einem entsprechenden Masterstudien
+gang zum Zweitstudium einschreiben und gemäß  der dort gültigen Masterstudienordnung 
+ein Masterstudium absolvieren.  
+(4) Dem Antrag sind beizufügen:  
+1. ein Lebenslauf (mit Bildungsweg und gegebenenfalls beruflichem Werdegang),  
+2. ein Abschlusszeugnis nach §  5 Abs.  1, 
+3. ein zum Studium an einer deutschen Hochschul e berechtigendes Zeugnis oder eine an 
+dere Hochschulzugangsberechtigung,  
+4. eine unterzeichnete Betreuungsvereinbarung nach §  7 Abs.  6, 
+5. die mit Unterschrift dokumentierte Kenntnisnahme der „Leitlinien guter wissenschaftli 
+cher Praxis“ in der jeweils aktuellen  Fassung,  
+6. eine Empfehlung der Betreuerinnen bzw. Betreuer zur Festlegung von Auflagen,  
+7. bei einer Zulassung gemäß §  5 Abs.  1 Buchstabe  b) ein Nachweis über die erbrachten pro
+motionsvorbereitenden Studien.  
+(5) Über die Annahme der Doktorandin oder des Doktorande n entscheidet der Promotionsaus
+schuss. Die Annahme muss versagt werden, wenn  
+a) die formalen Voraussetzungen für die Promotion nicht gegeben sind,  
+b) von dem Promotionsausschuss keine geeignete Betreuerin oder kein geeigneter Betreuer bestimmt werden kann,  
+c) die Bereitstellung der Arbeitsmittel und/oder des Arbeitsplatzes nicht gesichert ist.  
+(6) Der Promotionsausschuss kann weder eine Person veranlassen, eine Kandidatin bzw. einen Kandidaten als Doktorandin bzw. Doktorand anzunehmen oder abzulehnen, noch können Doktorandinnen bzw. Doktoranden gegen ihren Willen einer Person zur Betreuung zugewie
+sen werden.  
+(7) Die Entscheidung wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt. Darin sind 
+ggf. Auflagen gemäß §  5 Abs.  2 und 3 formuliert. Eine Ablehnung ist zu begründen. Mit der 
+Annahme wird die Bewerberin bzw. der Bewerber in das Doktorandenverzeichnis aufgenom
+men. Mit der Annahme als Doktorandin bzw. Doktorand ist keine Entscheidung über die Zulassung zum Promotionsverfahren verbunden.
+ 
+ 
+§ 6a P romotionsstudiengänge und  programme  
+ 
+„entfällt“  
+ 
+ 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+7 § 7 Betreuung und Betreuungsvereinbarung  
+(1) Mit der Annahme als Doktorandin bzw. Doktorand wird ein Anspruch auf Befassung durch 
+den Promotionsausschuss und die Betreuung durch mindestens zwei Betreuende sowi e nach 
+Zulassung gemäß §  9 auf Begutachtung der Dissertation begründet. Die Erstbetreuerin bzw. 
+der Erstbetreuer muss in der für das Promotionsvorhaben relevanten Fachrichtung ausgewie
+sen sein. Die weitere Betreuerin bzw. der weitere Betreuer kann ein ande res Fachgebiet ver
+treten als die Erstbetreuerin bzw. der Erstbetreuer.  
+(2) Als Betreuerinnen bzw. Betreuer nach Abs.  1 können folgende Personen durch den Promoti
+onsausschuss bestimmt werden:  
+a) hauptberuflich an der Ruhr Universität oder einer anderen Hochschule beschäftigte  
+i. Professorinnen und Professoren,  
+ii. Juniorprofessorinnen und Juniorprofessoren,  
+iii. Privatdozentinnen und Privatdozenten,  
+iv. außerplanmäßige Professorinnen und Professoren,  
+v. kooptierte Professorinnen und Professoren,  
+vi. promovierte Nachwuchsgruppenleiterinnen und Nachwuchsgruppenleiter,  
+b) hauptberuflich am Max Planck Institut für Sicherheit und Privatsphäre (MPI) beschäftigte  
+i. Direktorinnen und Direktoren,  
+ii. Forschungsgruppenleiterinnen und Forschungsgruppenleiter,  
+iii. promovierte Nachwuchsgr uppenleiterinnen und Nachwuchsgruppenleiter,  
+c) fachlich ausgewiesene promovierte Wissenschaftlerinnen und Wissenschaftler mit 
+habilitationsäquivalenten Leistungen.  
+Verliert eine Betreuerin oder ein Betreuer den unter Abs.  2 (ac) beschriebenen Status, kann 
+der Promotionsausschuss beschließen, deren Betreuungsmandat auf bestimmte Zeit oder bis zum Abschluss der Promotion zu verlängern.  
+(3) Ist eine Betreuerin oder ein Betreuer nicht Mitglied der Ruhr Universität Bochum oder an ihr 
+kooptiert, muss eine andere  Betreuerin oder ein anderer Betreuer Mitglied der Fakultät für 
+Informatik sein.  
+(4) Bei Vorliegen eines wichtigen Grundes kann das Betreuungsverhältnis auf Antrag der Betreuerin bzw. des Betreuers oder der Doktorandin bzw. des Doktoranden an den Promotionsausschuss beendet werden. Ein wichtiger Grund liegt insbesondere in der Zerrüttung des Vertrauensverhältnisses der Beteiligten. Nach dem Abbruch eines Betreuungsverhältnisses bemüht sich der Promotionsausschuss auf Antrag der Doktorandin bzw. des Doktoranden um die Vermittlung einer anderen Betreuerin bzw. eines anderen Betreuers. Lässt sich kein Betreuungsverhältnis vermitteln, so wird die Annahme als Doktorandin bzw. als Doktorand gemäß §  6 zurückgenommen.  
+(5) In Konfliktfällen stehen der zuständige Promotionsau sschuss und – für Promovierende – die 
+Ombudsperson der RUB Research School sowie – für die Betreuerinnen und Betreuer – die 
+Ombudsperson der Ruhr Universität Bochum als Ansprechpartner zur Verfügung.  
+(6) Die Rechte und Pflichten von Doktorandinnen und Doktoran den sowie von Betreuerinnen 
+und Betreuern regelt eine Betreuungsvereinbarung gemäß Anlage zu dieser Ordnung. Diese enthält folgende Elemente:  
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+8 1. Name der Doktorandin bzw. des Doktoranden, Name der Erst  und Zweitbetreuerin bzw . 
+des Erst  und Zweitbetreuers und Beginn des Promotionsvorhabens,  
+2. Arbeitstitel der beabsichtigten Dissertation,  
+3. Fristsetzung zur Einreichung eines Exposés nach bzw. mit Beginn des Promotionsvorha
+bens, das die Forschungsfragen der beabsichtigten Dissertatio n, den Stand der Literatur 
+sowie die Forschungsmethoden beschreibt . 
+4. Unterschriften der Doktorandin oder des Doktoranden und der Betreuerinnen bzw. Be
+treuer. Der Name und die Unterschrift der Zweitbetreuerin bzw. des Zweitbetreuers kön
+nen bis spätestens zwö lf Monate nach Antragstellung nachgereicht werden . 
+5. Angabe des angestrebten Doktorgrades gem. §  1. 
+ 
+§ 8 Strukturierung der Promotion 
+(1) Die Ruhr Universität Bochum bietet Doktorandinnen und Doktoranden die Möglichkeit zur 
+Strukturierung ihrer Promotion. Je nach Bedarf können die Doktorandinnen und Doktoranden durch Nutzung der Qualifizierungsangebote der Fakultät, der RUB Research School oder der MPI PhD School ein auf ihr individuelles Forschungsvorhaben abgestimmtes Qualifizierungsprofil erwe rben.  
+(2) Veranstaltungen aus Graduiertenschulen, Promotionsstudiengängen oder anderen fachspezifischen Formaten der strukturierten Promotion und Veranstaltungen der RUB Research School können anerkannt werden.  
+ 
+§ 9 Zulassung zum Promotionsverfahren 
+(1) Nach Ferti gstellung der Dissertation richtet die Doktorandin bzw. der Doktorand einen schrift
+lichen Antrag auf Zulassung zur Promotion an die Vorsitzende bzw. den Vorsitzenden des Promotionsausschusses. Dem Antrag sind beizufügen:  
+1. drei Exemplare der Dissertation in gebundener oder gehefteter Form,  
+2. eine einseitige Kurzfassung der Dissertation in deutscher Sprache, die den Titel der Dissertation und den Namen der Antragstellerin bzw. des Antragstellers enthält,  
+3. ein Datenträger mit der Dissertation in el ektronischer Form, als im Volltext durchsuchba
+res Dokument, sowie der Kurzfassung nach Ziffer 2,  
+4. eine unterzeichnete Erklärung mit folgendem Wortlaut: „Ich versichere an Eides statt, dass ich die eingereichte Dissertation selbstständig und ohne unzulässige  fremde Hilfe verfasst, 
+andere als die in ihr angegebene Literatur nicht benutzt und dass ich alle ganz oder annähernd übernommenen Textstellen sowie verwendete Grafiken, Tabellen und Auswertungsprogramme kenntlich gemacht habe. Außerdem versichere ich, da ss die vorgelegte 
+elektronische mit der schriftlichen Version der Dissertation übereinstimmt und die Abhandlung in dieser oder ähnlicher Form noch nicht anderweitig als Promotionsleistung vorgelegt 
+und bewertet wurde.“,
+ 
+5. eine Erklärung, dass digitale Abbild ungen nur die originalen Daten enthalten oder eine 
+eindeutige Dokumentation von Art und Umfang der inhaltsverändernden Bildbearbei
+tung,  
+6. die schriftliche Versicherung, dass keine kommerzielle Vermittlung oder Beratung in Anspruch genommen wurde,  
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+9 7. gegebenenfa lls eine Erklärung der Bewerberin bzw. des Bewerbers über den Ausschluss 
+der Hochschulöffentlichkeit bei der mündlichen Prüfung im Sinne des §  63 Abs.  4 HG.  
+8. Eine Übersicht der eigenen wissenschaftlichen Veröffentlichungen und Konferenzteilnah
+men gegliedert  in 
+a) begutachtete Veröffentlichungen in wissenschaftlichen Zeitschriften (peer reviewed 
+journal papers),  
+b) begutachtete Veröffentlichung bei wissenschaftlichen Konferenzen mit 
+Konferenzbänden (peer reviewed conference papers in proceedings),  
+c) sonstige Veröffen tlichungen,  
+d) Liste der Tagungs  und Konferenzteilnahmen.  
+9. Ist die Annahme nach §  5 Abs.  2 erfolgt, so ist ein Nachweis über die Erbringung der Auf
+lagen einzureichen. Wurden die Auflagen nicht erfolgreich absolviert, nimmt der Promo
+tionsausschuss die Annahme als Doktorandin bzw. als Doktorand zurück.  
+(2) Der Promotionsausschuss entscheidet aufgrund der eingereichten Unterlagen über die Zulassung zum Promotionsverfahren und die Festsetzung des Doktorgrades gemäß § 1. Die Zulas
+sung ka nn versagt werden, wenn die Kandidatin bzw. der Kandidat
+ 
+a) die Unterlagen bis zu den festgesetzten Fristen nicht oder nicht vollständig eingereicht 
+hat, 
+b) die Zulassung zugleich an einer anderen Hochschule beantragt hat,  
+c) Teile der Dissertation nicht selbst angefertigt hat bzw. die Übernahme fremden Gedan 
+kenguts nicht deutlich gekennzeichnet hat.  
+Die Eröffnung kann auch versagt werden, wenn bei der Kandidatin bzw. dem Kandidaten einer der in §  17 Abs.  5 genannten Gründe für den Entzug des Doktorgrades vorliegt.  
+(3) Die Entscheidung wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt. Eine Ablehnung ist zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.  
+ 
+§ 10 Promotionskommission  
+(1) Für jedes Promotionsverfahren bestimmt der Promotionsauss chuss eine Promotionskommis
+sion mit einer bzw. einem Vorsitzenden.  Die bzw. der Vorsitzende der Promotionskommis
+sion wird durch den Promotionsausschuss aus der Mitte der in §  3 Abs.  2 unter Ziffer  1 und 2 
+genannten Mitglieder der Fakultät bestimmt. Die Pro motionskommission ist das für die 
+Durchführung der mündlichen Prüfung sowie die Festsetzung der Gesamtnote zuständige 
+Gremium.
+ 
+(2) Die Promotionskommission besteht aus der bzw. dem Vorsitzenden und den Gutachterinnen 
+bzw. Gutachtern der Dissertation sowie zwei weiteren Mitgliedern, die dem in §  7 Abs.  2 ge
+nannten Personenkreis angehören müssen.  
+(3) Jede Dissertation wird durch zwei oder drei Gutachten bewertet. Zur Bestellung einer Gutachterin bzw. eines Gutachters gelten die gleichen Bestimm ungen § 7 Abs.  2 und 3 wie für Be
+treuerinnen und Betreuer. Zumindest ein Gutachten sollte außerhalb der Ruhr Universität 
+Bochum eingeholt werden, wenn dadurch eine bessere Qualität der Gutachten erzielt werden 
+kann. Auf Antrag erfolgt die Beschlussfassung in geheimer Abstimmung.
+ 
+(4) Ist die Doktorandin bzw. der Doktorand zur Promotion zugelassen, bestellt der Promotions
+ausschuss die Gutachterinnen bzw. Gutachter für die Dissertation. Die Gutachterinnen bzw. Gutachter sind zur Abgabe von unabhängigen schriftlich en Gutachten verpflichtet.  
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+10 (5) Alle Mitglieder der Promotionskommission haben Stimmrecht. Die Promotionskommission 
+beschließt mit einfacher Stimmenmehrheit. Bei Stimmgleichheit ist die Stimme der bzw. des Vorsitzenden entscheidend. Stimmenthaltung ist nicht zu lässig.  
+(6) Sollte ein bereits bestelltes Mitglied der Promotionskommission nicht in der Lage sein, das Promotionsverfahren durchzuführen (z.B. durch Ausfall wegen Krankheit), so bestimmt die 
+bzw. der Vorsitzende des Promotionsausschusses ein Ersatzmitglied.  
+ 
+§ 11 Dissertation 
+(1) Mit der Dissertation muss die Doktorandin bzw. der Doktorand die Befähigung zu selbststän
+diger Forschungsarbeit in ihrem bzw. seinem Forschungsgebiet nachweisen. Die Dissertation 
+muss eigene neue wissenschaftliche Ergebnisse enthalten und  in ihrer Darstellung wissen
+schaftliche Ansprüche erfüllen.  
+(2) Die Dissertation darf in keinem anderen Promotionsverfahren oder vergleichbaren Verfahren 
+an einer Hochschule im In  oder Ausland verwendet worden sein oder werden, soweit sich aus 
+dieser Ordnung nichts anderes ergibt.  
+(3) Die Dissertation soll in deutscher oder englischer Sprache abgefasst sein. Über Ausnahmen entscheidet der Promotionsausschuss.  
+(4) Eine Vorabveröffentlichung von Dissertationsergebnissen in einvernehmlicher Absprache mit der Erstb etreuer in bzw. dem Erstb etreuer ist wünschenswert. Vorab veröffentlichte Ergebnisse 
+sind in der Dissertation kenntlich zu machen.  
+(5) Entstand die Dissertation aus gemeinschaftlicher Forschungsarbeit, so muss der individuelle Beitrag der Bewerberin bzw. des Bewerbers entsprechend dokumentiert oder herausgearbeitet 
+werden.  
+(6) Eine kumulative Dissertation aus mehreren wissenschaftlichen Arbeiten kann anerkannt wer
+den, wenn diese Arbeiten in einem thematischen Zusammenhang stehen, ein Verfahren zur 
+wissenschaftlich en Qualitätssicherung durchlaufen haben und in ihrer Gesamtheit den An
+forderungen nach §  11 Abs.  1 entsprechen. Näheres regelt eine Ausführungsbestimmung des 
+Promotionsausschusses. Eine kumulative Dissertation bedarf der Zustimmung der Erstbetreuerin bzw. des Erstbetreuers und muss spätestens mit der Antragstellung auf Zulassung zum Promotionsverfahren von der bzw. dem Promovierenden beim Promotionsausschuss be
+antragt und von diesem genehmigt werden.  
+(7) Die Dissertation kann von der Doktorandin bzw. dem Doktor anden zurückgezogen werden, 
+solange noch kein Gutachten vorliegt. In diesem Fall gilt die Dissertation als nicht vorgelegt 
+und das Promotionsverfahren als nicht eröffnet. Zieht die Doktorandin bzw. der Doktorand die Dissertation zu einem späteren Zeitpunkt  zurück, so ist das Promotionsverfahren erfolglos 
+beendet.  
+(8) Ein Exemplar der Dissertation wird gemäß der „Richtlinien über Aufbewahrung, Aussonderung, Archivierung und Vernichtung von Akten“ der Ruhr Universität Bochum verwahrt , auch 
+wenn das Verfahren erfolglos beendet wird.
+ 
+ 
+§ 12 Bewertung der Dissertation  
+(1) Die Dissertation wird den Gutachterinnen bzw. Gutachtern gemäß §  10 durch den Promoti
+onsausschuss zugeleitet. Sie empfehlen dem Promotionsausschuss in der Regel innerhalb von drei Monaten n ach Zuleitung der Dissertation jeweils in unabhängigen schriftlichen Gutach
+ten die Annahme, Ergänzung, Umarbeitung oder Ablehnung der Arbeit. Im Fall der Annahme schlagen sie zugleich eine Bewertung mit folgenden Prädikaten vor: summa cum laude (ausgezeich net), magna cum laude (sehr gut), cum laude (gut), rite (genügend).
+ 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+11 (2) Empfiehlt eine Gutachterin bzw. ein Gutachter die Ergänzung, Umarbeitung oder Ablehnung 
+der Dissertation, so entscheidet die Promotionskommission über die Rückgabe der Dissertation an die Doktorandin bzw. den Doktoranden und setzt ggf. eine angemessene Frist zur Wiedereinreichung fest. Die Entscheidung zur Rückgabe kann auch getroffen werden, 
+wenn noch nicht alle Gutachten vorliegen; die anderen Gutachten brauchen dann nicht mehr 
+erstellt z u werden.  
+(3) Die Rückgabe der Dissertation und die Wiedereinreichung entsprechend §  11 Abs.  7 oder § 
+12 Abs. 2 sind nur einmal möglich. Bei Wiedereinreichung ist die Dissertation in der Regel 
+denselben Gutachterinnen bzw. Gutachtern wie vor der Rückgabe vorzu legen.  
+(4) Die Gutachterinnen bzw. Gutachter können ihre Beurteilung auch bei Empfehlung zur 
+Annahme mit Auflagen zur Ergänzung und Umarbeitung der Dissertation für die Drucklegung verbinden, ggf. auch noch nach der mündlichen Prüfung aber bevor der Doktorandi n bzw. dem Doktoranden nach § 14 Abs.  6 das Gesamtprädikat mitgeteilt wird.  
+(5) Die Dissertation und die Gutachten werden den Mitgliedern der Promotionskommission sowie allen Mitgliedern des Promotionsausschusses durch ein geeignetes, die Vertraulichkeit 
+siche rndes Verfahren durch das Dekanat zugänglich gemacht.  
+(6) Die Dissertation wird für die Dauer von mindestens 14  Tagen im Dekanat zur Einsichtnahme 
+für die Mitglieder des Promotionsausschusses nach §  3 Abs.  2 Ziffern 1  bis 5 oder §  3 Abs.  4 
+ausgelegt, denen die  Auslagefrist schriftlich bekanntzugeben ist.  
+(7) Jedes Mitglied des Promotionsausschusses nach §  3 Abs.  2 Ziffer 1  bis 5 oder §  3 Abs.  4 kann 
+während der Auslagefrist eine Stellungnahme anmelden, die spätestens 14  Tage nach Ende der 
+Auslagefrist in schriftlic her Form bei der bzw. dem Vorsitzenden des Promotionsausschusses 
+vorliegen muss.  
+(8) Über die endgültige Annahme oder Ablehnung der Dissertation entscheidet der Promotions
+ausschuss auf der Grundlage der Gutachten und eventueller Stellungnahmen.
+ 
+(9) Wird die Dissertation abgelehnt, so ist das Promotionsverfahren beendet. Eine andere Arbeit oder eine grundlegend revidierte Fassung der bisherigen Arbeit mit dem gleichen Thema kann frühestens nach einem halben Jahr eingereicht werden. Erfolgt erneut eine Ablehnun g, so sind 
+weitere Promotionsgesuche an der Ruhr Universität Bochum nicht zulässig.
+ 
+ 
+§ 13 Mündliche Prüfung  
+(1) Ist die Dissertation angenommen, wird der Termin der mündlichen Prüfung im Einverneh
+men mit der Kandidatin bzw. dem Kandidaten festgelegt. Die mündl iche Prüfung soll inner
+halb von sechs Monaten nach Einreichung der Dissertation durchgeführt werden. Versäumt 
+die Kandidatin bzw. der Kandidat einen Prüfungstermin oder wird die Prüfung abgebrochen, so gilt die Prüfung als nicht bestanden, es sei denn, es liegt ein wichtiger Grund vor, der unverzüglich schriftlich angezeigt und glaubhaft gemacht werden muss. Für den Fall der Krankheit ist ein ärztliches Attest vorzulegen. Erkennt die Promotionskommission den Grund an, so wird ein neuer Prüfungstermin festge legt.
+ 
+(2) Die mündliche Prüfung wird von der Promotionskommission unter der Leitung der bzw. des Vorsitzenden durchgeführt.  
+(3) In der mündlichen Prüfung soll die Doktorandin bzw. der Doktorand nachweisen, dass sie bzw. er in der Lage ist, die von ihr bzw. ihm in der Dissertation erarbeiteten Ergebnisse vorzutragen, sie gegenüber Fragen und Einwänden zu begründen, sie wissenschaftlich zu diskutie
+ren und sie in den wissenschaftlichen Kontext des Faches Informatik einzuordnen.
+ 
+(4) Die mündliche Prüfung dauert in der Rege l 60 bis 90 Minuten und beginnt mit einem Bericht 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+12 der Doktorandin oder des Doktoranden von 20 bis 30 Minuten Dauer über die wichtigsten 
+Ergebnisse der Dissertation. Der Vortrag soll dem Prüfungscharakter Rechnung tragen; die Verwendung technischer Hilfsmit tel ist auf das notwendige Maß zu beschränken.
+ 
+(5) Frageberechtigt bei der mündlichen Prüfung sind die Mitglieder der Promotionskommission sowie die betreuungsberechtigten Mitglieder des Promotionsausschusses gemäß § 3 Abs. 2 Ziffer 1 bis 5 oder § 3 Abs. 4. Da rüber hinaus darf die bzw. der Vorsitzende der Promotions
+kommission Fragen aus dem Publikum zulassen.
+ 
+(6) Die mündliche Prüfung ist hochschulöffentlich nach Maßgabe des § 63 Abs.  4 HG. Liegt eine 
+Erklärung nach § 9 Abs.  1 Ziffer 7 vor, so ist die Öffentlichkeit auszuschließen. Der Promoti
+onsausschuss zählt nicht zur Öffentlichkeit. Über eine Ausweitung der Öffentlichkeit entscheidet die bzw. der Vorsitzende der Promotionskommission im Benehmen mit der Kandi
+datin bzw. dem Kandidaten.  
+(7) Über die mündliche Prüfung i st ein Protokoll zu führen, das von den Mitgliedern der Promo
+tionskommission zu unterzeichnen ist.  
+(8) Wird die mündliche Prüfung als nicht bestanden beurteilt, so kann sie einmal wiederholt werden. Eine weitere Wiederholung ist nur in begründeten Ausnahmefäll en nach Genehmigung 
+durch den Promotionsausschuss möglich. Für Wiederholungsprüfungen gilt Abs.  1 entspre
+chend.
+ 
+ 
+§ 14 Beurteilung der Promotion 
+(1) Unmittelbar nach Beendigung der mündlichen Prüfung entscheidet die Promotionskommis
+sion in nichtöffentlicher Sitzung, ob die Leistung der Doktorandin bzw. des Doktoranden den 
+in § 2 und § 13 Abs.  3 genannten Anforderungen genügt.  
+(2) Bei positiver Entscheidung bewertet die Promotionskommission die mündliche Prüfung mit 
+einem der folgenden Prädikate:  summa cum laude (ausgezeichnet), magna cum laude (sehr 
+gut), cum laude (gut), rite (genügend).  
+(3) Die Promotionskommission setzt dann unter Berücksichtigung der Prädikate der Dissertation und der mündlichen Prüfung ein Gesamtprädikat entsprechend der Skala i n Abs  2 für die 
+Promotion fest.
+ 
+(4) Die Promotionskommission kann im herausragenden Ausnahmefall und unter Würdigung des Gesamteindrucks das Gesamtprädikat summa cum laude  vergeben. Voraussetzungen dafür 
+sind, dass
+ 
+a) nach §  10 Abs.  3 mindestens drei Gutachten eingeholt wurden, von denen mindestens 
+eines von einer unabhängigen Gutachterin oder einem unabhängigen Gutachter erstellt wurde, die bzw. der nicht Mitglied der Ruhr Universität Bochum ist,  
+b) mindestens ein Gutachten dieses Gesamtprädikat bereits ausdrücklich erwähnt und eine 
+ausführliche Würdigung der wissenschaftlichen Veröffentlichungen der Kandidatin bzw. 
+des Kandidaten enthält,  
+c) nicht mehr als ein Mitglied der Promotionskommission der Verleihung des Prädikats 
+summa cum laude  widerspricht.  
+(5) Wird das Prädikat summa cum laude  verliehen, so ist im Protokoll über die Promotionsprüfung 
+festzuhalten, worin die hervorragenden Leistungen bestehen.
+ 
+(6) Die bzw. der Vorsitzende der Promotionskommission teilt der Doktorandin bzw. dem Dokto 
+randen unter Ausschlus s der Öffentlichkeit das Ergebnis der Beratungen unmittelbar nach der 
+Entscheidung der Promotionskommission mit.  
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+13 (7) Bei bestandener Prüfung ist die Promotion abgeschlossen und die bzw. der Vorsitzende des 
+Promotionsausschusses stellt hierüber auf Wunsch der D oktorandin bzw. des Doktoranden 
+eine vorläufige Bescheinigung aus. Diese Bescheinigung berechtigt noch nicht zur Führung des Doktortitels.  
+ 
+§ 15 Rechtsmittel  
+(1) Ablehnende Entscheidungen, die nach dieser Ordnung getroffen werden, sind schriftlich zu begründen, mit einer Rechtsbehelfsbelehrung zu versehen und der Doktorandin bzw. dem 
+Doktoranden bekannt zu geben.  
+(2) Gegen Entscheidungen der Promotionskommission und des Promotionsausschusses kann gemäß den Vorschriften der Verwaltungsgerichtsordnung innerh alb eines Monats nach Be
+kanntgabe bei der bzw. dem Vorsitzenden des Promotionsausschusses schriftlich oder zur 
+Niederschrift Widerspruch eingelegt werden, soweit der Bescheid die Bewertung einer Prüfungsleistung betrifft.  
+(3) Der Promotionsausschuss kann Entsc heidungen abändern, gegen die Widerspruch erhoben 
+wird. Richtet sich der Widerspruch gegen die Bewertung einer Promotionsleistung durch die Promotionskommission, so kann eine abändernde Entscheidung nur mit Zustimmung jener Promotionskommission getroffen w erden, die die angefochtene Bewertung beschlossen hat. 
+Wird dem Widerspruch nicht abgeholfen, so ergeht ein Widerspruchsbescheid, den die bzw. 
+der Vorsitzende des Promotionsausschusses erlässt. Der Widerspruchsbescheid ist zu begrün
+den, mit einer Rechtsbeh elfsbelehrung zu versehen und zuzustellen.  
+(4) Nach Beendigung des Promotionsverfahrens hat die Kandidatin bzw. der Kandidat oder eine/ 
+ein von ihr bzw. ihm Beauftragte/Beauftragter innerhalb einer Frist von drei Monaten das 
+Recht auf Einsichtnahme in alle sch riftlichen Promotionsunterlagen. Dritten sind die Promo
+tionsakten nicht zugänglich.  
+ 
+§ 16 Pflichtexemplare und Veröffentlichung  
+(1) Nach bestandener mündlicher Prüfung teilt die bzw. der Vorsitzende des Promotionsausschusses der Doktorandin bzw. dem Doktorande n mit, ob und ggf. welche Änderungsauflagen 
+gemäß §  12 Abs.  1 und 4 vor der Veröffentlichung der Dissertation zu erfüllen sind. Das ent
+sprechend revidierte Manuskript ist mindestens einer Gutachterin bzw. einem Gutachter vor der Herstellung der Pflichtexem plare zur Genehmigung vorzulegen.
+ 
+(2) Die Doktorandin bzw. der Doktorand ist verpflichtet, ihre bzw. seine Dissertation in angemessener Weise der wissenschaftlichen Öffentlichkeit zugänglich zu machen. Diese Verpflichtung wird erfüllt durch Ablieferung  
+a) von zwei Druckexemplaren, wenn die Dissertation in einem Verlag erschienen ist und 
+über eine ISBN Nummer verfügt, sowie einer elektronischen Version, die bei den Akten 
+der Fakultät verbleibt, oder  
+b) von zwei Druckexemplaren und einer elektronischen Version der D issertation, deren Da
+tenformat und deren Datenträger mit der Universitätsbibliothek abzustimmen sind, und mindestens zwei gedruckten Exemplaren für die Universitätsbibliothek  
+innerhalb eines Jahres nach der mündlichen Prüfung.
+ Auf begründeten Antrag vor Fristab
+lauf kann der Promotionsausschuss die Ablieferungsfrist einmal verlängern. Versäumt die bzw. der Promovierende diese Fristen, so erlöschen alle durch die Prüfung erworbenen Rechte.
+ 
+Bei der Veröffentlichung nach Buchstabe  b) überträgt die Doktorandin  bzw. der Doktorand 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+14 der Universitätsbibliothek der Ruhr Universität Bochum das Recht, im Rahmen ihrer gesetz
+lichen Aufgaben weitere Kopien ihrer bzw. seiner Dissertation herzustellen und zu verbreiten 
+und die Dissertation in Datennetzen zur Verfügung zu st ellen.  
+ 
+§ 17 Promotionsurkunde und Promotionszeugnis;  
+Führung und Entziehung des Doktorgrades  
+(1) Die Promotionsurkunde wird auf den Tag der mündlichen Prüfung ausgestellt und ausgehän
+digt, sobald die Doktorandin bzw. der Doktorand die Verpflichtungen nach § 16 erfüllt hat. Die 
+Promotionsurkunde enthält nur das Gesamtprädikat. Sie ist von der Dekanin bzw. dem Dekan zu unterzeichnen. Bei interdisziplinären Promotionsverfahren gilt §  4 Abs.  4 entsprechend.  
+(2) Mit Aushändigung der Promotionsurkunde ist die oder der nunmehr Promovierte berechtigt, 
+den erlangten Grad, „Doktor Ingenieur“ (Dr. Ing.), „Doktor der Naturwissenschaften“ (Dr. rer. 
+nat.) oder „Philosophiae Doctor“ (Ph.D.), zu führen.
+ 
+(3) Im Falle der Veröffentlichung der Dissertation gemäß §  16 Abs.  2 Buchstabe a ) kann die Ur
+kunde ausgehändigt werden, wenn die Doktorandin bzw. der Doktorand einen Verlagsvertrag oder eine schriftliche Bestätigung der Herausgeberin bzw. des Herausgebers der betreffenden Reihe vorlegt, aus dem bzw. der hervorgeht, dass die Dissertatio n über den Buchhandel zu 
+beziehen ist und ihr eine ISBN zugeordnet ist. Sofern der Verlagsvertrag oder die Vereinbarung mit der Herausgeberin bzw. dem Herausgeber der betreffenden Reihe die Zahlung eines Druckkostenvorschusses vorsieht, hat die Doktorandin  bzw. der Doktorand nachzuweisen, 
+dass die Zahlung erfolgt oder gesichert ist.  
+(4) Wird vor der Aushändigung der Promotionsurkunde festgestellt, dass sich die Doktorandin 
+bzw. der Doktorand im Promotionsverfahren einer Täuschung schuldig gemacht hat, so kann 
+der Promotionsausschuss die Promotion verweigern und das Verfahren für ungültig erklären.  
+(5) Der Entzug des Doktorgrades und die Einziehung der Promotionsurkunde und ggf. des Promotionszeugnisses können erfolgen, wenn die bzw. der Promovierte  
+a) den Doktorgrad du rch wissenschaftliches Fehlverhalten, Täuschung oder im Wesentli 
+chen unrichtige Angaben erlangt hat, oder wenn die Voraussetzung für die Zulassung zur Promotion irrigerweise als gegeben angenommen worden sind,  
+b) wegen einer vorsätzlichen Straftat zu einer F reiheitsstrafe von mindestens einem Jahr ver
+urteilt ist,  
+c) wegen einer vorsätzlichen Straftat verurteilt worden ist, bei deren Vorbereitung oder Be
+gehung sie bzw. er den Doktorgrad missbraucht hat,  
+d) sich durch späteres wissenschaftliches Fehlverhalten als unwürdig für die Führung des 
+Doktorgrades erweist.  
+(6) Die Entscheidung über den Entzug des Doktorgrades fällt der Promotionsausschuss mit der 
+Mehrheit seiner promovierten Mitglieder. Die Bescheidung erfolgt durch die Dekanin bzw. den Dekan.  
+(7) Die Rektorin bzw. der Rektor der Ruhr Universität Bochum unterrichtet das zuständige Mi
+nisterium von der Entziehung des Doktorgrades.  
+ 
+§ 18 Hochschulübergreifende Promotionsverfahren 
+Der Promotionsausschuss kann mit anderen, insbesondere ausländischen Hoch schulen die 
+Durchführung gemeinsamer Promotionsverfahren bzw. die gemeinsame Verleihung eines Doktorgrads vereinbaren. Entsprechende Verträge sind von der Fakultät für Informatik  zu verabschie
+den; in ihnen kann von den Regelungen dieser Ordnung abgewichen werden.
+ 
+Amtliche Bekanntmachung der Ruhr Universität Bochum Nr.  1454  
+ 
+15  
+§ 19 Ehrenpromotion  
+(1) Der Fakultätsrat der Fakultät für Informatik der Ruhr Universität Bochum kann für besondere 
+wissenschaftliche Verdienste, technische Leistungen oder entsprechende ideelle Verdienste in 
+der Förderung der Informatik einen Doktorg rad honoris causa  gemäß §  1 Abs.  4 verleihen.  
+(2) Das Verfahren kann nur auf Antrag einer oder mehrerer Professorinnen bzw. Professoren der 
+Fakultät für Informatik der Ruhr Universität Bochum an die Vorsitzende bzw. den Vorsitzen
+den des Promotionsausschusses eingeleitet werden.  
+(3) Befürwortet der Promotionsausschuss die Einleitung des Verfahrens, so wählt er aus seiner 
+Mitte eine Kommission von fünf Mitgliedern. Diese berichtet dem Promotionsausschuss über die Verdienste der bzw. des zu Ehrenden.  
+(4) Für die Empfehlung des Promotionsausschusses an den Fakultätsrat zum Beschluss einer Ehrenpromotion ist eine Vier Fünftel Mehrheit der anwesenden Mitglieder des Promotionsaus
+schusses erforderlich.  
+(5) Die Ehrenpromotion wird von der Dekanin bzw. dem Dekan durch Aushändigung einer Urkunde vollzogen, in die eine Laudatio aufzunehmen ist.  
+ 
+§ 20 Erneuerung der Promotionsurkunde  
+(1) Die Promotionsurkunde kann im 50.  Jubiläumsjahr ihrer Erlangung auf Vorschlag der Fakul
+tät in feierlicher Form erneuert werde n („Goldene Promotion“).  
+(2) Abs. 1 findet sinngemäß auf das 25.  Jubiläumsjahr Anwendung („Silberne Promotion“).  
+(3) Die Verleihung erfolgt möglichst hochschulzentral im Rahmen einer Festveranstaltung.  
+ 
+§ 21 Inkrafttreten, Übergangsbestimmungen, Änderungen  
+(1) Die Promotionsordnung der Fakultät für Informatik tritt am Tag nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Ruhr Universität Bochum in Kraft und gilt für alle, 
+die sich ab diesem Zeitpunkt an der Fakultät als Doktorandin oder Doktoran d immatrikulie
+ren.
+ 
+ 
+Ausgefertigt aufgrund des Beschlusses des Fakultätsrates der Fakultät für Informatik der Ruhr
+Universität Bochum vom 15.12. 2021.  
+ 
+Bochum, den 25  Januar 2022 
+ 
+Der Rektor  
+der Ruhr Universität Bochum  
+Universitätsprofessor Dr.  Dr. h.c.  Martin Paul  
+ 
+Nach Ablauf von einem Jahr nach Bekanntgabe dieser Ordnung können nur unter den Vorausset
+zungen des § 12 Absatz 5 a) bis d) Hochschulgesetz NRW Verletzungen von Verfahrens  oder Form
+vorschriften des Hochschul gesetzes oder des Ordnungs  oder des sonstigen Rechts der Hochschule 
+geltend gemacht werden.  
+ 
+16 Betreuungsvereinbarung  
+ 
+zwischen Frau/Herrn  
+ 
+..................................................................................................................... (Doktor and/in)  
+und Frau/Herrn  
+ 
+..................................................................................................................... (1. Betreuerin/Betreuer)  
+ 
+ sowie Frau/Herrn......................................................................................... (2. B etreuerin/Betreuer)  
+ wird hinsichtlich eines an der Fakultät für Informatik der Ruhr Universität Bochum geplanten Promotions
+vorhabens über das Thema (Arbeitstitel)
+ 
+ Arbeitstitel auf Deutsch:  
+.............................................................................................................................................................  
+ ………………………………………………………………………………………….................................  
+Arbeitstitel auf Englisch:  
+………………………….........................................................................................................................  
+ ………………………….........................................................................................................................  
+ eine Betreuungsvereinbarung abgeschlossen.  
+ Es wird der folgende Doktorgrad gemäß §1 der Promotionsordnung angestrebt: .............................  
+ Diese Vereinbarung soll sowohl die für den Erfolg des Promotionsvorhabens benötigte wissenschaft liche 
+Betreuung seitens der Betreuerinnen bzw. der Betreuer gewährleisten als auch die Teilnahme an einer inhaltlich und methodisch adäquaten Promotionsvorbereitung sowie forschungsrelevanten und außer  und 
+überfachlichen Qualifizierungsangeboten seitens der Doktorandin bzw. des Doktoranden. Im Einzelnen wird zu diesem Zweck Folgendes vereinbart:
+   
+1. Die Betreuerinnen bzw. Betreuer und die Doktorandin bzw. der Doktorand verabreden eine regelmäßige 
+Berichterstattung über den Fortgang der Dissertation. Diese findet mindestens vierteljährlich im Rahmen 
+von persönlichen Gesprächen statt.  
+ 
+2. Die Doktorandin bzw. der Doktorand nimmt, in Absprache mit ihren bzw. seinen Betreuerinnen bzw. Betreuern an Lehrveranstaltungen bzw. Weiterbildungen teil, sofern diese für ihr bzw. sein Dissertationsprojekt relevant sind.  
+ 
+3. Die Doktorandin bzw. der Doktorand erstellt ein Exposé, das eine Beschreibung des Promotionsvorha
+bens enthält. Die Frist zur Abgabe wird im Einvernehmen zwischen Doktorandin bzw. Doktorand  und 
+Betreuerinnen bzw. Betreuern festgelegt. Sie beträgt maximal sechs Monate.  
+ 4. Ein Abbruch des Betreuungsverhältnisses ist dem Promotionsausschuss unverzüglich anzuzeigen.  
+ 
+ 
+Bochum, den  
+ 
+ 
+Unterschrift      Unterschriften  
+         /   
+            
+Doktorandin bzw. Doktorand    Betreuerinnen bzw. Betreuer  

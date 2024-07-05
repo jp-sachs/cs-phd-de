@@ -1,0 +1,957 @@
+Herausgegeben vom Rektor der Otto vonGuericke Universität Magdeburg, Universitätsplatz 2, 39106 Magdeb urg  
+ 
+Amtliche Bekanntmachung  
+Nr. 33/2018 
+  
+ 
+                       Veröffentlicht am: 09.05.2018 
+ 
+PROMOTIONSORDNUNG  
+ 
+Fakultät für Informatik  
+ 
+vom 7. Januar 1999 ( 19. Dezember 2012 )  
+i. d. F. v.  2. Mai 2018  
+ 
+ 
+Aufgrund von § 54 Satz  2 Hochschulgesetz des Landes Sachsen Anhalt (HSG LSA) vom 14. D e
+zember 2010 (GVBI. LSA S. 600), zuletzt geändert durch Gesetz vom 25. Februar 2016 ( GVBl. LSA 
+S. 89, 94 ), sowie § 23  Grundordnung der Otto vonGuericke Universität Magdeburg vom          
+27. März 2012 (MBl . LSA  S. 305) wird nachstehend der Wortlaut der Promotionsordnung der F a
+kultät für Informatik  vom 7. Januar 1999, zuletzt geändert durch die Dritte  Satzung zur Änderung 
+ihrer Promotionsor dnung vom 2. Mai 2018, neu bekannt gemacht:  
+ 
+Inhaltsver zeichnis  
+§   1  Grundsätze  
+§   2  Zulassungsvoraussetzungen  
+§   3  Promotionsleistungen  
+§   4  Eröffnung des Promotionsverfahrens  
+§   5  Dissertation  
+§   6  Gutachter  
+§   7  Gutachten  
+§   8  Promotionskommission  
+§   9  Entscheidung über die Annahme der Dis sertation  
+§ 10  Promotionskolloquium  
+§ 11  Nichtbestehen de s Promotionskolloquiums  
+§ 12  Bewertung der Promotionsleistungen  
+§ 13  Entscheidung über die Verleihung  
+§ 14  Veröffentlichung der Dissertation  
+§ 15  Ungültigkeit der Promotionsleistungen  
+§ 16  Promotionsurkunde  
+§ 17  Entziehung und Widerruf des akademischen Grades  
+§ 18  Einsicht in die Promotionsakte  
+§ 19  Ehrenpromotion  
+§ 20 Gleichstellungsklausel  (weggefallen)  
+§ 21  Übergangsregelungen  
+ 
+ 
+
+ 
+ 
+ 
+Seite 2 von 21 
+ 
+ Anlage 1:   Text der Titelseite der Dissertation bei Einrei chung  
+Anlage 2:   Text der Titelseite der Pflichtexemplare  
+Anlage 3 a:   Text der Promotionsurkunde  
+Anlage 3 b:  Text der Promotionsurkunde bei gemeinsamen Promotionsverfahren mit   
+     einer ausländischen Hochschule  
+Anlage 4:   Text der Urkunde der Ehrenp romotion  
+Anlage 5:   Text Wortlaut der Ehrenerklärung   
+Anlage 6:   Text Wortlaut der Erklärung zur strafrechtlichen Verurteilung  
+3
+  
+ 
+ 
+Seite 3 von 21 
+ 
+ § 1 
+Grundsätze  
+ 
+(1) Die Promotion dient dem Nachweis der Befähigung, durch selbständige  wissenschaftliche  Ar
+beit Ergebnisse z u erzielen, die zur Entwicklung eine s Wissenschaftsgebietes,  seiner Theorien und  
+seiner Methoden beitragen.  
+ 
+(2) Die Fakultät für Informatik verleiht den akademischen Grad „Doktor ingenieur“  (Dr.Ing.).  
+ 
+(3) Das Gebiet der Dissertation soll durch eine Profe ssorin oder einen Professor, eine Juniorpr o
+fessorin oder einen Juniorprofessor, eine Honorarprofessorin oder einen Honorarprofessor, eine 
+Hochschuldozentin oder einen Hochschuldozenten oder durch eine Privatdozentin oder einen Pr i
+vatdozenten der Fakultät f ür Informatik vertreten sein.  
+ 
+(4) Der Fakultätsrat entscheidet mit der Mehrheit der abgegebenen gültigen Stimmen über  
+ 
+   1. die Eröffnung oder Nichteröffnung des Promotionsverfahrens gemäß § 4, 
+   2. die Zusammensetzung der Promotionskommission gemäß § 8, 
+   3. die Verleihung des akademischen Grades gemäß § 13. 
+ 
+(5) Der in §  1 Abs.  2 genannte Grad kann der betreffenden Person nur einmal verliehen werden.  
+ 
+(6) Doktoranden werden einzeln oder im Rahmen einer strukturierten Doktorandenausbildung 
+von einer P rofessorin oder einem Professor, einer Juniorprofessorin oder einem Juniorprofessor, 
+einer Hochschuldozentin oder einem Hochschuldozenten oder einer Privatdozentin oder einem 
+Privatdozenten der Fakultät für Info rmatik betreut . In begründeten Fällen kann di e Betreuung auch 
+durch eine der Fakultät für Infor matik angehö rende Professorin im Ruhestand oder durch einen 
+der Fakultät für Informatik angehörenden Professor im Ruhestand oder durch eine Honorarpr o
+fessorin oder durch einen Honorarprofessor erfolgen. Nac hwuchsgruppenleiterinnen und Nac h
+wuchsgruppenleiter, welche aufgrund eines externen Evaluationsverfahrens durch eine Fo r
+schungsförderei nrichtung oder durch eine gleich rangige Organisation gefördert werden, oder 
+Nachwuchsgruppenleiterinnen und Nach wuchs gruppenleiter, die in einem internen Besetzung s
+verfahren unter Bete iligung externer Gut achte rinnen und Gutachter in ihre Funktion eingesetzt 
+wurden, können mit Zustimmung des Fa kultätsrates ebenfalls als Betreuerinnen oder Betreuer von  
+Promotionen zug elassen w erden.  
+ 
+(7) Promotionsverfahren  können  in gemeinsamer Betreuung mit einer ausländischen Hoch schule 
+durchgeführt werden, wenn mit der ausländischen Hochschule eine Vereinbarung  getroffe n wor
+den ist, welcher der Fakultätsrat zugestimmt hat. Die Vereinbarun g muss Regelungen über Ein
+zelheiten des gemeinsamen Promotionsverfahrens enthalten. Für di e Promotion in gemeins amer 
+Betreuung gelten die Bestimmungen dieser Promotions ordnung , soweit nachfolgend keine beson
+deren Bestimmungen getroffen wurden . 
+ 
+(8) Bei gemeinsamen Pro motionsverfahren mit ausländischen Hochschulen werden d ie Doktora n
+den von je einem  Mitglied der beteiligten Fakultät betreut, dessen Qualifikation der des in § 1 
+Abs. 6 genannten Personenkreises entsprechen muss.  
+4
+  
+ 
+ 
+Seite 4 von 21 
+ 
+ (9) Sofern die Landessprache a n der ausländischen Fakultät nicht die deutsche Sprache ist, kann 
+die Dissertation auch in Englisch  vorgelegt werden. Grundsätzlich ist eine Zusammenfassung in 
+deutscher Sprache voranzustellen.  
+ 
+(10) Die Promotionskommission setzt sich abweichend von § 8 neben den in Abs. 8 geregelten 
+beiden Betreuern aus zwei prüfungsberechtigten Mitgliedern  der Fakultät für Informatik  und aus 
+mindestens einem prüfungsberechtigten Mitglied der ausländischen Fakultät sowie einer externen 
+Gutachterin oder einem externen Guta chter, die oder der weder der Fakultät für Informatik noch 
+der ausländischen Universit ät/Fakultät angehört, zusammen. Die oder der Vo rsitzende ist aus 
+dem Kreis der prüfungs berechtigten Mitglieder zu  bestellen. Näheres regelt die Vereinbarung.  
+ 
+(11) Sofer n die mündliche Promotionsleistung unter Mitwirkung der Betreuerin  oder des Betreuers  
+der Fakultät für Informatik an der ausländischen Fakultät statt findet, w ird hierdurch das Promot i
+onskolloquium an  der Fakultät für Informatik ersetzt. Näheres , insbesond ere die Sprache der 
+mündlichen Prüfungsleistung,  regelt die Vereinbarung.  
+ 
+(12) Die Promotionsurkunde enthält den Hinweis darauf, dass es sich um eine Promotion in g e
+meinsamer Betreuung handelt ; sie wird nach dem Text der Anlage 3  b ausgestellt.  Sofern kei ne 
+gemeinsame Promotionsurkunde ausgestellt wird, enthalten beide Urkunden den Hinweis, dass 
+sie nur in Verbindung mit der jeweils anderen Promotionsurkunde gültig ist und die oder der 
+Promovierte das Recht hat, den Doktorgrad entweder in der deutschen For m gem. §  1 Abs. 2 oder 
+der ausländischen Form  zu führen.  In beiden Urkunden, die das Siegel und das Logo der ausste l
+lenden Universität tragen, ist der binationale Charakter der gemeinschaftlich betreuten Promotion 
+und der gemeinsamen Verleihung eines Dokto rgrades zum Ausdruck zu bringen.   
+ 
+§ 2 
+Zulassungsvoraussetzungen  
+ 
+(1)  Die Zulassung zur Promotion setzt voraus, dass die sich bewerbende Person  
+  
+1. ein Studiu m im Gebiet der Informatik an einer deutschen Hochschule oder an  einer ent
+sprechenden Universitä t oder Hochschule im Ausland in einem  gleichwertigen  wisse n
+schaftlichen Studiengang nachweisen kann und   
+2.  dieses Studium mit einem akademischen Grad (Diplom, Magister, Master bzw. andere r 
+gleichwertige r Abschluss)  abgeschlossen hat.  
+3.  Die Zulassung an derer universitärer Studiengänge, der en inhaltliche Ausrichtung eine 
+Promotion im Gebiet der Inform atik sachgerecht  erscheinen lässt, ist möglich, bedarf  
+aber der Genehmigung durch den Fakultätsrat.  
+ 
+Der Abschluss sollte  ein mit mindestens der Note „gut “ bewertetes Ergebnis aufweisen. Über Aus
+nahmen entscheidet der Fakultätsrat.   
+ 
+(2) Über Fragen der Äquivalenz von ausländischen Studienabschlüssen entscheidet der Fakultät s
+rat. Dabei sind die Richtlinien der Zentralstelle für ausländisches Bildungswesen,  Bonn, zu beach
+ten. Eine Überprüfung der Äquivalenz ist von der sich bewerbenden Person rechtzeitig vor dem 
+Zulassungsantrag bei der Fakultät für Informatik zu beantragen. Das Ergebnis ist der sich bewer
+5
+  
+ 
+ 
+Seite 5 von 21 
+ 
+ benden Person schriftlich von der Dekanin  oder dem Dekan bekannt zu geben. Eine Able hnung ist 
+zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.  
+ 
+(3) Wer die vorstehenden Zulassungsvoraussetzungen erfüllt, kann unter Angabe seines in Au s
+sicht genommenen Themas und unter Angabe seiner Betre uerin  oder seines Betreuers  bei der 
+Fakultät für Informatik die Annahme  als Doktorandin oder Doktorand  beantragen.  Über den A n
+trag zum Doktoranden status entscheidet die Fakultät  für Informatik . Mit der Annahme wird die 
+grundsätzliche Bereitschaft ausgedrückt, ein e solche Dissertation als  wissenschaftliche A rbeit zu 
+bewerten und d en Doktoranden bei der Erste llung der Arbeit zu unterstützen.  
+ 
+(4) Der Fakultätsrat legt vor Beginn der Zulassung  fest, welche zusätzlichen Prüfungen  gegeben 
+enfalls abzulegen  sind, wenn v on der sich bewerbenden Person die Hochschul prüfung  nicht in  
+hinreichendem Umfang in einem fachwissenschaftlichen Studiengang des gewählten Promotion s
+faches nachgewiesen wurde. Die Prüfungen sind bis zur Entscheidung über die Eröffnung des 
+Promotionsvorh abens abzulegen.   
+  
+§ 3 
+Promotionsleistungen  
+ 
+Die Promotionsleistungen bestehen aus  
+ 
+  1.      einer Dissertation nach §  5 und 
+  2.      einem Promotionskolloquium  nach §  10.  
+ 
+Vor bzw. w ährend der Anfertigung der Dissertation kann die Fakultät für Informa tik zusätzliche , 
+diese wissenschaftliche Arbeit ergänzende  Leistungen , wie bspw. ein Thesis Proposal, die Vorlage 
+von reviewed papers  oder die Präsentation der Forschungsergebnisse in einem öffentlichen Vo r
+trag vor Einreichung der Dissertation fordern.1  
+ 
+§ 4 
+Eröffnung  des Promotions verfahren s 
+ 
+(1) Der Antrag auf Eröffnung des Promotionsverfahrens ist von der Doktorandin oder dem Dok
+toranden  schriftlich an die Dekanin oder den Dekan üb er das Prüfungsamt der Fakultät für Infor
+matik  zu richten . 
+ 
+(2) Dem Antra g sind Anlagen beizufügen . Dazu gehören mindestens:  
+ 
+ gebundene Exemplare der Dissertationsschrift   
+ Lebenslauf /wissenschaftlicher Werdegang  
+ Veröffentlichungsliste  
+ Zusammenfassung i n deutscher Sprache  
+ Ehrenerklärung  
+ Erklärung über etwaige frühere Promotionsg esuche  
+                                                      
+1 Hinweise dazu sind dem Leitfaden: Promotionsverfahren an der  FIN zu entnehmen.  
+6
+  
+ 
+ 
+Seite 6 von 21 
+ 
+  Erklärung über die Kenntnisnahme der Promotionsordnung  
+ Erklärung der Doktorandin oder des Doktoranden, dass er  oder sie  nicht wegen einer Straftat 
+verurteilt wurde, die Wissenschaftsbezug hat .  
+ 
+Ein Wissenschaftsbezug ist insbesondere gegeben, sofer n die Straftat  
+ 
+ einen unmittelbaren Bezug zu der mit dem Doktorgrad verbundenen fachlich 
+wissenschaftlichen Qualifikation aufweist,  
+ geeignet ist, die Funktionsfähigkeit und Glaubwürdigkeit des Wissenschaftsbetriebes zu 
+beinträchtigen,  
+ wissenschaftliches Fe hlverhalten darstellt, weil Standards und Prinzipien wissenschaf tlichen 
+Arbeitens vorsätzlich oder grob fahrlässig missachtet werden.  
+ 
+Die Fakultät für Informatik behält sich vor, weitere Anla gen, wie bspw. Nachweise für die  in § 3 
+Satz 2 geregelten Zusatz leistungen  zu fordern .2 Sämtliche  eingereichten Unterlagen gehen in das 
+Eigentum der Otto vonGuericke Universität  Magdeburg über.  
+ 
+(3) Der Antrag auf  Durchführung eines Promotionsverfahrens kann zurückgezogen werden, s o
+lange das Promotionsverfahren nicht eröffnet ist. In diesem  Fall gilt das Gesuch als nicht gestellt.  
+ 
+(4) Der Eingang des Antrags auf Eröffnung des Promotionsverfahrens wird den Mitgliedern des 
+erweiterten Fakultätsrates mitgeteilt . Die Dissertation wird mit Anlagen zwei Wochen zur Einsich t
+nahme für diese im Dekanat ausgelegt.  
+ 
+(5)  Mit der Eröffnung des Promotionsverfahrens sind folgende Festlegun gen durch den Fakul
+tätsrat zu treffen:  
+ 
+  1.   Bestellung der Gutachter gemäß § 6 und  
+  2.   Bestellung der Promotionskommission gemäß § 8.  
+ 
+(6) Die Dekanin oder der Dekan  teilt dem Antragsteller die getroffene Entscheidung  unverzüglich 
+schriftlich mit.  
+ 
+(7)  Die Eröffnung ist , unbeschadet der sonstigen, sich aus Abs. 2 Satz 2 ergebenden Gründen 
+abzulehnen, wenn  
+ 
+ die Doktorandin oder der Doktorand nach Abs. 2 erklärt, wegen einer Straftat, die Wisse n
+schaftsbezug hat, ve rurteilt worden zu sein,  
+ bekannt wird, dass die nach Abs. 2 abgegebene Erklärung wahrheitswidrig ist.  
+ 
+Wird die Eröffnung des Promotionsverfahrens abgelehnt, ist die Entscheidung schriftli ch zu be
+gründen und mit einer Rechtsbehelfsbelehrung zu versehen.  
+ 
+                                                      
+2 Hinweise dazu sind dem Leitfaden: Promotionsverfahren an der FIN zu entnehmen . 
+7
+  
+ 
+ 
+Seite 7 von 21 
+ 
+ § 5 
+Dissertation  
+ 
+(1) Mit de r Dissertation ist der Nachweis der Befähigung der Kandidatin oder des Kandidaten im  
+Sinne von §  1 Abs. 1  zu erbringen.  
+ 
+(2) Die Dissertation  ist eine schriftli che wissenschaftliche Arbeit. Sie stellt eine auf selbst ständi
+ger Forschungsarbeit  beruhend e wissenschaftli che Leistung dar. Die Dissertation darf als Ganzes 
+nicht schon vor dem Abschluss des Verfahrens veröffentlicht sein.  
+ 
+(3) Eine frühe r abge lehnte Dis sertation darf nicht erneut vorgelegt werden , es sei denn, di e Zu
+rückweisung erfolgte aus Gründen der Nichtz uständigkeit  einer anderen wissenschaftlichen Hoc h
+schule bzw. Fakultät.   
+ 
+(4) Die Dissertation muss in deutscher oder englischer Sprache abgefasst sein. Ausnahmen b e
+dürfen der Genehmigung durch den Fakultätsrat. In jedem Fall ist eine  Zusammenfassung in 
+deutscher Sprache voranzustellen.   
+ 
+(5)  Das Titelblatt der Dissertation ist nach dem Text der Anlage 1 zu gestalten.  
+ 
+(6) Der Dissertation ist eine Ehrenerklärung nach dem Text der Anlage 5 beizufügen.  
+ 
+§ 6 
+Gutachter  
+ 
+(1) Die Dissertation ist von mindestens drei Gutachtern zu beurteilen, von denen eine Person als 
+Professorin oder Professor der Fakultät für Informatik der Otto vonGuericke Universität Magd e
+burg angehören muss.  Dieses Mitglied der Otto vonGuericke Universität Magdeburg kann seine 
+Zustimmung zur Bestellung nur bei Vorliegen wichtiger Gründe ablehnen. Ein e Gutachterin  oder 
+ein Gutachter soll nicht der Otto vonGuericke Universität Magdebu rg angehören.  
+ 
+(2) Als Gutachter können Personen tätig werden, die eine Professur, eine Juniorprofessur, eine 
+Hochschul dozentur  oder eine Privatdozentur innehaben.  Die Begutachtung kann auch durch eine 
+Professorin im Ruhestand oder durch einen Professor im  Ruhestand, eine Honorarprofessorin oder 
+einen Honorarprofessor oder eine andere in der beruflichen Praxis und Ausbildung erfahren e 
+promovierte Person erfolgen.  
+ 
+8
+  
+ 
+ 
+Seite 8 von 21 
+ 
+ § 7 
+Gutachten  
+ 
+(1) Die Gutachter legen der Dekanin  oder dem Dekan jeweils ein Gutachten über die Dissertation 
+vor und empfehlen darin die Annahme oder Ablehnung der Dissertation . Wird die Annahme  emp
+fohlen, ist die Disse rtation im Gutachten nach folgender Notenskala zu bewerten:  
+ 
+ magna cum laude   (sehr gut)  
+ cum laude     (gut) 
+ rite        (genüge nd). 
+ 
+Bei der Empfehlung zur Ablehnung ist die Dissertation mit "non sufficit" (ungenügend) zu  bewe r
+ten. Wird die Note „magna cum laude “ vergeben, können die Gutachter eine  Empfehlung  vergeben, 
+dass bei entsprechendem Verlauf des Promotionskolloquiums  die Gesamtnote „summa cum la u
+de“ verge ben werden soll . 
+ 
+(2)  Gutachten sind in der Regel innerhalb von drei Monaten , nachdem die Dissertation den  Gut
+achtern ausgehändigt wurde, vorzulegen. Bei einer unvertretbaren Verzögerung kann der Faku l
+tätsrat eine Gutach terin oder einen Gutachter ersetzen. Die Gutachter  haben das Recht, die ihnen 
+zur Begutachtung ausgehä ndigte Dissertation zu behalten.  
+ 
+§ 8 
+Promotionskommission  
+ 
+(1) Der Promotionskommission gehören die Gutachter, die oder der Vorsitzende und ein weitere s 
+Mitglied der Fakultät für Informatik nach § 1 Abs . 6 an.  
+ 
+(2) Die oder der Vorsitzende der Promotionskommission muss Professorin oder Professor der 
+Fakultät für Informatik sein. Diese /r darf nicht im gleichen Verfahren begutachtend tätig sein.  
+ 
+(3) Die Mi tglieder der Promotionskommission sind zur Teilnahme am Promotionskolloquium ve r
+pflichtet, soweit sie Mitglieder de r Otto vonGuericke Universität Magdeburg sind. Nur aus wich
+tigen  Gründen sind Ausnahmen zulässig.  
+ 
+§ 9 
+Entscheidung über die Annahme der Dis sertation  
+ 
+(1) Sind die  Gutachten eingegangen, entscheidet die Promotionskommission auf der Grundlage 
+der Gutachten über  die Annahme und die Weiterführung des Verfahrens oder  über die Able hnung. 
+Der Eingang der Gutachten wird den Mitgliedern des erweiterte n Fakultätsrates mi tgeteilt und 
+zwei Wochen zur Einsichtnahme für diese im Dekanat ausgelegt.  
+ 
+(2) Die Dissertation kann auch unter Beachtung von § 9 Abs. 3  angenommen werden, falls die 
+Mehrheit der Gutachter  die Annahme empfohlen hat  und aus dem in § 9 Abs. 1  genannten Pers o
+nenkreis innerhalb der Frist zur Einsichtnahme keine schriftlichen Einsprüche erhoben  worde n 
+sind. Sofern Einsprüche erhoben werden, sind diese zu begründen.  
+9
+  
+ 
+ 
+Seite 9 von 21 
+ 
+  
+(3) Wird ein ablehnendes Gutachten abgegeben oder liegen Einsprüche vor, en tscheidet der F a
+kultätsrat auf Vorschlag der Promotionskommission  über die Einholung eines weiteren Gutac h
+tens. 
+ 
+(4) Werden zwei ablehnende Gutachten abgegeben, wird die Dissertation nicht angenommen. 
+Diese Feststellung trifft der Fakultätsrat auf Vorschla g der Promotions kommission.  
+ 
+(5) Ist die Dissertation abgelehnt  worden, so ist das Promotionsverfahren beendet. Die Dissert a
+tion und die Gutachten verbleiben in der aktenführenden  Stelle der Otto vonGuericke Universität 
+Magdeburg.   
+ 
+(6) Im Fall der Nicht annahme der Dissertation oder des Abschlusses des Promotionsve rfahrens 
+nach §  11 Abs. 3  kann die Doktorandin oder der Doktorand frühestens  sechs Monate nach der 
+Beschlussfassung ein neues Promotionsverfahren beantragen. Eine nicht angenommene Dissert a
+tion darf nicht wi eder zum Zwecke der Promotion vorgelegt werden.  
+ 
+(7) Die Entscheidung über die Annahme oder die Ablehnung der Dissertation wird der Doktora n
+din oder dem Dokt oranden  unverzüglich schriftlich per Bescheid durch die Dekanin oder den De
+kan bekannt  gegeben  und die Einsichtnahme in  die Gutachten  ermöglicht.  Die Ablehnung ist zu 
+begründen und mit e iner Rechtsbehelfs belehrung zu versehen.  
+ 
+(8) Nach Beendigung der Auslage der Gutachten entscheidet die Promotionskommission über die 
+Fortsetzung des Promo tionsverfahrens. Die Doktorandin  oder der Doktorand kann  in ihre oder 
+seine Gutachten Einsicht nehmen.  
+ 
+§ 10 
+Promotionskolloquium  
+ 
+(1) Nach Annahme der Dissertation setzt die oder der Vorsitzende der Promotionskommission in 
+Absprache mit den anderen Mitgli edern den Termin für das Promotionskolloquium fest. Das Pr o
+motionskolloquium findet öffentlich statt.  
+ 
+(2)  Das Promotionskolloquium wird von der  oder dem Vorsitzenden der Promotionsko mmission  
+geleitet. Es besteht aus einem Vortrag von maximal 30 Minuten Dauer über den Inhalt der Disse r
+tation und einer anschließenden Diskussion mit den Mitgliedern der Promotionskommission, we l
+che in deutscher oder englischer Sprache stattfindet. Alle Anwesenden dürfen anschließend  Fra
+gen stellen, die den Inhalt der Dissert ation betreffen.  
+  
+(3) Über den Verlauf des Promotionskolloquiums ist ein Protokoll anzufertigen, das auch die B e
+wertung  mit den Prädikaten nach §  7 Abs. 1  enthält und von den Mitgliedern der  Promotion s
+kommission zu unterzeichnen ist.   
+ 
+1
+0
+  
+ 
+ 
+Seite 10 von 21 
+ 
+ § 11 
+Nichtbestehen  des Promotionskolloquiums  
+ 
+(1) Erscheint die Doktorandin  oder der Doktorand  ohne Angabe triftiger Gründe nicht zu dem für  
+ihr oder sein Promotionskolloquium festgesetzten Termin, so gilt dieser Teil der Promotionslei s
+tung als  nicht bestanden.  Liegen trift ige Gründe vor, kann die Dekanin  oder der Dekan das Ve r
+säumnis entschuldigen. In diesem Fall wird ein neuer Termin festgesetzt. Das dann stattfi ndende 
+Promotionskollo quium gilt nicht als Wiederh olung.  
+ 
+(2) Bei Nichtbestehen kann das Promotionskolloquium in nerhalb von drei Monaten auf Antrag 
+wiederholt werden. Ein bestandenes wiederholtes Promotionskolloquium ist dann nur mit  rite (ge
+nügend) zu bewerten.  
+ 
+(3)  Besteht die Doktorandin oder der Doktorand wiederum  nicht, so ist das Promotionsve rfahren 
+nicht bes tanden und  mit "non sufficit" (ungenügend)  abzuschließen. Diese Entscheidung ist vo n 
+der Dekanin  oder dem Dekan schriftlich per Bescheid bekannt zu geben, zu begründen und mit 
+einer Rechtsbehelfsbelehrung zu verse hen. 
+ 
+§ 12 
+Bewertung der Promotionsleistung en 
+ 
+(1) Unmittelbar nach Abschluss des Promotionskolloquiums ist in nichtöffentlicher Beratung 
+durch die Promotionskommission über die Bewertung der Promotionsleistungen zu entsche iden. 
+Die Mitglieder des erweiterten Fakultätsrats können beratend teilnehme n. 
+ 
+(2) Über die Sitzung ist ein Protokoll anzufertigen, das auch die Bewertungen aus den G utachten  
+enthält.  
+ 
+(3) Die einzelnen Bewertungen der Gutachten für die Dissertation und die Bewertung des Prom o
+tionskolloquiums sind zu einem Gesamtprädikat  gem.  § 7 Abs. 1  zusammenzufassen, welc hes in 
+der Promotionsurkunde anzugeben ist.  
+ 
+(4) Sind alle Promotionsleistungen mit magna cum laude bewertet  und haben zwei G utachter die  
+Bewertung „summa cum laude“ gem. § 7 Abs. 1 empfohl en, dann kann das Gesamtprädikat  
+„summa cum laude “ (mit Auszeichnung) empfohlen werden, sofern die Promotionskommiss ion 
+dies einstimmig beschließt.  
+ 
+(5) Die Promotionskommission kann als Auflage redaktionelle Änderungen der Dissertation fo r
+dern, welche in den Pflichtexemplaren durchzuführen s ind. Die Kontrolle dafür übe rnimmt die 
+Betre uerin  oder der Betreuer der  Dissertation.  
+ 
+(6) Das Gesamtprädikat  ist vorbehaltlich der Entscheidung  durch den Fakultätsrat sofort b e
+kanntzugeben.  
+ 
+1
+1
+  
+ 
+ 
+Seite 11 von 21 
+ 
+ § 13 
+Entscheidung über die Verleihung  
+ 
+(1) Nach Abschluss des  Promotionsverfahrens  informiert die oder der Vorsitzende  der Promot i
+onskommission die Dekanin  oder den Dekan über  die Empfehlung für den Beschluss zur Verle i
+hung oder  Nichtverleihung des akademischen Grades.  
+ 
+(2) Über die Verleihung des akademischen Grades und das Gesamtprädikat entscheidet der F a
+kultätsrat. In begründeten Fällen kann der Fakultätsrat von dem errechneten  Notendurchschnitt 
+abweichen.  
+ 
+(3) Eine Verleihung unter Erteilung von Auflagen ist nur zulässig,  soweit es sich um  Auflagen  zur 
+Änderung de r Dissertation gem. §  12 Abs. 5  handelt.  
+ 
+(4) Die endgültige Verleihung des akademischen Grades und  die Übergabe  der Pr omotions 
+urkunde setzen die Veröffentlichung der Dissertation voraus.  
+ 
+(5) Wird die Verleihung des akademischen Grades abgelehnt, ist di e Entscheidung der Doktora n
+din oder dem Dokt oranden schriftlich per Bescheid vo n der Dekanin  oder dem Dekan  bekannt zu 
+geben, zu b egründen und mit  einer Rechtsbehelfsbelehrung zu versehen.  
+ 
+§ 14 
+Veröffentlichung der Dissertation  
+ 
+Die Dissertation ist in de r von der Promotionskommissio n angenommenen Fassung in einer  an
+gemessenen Frist, jedoch spätestens sechs Monate nac h dem Promotionskolloquium nach  den 
+Grundsätzen für die Veröffentlichung von Dissertationen gemäß  den Regelungen der  Bibliothek 
+der Otto vonGuericke Universität Magdeburg zu veröffentlichen. Das Titelblatt  der Dissertation 
+ist nach dem Text der Anlage 2 zu gestalten. In begründeten Fällen  kann  die Fakultät  die Abliefe
+rungsfrist verlängern. Hierzu bedarf es eines vor Ablauf der Frist  gestellten  begründeten Antrags.  
+ 
+§ 15 
+Ungültigkeit der Promotionsleistungen  
+ 
+(1) Ergibt sich vor der Aushändigung der Promotionsurkunde, dass die Doktorandin  oder der 
+Doktorand  bei ihren oder seine n Promotionsleistung en eine Täuschung begangen  hat oder dass  
+wesentli che Voraussetzungen  für die Zulassung zur Promotion irrtümlich als gegeben angeno m
+men worden sind, so kann der F akultätsrat die Promotionsleistungen für ungültig erklären.  
+ 
+(2) Der Doktorandin  oder dem Doktoranden ist  vor Beschlussfassung G elegenheit zur Ä ußerung 
+vor dem  Fakultätsrat zu geben.  
+ 
+1
+2
+  
+ 
+ 
+Seite 12 von 21 
+ 
+ § 16 
+Promotionsurkunde  
+ 
+(1)  Die Promotion wird mit der Aushändigung der Promotionsurkunde nach Abgabe der Pflich t
+exemplare gem. § 14 vollzogen  und damit – auch im Sinne der arbeitsrechtlichen B efristungsre
+gelungen  abgeschlossen.   
+ 
+(2) Die Promotionsurkunde wird nach dem Text der Anlage 3 ausgefertigt. Sie trägt das  Datum 
+des Promotionskolloquiums.  
+ 
+(3) Erst mit der Aushändigung der Promotionsurkunde erwirbt die Doktorandin oder der Dokt o
+rand das Recht, den akadem ischen Grad „Doktor ingenieu r“ oder „Doktoringenieurin“ (Dr.Ing.) zu 
+führen.  
+ 
+§ 17 
+Entziehung und Widerruf des akademischen Grades  
+ 
+(1) Der Doktorgrad kann unbeschadet der im  Verwaltungsverfahrensrecht  getroffenen  Regelu n
+gen zum Widerruf eines rechtmäßige n Verwaltungsakts entzogen werden, wenn  sich nachträglich 
+herausstellt, dass er durch Täuschung erworben worden ist, ode r    
+ 
+1. wenn wesentliche Voraussetzungen für die Verleihung irrtümlich als gegebe n angeno m
+men wurden ,  
+2. sich nachträglich herausstell t, dass die Inhaberin oder der Inhaber der  Verleihung eines 
+akademischen  Grades unwürdig war oder  
+3. sich die Inhaberin oder der Inhaber durch  ihr oder sein späteres Verhalten der Führung 
+des Grades als  unwürdig erwiesen hat , 
+4. die Inhaberin  oder der Inha ber wegen einer Straftat, die Wissenschaftsbezug hat, recht s
+kräftig verurteilt wurde,  
+5.  die Inhaberin  oder der Inhaber  wegen einer Straftat rechtskräftig verurteilt wurde, bei d e
+ren Vorbereitung oder Begehung sie oder er den Doktorgrad mis sbraucht hat.  
+ 
+(2) Die Entziehung bzw. den Widerruf des Doktorgrades beschließt der Fakultätsrat. Vor  der B e
+schlussfassung ist der betroffenen Person Gelegenheit zur Stellungnahme  vor dem Fakultätsrat zu 
+geben.  
+ 
+(3) Der Beschluss über die Entziehung bzw. den Widerruf ist  der betroffenen Person  schriftlich 
+per Bescheid vo n der Dekanin  oder dem Dekan bekannt  zu geben, zu begründen und mit einer 
+Rechtsbehelfsbelehrung zu  versehen. Gleichzeitig ist die Promotionsurkunde  einzuziehen.  
+ 
+§ 18 
+Einsicht in die Promotionsakte  
+ 
+Nach Abschluss des Promotionsverfahrens wird der Doktorandin  oder dem Doktoranden auf A n
+trag Einsicht in die  Promotionsakte gewährt. Der Antrag kann spätestens drei Monate nach A b
+schluss des  Promotionsverfahrens bei  der Dekanin  oder dem Dekan gestellt werden . 
+1
+3
+  
+ 
+ 
+Seite 13 von 21 
+ 
+  
+§ 19 
+Ehrenpromotion  
+ 
+(1) Die Fakultät für Informatik verleiht mit Zustimmung des Senats die akademische  Würde einer 
+Doktoringenieurin oder eines  Doktor ingenieurs  Ehren halber (Dr. Ing. E.  h.) als seltene  Auszeic h
+nung  für  hervorragend e wissenschaftliche Le istungen sowie  für Verdienste um die  Entwicklung 
+der Wissenschaften. Die zu ehrende Person darf nicht Mitglied der  OttovonGuericke Universität 
+Magd eburg sein.  
+ 
+(2)  Der Antrag ist von mindestens drei Professorinnen  oder Professoren oder Juniorprofessori n
+nen oder Juniorprofessoren  an die Dekanin  oder den Dekan  zu ste llen. 
+ 
+(3) Die Begutachtung des Antrags ist durch eine vom Fakultätsrat zu berufende Ehrungskommi s
+sion, die mindestens aus fünf Professorinnen oder Professoren oder Juniorprofessorinnen  oder 
+Juniorprofessoren besteht, durchzuf ühren. Die oder der Vorsitzende muss Professorin  oder Pro
+fessor sein. Die Kommission erarbeitet einen schriftlichen Bericht über die Persönlichkeit und die 
+Leistungen im Sinne von § 19 Abs . 1. Dabei sind mindestens zwei aus wärtige wissenschaftliche 
+Gutachten heranzuziehen. Vor der Entscheidung  im Fakultätsrat muss die Ehrungskommission 
+dem Antrag mit mindestens vier Stimmen zustimmen.  
+ 
+(4) Die Dekanin  oder der Dekan gibt  den Mitgliedern des Fakultätsrates rechtzeitig bekannt , dass 
+über einen Antrag zu einer Ehrenpromotion zu beraten ist. Es wird gleichzeitig darauf  hingewi e
+sen, dass der Antrag und der Bericht der Ehrungskommission im Dekanat zur vertraulichen Ei n
+sichtnahme au sliegen.  
+ 
+(5) Der Fakultätsrat entscheidet  aufgrund  des Berichtes der Ehrungskommission in  geheimer 
+Abstimmung über die Annahme des Antrages und leitet diesen im Falle der Bestätigung an den 
+Senat weiter. Zur Annahme des Ehrungsantrages ist die Zustimmung der Mehrheit der stimmb e
+rechti gten Fakultätsratsmit glieder erforderlich.  
+ 
+(6) Bei Annahme legt die Dekanin  oder der Dekan  den Ehrungsantrag unter Beifügung aller U n
+terlagen  der Rektorin oder dem Re ktor zur  Beschlussfassung durch den Senat vor.  
+ 
+(7)  Nach zustimmender Beschlussfassung des Senats laden die Rektorin  oder der Rektor und die 
+Dekanin  oder der Dekan zur  feierlichen Ehrung ein und bestimmen die Person, die die Laudatio 
+vorträgt.  
+ 
+(8)  Die Urkunde wird nach dem Text der Anlage 4 ausgefertigt. §  16  Abs. 1  entsprechend.  
+ 
+(9)  Die Ehrenpromotion ist den deutschen wissenschaftlichen Hochschulen und dem zuständ igen 
+Ministerium des Landes Sachsen Anhalt mitzuteilen.  
+ 
+(10) Über einen ablehnenden Beschluss sind die antragstellenden Personen zu unterrichten.  
+ 
+1
+4
+  
+ 
+ 
+Seite 14 von 21 
+ 
+ § 20 
+Gleichstellungsklausel  
+(weggefallen)  
+ 
+§ 21 
+Übergangsregelungen  
+ 
+Für die vor In KraftTreten der Dritten  Satzung  zur Änderung der Promotionsordnung der Faku l
+tät für Informatik bereits eröffneten Promotionsverfahren gilt die Promotion sordnung der Fakultät  
+für Informatik  vom 7. Januar 1999  (19. Deze mber 2012) in der Fassung vom 17. Februar 2016 . 
+ 
+ 
+ 
+ 
+Magdeburg,  den 02. Mai 2018   
+ 
+ 
+ 
+             
+Prof. Dr. Ing. Jens Strackeljan  
+Rektor  
+der Otto vonGuericke Universität Magdeburg  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+5
+  
+ 
+ 
+Seite 15 von 21 
+ 
+  
+Anlage 1  
+Text der Titelseite der Dissertation bei E inreichung  
+ 
+Thema der Dissertation; Dissertation zur Er langung des akademischen Grades  Doktoringenieurin 
+oder Doktoringenieur (Dr. Ing.), vorgelegt der Fakultät für Informatik der  OttovonGuericke 
+Universität Magdeburg von  (akademischer Grad , Vorname, N ame, ggf.  Geburtsname), geb. am ... 
+in ... 
+Magdeburg, Datum bei Eröffnung des Promotionsverfahrens  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+6
+  
+ 
+ 
+Seite 16 von 21 
+ 
+  
+Anlage 2   
+Text der Titelseite der Pflichtexemplare  
+ 
+Thema der Dissertation; Dissertation zur Er langung des akademischen G rades  Doktoringenieurin 
+oder Doktoringenieur (Dr. Ing.), an genommen durch die Fakultät für  Informatik der Otto von
+Guericke Universität Magdeburg vo n (akademischer Grad,  Vorname, N ame, ggf. Geburtsname), 
+geb. am ... in ...  
+ 
+Listung der Gutachter mit Titel,  akademischem Grad, Vorname, Name  
+ 
+Magdeburg , Datum des Promotio nskolloquiums  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+7
+  
+ 
+ 
+Seite 17 von 21 
+ 
+  
+Anlage 3 a)  
+Text der Promotionsurkunde  
+ 
+PROMOTIONSURKUNDE  
+ 
+Unter dem Rektorat der Professorin /des Professors  Dr. ...Name...  verleiht die Fakul tät für 
+Informatik  Herrn/Frau  ...Vorname Name ..., geboren am ...Tag. Monat Jahr in  Stadt ... den 
+akademischen Grad  Doktoringenieur/in  (Dr.Ing.), nachdem er/sie mit der Dissertation  
+...Dissertationstitel ... in einem ordnungsgemäß  durchgeführten  Promotionsve rfahren seine/ihre  
+wissenschaftliche Befähigung nachgewiesen hat.  
+Die Gesamtleistung wird mit   deutscher Grad (... z.B. cum laude)  bewertet.  
+ 
+Magdeburg, Datum des Promotionskolloquiums      
+ 
+ 
+ 
+Prof. Dr . ... weiterer Titel und Name...   (Siegel)    Prof. Dr. ...weiterer Titel und Name...  
+Rektorin/ Rektor              Dekanin/ Dekan  
+ 
+1
+8
+  
+ 
+ 
+Seite 18 von 21 
+ 
+ Anlage 3 b ) 
+Text der Promotionsurkunde bei gemeinsamen Promotionsverfahren mit einer ausländischen 
+Hochschule  
+ 
+PROMOTIONSURKUNDE  
+ 
+Unter dem Rektorat der Professorin /des Professors  Dr. ...Name... verle iht die Fakultät für 
+Informatik H errn/Frau ...Vorname Name..., geboren am ...Tag. Monat Jahr in Stadt... den 
+akademischen Grad Doktoringenieur/in  (Dr.Ing.), nachdem er/sie mit der Dissertation 
+...Dissertationstitel... in ein em ordnungs gemäß durchgeführten Promotionsverfahren seine/ihre 
+wissenschaftliche Befähigung nachgewiesen hat.  
+Die Gesamtleistung wird mit  deutscher Grad (... z. B. cum laude) bewertet.  
+ 
+Magdeburg, Datum des Promotionskolloquiums  
+       
+ 
+Prof. Dr. ... weiterer Titel  und Name...  (Siegel)   Prof. Dr. ...weiterer Titel und Name...  
+Rektorin/ Rektor              Dekanin/ Dekan  
+ 
+Diese Urkunde bildet zusammen mit der von der … . (ausländische Hochschule) verliehenen, zu 
+diesem Promotionsvorhaben zugehörigen, Urkunde zur Erlan gung des akademischen Grades …  
+ein Zeugnis des somit gemeinsam verliehenen Abschlusses. Eine Berechtigung zur Verwendung 
+des akademischen Grades Doktor Doktor (Dr. Dr.) ergibt sich aus diesen ausdrücklich nicht.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+9
+  
+ 
+ 
+Seite 19 von 21 
+ 
+ Anlage 4  
+Text der Ur kunde der Ehrenpromotion  
+ 
+Unter dem Rektorat der Professorin /des Professors  Dr. ...Name... verleiht die Fakultät für 
+Informatik Herrn/Frau ...  Titel/akad. Grade/Vorname/Name/evtl. Geburtsname ..., geboren am 
+...Tag. Monat Jahr in Stadt... die Würde eines Do ktoringenieurs/in Ehren halber (Dr. Ing. E. h .) 
+ 
+Begründung für die  Verleihung lt. Senatsbeschluss  
+ 
+Magdeburg, Datum des Fakultätsratsbeschlusses  
+ 
+ 
+ 
+Prof. Dr. ... weiterer Titel und Name...  (Siegel)   Prof. Dr. ...weiterer Titel und Name...  
+Rektorin/ Rekto r              Dekanin/ Dekan  
+ 
+ 
+ 
+ 
+2
+0
+  
+ 
+ 
+Seite 20 von 21 
+ 
+ Anlage 5  
+Text Wortlaut der Ehrenerklärung  
+ 
+„Ich versichere  hiermit, dass ich die vorliegende Arbeit ohne unzulässige Hilfe Dritter und ohne  
+Benutzung anderer als der angegebenen Hilfsmittel angefertigt habe; verwendete fr emde und e i
+gene Quellen  sind als solche kenntlich gemacht.  Insbesondere habe ich nicht die Hilfe einer  kom
+merziellen  Promotionsberaterin /eines kommerziellen Promotionsberaters in Anspruch geno m
+men. Dritte haben von mir weder unmittelbar noch mittelbar geld werte Leistungen für A rbeiten 
+erhalten, die im Zusammenhang mit dem Inhalt der vorgelegten Dissertation stehen.  
+ 
+Ich habe insbesondere nicht wissentlich:  
+ 
+ Ergebnisse erfunden oder widersprüchliche Ergebnisse verschwiegen,  
+ statistische Verfahren absicht lich missbraucht, um Daten in ungerechtfertigter Weise zu       
+   interpretieren,  
+ fremde Ergebnisse oder Veröffentlichungen plagiiert,  
+ fremde Forschungsergebnisse verzerrt wi edergegeben.  
+ 
+Mir ist bekannt, dass Verstöße gegen das Urheberrecht Unterlass ungs und Schadensersatza n
+sprüche  der Urheberin /des Urhebers  sowie eine strafrechtliche Ahndung durch die Strafverfo l
+gungsbehörden b egründen  kann.  Die Arbeit wurde bisher weder im Inland noch im Ausland in 
+gleicher oder ähnlicher Form  als Dissertation eing ereicht und ist als Ganzes auch noch nicht ver
+öffentlicht.“  
+ 
+(Magdeburg , Datum  bei Eröffnung des Promotionsverfahrens)  
+ 
+(Vorname, Name und Unterschrift)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+1
+  
+ 
+ 
+Seite 21 von 21 
+ 
+ Anlage 6 :  
+Text Wortlaut der Erklärung zur strafrechtlichen Verurteilung  
+ 
+„Ich erklä re hiermit, nicht wegen einer Straftat verurteilt worden zu sein, die Wissenschaftsbezug 
+hat.“ 
+ 
+ 
+(Magdeburg, Datum bei Eröffnung des Promotionsverfahrens ) 
+ 
+ 
+(Vorname, Name und Unterschrift ) 
+ 
+ 
+ 
+ 

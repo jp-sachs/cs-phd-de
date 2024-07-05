@@ -1,0 +1,851 @@
+ 
+__________________________________________________________________________________  
+Nichtamtliche Fassung, verbindlich ist allein der amtlich veröffentlichte Text  
+Satzungen und Änderungssatzungen sind amtlich veröffentlicht unter:  
+https://www.uni luebeck.de/universitaet/hochschulrecht/amtliche bekanntmachungen.html  
+ 
+ Leseabschrift  
+ 
+Promotionsordnung (Satzung) der Sektionen Informatik/Technik  
+und Naturwissenschaften der Universität zu Lübeck  
+(PromO MINT 2023)  
+Vom 16. Mai 2023  (NBl. HS MBWFK Schl. H. S. 65)  
+ 
+geändert durch:  
+Satzung vom 20. Februar 2024 (NBl. HS MBWFK Schl. H. S. 20)  
+ 
+ 
+Inhalts verzeichnis : 
+ 
+Erster Teil:  
+Promotion  
+ 
+§ 1 Akademischer Grad  
+§ 2 Ehrenpromotion  
+§ 3 Gemeinschaftliche Verleihung eines Doktorgrades  
+§ 4 Annahme und Betreuung von Promotionsstudierenden  
+ 
+Zweiter Teil:  
+Organisation  
+ 
+§ 5 Promotionsausschuss 
+§ 6 Prüfungsausschüsse  
+ 
+Dritter Teil:  
+Voraussetzungen für die Zulassung zum Promotionsverfahren  
+ 
+§ 7 Allgemeine Zulassungsvoraussetzungen  
+§ 8 Besondere Zulassungsvoraussetzungen  
+ 
+Vierter Teil:  
+Promotionsverfahren  
+ 
+Erster Abschnitt: Antrags  und Zulassungsverfahren 
+§ 9 Zulassungsantrag  
+§ 10  Zulassungsentscheidung 
+ 
+Zweiter  Abschnitt: Begutachtung der Dissertation  
+§ 11  Dissertation  
+ 
+ § 12  Beurteilung durch die Berichterstattenden  
+§ 13  Auslage der Dissertation  
+§ 14  Verbesserung der Dissertation 
+§ 15  Entscheidung durch die Vorsitzende oder den Vorsitzenden des Promotionsausschusses  
+§ 16  Entscheidung durch den Promotionsausschuss  
+ 
+Dritter Abschnitt: Mündliche Prüfung  
+§ 17  Kolloquium  
+§ 18  Durchführung der mündlichen Prüfung  
+§ 19  Bewertung und Bestehen der mündlichen Prüfung  
+ 
+Vierter Abschnitt: Abschlussverfahren 
+§ 20 Bestehen der Promotion, Bewertung  und Bekanntgabe des Ergebnisses  
+§ 21  Vervielfältigung der Dissertation  
+§ 22  Vollzug der Promotion  
+ 
+Fünfter Abschnitt: Wiederholung , Nachteilsausgleich,  Rechtsbehelfe  
+§ 23  Wiederholung der mündlichen Prüfung  
+§ 24  Anerkennung besonderer Bedürfnisse, Nachteilsausgleich  
+§ 25  Rechtsbehelfsverfahren 
+ 
+Fünfter Teil:  
+Unwirksamkeit der Promotion  
+ 
+§ 26 Ungültigerklärung  
+§ 27 Widerruf der Promotion  
+ 
+Sechster Teil:  
+Schlussvorschriften  
+ 
+§ 28 Übergangsregelungen 
+§ 29 Inkrafttreten 
+ 
+ 
+ 
+Erster Teil:  
+Promotion  
+ 
+§ 1 
+Akademischer Grad  
+ 
+(1) Die Sektionen Informatik/Technik und Naturwissenschaften der Universität zu Lübeck verleihen  
+die akademischen Grade einer Doktorin oder eines Doktors der Naturwissenschaften (Dr. rer. nat.), 
+einer Doktorin oder eines Doktors der Ingenieurwissenschaften (Dr. Ing.) , einer Doktorin oder eines 
+Doktors der Philosophie (Dr. phil.)  und eines „Doctor of Philosophy “ (Ph.D.). 
+ 
+ 
+ (2) Der akademische Grad wird aufgrund der besonderen Befähigung zu selbständiger wissenschaft
+licher Arbeit verliehen, die durch eine wissenschaftliche Abhandlung (Dissertation) und eine münd
+liche Prüfung nachgewiesen wurde.  
+ 
+§ 2 
+Ehre npromotion  
+ (1) Die Sektionen Informatik/Technik und Naturwissenschaften können  als seltene Auszeichnung 
+den Grad und die Würde einer Doktorin oder eines Doktors der Naturwissenschaften ehrenhalber 
+(Dr. rer. nat. h.c.) und einer Doktorin oder eines Doktors  der Ingenieurwissenschaften ehrenhalber 
+(Dr. Ing. h.c.) für hervorragende wissenschaftliche Leistungen einschließlich hervorragender techni
+scher Leistungen oder persönliche Verdienste um die von den Sektionen Informatik/Technik und 
+Naturwissenschaften vertretenen Wissenschaften verleihen.  
+ (2) Der Senatsausschuss MINT  berät über die Verleihung auf Antrag eines Drittels der Professorinnen 
+und Professoren der Sektionen Informatik/Technik und Naturwissenschaften. Der Antrag ist schrift
+lich und mit einer Begrü ndung an die Ausschussvorsitzende oder den Ausschussvorsitzenden zu 
+richten. Der Senatsausschuss M INT bereitet die Entscheidung vor und leitet den Vorschlag bei einer 
+Beschlussfassung mit einer Mehrheit von vier Fünftel n der stimmberechtigten Mitglieder an den Se
+nat weiter.  Der Senat beschließt auf Vorschlag des Senatsausschusses M INT mit einer Mehrheit v on 
+vier Fünftel n der stimmberechtigten Mitgliede r. 
+ 
+(3) Die Ehrenpromotion wird durch Überreichen einer Urkunde, in der die Verdienste der Promoven
+din oder des Promovenden hervorzuheben sind, vollzogen.  
+ 
+(4) Jede Ehrenpromotion wird dem zuständigen Ministerium durch Übersenden einer Abschrift der Urkunde angezeigt.  
+ (5) Ein ehrenhalber verliehener Doktorgrad kann entzogen werden, wenn sich nachträglich heraus
+stellt, dass die Voraussetzungen des Absatzes 1 nicht vorgelegen haben oder sich die oder der Geehrte der Auszeichnung nicht würdig erwiesen hat. Der Senatsausschuss MINT berät über die Ent
+ziehung auf Antrag eines Drittels der Professorinnen und Professoren der Sektionen Informa
+tik/Technik und Naturwissenschaften . Die Absätze 2 und 4 w erden entsprechend angewendet. Im 
+Falle der Entziehung des Doktor grades ist die nach Absatz 3 überreichte Urkunde zurückzugeben.  
+ 
+§ 3 
+Gemeinschaftliche Verleihung eines Doktorgrades 
+ 
+Die Sektionen Informatik/Technik und Naturwissenschaften können die unter §  1 genannten Grade 
+auch gemeinschaftlich mit einer anderen, ausländischen Fakultät vergeben, wenn ein entsprechen
+des Kooperationsabkommen zwischen den Einrichtungen besteht. Das Abkommen muss insbeson
+dere die Zulassungsvoraussetzungen, den Umfa ng der Prüfung, die Unwirksamkeit und den Wider
+ruf der Promotion so regeln, das s nicht hinter die in dieser Prüfungsordnung festgelegten Regeln 
+zurückgeschritten wird.  
+ 
+  
+ 
+ § 4 
+Annahme und Betreuung von Promotionsstudierenden  
+ 
+(1) Promotionsstudierende können in der Regel nur angenommen und betreut werden von  haupt
+beruflich an der Universität zu Lübeck t ätigen  
+ 
+ 1. Professorinnen oder Professoren,  
+ 2. Privatdozentinnen oder Privatdozenten,  
+ 3. Juniorprofessorinnen oder Juniorprofessoren,  
+ die Mitglieder einer der Sektionen Informatik/Technik und Naturwissenschaften sind.  
+ 
+(2) Personen nach Abs atz 1 sind gleichgestellt:  
+ 
+1. die in den außeruniversitären Forschungseinrichtungen hauptberuflich tätigen und beurlaub
+ten Professorinnen und Professoren der Universität zu Lübeck,  
+2. pensionierte Professorinnen und Professoren, die zuletzt an den Sektion en Informatik/Technik 
+und Naturwissenschaften  tätig waren,  
+3.  an den Sektion en Informatik/Technik und Naturwissenschaften tätige Seniorprofessorinnen 
+und Seniorprofessoren,   
+4. an den Sektion en Informatik/Technik und Naturwissenschaften tätige Honorarprof essorinnen 
+und Honorarprofessoren,  
+5. an den  Sektion en Informatik/Technik und Naturwissenschaften nicht hauptberuflich tätige 
+Privatdozentinnen und  Privatdozenten und  
+6. nicht hauptberuflich an den Sektionen Informatik/Technik und Naturwissenschaften tätige 
+APL Professorinnen und  Professoren.  
+ 
+(3) Professorinnen und Professoren, Privatdozentinnen und Privatdozenten oder Juniorprofessorin
+nen und Juniorprofessoren anderer Sektionen der Univers ität zu Lübeck können Promotionen nur 
+dann annehmen und betreuen, wenn eine gleichzeitige Zweitbetreuung durch eine Professorin 
+oder einen Professor der Sektionen Informatik/Technik und Naturwissenschaften erfolgt. Dieser soll 
+die Arbeit vor den Sektionen Informatik/Technik und Naturwissenschaften vertreten und berät die 
+Promotionsstudierende  oder den Promotionsstudierenden in Fragen der fü r den Erwerb eines Gra
+des an den Sektionen Informatik/Technik und Naturwissenschaften notwendigen qualitativen An
+forderungen an die Arbeit. Die Zweitbetreuung ist aktenkundig zu machen.  
+ 
+(4) Der Promotionsausschuss kann auf Antrag für jedes Promotionsverfahren auch anderen Mitglie
+dern der Universität zu Lübeck die Annahme und Betreuung von Promotionsstudierenden gestat
+ten, wenn ein begründeter Ausnahmefall (z.B. im Rahmen des Emmy Noether Programms geför
+derte Nachwuchsgruppenleiterinnen und Nachwuchsgruppenleiter) vorliegt.  
+Wenn dieses Mitglied nicht einer der Sektionen Informatik/Technik und Naturwissenschaften ange
+hört, g elten die Vorgaben aus Absatz 3 entsprechend.   
+ (5) Die oder d er Vorsitzende des Promotionsausschusses,  unterstützt von der  Geschäftsstelle Infor
+matik/Technik und Naturwissenschaften (MINT ), berät die Promotionsstudierenden  sowie deren Be
+treuerinnen oder Betreuer in enger Abstimmung mit dem Center for Doctoral Studies Lübeck (CDSL) in allen Fragen zum Promotionsverfahren.  
+ 
+  
+(6) Die oder der Promotionsstudierende beantragt  die Annahme zum Promotionsvorhaben bei  der 
+Geschäftsstelle MINT . Dem Antrag  sind alle zur Überprüfung notwendigen Unterlagen beizufügen.  
+Die oder der Promotionsausschussvorsitzende , unterstützt von der  Geschäftsstelle MINT , überprüft 
+den Antrag nach § 7  Absatz  1 Nummer 1  oder 2  oder §  8, dokumentiert das Ergebnis  und setzt ggf. 
+eine Prüfungskommission nach § 8 Absatz  2 ein. Die oder der Promotionsstudierende erhält einen 
+Nachweis über das Vorliegen der Zulassung zum Promotionsvorhaben , ggf. unter Auflagen. 
+ 
+(7) Sobald die oder der Promotionsstudierende  den Nachweis nach Absatz 6  erhält, muss diese oder 
+dieser sich beim Studierenden Service Center (SSC)  immatrikulieren und mit dem Nachweis „Zulas
+sung zum Promotionsvorhaben“ sowie der Immatrikulationsbescheinigung am CDSL registrieren.  
+ (8) Spätestens binnen drei  Monaten nach der Immatrik ulation  ist zwischen der  Betreuerin oder dem 
+Betreuer und der oder dem Promotionsstudierenden  eine Betreuungsvereinbarung  unter Verwen
+dung der vom CDSL zur Verfügung gestellte n Muster Betreuungsvereinbarung zu schließen und 
+beim CDSL zu hinterlegen.  
+ 
+(9) Sofern die oder der Promotionsstudierende  nach Absatz 7 immatrikuliert und registriert ist, gilt 
+der Abschluss der Betreuungsvereinbarung als Annahme der oder des Promotionsstu dierenden. 
+Eine Annahme als Promotionsstudierende oder Promotionsstudierender  ist ohne Immatrikulation 
+und Registrierung nicht möglich. Für den Fall, dass eine Betreuungsvereinbarung vor Immatrikula
+tion und Registrierung geschlossen wurde, gilt als Zeitpun kt der Annahme das jüngste Datum.  
+ (10) Sollte ein Betreuungs team  mit weiteren Ko Betreuerinnen oder Ko Betreuern oder Mentorinnen 
+oder Mentoren eingerichtet werden,  etwa  im Rahmen der strukturierten Promotion  am CDSL , sind 
+diese bei der Registrierung und in der Betreuungsvereinbarung  aktenkundig zu machen.  
+ (11) Fallen die in Absatz 1 bis 4 g enannten Voraussetzungen zur Betreuung weg oder wird  die Be
+treuung aus gesundheitlichen Gründen niedergelegt , bemüht sich die Universität um eine Weiter
+betreuung der oder d es Promotionsstudierenden.  Wünsche der oder  des Promotionsstudierende n 
+werden hierbei berücksichtig t. Endet die Betreuung  aufgrund desse n, dass die Betreuerin oder der 
+Betreuer einem  Ruf an eine andere Hochschule folgt, sich  umhabilit iert oder aus  einem  vergleichba
+ren Gru nd, dann ist eine Fortsetzung der Betreuung mit allen in dieser Satzung genannten Rechten 
+und Pflichten  grundsätzlich  möglich , sofern sich  die Betreuerin oder  der Betreuer hierzu bereit er
+klärt und d ie oder der Promotionsstudierende  hiermit einverstanden ist .  
+ 
+(12) Die Annahme als Promotionsstudierende  oder Promotionsstudierender  begründet keinen An
+spruch auf spätere Zulassung zum Promotionsverfahren.  
+ 
+Zweiter Teil:  
+Organisation  
+ 
+§ 5 
+Promotionsausschuss  
+ 
+(1) Der Promotionsausschuss besteht aus den Mitgliedern des Senatsausschusses Informatik/Tech
+nik und Naturwissenschaften . Den Vorsitz und die Geschäfte des Promotionsausschusses führt die 
+ 
+ oder der Vorsitzende des Senatsausschusses . Bei der Geschäftsführung bedient sie oder er sich der 
+Geschäftsstelle  MINT der Universität zu Lübeck.  
+ 
+(2) Der Promotionsausschuss führt die Promotionsverfahren durch und erfüllt die ihm nach dieser 
+Satzung übertragenen Aufgaben. Er sorgt insbesondere dafür, dass die Bestimmungen dieser Sat
+zung eingehalten  werden  und das Verfahren innerhalb angemessener Frist abgew ickelt wird. Die 
+oder der Vorsitzende berichtet dem Promotionsausschuss über die Entwicklung der Promotionsver
+fahren. 
+ 
+(3) Das Stimmrecht im Promotionsausschuss steht bei fachlichen Entscheidungen über Promotions
+leistungen sowie in sonstigen Angelegenheiten dieser Promotionsordnung nur den Angehörigen 
+der Mitgliedergruppe der Hochschullehrerinnen und der Hochschullehrer und den promovierten 
+Mitgliedern der Mitgliedergruppe des wissenschaftlichen Dienstes zu.  
+ 
+§ 6 
+Prüfungsausschüsse  
+ 
+(1) Der Promotionsaussch uss bestellt für jedes durchzuführende Promotionsverfahren einen Prü
+fungsausschuss, der aus einer oder einem Vorsitzenden und mindestens zwei Berichterstattenden 
+besteht. Die Berichterstattenden sollen nicht demselben Institut angehören. Die oder der Vorsi t
+zende muss  hauptamtliche Professorin oder Professor (W2, W3 oder entsprechend ) sein und  einem 
+Institut der Sektionen Informatik/Technik oder Naturwissenschaften angehören. Mindestens eine 
+weitere Berichterstatterin oder ein Berichterstatter muss hauptamtliche Professorin oder Professor 
+(W2, W3 oder entsprechend) oder  Mitglied  einer Personengruppe nach § 4 Absatz 2 Nummern  
+1 bis 3 sein  und einer der Sektionen Informatik/Technik oder Naturwissenschaften angehören. Wei
+tere Beric hterstattende können auch eine der in § 4 Absatz 1 Nummer 2  oder Nummer 3  oder Abs atz 
+2 Nummer 4  oder Nummer 5  genannten Personen sein, die de n Sektion en Informatik/Technik oder  
+Naturwissenschaften  angehört. Sie oder er kann auch  der Sektion Medizin der Universität zu Lübeck 
+oder einer anderen wissenschaftlichen Hochschule angehören.  Nur ein Prüfungsausschussmitglied 
+kann Betreuerin oder Betreuer oder Mentor oder Mentorin nach § 4 sein.  
+ (2) Zur Begutachtung der Dissertation kann der Promotionsausschuss zusätzliche Berichterstattende 
+bestellen, die ein Gutachten zur Bewertung der Promotion erstellen. Die oder der weitere Berichter
+stattende kann zusätzlich in den Prüfungsausschuss bestellt werden.  Diese  können auch Professo
+rinnen und Professoren von Fachhochschulen sein, die im entsprechenden Fach einen Doktorgrad besitze n.  
+ 
+(3) Die Betreuerin oder der Betreuer soll zur oder zum Erstberichterstattenden bestellt werden.  
+ (4) Steht ein Mitglied  des Prüfungsauss chusses nicht mehr zur Verfügung oder erfüllt seine Aufgaben 
+nachweislich unzureichend, erfolgt eine Abberufung durch die Vorsitzende oder den Vorsitzenden 
+des Promotionsausschusses und , wenn es ein Mitglied nach Abs atz 1 ist, eine Nachwahl .  
+ 
+(5) Steht eine  externe Berichterstattende oder ein externer Berichterstattender nicht mehr zur Ver
+fügung oder  erstellt binnen angemessener Frist das Gutachten nicht, so beauftragt die oder der Pro
+motionsausschussvorsitzende eine andere Person mit der Erstellung des Gutachtens . 
+ 
+ 
+ (6) Die Prüfungsausschussmitglieder und Berichterstattenden dürfen nicht in einem Verw andt
+schafts  oder Angehörigenverhältnis zu der oder dem Bewerbenden stehen. Mit Ausnahme der oder 
+des Erstberichterstattenden dürfen die Prüfungsausschussmitglieder und Berichterstattenden keine 
+Publikationen oder Forschungsprojekte mit der oder dem Bewerb enden  haben.  
+ 
+Dritter Teil:  
+Voraussetzungen für die Zulassung zum Promotionsverfahren  
+ 
+§ 7 
+Allgemeine Zulassungsvoraussetzungen  
+ 
+(1) Die Zulassung zum Promotionsverfahren setzt voraus:  
+ 
+1. Den erfolgreichen  Abschluss eines Diplomstud iengang s oder Magisterstudiengangs an der 
+Universität oder einer gleichgestellten Hochschule oder der erfolgreiche Abschluss eines for
+schungsorientierten, gemäß den deutschen Akkreditierungsrichtlinien a kkreditierten Mas
+terstudie ngang s (Master of Science, Master of Arts), im Geltungsbereich des Hochschulrah
+mengesetzes  bei Bewerbenden für den Dr. rer. nat. ein naturwissenschaftliches, Informatik  
+oder ingenieurwissenschaftliches Studium, bei Bewerbenden für den Dr. Ing. ein Informa tik 
+oder ingenieurwissenschaftliches Studium,  bei Bewerbenden für den Dr. phil. ein geistes , 
+wirtschafts  oder sozialwissenschaftliches Studium.  
+2. Anstelle der in  Nummer 1  genannten Abschlüsse kann die erfolgreiche Absolvierung der für 
+die Zulassung zur Promotion vorgeschriebenen studienbegleitenden Fachprüfungen und Leistungen der durch die Rahmenstudien  und Prüfungsordnung  (PromRPO)  der Universität 
+zu Lübeck  für Studie rende der Promotionsstudienprogramme vom 16. August 2016 (NBl. HS 
+MSGWG Schl. H. S.  84) in ihrer jeweils gültigen Fassung  geregelten  Promotionsstudienpro
+gramme oder des gleichgestellten strukturierten Weiterbildungsangebotes  für Promotions
+studierende  der Universität zu Lübeck treten.  
+3. bei Bewerbenden  für den Ph. D. den erfolgreichen Abschluss eines durch die PromRPO gere
+gelten Promotionsstudiengangs oder eines gleichgestellten strukturierten Weiterbildungs
+angebotes der Universität zu Lübeck . 
+4. eine von der oder dem Bewerbenden  angefertigte Dissertation .  
+ 
+(2) Die Zulassung zum Promotionsverfahren setzt weiterhin voraus, dass die oder der Bewerbende  
+ 
+1. nicht wegen einer vorsätzlich begangenen Straftat zu einer Freiheitsstrafe von mehr als ei
+nem Jahr rechtskräftig verurteilt wurde,  
+2. die Fähigkeit zur Bekleidung öffentlicher Ämter besitzt,  
+3. nicht die Voraussetzungen der Betreuung gemäß §§ 1896 ff . BGB erfüllt,  
+4. nicht an einer anderen deutschen Hochschule ein Promotionsverfahren für den angestreb
+ten Doktorgra d endgültig nicht bestanden hat , 
+5. den Nachweis der Immatrikulation an der Universität als Promotionsstudierende oder Pro
+motionsstudierender  erbringt, welche bis zum Abschluss des Promotionsverfahrens fortbe
+stehen muss und  
+6. nicht bereits berechtigt ist, den angestrebten Doktorgrad zu führen.  
+ 
+ 
+ (3) Ein abgeschlossenes Studium an einer Hochschule außerhalb des Geltungsbereichs des Hoch
+schulrahmengesetzes wird anerkannt, soweit Gleichwertigkeit festgestellt ist. G leichwertigkeit ist 
+festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und 
+in den Anforderungen denjenigen des entsprechenden Studiums an einer Hochschule innerhalb des 
+Geltungsbereichs des Hochschulrahmengesetzes  im Wesentlichen entsprechen. Dabei ist kein sche
+matischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. Die 
+von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzver
+einbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften sind zu beachten. Die 
+oder der Bewerbende  hat der oder dem Vorsitzenden des Promotionsausschusses die für eine Fest
+stellung der Gleichwertigkeit erforderlichen Unterlagen vorzulegen.  
+ 
+§ 8 
+Besondere Zulassungsvoraussetzungen  
+ (1) Absolventinnen und Absolventen eines anderen als der in § 7  genannten Diplom , Magister  oder 
+Masterstudiengänge einer Universität oder gleichgestellten Hochschule oder Fachhochschule im Geltungsbereich des Hochschulrahmengesetzes werden zur Promotion zugelassen, wenn sie an
+stelle der Voraussetzungen gem äß § 7 Absatz 1 Nummer 1  oder Nummer 2  einen Nachweis ihrer für 
+die Promotion erforderlichen wissenschaftlichen Befähigung erbringen.  
+ 
+(2) Der Nachweis der wi ssenschaftlichen Befähigung ist in einem Prüfungsverfahren vor einer Prü
+fungskommission zu erbringen, die mindestens aus drei Hochschullehrerinnen oder Hochschulleh
+rern besteht. Die Prüfungskommission wird durch den Vorsitzenden des Senatsausschusses MINT 
+eingesetzt.  
+ 
+(3) Absolventinnen und Absolventen eines pharmazeutischen Studienganges mit Staatsexamen können unbeschadet des Absatzes 2 den Nachweis der wissenschaftlichen Befähigung durch die 
+Vorlage einer schriftlichen Arbeit über ein mit dem Betreuer od er der Betreuerin vereinbartes Thema, 
+die den Anforderungen der Universität zu Lübeck an das wissenschaftliche Schreiben entsprechen 
+muss, erbringen. Der Promotionsausschuss bestellt ein habilitiertes Mitglied der MINT Sektionen zur 
+Begutachtung der schrif tlichen Arbeit. Der Nachweis der wissenschaftlichen Befähigung gilt als er
+bracht, wenn das Mitglied zu dem Ergebnis gelangt, dass die schriftliche Arbeit den Anforderungen 
+an das wissenschaftliche Schreiben entspricht. Stellt das Mitglied fest, dass die sc hriftliche Arbeit 
+nicht den Anforderungen an das wissenschaftliche Schreiben entspricht, bestellt der Promotions
+ausschuss zwei weitere habilitierte Mitglieder der MINT Sektionen zur Begutachtung der schriftli
+chen Arbeit. In diesem Fall gilt der Nachweis der wissenschaftlichen Befähigung als erbracht, wenn 
+beide Mitglieder zu dem Ergebnis gelangen, dass die schriftliche Arbeit den Anforderungen der Uni
+versität zu Lübeck an das wissenschaftliche Schreiben entspricht. Das Ergebnis ist der oder dem Vor
+sitzenden des Promotionsausschusses mitzuteilen. Das Verfahren kann nicht wiederholt werden. 
+§ 10 Absatz 3 gilt entsprechend  
+ (4) Die Prüfungskommission beurteilt zunächst anhand der Studienunterl agen, die von der oder 
+dem Bewerbenden  vorzulegen sind, ihre oder  seine wissenschaftliche Qualifikation.  Sie kann weiter
+hin ein Vorgespräch anberaumen, um einen Eindruck von den wissenschaftlichen Befähigungen der 
+oder des Bewerbenden  zu bekommen.  Die Prüfungskommission legt danach g egebenenfalls  zu stu
+dierende Fachinhalte fest und kann dazu der oder dem Bewerbenden  den Besuch von Lehrveran
+ 
+ staltungen der Sektionen Informatik/Technik und Naturwissenschaften und das Erbringen von Leis
+tungsnachweisen auferlegen. Diese Auflagen sind so zu gestalten, dass sie innerhalb der b eiden fol
+genden Semester erbracht werden können. Sie sind innerhalb von 24 Monaten zu erbringen. Auf 
+begründeten Antrag hin kann diese Frist verlängert werden.  
+ 
+(5) Die Prüfungskommission  kann ein Prüfungsgespräch mit der oder dem Bewerbenden durch füh
+ren. Dieses soll spätestens drei Monate nach Erfüllung der Auflagen stattfinden. 
+ 
+(6) Das Prüfungsgespräch kann alle Gebiete des absolvierten Studiums zum Gegenstand haben. Es 
+soll eine Stunde nicht überschreiten. Die Prüfungsgegenstände sollen geeignet  sein, die wissen
+schaftliche Befähigung der oder des Bewerbenden  nachzuweisen.  
+ (7) Der Nachweis der wissenschaftlichen Befähigung ist erbracht, wenn mindestens zwei Mitglieder 
+der Prüfungskommission das Prüfungsgespräch als "bestanden“ bezeichnen. Das Erg ebnis des Prü
+fungsgesprächs ist der oder dem Vorsitzenden des Promotionsausschusses vom Prüfungsausschuss 
+mitzuteilen. Ein nicht bestandenes Prüfungsgespräch kann nicht wiederholt werden. §  10 Absatz 3 
+gilt entsprechend.  
+ 
+(8) Für die Zulassung von Absolven tinnen und Absolventen eines Diplomstudienganges einer Fach
+hochschule ist zusätzliche Voraussetzung, dass die oder der Bewerbende zu den besten 10 % ihres 
+oder  seines Absolventenjahrganges gehört oder ersatzweise eine Abschlussnote von 1,5 oder besser 
+besi tzt und eine mit der Note „ sehr gut“ bewertete Diplomarbeit angefertigt hat. Darüber hinaus ist 
+ein detailliertes Gutachten einer Fachhochschullehrerin oder eines Fachhochschullehrers des Fach
+bereiches, an dem die oder der Bewerbende  ihren oder  seinen Absc hluss erworben hat, vorzulegen, 
+in dem die besondere Qualifikation der oder des Bewerbenden dargelegt wird.  
+ 
+Vierter Teil:  
+Promotionsverfahren  
+ 
+Erster Abschnitt:  
+Antrags  und Zulassungsverfahren  
+ 
+§ 9 
+Zulassungsantrag  
+ Der Antrag auf Zulassung zum Promotionsverfahren ist unter Angabe des angestrebten akademi
+schen Grades an die Vorsitzende oder den Vorsitzenden des Promotionsausschusses zu richten. Dem Antrag sind beizufügen:  
+1. Vier Exemplare der Dissertation, die in deutscher oder englischer Sprache abgefasst und  im 
+Format DIN A 4 gedruckt  sind , ein Exemplar in elektronischer Form , wobei Datenformat und 
+Datenträger der elektronischen Fassung mit dem Promotionsausschuss abzustimm en sind  
+sowie  entweder die schriftliche Zustimmung für  die Verwendung einer Anti Plagiatssoft
+ware oder eine anonymisierte Version der Dissertation in elektronischer Form,  
+ 
+2. eine Zusammenfassung der Arbeit  in deutscher und englischer Sprache,  
+ 
+  
+3. ein Lebenslauf, der insbesondere über Bildung und Studiengang der od er des Bewerbenden  
+Aufschluss gibt,   
+ 
+4. eine aktuelle Immatrikulationsbescheinigung als Promotionsstudierende oder Promotions
+studierender,  
+ 
+5. die Betreuungsvereinbarung , 
+ 
+6. ein polizeiliches Führungszeugnis der oder des Bewerbenden nach § 30 Abs atz 5 BZRG,  wel
+ches  nicht älter als ein Jahr und von der Behörde direkt an die Geschäftsstelle MINT zu über
+senden ist, 
+ 
+7. das Zeugnis über den erfolgreichen Abschluss des Hochschulstudiums gemäß § 7  Absatz 1 
+Nummer 1  oder den Befähigungsnachweis gemäß § 8 und bei Erteilung von Auflagen den 
+Nachweis über die erfolgreiche Absolvierung , für Bewerbende  auf den Ph .D. und Bewer
+bende nach § 7 Absatz 1 Nummer 2  das Zeugnis über den erfolgreichen Abschl uss eines 
+Promotionsstudiengangs oder eines strukturierten Weiterbildungsangebotes für Promoti
+onsstudierende der Graduiertenschule Lübeck (GSL) , 
+ 
+8. die Angabe, unter wessen Betreuung und in welchem Institut die Dissertation angefertigt 
+wurde,  
+ 
+9. die Versicherung der oder des Bewerbenden, dass sie oder er die Dissertation ohne fremde Hilfe angefertigt und keine anderen als die in der Arbeit genannten Hilfsmittel benutzt hat, 
+ 
+10. die Versicherung der oder des Bewerbenden, dass Richtlinie über die Grundsätze zur Siche
+rung guter wissenschaftlicher Praxis an der Universität zu Lübeck eingehalten wurde,    
+ 
+11. die Versicherung der oder des Bewerbenden, dass sie oder er nicht vorher oder g leichzeitig 
+andernorts einen Zulassungsantrag gestellt oder die Dissertation vorgelegt hat,  
+ 
+12. eine Erklärung darüber, ob und mit welchem Erfolg die oder der Bewerbende  sich bereits 
+einem anderen Promotionsverfahren unterzogen hat, 
+ 
+13. die Angabe einer Anschrift, über die die oder der Bewerbende bis zum Abschluss des Pro
+motionsverfahrens zu erreichen ist . Anschrifts änderungen sind der Geschäftsstelle MINT un
+verzüglich anzuzeigen , 
+ 
+14. ein Empfehlungsschreiben einer Hochschullehrerin oder eines Hochschullehrers der Sektio
+nen Informatik/Technik oder  Naturwissenschaften , das Promotionsverfahren zu eröffnen,  
+ 
+15. eine Einverständniserklärung der oder des Bewerbenden über die Bearbeitung und Verwen
+dung personenbezogener Daten für interne Zwecke und für die Veröffentlichung auf der 
+entsprechenden Homepage. 
+  
+ 
+ § 10  
+Zulassungsentscheidung  
+ 
+(1) Über die Zulassung entscheidet  die oder der Vorsitzende des Promotionsausschusses.  
+ 
+(2) Die Zulassung ist zu versagen, wenn die oder der Bewerbende  die Voraussetzungen für die Zu
+lassung nicht erfüllt. Die Zulassung kann versagt werden, wenn der Zulassungsantrag unvollständig ist und di e oder der Bewerbende eine ihr oder ihm zur Vervollständigung des Antrags gesetzte an
+gemessene Frist ungenutzt verstreichen lässt.  
+(3) Über die Ablehnung des Zulassungsantrages ist der oder dem Bewerbenden  ein schriftlicher Be
+scheid zu erteilen.  
+ (4) Die oder der Bewerbende kann den Zulassungsantrag schriftlich zurückziehen, solange die Dis
+sertation nicht abgelehnt worden ist oder die mündliche Prüfung noch nicht begonnen hat. Wird 
+der Zulassungsantrag zurückgenommen, nachdem die Begutachtung der Dissertat ion begonnen 
+hat, verbleibt ein Exemplar bei der  Universität . 
+ 
+(5) Wird dem Zulassungsantrag stattgegeben, setzt der Promotionsausschuss auf Vorschlag der oder 
+des Vorsitzenden den Prüfungsausschuss  ein. Dabei ist die oder der Erstberichterstattende zu be
+nennen. Die Zulassungsentscheidung ist der oder dem Bewerbenden mitzuteilen. 
+ 
+Zweiter Abschnitt:  
+Begutachtung der Dissertation  
+ 
+§ 11  
+Dissertation  
+ (1) Die Dissertation muss die Befähigung der oder des Bewerbenden  zu selbstständiger wissen
+schaftlicher Arbeit und zu klarer Darstellung ihrer oder seiner Ergebnisse individuell nachweisen und 
+einen eigenen neuen substantiellen wissenschaftlichen Beitrag liefern. Die Grundsätze zur Siche
+rung guter wissenschaftlicher Pra xis sind zu berücksichtigen. Gemeinschaftsdissertationen sind aus
+geschlossen.  Die wissenschaftlich eigenständige, klar abgrenzbare Leistung der oder des Bewerben
+den muss detailliert dargestellt werden.  
+ 
+(2) Bereits veröffentlichte Arbeiten, eingereichte sowie zur Veröffentlichung vorbereitete Manu
+skripte der oder des Bewerbenden können ganz oder teilweise Bestandteil der Dissertation sein. 
+Diese müssen dazu ausführlich in den fachlichen Kontext der Dissertati on gebracht werden. Bei Be
+teiligung mehrerer Autorinnen oder Autoren an einer Veröffentlichung ist der eigene Anteil der oder 
+des Bewerbenden  in der Dissertation detailliert darzustellen. 
+ 
+(3) Die Dissertation muss ein Thema aus einem der folgenden Fächer behandeln: 
+ 
+1.  für den Dr. rer. nat.  
+a) Biochemie  
+b) Biologie  
+c) Chemie  
+ 
+ d) Informatik  
+e) Mathematik  
+f) Medizintechnik  
+g) Molekularbiologie  
+h) Physik  
+i) Psychologie  
+j) Biophysik  
+k) Biotechnologie  
+ 
+2. für den Dr. Ing. (jeweils bei vorwiegend ingenieurwissenschaftlichem Inhalt der Disserta
+tion)  
+a) Informatik  
+b) Medizintechnik  
+c) Elektrotechnik  
+ 
+3. für den Dr. phil. (jeweils bei überwiegend geistes  oder sozialwissenschaftlichem Inhalt  der 
+Dissertation ) 
+a) Psychologie  
+b) Geschichte, Theorie und Ethik der Wissenschaften 
+c) Entrepreneurship  
+d) Gesundheits  und Pflegewissenschaften  
+e) Medizinische Sozialwissenschaften 
+f) Digitalisierung in Bildung, Kunst und Kultur  
+g) Medienwissenschaften  
+ 
+4. für den Ph. D. ein Thema aus den unter Nummer n 1 bis 3 genannten Fächern  im Rahmen 
+einer strukturierten Promotion.  
+ 
+§ 12  
+Beurteilung durch die Berichterstattenden  
+ 
+(1) Die Berichterstattenden begutachten  voneinander unabhängig  die Dissertation und schlagen 
+der oder dem Vorsitzenden des Promotionsausschusses deren Annahme oder Ablehnung vor.  
+ (2) Für die Beurteilung einer Dissertation zur Erlangung des Dr. phil. i st ein externes Zweitgutachten  
+einer hauptamtlichen Professorin od er eines hauptamtlichen Professors einer externen Philosophi
+schen Fakultät bzw. einer anderen,  den Dr. phil. verleihenden Fakultät , die in der entsprechenden 
+Fachrichtung wissenschaftlich ausgewiesen ist, einzuholen.  MPIDirektorinnen und Direktor en mit 
+entsprechender Qualifikation können ebenfalls zur Begutachtung bestimmt werden.  
+ 
+(3) Für die Bewertung einer zur Annahme vorgeschlag enen Dissertation sind folgende Noten zu ver
+wenden:  
+ 
+1 = sehr gut = eine hervorragende Leistung;  
+2 = gut = eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt;     
+3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht;  
+4 = ausreichend = eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt.  
+ 
+  
+Zur differenzierten Bewertung der Leistung kann die Note um 0,3 herabgesetzt oder erhöht werden, 
+wobei die Noten 0,7 und 4,3 ausgeschlossen sind .  
+ 
+(4) Im Falle einer auszeich nungswürdigen  Leistung können die Berichterstatte nden  darüber hinaus 
+die Verleihung des Grades „summa cum laude“  vorsch lagen . 
+ (5) Die Vorschläge der Berichterstattenden leitet die oder der Vorsitzende des Prüfungsausschusses 
+an die Vorsitzende oder den Vorsitzenden des Promotionsausschusses weiter.  
+ 
+§ 13  
+Auslage der Dissertation  
+ (1) Die oder der Vorsitzende des Promotionsausschusses gibt den promovierten Mitgliedern des Pro
+motionsausschusses sowie den habilitierten Mitgliedern der Sektionen Informatik/Technik und Na
+turwissenschaften Gelegenheit, in die Dissertation und die Gutacht en der Berichterstattenden Ein
+sicht zu nehmen. Die Auslagefrist beträgt drei Wochen; sie wird von der oder dem Vorsitzenden des 
+Promotionsausschusses schriftlich bekannt gegeben. Die Auslage kann in digitaler oder analoger 
+Form erfolgen.  
+ 
+(2) Die nach Absa tz 1 zur Einsicht Berechtigten können innerhalb der Auslagefrist bei der oder dem 
+Vorsitzenden des Promotionsausschusses schriftlich begründeten Einspruch gegen die Annahme 
+der Dissertation einlegen oder deren Verbesserung verlangen. 
+ 
+§ 14  
+Verbesserung der  Dissertation 
+ 
+(1) Die oder der Vorsitzende des Promotionsausschusses gibt die Dissertation unter der Auflage, be
+stimmte Ergänzungen oder Veränderungen vorzunehmen zurück, wenn mindestens eine oder einer der Berichterstattenden oder die oder der Vorsitzend e des Prüfungsausschusses  sie als annahmereif 
+aber noch der Verbesserung bedürftig bezeichnet hat. Ebenso ist zu verfahren, wenn ein anderes nach § 1 3 zur Einsicht berechtigtes Mitglied der Sektionen Informatik/Technik und Naturwissen
+schaften die Verbesserung der Dissertation verlangt und sich mindestens eine Berichterstattende 
+oder ein Berichterstattender dem Verlangen anschließt.  
+ 
+(2) Eine nach Verbesserung vorgelegte Dissertation ist nach den §§ 1 2 und 1 3 zu behandeln. Die 
+Verbesserung kann nur zweimal v erlangt werden.  
+ (3) Die Wiedervorlage der Dissertation muss innerhalb eines Jahres nach Rückgabe erfolgen. Die oder der Vorsitzende des Promotionsausschusses kann in begründeten Fällen die Frist auf Antrag 
+verlängern.  
+ 
+§ 15  
+Entscheidung durch die Vorsitzende oder den Vorsitzenden des Promotionsausschusses  
+ 
+(1) Die oder der Vorsitzende des Promotionsausschusses nimmt die Dissertation an, wenn  
+ 
+  
+a) die Berichterstattenden die Dissertation zur Annahme vorgeschlagen haben und  
+ 
+b) gegen die Annahme nicht frist  und formgerecht Einspruch eingelegt wurde.  
+ 
+(2) Die Dissertation wird mit einer  Note  bewertet, d ie sich aus dem arithmetischen Mittel der Bewer
+tungsvorschläge aller Berichterstattenden ergibt. Dabei wird der Mittelwert auf eine Stelle nach dem 
+Komma  abgerundet.  
+ 
+(3) Die oder der Vorsitzende des Promotionsausschusses lehnt die Dissertation ab, wenn beide Be
+richterstattenden die Ablehnung vorgeschlagen haben.  
+ 
+(4) Inhalt und Datum der Entscheidung sind der oder dem Bewerbenden  mitzuteilen.  § 10 Absatz 3 
+gilt entsprechend.  
+ 
+§ 16  
+Entscheidung durch den Promotionsausschuss  
+ 
+(1) Der Promotionsausschuss entscheidet gem äß § 1 5 Absatz 3 über die Annahme oder Ablehnung 
+der Dissertation, wenn  
+ 
+1. die Berichterstattenden hinsichtlich der Annahme oder Ablehnung der Dissertation nicht übereinstimmen oder 
+ 
+2. ein Einspruch gegen die Annahme der Dissertation eingegangen ist.  
+ (2) Anstelle der Annahme oder Ablehnung der Dissertation kann sie der Promotionsausschuss zur 
+Verbesserung zurückgeben. § 1 4 Absatz 2 Satz 2 findet entsprechende Anwendung. 
+ 
+(3) Wird die Dissertation abgelehnt, ist die Prüfung endgültig nicht bestanden. Ein Exemplar der Dissertation verbleibt mit den Gutachten bei den Akten der Universität zu Lübeck.  
+ 
+(4) Inhalt und Datum der Entscheidung  sind der oder dem Bewerbenden  mitzuteilen.  § 10  Absatz 3 
+gilt entsprechend.  
+ 
+Dritter Abschnitt:  
+Mündliche Prüfung  
+ 
+§ 17  
+Kolloquium  
+ 
+Die mündliche Prüfung wird als Kolloquium abgenommen. Darin soll die oder der Bewerbende nach
+weisen, dass sie oder er selbstständig wissenschaftlich argumentieren kann. Das wissenschaftliche Prüfungsgespräch geht von der Dissertation aus und erstreckt sich  über das weitere Fachgebiet, 
+dem die Dissertation zugehört.  
+ 
+ 
+ § 18  
+Durchführung der mündlichen Prüfung  
+ 
+(1) Die mündliche Prüfung findet innerhalb von drei Monaten nach dem Tag der Annahme der Dis
+sertation zu einem Termin statt, den die oder der Vorsitzend e des Promotionsausschusses bestimmt. 
+Der Termin wird durch Aushang in den Sektionen Informatik/Technik und Naturwissenschaften be
+kannt gegeben.  
+ (2) Der oder dem Bewerbenden wird die Ladung zur mündlichen Prüfung spätestens drei Wochen 
+vor dem Termin unt er der letzten nach § 9  Nummer  13 angegebenen Anschrift zugestellt. Eine kür
+zere Ladungsfrist ist möglich, wenn die oder der Bewerbende dem zustimmt.  
+ (3) Die mündliche Prüfung findet vor dem Prüfungsausschuss unter der Leitung seiner oder seines 
+Vorsitzenden statt. Die habilitierten Mitglieder der Sektionen Informatik/Technik und Naturwissen
+schaften dürfen während der Prüfung anwesend sein.   
+ 
+(4) Die Prüfung dauert für jede Bewerbende  oder jeden Bewerbenden  etwa 80 Minuten. Sie besteht 
+aus einem Vortrag mit Diskussion von etwa 40 Minuten und einer nachfolgenden nicht öffentlichen Befragung durch die Mitglieder des Prüfungsausschusses von ebenfalls etwa 40 Mi nuten.  
+ 
+(5) Vortrag und Diskussion sind hochschulöffentlich. Ü ber eine mögliche Zulassung einzelner weite
+rer Personen entscheidet der Prüfungsausschuss auf Wunsch der oder des Bewerbenden.  Zu Beginn 
+hat die oder der Bewerbende die wichtigsten Ergebnisse de r Dissertation vorzustellen, wobei die 
+dafür verwendete Redezeit 20 Minuten nicht übersteigen soll. Während der anschließenden Diskussion mit den Mitgliedern des Prüfungsausschusses kann die oder der Vorsitzende des Prüfungsaus
+schusses Fragen der Anwesenden in einem Umfang von insgesamt 10 Minuten zulassen.  
+ 
+(6) Beginn, Beendigung, Verlauf und Gegenstand der mündlichen Prüfung sind zu protokollieren.  
+ 
+§ 19  
+Bewertung und Bestehen der mündlichen Prüfung  
+ 
+(1) Der Prüfungsausschuss berät im Anschluss an die Prüfung über die Bewertung der mündlichen 
+Leistung. Bei der Beratung sind Zuhörerinnen oder Zuhörer  nicht zugelassen.  
+ 
+(2) Jedes Mitglied des Prüfungsausschusses gibt eine Einzelbewertung der mündlichen Prüfungs
+leistung ab, die zu Protokoll genommen w ird. Für die Bewertung gilt § 12  Absatz 3 entsprechend.  
+ 
+(3) Die mündliche Prüfung ist bestanden, wenn keine der Einzelbewertungen schlechter als 4,0 ist. 
+Die Gesamtbewertung der mündlichen Prüfung entspricht dem arithmetischen Mittel der Einzelbe
+wertungen.  
+ 
+(4) Die mündliche Prüfung ist nicht bestanden, wenn ihr die oder der Bewerbende nach ordnungs
+gemäßer Ladung ohne ausreichende Entschuldigung fernbleibt. 
+ 
+  
+ 
+ Vierter Abschnitt:  
+Abschlussverfahren  
+ 
+§ 20  
+Bestehen der Promotion , Bewertung  und Bekanntgabe des Ergebnisses  
+ 
+(1) Die Promotion ist bestanden, wenn die mündliche Prüfung bestanden ist. Sobald die Gesamtbe
+wertung der mündlichen Prüfung feststeht, ermittelt der Prüfungsausschuss die Gesamtnote für die Promotion.  
+ (2) Die Gesamtnote für die Promotion ergibt sich aus de n Bewertungen der Dissertation und d er 
+mündliche n Prüfung. Dabei ist die Note für die Dissertation mit zwei Drittel n und die Note für die 
+mündliche Prüfung mit einem Drittel zu gewichten. Die Gesamtnote  wird a uf eine Stelle nach dem 
+Komma mathematisch abgerundet. Basierend auf der Gesamtnote der Promotion vergibt der Prü
+fungsausschuss folgende Prädikate für die Promotion:   
+ 
+1. bis 1,5        magna cum laude  (sehr gut bestanden)  
+2. über 1,5 bis 2,5      cum laude  (gut bestanden) 
+3. über 2,5        rite (bestanden) 
+ Ist die Gesamtnote  gleich  1,0 und liegt eine einstimmige Empfehlung des Prüfungsausschusses für 
+die Bewertung „summa cum laude“ vor, so kann der Promotionsausschuss unter Hinzuziehung von ein oder zwei weiteren Berichterstattenden das Prädikat „ summa cum laude “ (mit Auszeichnung be
+standen) verleihen, wenn dieser oder diese das Prädikat „summa cum laude“ empfehlen. Diese Be
+richterstattenden dürfen nicht Mitglieder der Sektionen der Universität zu Lübeck sein.  
+ 
+(3) Der Prüfungsausschuss kann das Bestehen der Promotion mit der Auflage verbinden, formale 
+Änderungen der Dissertation für die Drucklegung vorzunehmen.  
+ (4) Die oder der Vorsitzende des Prüfungsausschusses teilt das festgestellte Ergebnis im Anschluss 
+an die mündliche Prüfung der oder dem Bewerbenden sowie der oder dem Vorsitz enden des Pro
+motionsausschusses mit. Im Falle des Nichtbestehens der Promotion erhält die oder der Bewer
+bende einen schriftlichen, mit Gründen und Rechtsbehelfsbelehrung versehenen Bescheid, der auch 
+über die Wiederholungsmöglichkeiten Auskunft gibt. 
+ 
+(5) Die oder der Bewerbende kann frühestens eine Woche nach Bekanntgabe des Ergebnisses Ein
+blick in die Prüfungsunterlagen nehmen.  
+ 
+§ 21  
+Vervielfältigung der Dissertation  
+ (1) Innerhalb eines Jahres nach Bestehen der Promotion (§ 20 Absatz 1)  hat die oder der Bewerbende  
+ 
+1. entweder die Dissertation in elektronischer Form zu veröffentlichen, wobei Datenformat und Datenträger der elektronischen Fassung mit der Zentralen Hochschu lbibliothek Lübeck 
+abzustimmen und dort neben zwei gedruckten Exemplaren abzuliefern sind. In diesem Fall 
+ 
+ haben die Bewerbenden der Universität zu Lübeck ein unwiderrufliches Nutzungsrecht ein
+zuräumen, die Dissertation in Open Access Dokumentenservern oder  auf sonstige Weise in 
+elektronischen Medien, die der dauerhaften Archivierung von wissenschaftlichen Publikati
+onen dienen, zu veröffentlichen und/oder zu verbreiten. Die Universität zu Lübeck ist be
+rechtigt, dieses Nutzungsrecht der Zentralen Hochschulbib liothek Lübeck, der Deutschen 
+Nationalbibliothek in Frankfurt a.M./Leipzig und sonstigen Bibliotheken und Einrichtungen 
+mit einem entsprechenden  Sammelschwerpunkt zu übertragen. Die Rechteeinräumung er
+folgt kostenfrei , 
+ 
+2. oder 25 Exemplare der Dissertation g edruckt oder fotomechanisch vervielfältigt bei der Uni
+versität zu Lübeck abzugeben, wobei die im Format DIN A5 zu erstellenden Exemplare mit 
+einem Titelblatt und mit einem sich auf den akademischen Werdegang beziehenden Le
+benslauf  auf der letzten Seite   zu versehen sind , 
+ 
+3. oder fünf  Exemplare in kopierfähiger Maschinenschrift zusammen mit dem Original und 25 
+CDROM Kopien (im pdfFormat) abzugeben; in diesem Fall  überlässt die oder der Bewer
+bende der Universität zu Lübeck  das Recht, weitere elektronische Kopien von der Disserta
+tion herzustellen und zu verarbeiten; in diesem Fall darf keine elektronische Verbreitung der 
+Dissertation erfolgen,  
+ 
+4. zusätzlich zu den Nummern 1 bis 3  eine Einverständniserklärung für die Veröffentl ichung  
+abzugeben . 
+ 
+(2) Erscheint die als Dissertation vorgelegte Arbeit unter Nennung des Namens der oder des Bewer
+benden  vollständig oder in ihren wesentlichen Teilen in einer anerkannten wissenschaftlichen Zeit
+schrift, so genügt die Ablieferung von sechs Sonderdrucken. Entsprechendes gilt, wenn ein gewerb
+licher Verleger die Verbreitung der Dissertation über den Buchhandel übernimmt und eine Mindest
+auflage von 150 Exemplaren nachgewiesen wird. Die Sonderdrucke sind mit einem Titelblatt und 
+mit einem Lebenslauf   auf der letzten Seite   zu versehen. Die inhaltliche Übereinstimmung von 
+Dissertation und Publikation ist schriftl ich durch die B etreuerin oder den Betreuer zu bestätigen.  
+ 
+(3) Sofern der Prüfungsausschuss das Bestehen der Promotion mit Auflagen gemäß § 20 Absatz 3 
+verbunden hat, bedarf die Vervielfältigung der Zustimmung. Diese erteilt die oder der Vorsitzende 
+des Pr omotionsausschusses nach Anhörung der oder des Vorsitzenden des Prüfungsausschusses. 
+ 
+(4) Versäumt die oder der Bewerbende  die Frist des Absatzes 1, erlöschen alle durch die Prüfung 
+erworbenen Rechte. Die oder der Vorsitzende des Promotionsausschusses kann die Frist auf schrift
+lich begründeten Antrag in Ausnahmefällen um insgesamt bis zu zwei Jahre verlängern. Der Antrag 
+ist spätestens einen Monat vor Ablauf der Frist zu stellen.  
+ 
+§ 22  
+Vollzug der Promotion  
+ 
+(1) Nach Erfüllung aller Verpflichtungen der oder  des Bewerbenden wird die Promotion durch Über
+reichen einer Urkunde über die Verleihung des a kademischen Grades einer Doktorin oder eines Dok
+tors vollzogen. In der Urkunde ist die Gesamtnote der Dissertation  und das entsprechende Prädikat 
+aufzuführen. Als Datum der Promotion gilt der Tag der bestandenen mündlichen Prüfung.  
+ 
+  
+(2) Die Urkunde wird von der Vorsitzenden oder dem Vorsitzenden des Promotionsausschusses aus
+gefertigt und von ihr oder ihm sowie der Präsidentin oder dem Präsidenten der Universität zu Lübeck 
+unterzeichnet . Auf Antrag kann die Urkunde in englischer Sprache ausgefertigt werden. Die Aushän
+digung der Urkunde kann in feierlicher Form erfolgen.  
+ (3) Die Berechtigung zur Führung des Doktorgrades wird erst mit Aushändigung oder Z usendung 
+der Urkunde erworben.  
+ (4) Das Promotionsverfahren ist mit Einreichung der Pflichtexemplare nach § 2 1 abgeschlossen.  
+ 
+Fünfter Abschnitt:  
+Wiederholung , Nachteilsausgleich,  Rechtsbehelfe  
+ 
+§ 23  
+Wiederholung der mündlichen Prüfung  
+ 
+(1) Mit der Ablehnung der Dissertation ist das Promotionsverfahren endgültig nicht bestanden. Eine 
+wiederholte Vorlage der Dissertation ist auch nach Überarbeitung nicht zulässig.  
+ 
+(2) Eine nicht bestandene mündliche Prüfung kann einmal, jedoch nicht vor Ablauf von drei Monaten 
+und nicht später als ein Jahr nach Nichtbestehen der mündlichen Prüfung, wiederholt werden. Nach 
+Ablauf der Jahresfrist ist das Promotionsverfahren endgültig nicht bestanden. 
+ 
+§ 24  
+Anerkennung besonderer Bedürfnisse , Nachteilsausgleich  
+ 
+(1) Die Inanspruchnahme von Fristen nach dem Mutterschutzgesetz sowie nach den gesetzlichen 
+Regelungen über die Elternzeit werden gewährleistet.  
+ 
+(2) Weist eine Bewerbende oder ein Bewerbender unter Vorlage entsprechender Nachweise 
+nach, dass sie oder er wegen einer chronischen Krankheit oder Behinderung nicht in der Lage ist, 
+die Promotionsprüfungsleistungen ganz oder teilweise in der vorgesehenen Form abzulegen, 
+kann die oder der Vorsitzende der Promotionskommission gleichwertige Prüfungsleistungen in 
+einer b edarfsgerechten Form gestatten. 
+ (3) Bei der Entscheidung der oder des Vorsitzenden der Promotionskommission nach Absatz 2 
+kann die oder der Inklusionsbeauftragte der Universität beteiligt werden.  
+ 
+§ 25 
+Rechtsbehelf sverfahren  
+ (1) Gegen Entscheidungen des Promotionsausschusses und des Prüfungsausschusses kann Wider
+spruch eingelegt werden.  
+ 
+(2) Über Entscheidungen des Prüfungsausschusses entscheidet der Promotionsausschuss.  
+ 
+  
+(3) Über Entscheidungen des Promotionsausschusses entscheidet der Senatsausschuss MINT.  
+ 
+(4) Der Widerspruch ist schriftlich oder zur Niederschrift bei der oder dem Promotionsausschussvor
+sitzenden oder bei der oder dem Senatsausschussvorsitzenden einzuleg en.  
+ 
+Fünfter Teil:  
+Unwirksamkeit der Promotion  
+ 
+§ 26 
+Ungültigerklärung 
+ 
+Der Promotionsausschuss kann die Promotionsleistung für ungültig erklären, wenn sich vor Aushän
+digung der Urkunde herausgestellt hat, dass die oder der Bewerbende  sich einer Täuschung schul
+dig gemacht hat oder , dass aus Gründen, die die oder der Bewerbende zu vertreten hat, wesentliche 
+Voraussetzungen für die Zulassung zur Promotion irrtümlich angenommen worden sind. Hierzu be
+darf es des Beschlusses von vier Fünftel  der Mitglieder des Promotionsausschusses.  
+ 
+§ 27 
+Widerruf der Promotion  
+ 
+(1) Der Promotionsausschuss kann die Verleihung des Grades einer Doktorin oder eines Doktors wi
+derrufen, wenn sich nach Aushändigung der Urkunde herausstellt, dass der Doktorgrad durch Täu
+schung erworben worden ist. Der Widerruf bedarf eines Beschlusses vo n vier Fünftel  der Mitglieder 
+des Promotionsausschusses.  
+ (2) Ist die Verleihung des Doktorgrades widerrufen, so sind alle ausgehändigten Urkunden zurück
+zugeben.  
+ 
+Sechster Teil:  
+Schlussvorschriften  
+ 
+§ 28  
+Übergangsregelungen  
+ (1) Bereits begonnene Promotionen, die vor Inkrafttreten dieser Satzung zugelassen wurden (§  10) 
+richten sich nach den Vorschriften der Promotionsordnung (Satzung) der Sektionen  Informa
+tik/Technik und Naturwissenschaften der Universität zu Lübeck (PromO MINT 2019)  vom 
+23. Juli 2019 (NBl. HS MBWK  Schl. H. S. 50) .  
+ (2) Bereits begonnene Promotionsvorhaben, die vor Inkrafttreten dieser Satzung angenommen (§  4 
+Absatz 9) aber noch nicht zugelassen wurden (§  9), richten sich nach den Vorschriften dieser Sat
+zung. 
+ 
+  
+ 
+ § 29 
+Inkrafttreten   
+ 
+Diese Satzung tritt am Tag nac h ihrer Bekanntmachung in Kraft und gilt für alle Promotionsvorha
+ben, die ab Inkrafttreten dieser Satzung a ngenommen w erden  (ab Annahme gemäß § 4  Absatz  9). 
+ 
+ 
+ 

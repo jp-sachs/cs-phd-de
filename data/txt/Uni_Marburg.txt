@@ -1,0 +1,932 @@
+Die Fachbereichsräte der Fachbereiche Psychologie (04), Mathematik und Informatik 
+(12), Physik (13), Chemie (15), Pharmazie (16), Biologie (17), Geographie (19) und 
+der Fachbereich Medizin für seine mathematisch naturwissenschaftlichen Fächer 
+(20) der Philipps Universität Marburg haben zuletzt mit Beschluss vom 20.7.2022 
+gemäß § 50 Abs. 1 S. 2 Nr. 1 des Hessischen Hochschulgesetzes (H essHG) 14. 
+Dezember 2021(GVBI.I S. 931) zuletzt geändert durch Art. 9 des Gesetzes vom 1. 
+April 2022 (GVBl. S. 184, 204)  folgende Promotionsordnung beschlossen:  
+ 
+Promotionsordnung der mathematisch naturwissensch aftlichen Fachbereiche 
+und des m edizinischen Fachbereichs für seine mathematisch 
+naturwissenschaftlichen Fächer der Philipps Universität Marburg  
+vom 20.7.2022  
+ 
+verabschiedet vom  
+FBR Pharmazie    am 18.5.2022  
+FBR Geographie    am 1.6.2022  
+FBR Psychologie    am 20.7.2022  
+FBR Mathematik / Informatik  am 6.7.2022  
+FBR Physik     am 20.7.2022  
+FBR Chemie     am 1.6.2022  
+FBR Biologie     am 6.7.2022  
+FBR Medizin     am 20.7.2022  
+ 
+Inhaltsverzeichnis:  
+§ 1 Anwendungsbereich und Ziele  
+§ 2 Promotion und Doktorgrade  
+§ 3 Promotionsausschuss  
+§ 4 Prüfungskommission  
+§ 5 Annahme als Doktorandin oder Doktorand  
+§ 6 Widerruf der Annahme als Doktorandin oder Doktorand  
+§ 7 Betreuung der  Dissertation  
+§ 8 Die Dissertation  
+§ 9 Kumulative Dissertation  
+§ 10 Einreichung der Dissertation und Zulassung zum Promotionsprüfungsverfahren  
+§ 11 Gutachten  
+§ 12 Auslage der Dissertation  
+§ 13 Entscheidung über die Annahme der Dissertation  
+§ 14 Mündliche Promotionsprüfung (Disputation)  
+§ 15 Gesamtbewertung  
+§ 16 Prüfungsakten  
+§ 17 Veröffentlichung der Dissertation  
+§ 18 Pflichtexemplare  
+§ 19 Vollzug der Promotion  
+§ 20 Wiederholung des Promotionsversuchs  
+§ 21 Promotionsleistungen bei Krankheit und Behinderungen sowie bei familiären  
+Belastungen  
+§ 22 Promotionsurkunde, Promotionszeugnis  
+§ 23 Widerspruch gegen Entscheidungen im Promotionsverfahren  
+§ 24 Versagung und Entziehung des Doktorgrades  
+§ 25 Ehrenpromotion  
+§ 26 Übergangs  und Schlussbestimmungen  
+ 
+§ 1  
+Anwendungsbereich und Ziele  
+(1) Diese Promotionsordnung regelt auf der Grundlage der Allgemeinen 
+Bestimmungen für Promotionsordnungen an der Philipps Universität Marburg 
+vom 01.04.2020 das Verfahren zum  Erwerb des Grades einer Doktorin oder eines 
+Doktors der Naturwissenschaften (Dr. rer. nat.) der an den Fachbereichen 
+Psychologie (FB 04), Mathematik und Informatik (FB 12), Physik (FB 13), Chemie 
+(FB 15), Pharmazie (FB  16), Biologie (FB 17), Geographie (F B 19)  und des 
+Medizinischen Fachbereichs für seine mathematisch naturwissenschaftlichen 
+Fächer ( FB 20) vertretenen Fächern.   
+(2) Diese Promotionsordnung kann durch strukturierte Promotionsprogramme 
+ergänzt werden, wenn die beteiligten Fachbereiche  strukturiert e 
+Promotionsprogramme einrichten w ollen . In diesem Fall wird der oder dem 
+Promovierenden nach Abschluss des Verfahrens eine detaillierte 
+Bescheinigung über das absolvierte Programm ausgehändigt.  
+ 
+§ 2  
+Promotion und Doktorgrade  
+(1) Die Promotion weist die besondere Befähigung zu selbstständiger 
+wissenschaftlicher Arbeit aus. Der Nachweis dieser Qualifikation wird durch eine 
+monografische oder kumulative Abhandlung (Dissertation) aus dem 
+entsprechenden Wissenschaftsgebiet und eine mündliche Prüfung (Disputation) 
+erbracht.  
+(2) Die beteiligten mathematisch naturwissenschaftlichen Fachbereiche (Psychologie 
+(FB 04), Mathematik und Informatik  (FB 12), Physik (FB 13), Chemie (FB 15), 
+Pharmazie (FB  16), Biologie (FB 17), Geographie (FB 19)  und der Fachbereich, 
+Medizin für seine mathematisch naturwissenschaftlichen Fächer ( FB 20) 
+verleihen nach Maßgabe der Allgemeinen Bestimmungen für 
+Promotionsordnungen an der Philipps Universität Marburg vom 01.04.2020 und 
+dieser Promotionsordnung den akademischen Grad der Doktorin oder des 
+Doktors der Naturwissenschaften (Dr. rer. nat.)  
+(3) Promotionsfächer der Fachbereiche sind:  
+a. Psychologie (FB 04)  
+b. Mathematik (FB 12)  
+c. Informatik  (FB 12)  
+d. Physik (FB 13)  
+e. Chemie (FB 15)  
+f. Pharmazie (FB  16)  
+g. Biologie (FB 17)  
+h. Geographie (FB 19)  
+i. Medizin (FB 20) für seine mathematisch naturwissenschaftlichen Fächer  
+ Die Fachbereiche  können weitere Promotionsfächer definieren.  
+(4) Die Fachbereiche können für hervorragende wissenschaftliche Leistungen oder 
+sonstige ausgezeichnete Verdienst e um die Wissenschaft den akademischen 
+Grad einer Doktorin oder eines Doktors der Naturwissenschaften ehrenhalber (Dr. 
+rer. nat. h. c.) gem. § 25 verleihen.  
+(5) Eine Promotion in Kooperation mit einer anderen Hochschule, einer 
+Forschungseinrichtung oder anderen externen Partnern ist möglich. Einzelheiten 
+werden in einem Kooperationsvertrag zwischen der Universität und den Partnern 
+geregelt oder werden ggf. im Rahmen von kooperativen Promotionsplattformen 
+oder Promotionsprogrammen vereinbart. Dabei sind die „Grundsätze und 
+Verfahrensregeln für den verantwortungsvollen Umgang mit Forschungsfreiheit 
+und Forschungsrisiken an der Philipps Universität Marburg“ und ggf. weitere 
+Regelungen der Philipps Universität zur Gestaltung von Kooperationsverträgen 
+zu beachten.  
+(6) Eine gleichzeitige Promotion an einer deutschen und ausländischen Universität 
+(binationale Promotion) ist möglich. Näheres, insbesondere die abweichenden 
+Regelungen, ist in einem Kooperationsvertrag zwischen den beteiligten 
+Universitäten mit Zustimmung des F achbereichs zu regeln. In diesem darf 
+allerdings nicht von den zwingenden Bestimmungen im H essHG,  den 
+Allgemeinen Bestimmungen für Promotionsordnungen und dieser 
+Promotionsordnung abgewichen werden.  
+ 
+§ 3  
+Promotionsausschuss  
+(1) Der Promotionsausschuss des promotionsführenden Fachbereichs entscheidet 
+über die Annahme als Doktorandin oder Doktorand, die Aufhebung der Annahme 
+sowie die Betreuung nach §7. Er eröffnet das Promotionsverfahren, bestellt die 
+Gutachterinnen und Gutachter der Dissertation, setzt die Prüfungskommission ein 
+und schlichtet im Konfliktfall.  
+Dem Promotionsausschuss gehören mindestens an:  
+a) die Dekanin oder der Dekan oder deren Stellvertreterin oder dessen 
+Stellvertreter,  
+b) drei Mitglieder der Professorengruppe des Fachbereichs als ständige 
+Mitglieder,  
+c) ein promoviertes Mitglied der Gruppe der wissenschaftlichen Mitarbeiterinnen 
+und Mitarbeiter des Fachbereichs und  
+d) eine Doktorandin oder ein Doktorand des Fachbereichs mit beratender Stimme, 
+sofern sie oder er Mitglied der Universität ist.  
+(2) Die Mitglieder des Promotionsausschusses des promotionsführenden 
+Fachbereichs werden vom jeweiligen Fachbereichsrat auf Vorschlag der 
+Gruppenvertreter im Fachbereichsrat für die Dauer von zwei Jahren bestellt. Das 
+Vorschlagsrecht für die Vertreterin oder den Vertreter der Doktorandinnen und 
+Doktoranden gem. Abs. 1 d) wird von der Gruppe der Studierenden ausgeübt. 
+Besteht am jeweiligen Fachbereich eine Promovierendenvertretung, kann di ese 
+auf Antrag angehört werden. Es kann ausnahmsweise eine um ein Jahr 
+abweichende Amtszeit bestimmt werden, insbesondere um die Kontinuität im 
+Gremium zu gewährleisten.  
+(3) Die Mitglieder des Promotionsausschusses des promotionsführenden 
+Fachbereichs  wählen eine Vorsitzende oder einen Vorsitzenden aus der Gruppe 
+der Professorinnen und Professoren.  
+Eine Ausnahme hiervon bilden die Fachbereiche Biologie und Medizin:  
+Am Fachbereich Biologie und am Fachbereich Physik übernimmt die Dekanin 
+oder der Dekan den Vorsitz des Promotionsausschusses.  
+ Am Fachbereich Medizin werden die Vorsitzenden des Promotionsausschusses 
+vom Dekanat bestimmt und von den Mitgliedern des Promotionsausschusses 
+bestätigt .  
+ Der Ausschuss kann dem oder  der Vorsitzenden einzelne Aufgaben übertragen. 
+Die oder der Vorsitzende berichtet dem Fachbereichsrat mindestens jährlich über 
+die Anzahl und Ergebnisse der Promotionsverfahren.  
+(4) Ein gemeinsamer Promotionsausschuss mehrerer Fachbereiche ist möglich. Der 
+Vorsitz und die Zusammensetzung des  gemeinsamen Promotionsausschusses 
+werden durch die beteiligten Fachbereiche geregelt  
+ Der Fachbereich Medizin setzt einen Promotionsausschuss für Humanbiologie 
+ein, der ausschließlich für Promotionen von Humanbiologinnen und 
+Humanbiologen und Absolventinnen und Absolventen anderer mathematisch
+naturwissenschaftlicher Studiengänge zuständig ist. Die Mitglieder dieses 
+Ausschusses sollen in einem naturwissenschaftlichen Fach tätig sein.  
+ 
+§ 4  
+Prüfungskommission  
+(1) Für jedes Promotionsverfahren wird vom Prom otionsausschuss des 
+promotionsführenden Fachbereichs eine Prüfungskommission eingerichtet . Die 
+Vorsitzende oder der Vorsitzende des Promotionsausschusses wählt eine 
+Vorsitzende oder einen Vorsitzenden der Prüfungskommission in der Regel aus 
+der Gruppe der Professorinnen und Professoren aus. Den Vorsitz soll ein Mitglied 
+übernehmen, das nicht als Gutachterin oder Gutachter tätig ist.  Aufgrund der 
+Eröffnung des Promotionsprüfungsverfahrens durch Zulassung gem. § 10 
+bestimmt der Promotionsausschuss die Erstgut achterin oder den Erstgutachter 
+und mindestens eine weitere Gutachterin oder einen weiteren Gutachter für die 
+Dissertation sowie zusätzlich ein bis drei Prüfungsberechtigte als Mitglieder. Die 
+Betreuung und Begutachtung können durch unterschiedliche Person en erfolgen.  
+(2) Die Prüfungskommission entscheidet über Annahme, Änderung oder Ablehnung 
+einer Dissertation, führt die Disputation durch, entscheidet, ob die Disputation zu 
+wiederholen ist, bewertet die Promotionsleistungen und legt die Auflagen für die 
+Veröffentlichung der Dissertation fest.  
+(3) Die Beratungen und Abstimmungen in der Prüfungskommission erfolgen in 
+nichtöffentlicher Sitzung. Die Abstimmungen in der nichtöffentlichen Sitzung der 
+Prüfungskommission über Prüfungsentscheidungen erfolgen offen.   
+(4) Die vom Promotionsausschuss bestellten Gutachterinnen und Gutachter sollen 
+aufgrund ihrer Forschungsleistungen über einen hinreichenden Überblick über 
+den fachwissenschaftlichen Erkenntnisstand der Fachrichtung verfügen, die in der 
+Dissertation behandelt wurde. Die Begutachtung erfolgt in der Regel durch die 
+betreuende Person.  Außer den Professorinnen und Professoren des 
+Fachbereichs können Gutachterinnen oder Gutachter aus dem folgenden 
+Personenkreis bestellt werden:   
+a) entpflichtete und im Ruhestand befindliche Professorinnen oder Professoren, 
+Honorarprofessorinnen oder Honorarprofessoren, außerplanmäßige 
+Professorinnen oder außerplanmäßige Professoren, Gastprofessorinnen oder 
+Gastprofessoren, Privatdozentinnen oder Privatdozenten und promovierte 
+wissenschaftliche Mitarbeiterinnen oder Mitarbeiter mit entsprechender 
+wissenschaftlicher Qualifikation des promotionsführenden Fachbereichs,  
+b) Professorinnen oder Professoren oder promovierte Wissenschaftlerinnen oder 
+Wissenschaftler mit entsprechender wi ssenschaftliche r Qualifikation eines 
+anderen Fachbereichs, einer anderen Hochschule oder einer anerkannten 
+außeruniversitären Forschungseinrichtung.  
+(5) Gutachterinnen oder Gutachter können von den Kandidatinnen oder Kandidaten 
+vorgeschlagen werden. Der Vorschlag begründet keinen Anspruch auf Bestellung 
+der vorgeschlagenen Personen.  
+(6) Im Falle einer binationalen Promotion im Sinne des § 2 Abs. 6 oder einer 
+kooperativen Promotion mit einer Hochschule oder Forschungseinrichtung im 
+Sinne des § 2 Abs. 5 wird von jeder Universität mindestens eine Gutachterin oder 
+ein Gutachter bestimmt.  
+In begründeten Einzelfällen kann bei binationalen Promotionsverfahren nach 
+Zustimmung des zuständigen Promotionsausschusses und der Doktorandin bzw. 
+des Doktoranden von der Zusammensetzung der Prüfungskommission 
+abgewichen werden.  
+ 
+§ 5  
+Annahme als Doktorandin oder Doktorand  
+(1) Über die Annahme als Doktorandin oder Doktorand entscheidet der 
+Promotionsausschuss des promotionsführenden Fachbereichs aufgrund eines an 
+den Vorsi tz zu richtenden schriftlichen Antrags, dem die erforderlichen Nachweise 
+beizufügen sind. Regelhaft sind dies:  
+a) das Abschlusszeugnis des Studiums (Bachelor, Master oder vergleichbar) und 
+ggf. einer bereits abgeschlossenen Promotion. Die Zeugnisse sind im O riginal 
+bzw. als beglaubigte Kopie vorzulegen.  
+b) der Arbeitstitel der geplanten Dissertation,  
+c) die Betreuungszusage(n) für die geplante Dissertation,  
+d) die Betreuungsvereinbarung (Anlage 1),  
+e) eine Bestätigung der Kenntnisse der Grundsätze und Verfahrensregeln für den 
+Umgang mit wissenschaftlichem Fehlverhalten an der Philipps Universität 
+Marburg und der Grundsätze zum Umgang mit Forschungsdaten an der 
+Philipps Universität Marburg.  
+(2) Voraussetzung für die Annahme als Doktorandin oder Doktorand ist in der Regel 
+der erfolgreiche Abschluss eines Hochschulstudiums mit einer mindestens 
+achtsemestrigen Regelstudienzeit oder ein Master Abschluss,  basierend auf 
+einem Bachelor Studium,  in einer für die Dissertation hinreichend einschlägig en 
+Fachrichtung . 
+Bei ausländischen Bildungsabschlüssen erfolgt die Entscheidung anhand der 
+Einordnungskriterien der vom KMK autorisierten Stellen, wobei die Institution,  an 
+der der Bildungsabschluss erworben wurde,  mit H+ und der Abschluss als 
+gleichwertig bzw. entspricht bewertet sein muss . 
+(3) Für Bewerberinnen und Bewerber,  
+ die ein Hochschulstudium nicht in einer hinreichend einschlägigen Fachrichtung 
+des promotionsführenden Fachbereichs  
+ oder ein abgeschlossenes Bachelor Studium mit weniger als acht 
+Fachsemestern abges chlossen haben,  
+ oder deren Bildungsabschluss nicht in den der vom KMK autorisierten Stellen 
+gelistet ist,  
+ist ein abgeschlossenes Hochschulstudium in Verbindung mit einer 
+Eignungsfeststellung Voraussetzung für die Annahme als Doktorandin oder 
+Doktorand.  Das Verfahren der Eignungsfeststellung wird von den 
+promotionsführenden Fachbereichen in den jeweiligen 
+Ausführungsbestimmungen geregelt.   
+(4) Der Promotionsausschuss gewährleistet durch die Annahme als Doktorandin oder 
+Doktorand die spätere Begutachtung der Arbeit.  
+(5) Eine Annahme als Doktorandin oder Doktorand kann nicht erfolgen, wenn bereits 
+ein Doktorgrad vorliegt, der dem angestrebten entspricht.  
+(6) Der Promotionsausschuss des promotionsführenden Fachbereichs entscheidet 
+über etwaige Auflagen, die bi s zur Einleitung des Promotionsprüfungsverfahrens 
+(Einreichung der Dissertation) erfüllt werden müssen. Die Auflagen sollen die 
+Befähigung zur wissenschaftlichen Arbeit sicherstellen. Sie können sich 
+insbesondere auf Nachweise der erfolgreichen Teilnahme an Lehrveranstaltungen 
+und das Ablegen einzelner Prüfungen erstrecken.  
+(7) Voraussetzung für die Annahme als Doktorandin oder Doktorand ist darüber 
+hinaus die Zusage mindestens einer Betreuerin oder eines Betreuers aus dem 
+Fachbereich, in dem die Dissertat ion angefertigt wird, und ggf. weitere 
+Ausbildungs  und Betreuungszusagen, die vom Promotionsausschuss bestätigt 
+werden. Die Betreuerinnen oder Betreuer sollen den an Gutachterinnen oder 
+Gutachter gem. § 4 Abs. 4 zu stellenden Anforderungen entsprechen. Soll die 
+Dissertation an einer Einrichtung außerhalb des Fachbereichs angefertigt werden, 
+muss die vorgeschlagene Betreuerin oder der vorgeschlagene Betreuer oder die 
+Leiterin oder der Leiter der Einrichtung, an der die Dissertation angefertigt werden 
+soll, schriftlich bestätigen, dass das entsprechende Vorhaben realisiert werden 
+kann.  
+(8) Die Promovierenden sind verpflichtet, die für die Hochschulstatistik erforderlichen 
+Angaben im Antrag auf Annahme als Doktorandin oder Doktorand anzugeben und 
+deren Richtig keit jährlich zu bestätigen. Die zum Zwecke der Hochschulstatistik 
+erforderlichen Angaben, deren Erhebung und Form der Weiterleitung bestimmt 
+das Präsidium.  
+(9) Die Annahme als Doktorandin oder Doktorand erfolgt für maximal sechs Jahre. 
+Nach spätestens sechs Jahren ist das Promotionsprüfungsverfahren durch 
+Einreichen der Dissertation einzuleiten oder dem Promotionsausschuss des 
+promotionsführenden Fachbereichs ein Bericht über den Stand der Dissertation 
+vorzulegen und ein Verlängerungsantrag zu stellen. Im  Antrag ist zu belegen, wie 
+die Dissertation innerhalb einer angemessenen Frist, die weitere zwei Jahre in der 
+Regel nicht überschreiten soll, erfolgreich abgeschlossen werden kann. Wenn 
+nach Prüfung des Berichtes und des Standes des Promotionsvorhabens di e 
+Einleitung des Promotionsprüfungsverfahrens in der beantragten 
+Verlängerungsfrist zu erwarten ist, wird die Frist nach S. 1 entsprechend 
+verlängert. Zu den Verlängerungsgründen zählen insbesondere die Elternzeit 
+nach § 15 BEEG sowie die Zeiten eines Dien stes nach dem 
+Bundesfreiwilligengesetz bis zur Dauer von zwei Jahren. Mehrfache Verlängerung 
+ist möglich.  
+(10) Die Vorlage einer ohne Betreuung und entsprechenden 
+Betreuungsvereinbarung angefertigten Dissertation ist durch die vorstehenden 
+Bestimmungen nicht ausgeschlossen. Es gilt § 10 Abs. 1. An die Stelle der 
+Betreuungszusage tritt eine Zusage der Begutachtung.  
+ 
+§ 6 
+Widerruf der Annahme als Doktorandin oder Doktorand  
+Die Annahme als Doktorandin oder Doktorand kann durch den 
+Promotionsausschuss des pro motionsführenden Fachbereichs insbesondere 
+widerrufen werden, wenn  
+ das Betreuungsverhältnis nach § 7 beendet wird,  
+ bei Ablauf der Frist nach § 5 Abs. 9 kein Verlängerungsantrag vorliegt,  
+ dem Antrag auf Verlängerung nach § 5 Abs. 9 nicht zugestimmt wird oder  
+ wenn über einen Zeitraum von mindestens einem Jahr von Seiten der 
+Doktorandin oder des Doktoranden keine Kontaktaufnahme mit der 
+Erstbetreuerin oder dem Erstbetreuer bestand.  
+Die Doktorandin bzw. der Doktorand ist vor einem Widerruf der Annahme anzuhöre n. 
+Ein Widerruf ist ausgeschlossen, wenn die Doktorandin oder der Doktorand 
+nachweist, dass sie oder er die Verzögerung nicht zu vertreten hat. In diesen Fällen 
+sind die entsprechenden Zeiten der Frist nach § 5 Abs. 9 hinzuzurechnen. Der 
+Widerruf durch den  Promotionsausschuss erfolgt schriftlich. Im Falle der 
+Unzustellbarkeit wird der Widerruf öffentlich durch Aushang im Dekanat zugestellt. Die 
+Doktorandin bzw. der Doktorand ist nach Rechtskraft des Bescheides über den 
+Widerruf zu exmatrikulieren, soweit si e oder er immatrikuliert ist. Ein Widerruf der 
+Annahme als Doktorandin oder Doktorand gilt nicht als erfolgloser 
+Promotionsversuch.  
+ 
+§ 7  
+Betreuung der Dissertation  
+(1) Dissertationen werden von mindestens einer oder einem Prüfungsberechtigten 
+betreut. Au s fachlichen Gründen und zur Qualitätssicherung der Promotion sollen 
+weitere Betreuerinnen oder Betreuer vorgesehen werden, die auch einem 
+anderen Fachbereich angehören können.  Mindestvoraussetzung für die 
+Betreuungstätigkeit ist die Promotion. Bei nicht h abilitierten 
+Betreuer innen/Betreuern  soll der Promotionsausschuss bezüglich der Zulassung 
+einer Betreuerin / eines Betreuers gefragt werden. Die promovierten 
+Betreuerinnen oder Betreuer sollen fachlich einschlägig tätig sein und 
+wissenschaftliche Leistungen, die über die eigene Promotion hinausgehen 
+erbracht  haben (z.B. Forschungs Antragstätigkeit, Publikationsleistungen).  Die 
+Betreuungsvereinbarung  gemäß Anlage 1 muss den Grundsätzen guter 
+wissenschaftlicher Praxis entsprechen und verbindliche Rahmenbeding ungen für 
+die Betreuung schaffen.  Die promotionsführenden Fachbereiche können diese in 
+den jeweiligen Ausführungsbestimmungen fachspezifisch erweitern.  
+(2) Am Fachbereich Medizin müssen die Betreuerinnen und die Betreuer aus dem 
+Kreis der Lehrenden in den Studiengängen der Humanbiologie  
+oder der Neurowissenschaften kommen.  
+(3) Das Betreuungsverhältnis beginnt mit der Annahme als Doktorandin oder 
+Doktorand nach § 5 und setzt diese voraus . Zur Förderung und Betreuung der 
+Promovierenden sollen regelmäßig Doktorandenkolloquien und 
+Beratungsgespräche angeboten werden.  
+(4) Über einen Wechsel in der Betreuung, eine Unterbrechung oder Beendigung des 
+Doktorandenverhäl tnisses entscheidet der Promotionsausschuss. Gründe für 
+einen Wechsel in der Betreuung, eine Unterbrechung oder Beendigung des 
+Doktorandenverhältnisses sind dem Promotionsausschuss vor Einleitung des 
+Promotionsprüfungsverfahrens schriftlich mitzuteilen. Das Betreuungsverhältnis 
+kann von der Betreuungsperson oder der Doktorandin bzw. dem Doktoranden 
+unter Angabe von wichtigen Gründen mit einer Frist von drei Monaten beendet 
+werden. Eine Auflösung im gegenseitigen Einverständnis ist jederzeit möglich. Ist 
+eine Beendigung des Betreuungsverhältnisses aus Gründen eingetreten oder 
+erforderlich, die die Doktorandin bzw. der Doktorand nicht zu vertreten hat, so ist 
+der Promotionsausschuss unter Ausschöpfung seiner Möglichkeiten verpflichtet, 
+für eine Fortsetzung der  Betreuung durch eine andere Person Sorge zu tragen. In 
+Konfliktfällen ist allen Beteiligten vorab Gelegenheit zur Stellungnahme zu geben. 
+Bei der Übernahme einer Betreuung durch eine andere Betreuungsperson ist ein 
+erneuter Antrag auf Annahme gem. dieser Promotionsordnung nicht erforderlich. 
+Die Betreuungszusage und Betreuungsvereinbarung sind entsprechend 
+anzupassen.  
+(5) Promovierende und Betreuungspersonen können eine sofortige Beendigung des 
+Betreuungsverhältnisses insbesondere beantragen, wenn einer od er mehrere der 
+folgenden Gründe zutreffen:  
+ Das Vertrauensverhältnis ist nachhaltig gestört oder  
+ es liegen schwerwiegende Verstöße gegen die Grundsätze und 
+Verfahrensregeln für den Umgang mit wissenschaftlichem Fehlverhalten an der 
+Philipps Universität Marburg oder gegen Sicherheitsvorschriften vor.  
+(6) Vor der Auflösung des Betreuungsverhältnisses ist der Doktorandin bzw. dem 
+Doktoranden durch den Promotionsausschuss Gelegenheit zur Stellungnahme zu 
+geben. Die Entscheidung über die Beendigung des Betreuungs verhältnisses trifft 
+der Promotionsausschuss in Ansehung der Stellungnahme. Mit der endgültigen 
+Beendigung des Betreuungsverhältnisses wird die Annahme als Doktorandin oder 
+Doktorand widerrufen.  
+ 
+§ 8  
+Die Dissertation  
+(1) Die Dissertation ist in der Regel in deutscher Sprache abzufassen. Sie kann in 
+englischer Sprache oder mit Zustimmung des Promotionsausschusses auf 
+begründeten Antrag in einer weiteren Fremdsprache oder auch zweisprachig 
+eingereicht werden. Die Mutters prache einer Bewerberin oder eines Bewerbers 
+gilt nicht als ausreichende Begründung. Einer fremdsprachlichen Dissertation ist 
+eine Zusammenfassung in deutscher Sprache beizufügen. Den Umfang der 
+Zusammenfassung regeln die  beteiligten Fachbereiche in den jeweiligen 
+Ausführungsbestimmungen.  
+(2) Arbeiten, die bereits Prüfungszwecken gedient haben, werden als Dissertation 
+nicht zugelassen. Ergebnisse solcher Prüfungsarbeiten können jedoch für die 
+Dissertation verwendet werden, wobei die betreffenden Arbeiten im  
+Quellenverzeichnis anzugeben und die verwendeten Textpassagen und 
+Abbildungen auszuweisen sind.  
+ 
+§ 9  
+Kumulative Dissertation  
+(1) Publikationen, die in der Fachkultur anerkannten bzw. referierten (Peer 
+Reviewed) wissenschaftlichen Publikationsorganen er folgen oder Manuskripte, 
+die dort zur Veröffentlichung angenommen oder eingereicht sind, können anstelle 
+einer monographischen Abhandlung als kumulative Dissertationsleistung 
+eingereicht werden. § 8 gilt entsprechend. Die Bewertung einer 
+Promotionsleistung  darf nicht von einer Publikationsannahme oder einem 
+erfolgreichen Peer Review Verfahren abhängig gemacht werden.  
+Unter dem Begriff „wissenschaftliches Publikationsorgan“ sind auch 
+Monographien und Buchbeiträge sowie vergleichbare Veröffentlichungen zu 
+verstehen.  
+(2) Bei kumulativen Dissertationen wird verlangt, dass  
+ sie qualitativ eine mit einer monographischen Abhandlung gleichwertige Leistung 
+darstellen,  
+ die Themenstellung der Publikationen/Manuskripte mit dem benannten 
+Promotionsthema übereinstimmt,  
+ die Doktorandin oder der Doktorand einen wesentlichen Beitrag zu diesen 
+Publikationen/Manuskripten geleistet hat , 
+ die Doktorandin oder der Doktorand eine Zusammenfassung der 
+Publikationen/Manuskripte erstellt, in der der Eigenanteil an den vorgelegten 
+Publikationen/Manuskripten exakt benannt wird und  
+ die Doktorandin oder der Doktorand ihr  eine allgemeine Einleitung voranstellt und 
+die Ergebnisse der einzelnen Publikationen/Manuskripte in einem größeren 
+Zusammenhang diskutiert   
+(3) Bei der schriftlichen Beg utachtung einer kumulativen Dissertation soll auf den 
+Anteil der Doktorandin oder des Doktoranden an den vorgelegten 
+Publikationen/Manuskripten eingegangen werden. Die Gutachterinnen oder 
+Gutachter müssen ein Votum dazu abgeben, ob die vorgelegten 
+Publikat ionen/Manuskripte bei Berücksichtigung des Anteils der Koautorinnen 
+oder der Koautoren in Art und Umfang qualitativ einer monographischen 
+Abhandlung gleichwertig sind und unter Berücksichtigung dieses Aspektes eine 
+Note vorschlagen. Sofern alle Publikationen in Koautorenschaft mit der Betreuerin 
+oder dem Betreuer erfolgt sind, können externe Gutachten eingeholt werden.  
+(4) Art und Umfang der Publikationen, Angaben zu geeigneten Publikationsorganen 
+und weitere fachspezifische Besonderheiten werden in den 
+Ausführungsbestimmungen der beteiligten Fachbereiche gesondert geregelt.  
+ 
+§ 10  
+Einreichung der Dissertation und Zulassung zum 
+Promotionsprüfungsverfahren  
+(1) Der Antrag auf Zulassung zur Promotionsprüfung ist schriftlich an die oder den 
+Vorsitzenden des Pro motionsausschusses des promotionsführenden 
+Fachbereichs z u richten. Dem Antrag sind folgende Unterlagen beizufügen:  
+a) die Dissertation nach §§ 8 und 9 in mindestens drei Exemplaren, gebunden 
+und mit einem Titelblatt versehen;  
+b) eine Erklärung, ob schon früher eine Promotion versucht wurde, 
+gegebenenfalls mit Angaben über Zeitpunkt, Hochschule, Dissertationsthema 
+und Ergebnis dieses Versuches;  
+c) eine Versicherung mit dem Wortlaut „Hiermit versichere ich, dass ich die 
+vorliegende Dissertation selbstständig, ohne unerlaubte Hilfe Dritter 
+angefertigt und andere als die in der Dissertation angegebenen Hilfsmittel 
+nicht benutzt habe. Alle Stellen, die wörtlich oder sinngemäß aus 
+veröffentlichten oder unveröffentlichten Schriften entnommen sind, habe ich 
+als solche ke nntlich gemacht. Dritte waren an der inhaltlich materiellen 
+Erstellung der Dissertation nicht beteiligt; insbesondere habe ich hierfür nicht 
+die Hilfe eines Promotionsberaters in Anspruch genommen. Kein Teil dieser 
+Arbeit ist in einem anderen Promotions  oder Habilitationsverfahren der 
+Antragstellerin oder des Antra gsstellers verwendet worden. Mit dem Einsatz 
+von Software zur Erkennung von Plagiaten bin ich einverstanden.“  
+d) ein Lebenslauf im Sinne von wesentlichen Angaben über die bisherige 
+wissenschaftliche  Ausbildung;  
+e) die Bescheinigung über die Annahme als Doktorandin oder Doktorand und 
+ggf. der Nachweis über die Erfüllung der mit der Annahme verbundenen 
+Auflagen;  
+f) den Nachweis der Abschlussprüfung bzw. der Eignungsfeststellung gemäß § 5 
+Abs. 2, 3;  
+g) die beteiligten Fachbereiche können weitere Zulassungsvoraussetzungen in 
+den jeweiligen Ausführungsbestimmungen vorsehen, die dem Antrag auf 
+Zulassung zur Promotionsprüfung beizufügen sind.  
+(2) Im Fall von strukturierten und institutionalisierten Ausbildungsangeboten können 
+die beteiligten Fachbereiche weitere Zulassungsvoraussetzungen in den 
+jeweiligen Ausführungsbestimmungen vorsehen, die dem Antrag auf Zulassung 
+zur Promotionsprüfung beizufügen sind.   
+(3) Die entsprechenden Unterlagen sind im Original oder i n Form von amtlich 
+beglaubigten Abschriften beizufügen. Die oder der Vorsitzende des 
+Promotionsausschusses kann in begründeten Fällen gestatten, dass die 
+Nachweise auch in anderer geeigneter Weise geführt werden.  
+(4) Die Zulassung ist abzulehnen, wenn die erforderlichen Unterlagen unvollständig 
+sind, die genannten Zulassungsvoraussetzungen nicht erfüllt sind, oder wenn der 
+Fachbereich für das von der Bewerberin oder dem Bewerber bearbeitete Thema 
+nicht zuständig ist.  
+ 
+§ 11  
+Gutachten  
+(1) Jede Gutachterin  oder jeder Gutachter erstellt eine schriftliche Stellungnahme 
+über die Dissertation, die der oder dem Vorsitzenden des 
+Promotionsausschusses zugeleitet wird. Das Gutachten schlägt entweder die 
+Annahme oder Ablehnung der Arbeit oder ausnahmsweise ihre Rück gabe zur 
+Änderung oder Ergänzung vor. Zugleich mit dem Vorschlag ihrer Annahme wird 
+die Dissertation mit einer der folgenden Noten bewertet:  
+Note 1 für eine sehr gute Leistung  
+Note 2 für eine gute Leistung  
+Note 3 für eine befriedigende Leistung  
+Note 4 für eine ausreichende Leistung.  
+Eine abgelehnte Arbeit wird mit der Note 5 (nicht ausreichend) bewertet.  
+Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 
+erniedrigt oder erhöht werden. Die Noten 0,7; 4,3; 4,7 und 5,3 sind 
+ausgeschlossen. Wird die Arbeit mit 1 ,0 bewertet, kann die Gutachterin oder der 
+Gutachter das Prädikat „ausgezeichnet (summa cum laude)“ vorschlagen.  
+Der Promotionsausschuss des jeweiligen Fachbereichs kann festlegen, dass zur 
+Vergabe der Gesamtnote „ausgezeichnet (summa cum laude)“ ein externes , 3. 
+Gutachten vorliegen muss.  
+(2) Die Gutachten sollen in der Regel 4 Wochen  nach der Einreichung der 
+Dissertation erstellt sein. Die oder der Promotionsausschussvorsitzende hat auf 
+die Einhaltung der Frist zu achten.  
+(3) Eine Rücknahme des Promotionsgesuches ist bei besonderer Begründung durch 
+die Doktorandin oder den Doktoranden und Anerkennung dieser Gründe durch 
+den Promotionsausschuss zulässig, solange noch kein Gutachten erstellt ist. Eine 
+überarbeitete Dissertationsfassung kann innerhalb von sechs Monaten wieder 
+vorgelegt werden; in diesem Fall wird das Verfahren fortgesetzt. Der 
+Promotionsausschuss kann bei angemessener Begründung eine 
+Fristverlängerung gewähren. Anderenfalls wird das Verfahren als erledigt 
+einges tellt. In jedem Fall verbleibt ein Exemplar der eingereichten Dissertation bei 
+den Promotionsakten. Eine spätere neue Einreichung der Dissertation erfordert 
+ein neues Verfahren.  
+ 
+ 
+ 
+§ 12  
+Auslage der Dissertation  
+(1) Nach Eingang der schriftlichen Gutachten informiert die oder der Vorsitzende des 
+Promotionsausschusses alle Mitglieder des Promotionsausschusses und der 
+Prüfungskommission sowie alle hauptamtlichen Professorinnen und Professoren 
+des promotionsführenden Fachbereichs über den Stand des Verfahrens und legt 
+die Dissertation mit den Gutachten zur Einsicht aus. Das Recht auf 
+Einsichtnahme haben alle prüfungsberechtigten Mitglieder des 
+promotionsführenden Fachbereichs, ferner alle ordentlichen Mitglieder des 
+Fachbereichsrates sowie in begründeten Fällen Professorinnen oder Professoren 
+anderer Fachbereiche. Die Auslagefrist beträgt mindestens zwei und höchstens 
+vier Wochen. Sie wird, falls ein Mitglied des Promotionsausschusses ihre 
+Verlängerung beantragt, um insgesamt höchstens zwei weitere Wochen 
+verlängert.  
+(2) Die Professorinnen und Professoren des promotionsführenden Fachbereiches 
+haben das Recht, innerhalb der Auslagefrist schriftlich ein Sondergutachten 
+anzukündigen. Das Gutachten ist innerhalb von zwei Wochen nach Ablauf der 
+Auslagefrist vorzulegen.  
+ 
+§ 13  
+Entscheidung über die Annahme der Dissertation 
+(1) Nach Ablauf der Auslagefrist entscheidet die Prüfungskommission auf der 
+Grundlage der Gutachten und der ggf. vorliegenden Sondergutachten über die 
+Annahme der Dissertation. Sie kann vor einer Entscheidung weitere Gutachten 
+einholen.  
+(2) Lehnt einer der beiden Gutachterinnen oder Gutachter die Annahme der 
+Dissertation ab oder liegt ein Sondergutachten vor, bestellt der 
+Promotionsausschuss eine dritte Gutachterin oder einen dritten Gutachter. 
+Schlägt die dritte Gutachterin oder der dritte Gutachter die Annahme der 
+Dissertation vor, gilt die Dissertation als angenommen. Weichen die Gutachten 
+um mehr als eine Note voneinander ab, bestellt der Promotionsausschuss zur 
+Vorbereitung der Entscheidung ebenfalls eine dritte Gutachterin oder einen dritten 
+Gutachter.  
+(3) Ergibt sich keine Mehrheit der Gutachten für die Annahme der Dissertation, ist 
+das Verfahren erfolglos beendet. Frühestens nach einem Jahr kann ein erneutes 
+Promotionsgesuch gestellt werden.  
+(4) In  Ausnahmefällen kann die Prüfungskommission die Rückgabe der Dissertation 
+an die Doktorandin oder den Doktoranden zur Änderung oder Ergänzung 
+innerhalb einer festgesetzten Frist beschließen. Diese Möglichkeit besteht nicht 
+bei Verstoß gegen die Grundsätze und Verfahrensregeln für den Umgang mit 
+wissenschaftlichem Fehlverhalten an der Philipps Universität Marburg nach § 24 
+Abs. 1. Änderungen und/oder Ergänzungen sowie die festgesetzte Frist werden 
+schriftlich mitgeteilt. Diese soll ein Jahr nicht überschreit en. Aus besonderen 
+Gründen kann die Frist verlängert werden. Reicht die Bewerberin oder der 
+Bewerber die Dissertation fristgerecht wieder ein, so wird über sie gemäß den 
+vorstehenden Bestimmungen erneut geurteilt und entschieden; hält sie oder er die 
+Frist nicht ein, so gilt die Dissertation als abgelehnt.  
+(5) Bei Annahme der Dissertation setzt die oder der Vorsitzende der 
+Prüfungskommission zeitnah den Termin der Disputation fest. Die Doktorandin 
+oder der Doktorand hat zur Vorbereitung ihrer oder seiner P rüfung das Recht auf 
+Einsichtnahme in die Gutachten und Sondergutachten.  
+(6) Die Note für die Bewertung der Dissertation ergibt sich aus dem rechnerischen 
+Mittelwert der gefertigten Gutachten. Im Fall des Abs. 2 Satz 2 wird der Median 
+(Zentralwert) gebildet. Im Fall des Abs. 2 Satz 3 legt die Prüfungskommission die 
+Note auf der Grundlage der Gutachten fest.  
+ 
+§ 14  
+Mündliche Promotionsprüfung (Disputation)  
+(1) Die mündliche Prüfung erfolgt für jede Doktorandin oder jeden Doktoranden 
+einzeln durch die Prüf ungskommission in Form der Disputation. Ist ein Mitglied 
+der Prüfungskommission oder die Doktorandin oder der Doktorand aus 
+schwerwiegenden Gründen an der persönlichen Teilnahme verhindert, kann die 
+abwesende Person mit Zustimmung aller Mitglieder der Prüf ungskommission und 
+der Doktorandin bzw. des Doktoranden durch geeignete und gesicherte 
+elektronische Bild  und Sprachübertragung an der Disputation teilnehmen. Die 
+Identität elektronisch zugeschalteter Personen ist durch Ausweisdokumente 
+sicherzustellen un d im Protokoll zu dokumentieren. Bei Auftreten von technischen 
+Problemen während der Disputation kann die Disputation wiederholt werden. Tritt 
+aus diesen Gründen Beschlussunfähigkeit ein, ist die Disputation zu wiederholen.  
+(2) Zur Prüfung werden die Dekanin oder der Dekan, die Mitglieder der 
+Prüfungskommission und des Promotionsausschusses, die Mitglieder des 
+Fachbereichsrates und alle Professorinnen und Professoren des Fachbereiches 
+sowie die promovierten Mitglieder der Gruppe der wissenschaftlichen 
+Mitarbeiterinnen und Mitarbeiter des Fachbereichs eingeladen. Termin und Ort 
+der Disputation sind öffentlich bekannt zu machen.  
+(3) Im Falle einer binationalen Promotion kann in Kooperationsverträgen festgelegt 
+werden, welche Personen der Partneruniversität zur Disputation eingeladen 
+werden.  
+(4) Die oder der Vorsitzende der Prüfungskommission leitet die Disputation. Die 
+Doktorandin oder der Doktorand hält einen öffentlichen Vortrag von ca. 30 
+Minuten  über ihre oder seine Dissertation.  Die Öffentlichkeit kann i n 
+Ausnahmefällen auf Vorschlag der Prüfungskommission und im Einvernehmen 
+mit der oder dem Promovierenden ausgeschlossen werden, wenn ein wichtiger 
+Grund wie der Schutz von Daten oder eine ärztlich bescheinigte gesundheitliche 
+Einschränkung vorliegt.  
+In de r anschließenden Diskussion wird die Dissertation öffentlich verteidigt. Die 
+Disputation erstreckt sich darüber hinaus auf ausgewählte Probleme des Fachs 
+und angrenzende Gebiete anderer Fächer sowie den Forschungsstand in ihnen. 
+Die Diskussion mit der Dokt orandin oder mit dem Doktoranden obliegt vorrangig 
+den Mitgliedern der Prüfungskommission; neben diesen haben alle Mitglieder des 
+Promotionsausschusses und alle Professorinnen und Professoren des 
+Fachbereichs sowie die promovierten Mitglieder der Gruppe der 
+wissenschaftlichen Mitarbeiterinnen und Mitarbeiter des Fachbereichs das Recht, 
+Fragen zu stellen. Die Diskussion soll höchstens 90 Minuten dauern.   
+(5) Vortrag und die Disputation können im Falle der Einreichung einer 
+fremdsprachlichen Dissertation in d er entsprechenden Sprache erfolgen, falls der 
+Promotionsausschuss zustimmt. Das Protokoll muss auch in einer deutschen 
+Fassung angefertigt sein.  
+(6) Über den Verlauf, den Prüfungsstoff und das Ergebnis der Disputation ist von der 
+oder dem Vorsitzenden der  Prüfungskommission oder von einer oder einem von 
+dieser oder diesem beauftragten promovierten Mitarbeiterin oder Mitarbeiter ein 
+Protokoll anzufertigen, das eine Note enthalten muss. Das Protokoll ist von den 
+Mitgliedern der Prüfungskommission und der Protokollführerin oder dem 
+Protokollführer, soweit sie oder er nicht Mitglied der Prüfungskommission ist, zu 
+unterzeichnen.  
+(7) Als Noten für die mündliche Prüfung sind zu verwenden:  
+Note 1 für eine sehr gute Leistung  
+Note 2 für eine gute Leistung  
+Note 3 für eine befriedigende Leistung  
+Note 4 für eine ausreichende Leistung  
+Note 5 für eine nicht ausreichende Leistung.  
+Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 
+erniedrigt oder erhöht werden. Die Noten 0,7; 4,3; 4,7 und 5,3 sind 
+ausgeschlossen. Die Prüfungskommission kann die mündliche Prüfung mit 1, 0 
+„ausgezeichnet (summa cum laude)“ bewerten.  
+ 
+§ 15  
+Gesamtbewertung  
+(1) Unmittelbar nach der Disputation entscheidet die Prüfungskommission in nicht 
+öffentlicher Sitzung über das Ergebnis der mündlichen Prüfung und setzt, sofern 
+diese bestanden ist, auf der Grundlage der Gutachten und Leistungen in der 
+mündlichen Prüfung das G esamturteil der Promotion fest. Die Doktorandin oder 
+der Doktorand kann nur promoviert werden, wenn die Dissertation und 
+Disputation jeweils mindestens mit der Note „ausreichend“ bewertet worden sind.  
+(2) Bei der Bildung der Gesamtnote werden die Noten der beiden Prüfungsteile im 
+Verhältnis ¾ (Dissertation) zu ¼ (Disputation) gewichtet.  
+(3) Bei Bildung der Gesamtnote wird nur die erste Dezimalstelle hinter dem Komma 
+berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen. Als 
+Gesamtnote wird bei einem Notenwert  
+von 1,0 ein "ausgezeichnet" (summa cum laude)   
+von 1, 0 – 1,5 ein "sehr gut" (magna cum laude)  
+von 1,6 – 2,5 ein "gut" (cum laude)  
+von 2,6 – 4,0 ein "genügend" (rite)  
+erteilt.  
+Das Prädikat „ausgezeichnet“ (summa cum laude) kann nur erteilt werden, wenn 
+eine Gutachterin oder ein Gutachter dieses mit Abgabe des Gutachtens 
+vorschlägt und die Prüfungskommission dem einstimmig  zustimmt.   
+Die Prüfungskommission legt aufgrund der Gutachten schriftlich fest, ob und 
+gegebenenfalls welche Auflagen für  die Veröffentlichung der Dissertation zu 
+erfüllen sind.  
+(4) Im Anschluss an die Sitzung teilt die oder der Vorsitzende der 
+Prüfungskommission der Doktorandin oder dem Doktoranden das Gesamturteil 
+und gegebenenfalls die Auflagen mit. Damit ist das Promotionsv erfahren 
+abgeschlossen. Der Doktorandin oder dem Doktoranden ist eine Bescheinigung 
+über den Abschluss des Promotionsverfahrens auszustellen, die die Bewertung 
+der Dissertation, der Disputation und die Gesamtbewertung enthält. Die oder der 
+Vorsitzende der Prüfungskommission weist darauf hin, dass das Recht zur 
+Führung des akademischen Grades nach § 2 Abs. 2 erst nach Aushändigung der 
+Promotionsurkunde beginnt.  
+ 
+§ 16  
+Prüfungsakten  
+Die Prüfungsakten sind vertraulich zu behandeln und zu archivieren. Während des 
+Promotionsverfahrens steht Akteneinsicht nur den Mitgliedern der 
+Prüfungskommission und den Mitgliedern des Promotionsausschusses zu. § 12 Abs. 
+2 bleibt unberührt. Nach Abschluss des Promotionsverfahrens, längstens aber 
+innerhalb eines Jahres nach Vollzug der Promotion, ansonsten bei berechtigtem 
+Interesse, wird den Doktorandinnen oder Doktoranden auf Antrag Einsicht in die 
+Gutachten, die Sondergutachten und in das Protokoll der  mündlichen Prüfung 
+gewährt.  
+ 
+§ 17  
+Veröffentlichung der Dissertation  
+(1) Nach bestandener Prüfung hat die Doktorandin oder der Doktorand die 
+Dissertation unter Berücksichtigung der Auflagen der Prüfungskommission (§ 15 
+Abs. 4) als selbstständige Schrift zu veröffentlichen und gemäß § 18 zu 
+verbreiten. Sie kann auch als Beitrag in einer wissenschaftlichen Zeitschrift oder 
+in einem Sammelband oder in mehreren Teilen oder in gekürzter Form, welche 
+die wesentlichen Ergebnisse enthält, veröffentlicht werden. D ie zu 
+veröffentlichende Fassung wird von der Erstgutachterin oder dem Erstgutachter 
+auf die Erfüllung eventueller Auflagen geprüft und zur Veröffentlichung 
+freigegeben. Die Erstgutachterin bzw. der Erstgutachter entscheidet, welche 
+Anhänge zu veröffentlichen sind. Für den Fall von Änderungen im Laufe des 
+Promotionsverfahrens (z.B. Auflagen, redaktionelle Anpassungen) ist eine weitere 
+Erklärung abzugeben, nach der die in diesem Fall einzureichende zweite Fassung 
+mit der zur Veröffentlichung freigegebenen Fas sung identisch ist.  
+(2) Die Publikation ist als Dissertation der Philipps Universität zu kennzeichnen. 
+Erfolgt die Veröffentlichung in erweiterter oder gekürzter Fassung oder nur 
+auszugsweise, so ist dies ausdrücklich zu vermerken. Eine auszugsweise 
+Veröff entlichung liegt vor, wenn die Dissertation um mehr als die Hälfte ihres 
+ursprünglichen Umfangs gekürzt wird.  
+(3) Nach Absprache mit der Universitätsbibliothek ist die Veröffentlichung auch in 
+einer geeigneten elektronischen Form möglich.   
+(4) Die Veröffe ntlichung kann zurückgestellt werden (zeitlich befristeter  
+Sperrvermerk), sofern im Rahmen von Kooperationen nach § 2 Abs. 5  
+Vertraulichkeitsvereinbarungen getroffen wurden. Die Zustimmung der 
+Doktorandin oder des Doktoranden ist einzuholen.  
+ 
+§ 18  
+Pflichtexemplare  
+(1) Von der Dissertation sind neben dem für die Prüfungsakte erforderlichen 
+Exemplar vier Exemplare (Pflichtexemplare) unentgeltlich an die 
+Universitätsbibliothek abzuliefern. Diese Exemplare müssen auf 
+alterungsbeständigem Papier ausgedr uckt und haltbar gebunden sein. Darüber 
+hinaus ist die Verbreitung sicherzustellen durch:  
+a) Nachweis der Verbreitung über einen gewerblichen Verleger im Buchhandel  
+mit einer Mindestauflage von 150 Druckexemplaren oder im publishing on 
+demand Verfahren, wobei sich die Doktorandin oder der Doktorand bemühen 
+soll, dass im Verlagsvertrag der Philipps Universität gleichzeitig oder nach 
+Ablauf einer Frist das Recht einer elektronischen Veröffentlichung eingeräumt 
+wird,  
+b) oder den Nachweis der Veröffentlichung in einer wissenschaftlichen Zeitschrift 
+mit einer Mindestauflage von 150 Exemplaren oder in elektronischer Ausgabe, 
+wobei im Fall der elektronischen Veröffentlichung durch einen Verlag 
+nachzuweisen ist, dass im Verlagsvertrag ein unentgeltliches, unwiderrufliches 
+und zeitlich unbeschränktes Nutzungsrecht für die Philipps Universität besteht,  
+c) oder die Ablieferung einer elektronischen Version, deren Datenformat und –
+träger mit der Universitätsbibliothek abzustimmen sind.  
+Im Fall c) überträgt die Doktorandin oder der Doktorand der Philipps 
+Universität das Recht, weitere Kopien von ihrer oder seiner Dissertation 
+herzustellen und zu verbreiten. Sie oder er überträgt ihr weiterhin das Recht, 
+die Dissertation in Wissenschaftsnetzen zugänglich zu machen.  
+(2) Die Pflicht exemplare der Dissertation sind innerhalb eines Jahres nach der 
+mündlichen Prüfung bei der Universitätsbibliothek der Philipps Universität 
+abzuliefern. Die Pflichtexemplare müssen durch ein entsprechendes Titelblatt als 
+Dissertation gekennzeichnet sein. Au f dem Titelblatt sind das Thema der 
+Dissertation, der Fachbereich und die Universität, der Name und der Geburtsort 
+der Doktorandin oder des Doktoranden, ihr oder sein früher erworbener 
+akademischer Grad, Titel und Namen der Gutachterinnen oder Gutachter, 
+Einreichungs  und Prüfungstermin, Erscheinungsort und  jahr sowie die 
+Hochschulkennziffer anzugeben. Eine entsprechende Quittung einer zuständigen 
+Vertreterin oder eines zuständigen Vertreters der Universitätsbibliothek über die 
+Abgabe der Pflichtexemplare und gegebenenfalls der Verlagsvertrag über die 
+Veröffentlichung innerhalb eines Zeitraumes von zwei Jahren oder die der 
+Anmeldung zur Veröffentlichung in einem Computernetz ist der oder dem 
+Vorsitzenden des Promotionsausschusses auszuhändigen; sie ist Voraussetzung 
+für die Übergabe der Promotionsurkunde. Die oder der Vorsitzende des 
+Promotionsausschusses kann auf begründeten Antrag hin die Abgabefrist 
+verlängern. Versäumt die Doktorandin oder der Doktorand schuldhaft eine ihr 
+oder ihm nach Ablauf der Frist vom Promotionsausschuss gesetzte angemessene 
+Nachfrist, erlöschen die durch die Promotion erworbenen Rechte zur Führung des 
+Titels. Das Gleiche gilt, wenn die Doktorandin oder der Doktorand die Auflagen 
+nach § 15 Abs. 4 nicht erfüllt.  
+ 
+§ 19  
+Vollzug der P romotion  
+(1) Aufgrund der Promotion verleiht die Hochschule einen Doktorgrad. Sobald die 
+Pflichtexemplare der Dissertation abgegeben sind, wird die Promotion durch 
+Aushändigung der Promotionsurkunde vollzogen. Von diesem Zeitpunkt an 
+besteht das Recht, de n akademischen Grad nach § 2 Abs. 2 zu führen.  
+(2) Im Falle einer binationalen Promotion im Sinne des § 2 Abs.  6 können in einem 
+Kooperationsvertrag zusätzlich zu Abs. 1 weitere Voraussetzungen für den 
+Vollzug der Promotion festgelegt werden.  
+ 
+§ 20  
+Wiederholung des Promotionsversuches  
+(1) Ist der erste Versuch einer Promotion durch Ablehnung der Dissertation 
+gescheitert, so ist eine erneute Bewerbung unter Vorlage einer neuen Dissertation 
+nur einmal möglich. Dies gilt auch, wenn die erste Bewerbung an einer anderen 
+Universität gescheitert ist. Weiteres regeln die Ausführungsbestimmungen der  
+beteiligten Fachbereiche.  
+(2) Eine nicht bestandene Disputation kann einmal wiederholt werden, und zwar 
+spätestens ein Jahr nach der nicht bestandenen Prüfung. I n besonderen Fällen 
+kann die Frist auf Antrag der Doktorandin oder des Doktoranden verlängert 
+werden.  
+(3) Sind die Promotionsleistungen durch Nichteinhaltung einer Abgabefrist oder 
+durch andere Verstöße gegen diese Promotionsordnung hinfällig geworden, so 
+entscheidet der Promotionsausschuss, ob und unter welchen Bedingungen die 
+Promotion wiederholt werden kann.  
+ 
+§ 21  
+Promotionsleistungen bei Krankheit und Behinderungen sowie bei familiären 
+Belastungen  
+Macht eine Doktorandin oder ein Doktorand durch ein ärztliches Zeugnis glaubhaft, 
+dass sie oder er wegen Krankheit, chronischer Erkrankung oder Behinderung nicht in 
+der Lage ist, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, 
+hat die oder der Vorsitzende des Promotionsausschusses der Doktorandin oder dem 
+Doktoranden zu gestatten, die Promotionsleistungen in einer verlängerten 
+Prüfungszeit zu erbringen. Dies gilt auch für den Fall des Nachweises der 
+notwendigen Betreuung einer oder eines nahen Angehörigen. Gleiches gilt für den 
+Personenkr eis nach § 1 Mutterschutzgesetz. Mutterschutzfristen sowie Fristen der 
+Elternzeit sind zu berücksichtigen.  
+ 
+§ 22  
+Promotionsurkunde, Promotionszeugnis  
+(1) Die Promotionsurkunde wird auf den Tag der mündlichen Prüfung datiert, eine 
+Kopie der Urkunde verbl eibt in der Akte. Sie trägt die Unterschriften der Dekanin 
+oder des Dekans des Fachbereiches und der Präsidentin oder des Präsidenten 
+der Philipps Universität und wird mit dem Siegel der Universität in der für den 
+Fachbereich geltenden Fassung versehen. Der Text der Promotionsurkunde 
+lautet:  
+ 
+Philipps Universität Marburg  
+URKUNDE  
+Während der Amtszeit der Präsidentin bzw. des 
+Präsidenten ...........................................................................  
+und der Dekanin bzw. des 
+Dekans............ .....................................................................................................  
+verleiht der 
+Fachbereich....................................................................................................  
+durch diese Urkunde  
+Name.........................................................................................................................  
+geboren am .......................................................in ................................................  
+den akadem ischen Grad einer Doktorin/ eines  
+Doktors der ............. (Dr. ..........)  
+im Fach ............................................................................................................  
+nachdem sie/er in ordnungsgemäßem Promotionsverfahren unter   
+Mitwirkung der Gutachterin bzw. des 
+Gutachters.......................................................................  
+durch ihre/seine Dissertation 
+………………………………………………………………...  
+und durch die mündliche Prüfung  
+ihre/seine wissenschaftliche Befähigung erwiesen hat. Das Gesamturteil lautet  
+................................................  
+Marburg, den .................  
+Die Präsidentin bzw. Der Präsident Die Dekanin bzw. Der Dekan 
+(Siegel)  
+ 
+(2) Im Falle eines ins titutionalisierten und strukturierten Promotionsprogramms kann 
+ein Promotionszeugnis ausgestellt werden.  
+(3) Im Falle einer binationalen oder kooperativen Promotion im Sinne des § 2 Abs. 5 
+bzw. Abs. 6  können entsprechend der Kooperationsvereinbarung von A bs. 1 
+abweichende Regelungen getroffen werden.  
+(4) Dem Promotionszeugnis und der Promotionsurkunde können zusätzlich in 
+zweifacher Ausfertigung Übersetzungen in englischer Sprache beigelegt werden, 
+die eine Übersetzung des Doktorgrades enthalten kann. Ein e Ausfertigung 
+verbleibt in der Akte.  
+§ 23 
+Widerspruch gegen Entscheidungen in Promotionsverfahren 
+(1) Jeder ablehnende oder sonst in Rechtspositionen der Antragstellerin bzw. des 
+Antragstellers eingreifende Bescheid des Promotionsausschusses bzw. der 
+Prüfungskommission ist zu begründen und mit einer Rechtsbehelfsbelehrung zu 
+versehen.  
+(2) In der Rechtsbehelfsbelehrung ist anzugeben, dass der Widerspruch bei der 
+Präsidentin/dem Präsidenten einzulegen ist. Im Rahmen des 
+Widerspruchsverfahrens gibt der Fachbereich eine Stellungnahme ab und kann 
+sich gegebenenfalls dafür aussprechen, dem Widerspruch abzuhelfen. Den 
+Widerspruchsbescheid erlässt die Präsidentin bzw. der Präsident.  
+(3) Die Dekanin bzw. der Dekan berichtet mindestens einmal jährlich dem 
+Fachbereic hsrat in nicht öffentlicher Sitzung über laufende und abgeschlossene 
+Widerspruchsverfahren.  
+ 
+§ 24  
+Versagung und Entziehung des Doktorgrades  
+(1) Wird vor Aushändigung der Promotionsurkunde festgestellt, dass die Bewerberin 
+oder der Bewerber bei ihren oder  seinen Leistungen im Promotionsverfahren eine 
+Täuschung oder ein anderes schwerwiegendes wissenschaftliches Fehlverhalten 
+versucht oder verübt hat, wird der Vollzug der Promotion verweigert. Die 
+Entscheidung trifft der Promotionsausschuss.  
+(2) Nach Aushä ndigung der Promotionsurkunde kann der Doktorgrad entzogen 
+werden, sofern sich herausstellt, dass er durch Täuschung erworben wurde oder 
+durch ein anderes schwerwiegendes wissenschaftliches Fehlverhalten erworben 
+wurde. Im Übrigen gelten die gesetzlichen B estimmungen. Die Entscheidung trifft 
+der Fachbereichsrat.  
+(3) Vor der Entscheidung über die Versagung oder Entziehung des Doktorgrades ist 
+der Betroffenen oder dem Betroffenen innerhalb einer angemessenen Frist 
+Gelegenheit zu geben, sich zu den erhobenen Vorwürfen zu äußern.  
+ 
+§ 25 
+Ehrenpromotion  
+(1) Persönlichkeiten, die sich durch hervorragende wissenschaftliche Leistungen 
+oder in sonstiger Weise außergewöhnliche Verdienste um die Wissenschaft 
+erworben haben, kann die Würde eines Doktors ehrenhalber verliehen werden. 
+Vor Einleitung des Verfahrens  ist das Einvernehmen mit dem Präsidium 
+herzustellen. Die Verleihung erfolgt, wenn dies der Promotionsausschuss 
+beschließt und der Fachbereichsrat mit Dreiviertelmehrheit der Mitglieder 
+zustimmt. Die Würde einer Doktorin oder eines Doktors ehrenhalber wird mit der 
+Bezeichnung Doktorin oder Doktor der Naturwissenschaften ehrenhalber (Dr. rer. 
+nat. h. c.) verliehen.  
+(2) Die Ehrenpromotion wird vollzogen durch die Überreichung einer hierüber 
+ausgefertigten Urkunde, in welcher die Verdienste hervorgehoben sind.  
+ 
+§ 26 
+Übergangs  und Schlussbestimmungen  
+(1) Diese Promotionsordnung tritt am Tage nach ihrer Veröffentlichung in den 
+Amtlichen Mitteilungen der Philipps Universität Marburg in Kraft. Gleichzeitig tritt 
+die Promotionsordnung vom 15.07.2009  außer Kraft.  Promovierende, deren 
+Annahme als Doktorandin oder Doktorand im Rahmen einer früheren Fassung 
+dieser Promotionsordnung erfolgte, können auf Antrag an den 
+Promotionsausschuss das Verfahren nach der gültigen aktuellen Fassung 
+abschließen.  
+ 
+ 
+Marburg, den 21.11.2022  
+Gez.  
+Prof. Dr. Junker  
+Dekanin/Dekan des Fachbereichs Biologie  
+der Philipps Universität Marburg  
+ 
+ 
+Marbur g, den 31.10.2022  
+Gez.  
+Prof. Dr. Freisleben  
+Dekanin/Dekan des Fachbereichs Mathematik und Informatik  
+der Philipps Universität Marburg  
+ 
+ 
+Marburg, den 25.10.2022  
+Gez.  
+Prof. Dr. Endres  
+Dekanin/Dekan des Fachbereichs Psychologie 
+der Philipps Universität Marburg  
+ 
+ 
+Marburg, den 21.10.2022  
+Gez.  
+Prof. Dr. Keusgen  
+Dekanin/Dekan des Fachbereichs Pharmazie  
+der Philipps Universität Marburg  
+ 
+ 
+Marburg, den 10.10.2022  
+Gez.  
+Prof. Dr. Hilfiker Kleiner  
+Dekanin/Dekan des Fachbereichs Medizin 
+der Philipps Universität Marburg  
+ 
+ 
+Marburg, den 6.10.2022 
+Gez.  
+Prof. Dr. Gebhard  
+Dekanin/Dekan des Fachbereichs Physik  
+der Philipps Universität Marburg  
+ 
+ 
+Marburg, den 12.10.2022  
+Gez.  
+Prof. Dr. Roling  
+Dekanin/Dekan des Fachbereichs Chemie  
+der Philipps Universität Marburg  
+ 
+ 
+Marburg, den 12.10.2022  
+Gez.  
+Prof. Dr. Brenner  
+Dekanin/Dekan des Fachbereichs Geographie 
+der Philipps Universität Marburg  
+ 
+ 

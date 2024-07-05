@@ -1,0 +1,620 @@
+ Promotionsordnung der Fakultät für Informatik der Technischen Universität Dortmund 
+vom 29. August 2011 (Lesefassung einschli eßlich Erster Ordnung zur Änderung der 
+Promotionsordnung vom 8. Januar 2013) 
+ 
+Auf Grund des § 2 Abs. 4 in Verbindung mit § 67 Abs. 3 des Gesetzes über die 
+Hochschulen des Landes NordrheinWestfale n (Hochschulgesetz  HG) vom 31. Oktober 
+2006 (GV. NRW. S. 474), zuletzt geändert durch Gesetz vom 8. Oktober 2009 (GV. NRW. 
+S.516), hat die Technische Universität Do rtmund die folgende Ordnung erlassen: 
+ 
+Inhaltsverzeichnis: 
+ 
+§ 1 Promotionsrecht 
+§ 2 Zweck der Promotion 
+§ 3 Promotionsausschuss 
+§ 4 Voraussetzung zur Zulassung zur Promotion (§ 67 Abs. 4 HG)  § 5 Antrag auf Zulassung zum Promotionsverfahren 
+§ 6 Zulassung zum Promotionsverfahren 
+§ 7 Betreuung  § 8 Widerruf der Zulassung zum Promotionsverfahren 
+§ 9 Strukturiertes Promotionsprogramm 
+§ 10 Dissertation § 11 Antrag auf Annahme der Dissertati on und Einreichung der Dissertation 
+§ 12 Eröffnung des Promotionsverfahrens und Bestellung der Gutachterinnen und Gut          achter  § 13 Prüfungskommission § 14 Begutachtung der Dissertation  
+§ 15 Mündliche Prüfung 
+§ 16 Ergebnis der Prüfungen  § 17 Wiederholung der mündlichen Prüfung 
+§ 18 Veröffentlichung der Dissertation 
+§ 19 Abschluss des Promotionsverfahrens § 20 Promotion in gemeinsamer Betreuung mit einer Fakultät einer anderen Hochschule 
+§ 21 Ungültigkeitserklärung der Promotionsleistungen 
+§ 22 Aberkennung des Doktorgrades § 23 Rechtsbehelf 
+§ 24 Ehrenpromotion 
+§ 25 Übergangsregelungen § 26 Inkrafttreten Anhang A: Titelblatt der Dissertation (Dr. rer. nat.)  
+Anhang B: Titelblatt der Dissertation (Dr.Ing.) 
+Anhang C: Promotionsurkunde Dr. rer. nat.  Anhang D: Promotionsurkunde Dr.Ing. 
+ § 1 Promotionsrecht 
+ 
+(1) Die Technische Universität Dortmund hat das Recht zur Promotion. 
+ 
+(2) Sie verleiht aufgrund einer Promotion in de m Fach Informatik den Grad einer Doktorin 
+bzw. eines Doktors der Naturwissenschaften (Dr. rer. nat.) oder einer DoktorIngenieurin 
+bzw. eines DoktorIngenieurs (Dr.Ing.) nach  Maßgabe dieser Promotionsordnung. Für die 
+Durchführung des Promotionsverfahrens ist die Fakultät für Informatik zuständig. 
+ 
+(3) Der Grad Dr. rer. nat. wird in der Regel verliehen für eine wissenschaftliche Arbeit, die 
+wesentlich mathematischstrukturwissenschaftliche Aspekte der Informatik behandelt, 
+der Grad Dr.Ing. für eine wissenschaftliche Arbeit, die wesentlich ingenieurwissenschaftliche Aspe kte der Informatik behandelt. 
+ 
+(4) Die Technische Universität Dortmund kann auf Antrag der Fakultät für Informatik den 
+Doktorgrad ehrenhalber (Dr. rer. nat. h. c.  oder Dr.Ing.  e. h.) vergeben (§ 24). 
+ 
+ 
+§ 2 Zweck der Promotion  
+ Durch die Promotion wird eine über das allgemeine Studienziel hinausgehende, 
+besondere Befähigung zu selbständiger wissenschaftlicher Arbeit nachgewiesen. Die Befähigung wird aufgrund einer schriftliche n Arbeit (Dissertation), die den Stand der 
+wissenschaftlichen Erkenntni sse weiterführt, einer mündlicher Prüfung sowie das 
+erfolgreiche Absolvieren eines strukturierten Promotionsprogramms festgestellt.  
+ 
+§ 3 Promotionsausschuss 
+ 
+(1) Für die Durchführung der Promotion und die Erledigung der weiteren, ihm durch diese 
+Promotionsordnung zugewiesenen Aufgaben wi rd ein Promotionsauss chuss eingerichtet. 
+ 
+(2) Der Promotionsausschuss besteht aus neun Mi tgliedern, davon fünf Mitglieder aus der 
+Gruppe der Hochschullehrerinnen und Hochschullehrer gem. § 11 Abs. 1 Nr. 1 HG, zwei 
+Mitglieder aus der Gruppe der akademischen Mitarbeiterinnen und Mitarbeiter gem. § 11 
+Abs. 1 Nr. 2 HG, einer Doktorandin/einem Do ktoranden aus der Gruppe der Studierenden 
+gem. § 11 Abs. 1 Nr. 4 HG sowie einem Mitglied aus der Gruppe der Studierenden gem. § 11 Abs. 1 Nr. 4 HG, das nicht Doktorand od er Doktorandin ist. Die Mitglieder des 
+Promotionsausschusses werden auf Vorschlag der jeweiligen Gruppen vom Fakultätsrat nach Gruppen getrennt gewählt. Die/ der Vorsitzende muss der Gruppe der 
+Hochschullehrerinnen und Hochschullehrer angehören und wird vom Fakultätsrat 
+gewählt. Die Amtszeit der Ausschussmitglieder beträgt 2 Jahre, für studentische Mitglieder ein Jahr. Für jede Gruppe wird  eine Vertreterin/ein Vertreter gewählt. 
+Wiederwahl ist zulässig. Die Zusammensetzung des Promotionsausschusses ist bekanntzugeben.  
+(3) Der Promotionsausschuss hat insbesondere folgende Aufgaben: – Feststellung der Voraussetzungen zur Promot ion gem. § 4 und Entscheidung über die 
+Zulassung zur Promotion gem. § 6, 
+– Eröffnung des Promotionsverfahrens und Bestimmung der Gutachterinnen und 
+Gutachter gem. § 12, 
+– Bestimmung der Prüfungskommission gem. § 13, 
+ – Festlegung von Fristen und Terminen, 
+– Entscheidung über Sonderfäll e in Promotionsverfahren, 
+– Entscheidung über Widersprüche. 
+ 
+(4) Der Promotionsausschuss achtet da rauf, dass die Bestimmungen der 
+Promotionsordnung eingehalten werden. Er be richtet regelmäßig dem Fakultätsrat über 
+die Entwicklung der Promotionsverfahren und gibt ggf. Anregungen zur Änderung der 
+Promotionsordnung und Verbesserung der Promotionsverfahren.  
+(5) Der Promotionsausschuss kann die Erledi gung der laufenden Geschäfte an die 
+Vorsitzende/den Vorsitzenden übertragen. En tscheidungen über ablehnende Bescheide 
+und Widersprüche trifft der Pr omotionsausschuss als Gremium. 
+ 
+(6) Die Mitglieder des Promotionsausschusses sind zur Verschwiegenheit verpflichtet. 
+Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch die Vorsitzende/den 
+Vorsitzenden hierzu  zu verpflichten. 
+ 
+(7) Die Sitzungen des Promotionsausschusses sind nicht öffentlich. Der 
+Promotionsausschuss ist beschlussfähig, wenn mehr als die Hälfte der 
+stimmberechtigten Mitglieder anwesend si nd. Bei Stimmengleichheit entscheidet die 
+Stimme der/des Vorsitzenden. Bei Entscheidungen, die Prüfungsleistungen betreffen, haben nur die Mitglieder aus der Gruppe de r Hochschullehrerinnen und Hochschullehrer 
+sowie promovierte wissenschaftlich e Mitarbeiter/innen Stimmrecht. 
+  
+§ 4 Voraussetzung zur Zulassung zur Promotion (§ 67 Abs. 4 HG)  
+ 
+(1) Zur Promotion wird zugelassen, wer a) einen einschlägigen Masterabschluss mit 300 Credits sowie einer Note von „gut“ 
+oder besser oder 
+b) einen Abschluss nach einem einschlä gigen Universitätsstudium mit einer 
+Regelstudienzeit von mindestens 8 Semestern sowie einer Note von „gut“ oder besser, für das ein anderer Grad als Bachelor vergeben wird, oder 
+c) einen Abschluss nach einem einschlägigen Masterstudium mit weniger als 300 
+Credits sowie einer Note von „gut“ oder besser und daran anschließende promotions
+vorbereitende Studien, oder 
+d) ein einschlägiges Hochschulstudium von mindestens 6 Semestern sowie einer 
+Note von „gut“ oder besser und daran an schließende promotionsvorbereitende Stu
+dien nachweist. 
+Der Promotionsausschuss kann in begrün deten Ausnahmefällen auch Bewerberin
+nen/Bewerber zulassen, die nicht die in Satz 1 lit. a) bis lit. d) geforderte Mindestnote erreicht haben.  
+(2) Einschlägig im Sinne des Absatzes 1 ist ei n Studium in Informatik. Als einschlägig 
+angesehen wird auch ein Studium, das einen Anteil von 60 Credits auf MasterNiveau in dem Fachgebiet Informatik aufweist. Der Promotionsausschuss kann in begründeten 
+Ausnahmefällen auch andere Bewerberinnen/Bewerber zulassen.  
+(3) Bewerberinnen/Bewerber, die einen Abschluss gem. Abs. 1 lit. c) und lit. d) (und ggf. Abs. 2) nachweisen, müssen vor der endgültigen Zulassung zur Promotion promotionsvorbereitende Studien von mindestens 60 Credits absolvieren. Der genaue Inhalt und Umfang der promotions vorbereitenden Studien wird vom 
+ Promotionsausschuss festgelegt. Kandidat innen/Kandidaten mit einem Bachelor
+Abschluss gem. Abs. 1 lit. d) müssen zusätzlich ihre Eignung zur Promotion nachweisen. 
+ 
+(4) Wer seinen Studienabschluss nicht im Geltungsbereich des Grundgesetzes erworben hat, 
+kann zugelassen werden, wenn die Gleichwertigkeit des Abschlusses festgestellt wird. 
+Die Feststellung erfolgt durch den Promotio nsausschuss auf Antrag der Kandidatin/des 
+Kandidaten. In Zweifelsfällen ist die Zent ralstelle für ausländisches Bildungswesen 
+anzurufen.  
+ 
+§ 5 Antrag auf Zulassung zum Promotionsverfahren  
+ 
+(1) Die Bewerberin/der Bewerber richtet ih ren/seinen Antrag auf Zulassung zum 
+Promotionsverfahren schriftlich an di e Vorsitzende/den Vorsitzenden des 
+Promotionsausschusses. Mit dem Antrag sind einzureichen: – Angabe des angestrebten Doktorgrades, 
+– das Arbeitsthema der Dissertation, 
+– eine schriftliche Bestätigung über die Be reitschaft zur Betreuung der Dissertation 
+einer Hochschullehrerin/eines Hochschullehr ers oder eines habi litierten Mitglieds 
+der Fakultät, 
+– der Nachweis der Zulassungsvoraussetzunge n gem. § 4, insbesondere durch Vorlage 
+von Abschlusszeugnissen für die Hochschulausbildung und Vorlage der 
+Hochschulzugangsberechtigung, 
+– ein tabellarischer Lebenslauf, aus dem der wissenschaftliche und berufliche 
+Werdegang der Bewerberin/des Bewerbers hervorgeht. 
+Der Immatrikulationsnachweis muss dem Promotionsausschuss innerhalb von 3 Wochen nach der Zulassung vorgelegt werden.  
+(2) Dem Antrag sind folgende Erklärungen beizufügen: 
+– ob die Bewerberin/der Bewerber bereits ein Promotionsverfahren an der Technischen 
+Universität Dortmund beantragt hatte, oder 
+– ob sie/er sich in einem solchen Verfahren befand und dieses entweder abgeschlossen oder abgebrochen hat, oder 
+– ob die Bewerberin/der Bewerber schon an anderer Stelle eine Promotionszulassung 
+erhalten hat und sich in einem Pr omotionsverfahren befindet, oder 
+– ob sie/er ein solches Verfahren ab gebrochen oder abgeschlossen hat. 
+Im letzteren Fall ist anzugeben, welc her Promotionserfolg erzielt wurde. 
+  
+§ 6 Zulassung zum Promotionsverfahren  
+ 
+(1) Der Promotionsausschuss prüft die Bewerbungsunterlagen gem. § 5 auf Vollständigkeit 
+und auf Erfüllung der Voraussetzung zur Prom otion gem. § 4. Bei Unvollständigkeit der 
+Bewerbungsunterlagen kann der Promotionsausschuss der Bewerberin/dem Bewerber 
+Auflagen erteilen. Der Prom otionsausschuss teilt der Bewerberin/dem Bewerber die 
+Zulassung oder Nichtzulassung als Do ktorandin/Doktorand schriftlich mit. 
+ 
+(2) Nach Annahme des Zulassungsantrags ist di e Antragstellerin Doktorandin oder der 
+Antragsteller Doktorand der Fakultät für Informatik.  
+(3) Der Zulassungsantrag ist abzulehnen, 
+ – wenn die Bewerberin/der Bewerber die Vora ussetzungen gem. § 4 nicht erfüllt oder 
+innerhalb der vom Promotionsausschuss festgesetzten Frist nicht die fehlenden Un
+terlagen beigebracht hat, 
+– wenn das Fachgebiet der Dissertation in der Fakultät nicht vertreten ist, oder 
+– wenn eine fachlich kompetente Betreuung der Dissertation nicht gesichert ist. 
+Der Zulassungsantrag kann abgelehnt werden, wenn bereits ein früheres Promotionsverfahren abgebrochen oder endgültig erfolglos beendet wurde. Ein Ablehnungsbescheid ist zu begründen un d mit einer Rechtsbehelfsbelehrung zu 
+versehen. 
+ 
+(4) Ist eine Zulassung unter Auflagen gemäß Abs.  1 erfolgt, kann diese widerrufen werden, 
+wenn die Auflage nicht fristgemäß erfüllt wurde. 
+  
+§ 7 Betreuung 
+ 
+(1) Nach der Zulassung zur Promotion bestellt der Promotionsausschuss auf Vorschlag der Doktorandin/des Doktoranden eine Hochschu llehrerin/einen Hochschullehrer oder ein 
+habilitiertes Mitglied der Fakultät zur Betr euerin/zum Betreuer der Dissertation. Im 
+Einvernehmen mit der Doktorandin/dem Doktoranden kann die Zahl der Betreuerinnen 
+und Betreuer auf zwei erhöht werden. Die/ der weitere Betreuerin/Betreuer kann einer 
+anderen Fakultät der Technischen Universität Dortmund oder einer anderen inländischen 
+oder ausländischen Hochschule angehören. Die weitere Betreuerin/der weitere Betreuer 
+muss Hochschullehrerin/ Hochschullehrer einer Hochschule mit Promotionsrecht oder habilitiertes Mitglied einer Hochschule se in. Ausnahmsweise genügt eine Promotion, 
+wenn der Fakultätsrat zuvor eine besond ere wissenschaftliche Qualifikation zur 
+Betreuung der Promotion durch Beschluss festge stellt hat, die über die bloße Promotion 
+hinausgeht (besondere wiss enschaftliche Befähigung).  
+ 
+(2) Aufgabe der Betreuerin/des Betreuers ist es, 
+– gemeinsam mit der Doktorandin/dem Doktoranden einen Zeitplan für die Anfertigung der Dissertation zu besprechen und das strukturierte Promotionsprogramm 
+abzustimmen, 
+– sich während der Anfertigung der Dissertat ion regelmäßig von der Doktorandin/dem 
+Doktoranden über den Fortschritt ihres/seines Vorhabens unterrichten zu lassen, 
+– die Doktorandin/den Doktoranden bei auftre tenden Schwierigkeiten fachkundig zu 
+beraten, 
+– von der Doktorandin/dem Doktoranden gelief erte Beiträge umfassend in mündlicher 
+oder schriftlicher Form zu kommentieren. 
+ 
+(3) Die Doktorandin/der Doktorand ist verpflichtet, ihrer/seiner Betreuerin oder ihren/seinen 
+Betreuer einmal jährlich über die bisherig en und geplanten Aktivitäten zu berichten. 
+ 
+ 
+§ 8 Widerruf der Zulassung zum Promotionsverfahren 
+ 
+Der Promotionsausschuss kann die Zulassung zur Promotion frühestens zwei Jahre nach der Zulassung zur Promotion im Einverne hmen mit der Betreuerin/dem Betreuer 
+widerrufen, wenn sich die Doktorandin/der Doktorand nicht im erforderlichen und 
+zumutbaren Maße um die Fertigstellung de r Dissertation sowie die Absolvierung des 
+strukturierten Promotionsprogramms erfolgreich bemüht. Vor einer Entscheidung ist die Doktorandin/der Doktorand zu hören. Der Promotionsausschuss kann darüber hinaus 
+ nach Ablauf von drei Jahren die Doktor andin/den Doktoranden auffordern, einen 
+Zwischenbericht über den Stand ihrer/se iner Dissertation vorzulegen, oder der 
+Doktorandin/dem Doktoranden im Einvernehmen  mit der Betreuerin/dem Betreuer eine 
+Frist setzen, innerhalb derer die Dissertation einzureichen ist. 
+ 
+§ 9 Strukturiertes Promotionsprogramm  
+ 
+Während des Promotionsverfahrens nimmt die Doktorandin/der Doktorand an einem 
+strukturierten Promotionsprogramm teil. Die Inhalte und der Umfang des strukturierten 
+Promotionsprogramms werden vom Fakultätsrat  der Fakultät für Informatik festgelegt. 
+Über die erfolgreiche Teilnahme am stru kturierten Promotionsprogramm wird vom 
+Promotionsausschuss eine Bescheinigung ausgestellt.   
+§ 10 Dissertation  
+ 
+(1) Die Doktorandin/der Doktorand muss eine selb ständige wissenschaftliche Arbeit auf dem 
+Wissenschaftsgebiet der Informatik vorleg en, die einen Fortschritt des Standes der 
+wissenschaftlichen Erkenntnisse darstellt. Die Schrift kann in Teilen veröffentlicht sein oder aus mehreren Veröffentlichungen oder zur Veröffentlichung angenommenen Publikationen bestehen. Im Falle des Satzes 2 muss die Einordnung der Publikationen in 
+den Gesamtkontext der Dissertatio n besonders darg estellt werden. 
+ 
+(2) Soweit die Doktorandin/der Doktorand in der Dissertation wissenschaftliche Ergebnisse verwendet, die zuvor in Kooperation mit ande ren Personen erzielt wurden, muss sie/er in 
+einem gesonderten Abschnitt der Dissertation ihren/seinen Eigenanteil an diesen 
+Ergebnissen beschreiben. 
+ 
+(3) Die Dissertation ist in der Regel in deutsche r oder englischer Sprache vorzulegen. Über 
+Ausnahmen entscheidet der Promotions ausschuss im Einvernehmen mit der 
+Betreuerin/dem Betreuer. 
+ 
+(4) Die Dissertation ist beim Promotionsausschuss einzureichen. Das Titelblatt ist je nach 
+angestrebtem Doktorgrad gemäß der Vorgabe im Anhang A bzw. B zu gestalten.   
+§ 11 Antrag auf Annahme der Dissertat ion und Einreichung der Dissertation 
+ 
+(1) Der Antrag der Doktorandin/des Doktor anden auf Annahme der Dissertation ist 
+schriftlich an den Promotionsausschuss der Fakultät zu richten.  
+(2) Mit dem Antrag einzureichen sind: – die Dissertation in der Regel in fünf (= regelmäßige Größe der Prüfungskommission + 1) gebundenen, maschinenschriftlichen Exemplaren und als pdfDatei auf einem 
+geeigneten Datenträger, 
+– eine Zusammenfassung der Dissertation im Umfang von nicht mehr als zwei DIN A4Seiten, 
+– eine schriftliche eidesstattliche Versic herung, dass die Dissertation selbständig 
+verfasst und alle in Anspruch genommenen Quellen und Hilfen in der Dissertation 
+vermerkt wurden, 
+– eine Erklärung darüber, ob die Dissertation in der gegenwärtigen oder in einer 
+anderen Fassung an der Technischen Univer sität Dortmund oder an einer anderen 
+ Hochschule im Zusammenhang mit einer staatlichen oder akademischen Prüfung 
+bereits vorgelegt worden ist, 
+– der Nachweis über die erfolgreic he Teilnahme am strukturierten 
+Promotionsprogramm und 
+– ein aktueller Lebenslauf, aus dem der wissenschaftliche Werdegang des Antragstellers oder der Antragstellerin he rvorgeht einschließlich eines aktuellen 
+Schriftenverzeichnisses. 
+ 
+(3) Ein Rücktritt vom Promotionsverfahren ist dem Promotionsausschuss gegenüber 
+schriftlich zu erklären. Er ist nur zulässig, – solange nicht eine endgültige Ablehnun g der Dissertation erfolgt ist, oder 
+– nach Annahme der Dissertation bis zu m Beginn der mündlichen Prüfung. 
+In allen anderen Fällen des Rücktritts gilt die Prüfung als nicht bestanden. § 14 Abs. 8 gilt entsprechend. 
+ 
+ 
+§ 12 Eröffnung des Promotionsverfahrens und Bestellung der Gutachterinnen und 
+Gutachter 
+ Der Promotionsausschuss eröffnet das Promotionsverfahren, wenn ein schriftlicher Antrag auf Annahme der Dissertation und die mit ihm einzureichenden Unterlagen (§ 11) 
+vollständig vorliegen. Mit der Eröffnung des Promotionsverfahrens bestellt der Promotionsausschuss zwei Gutachterinnen/Gutachter der Dissertation. Vorschläge der Doktorandin/des Doktoranden können berücksichtigt werden. Von den Betreuerinnen/Betreuern der Dissertation ist mind estens eine/einer zur Gutachterin/zum 
+Gutachter zu bestellen. Einer der Gutach terinnen/Gutachter muss der Fakultät als 
+Hochschullehrerin/Hochschullehrer oder habi litiertes Mitglied angehören. Die weitere 
+Gutachterin/der weitere Gutachter muss ebenfalls Hochschullehrerin/Hochschullehrer einer Hochschule mit Promotionsrecht oder habilitiertes Mitglied einer Hochschule sein. Ausnahmsweise genügt eine Promotion, wenn der Fakultätsrat zuvor für die Mitwirkung 
+an dem Promotionsverfahren die besondere wissenschaftliche Befähigung festgestellt hat. Die Bewertung der Promotionsleistungen (Dissertation und mündliche Prüfung) soll spätestens sechs Monate nach Vorlage der Dissertation abgeschlossen sein (§  67 Abs. 3 
+S. 3 HG).  
+ 
+§ 13 Prüfungskommission  
+ 
+(1) Der Promotionsausschuss bestellt nach Er öffnung des Promotionsverfahrens eine 
+Prüfungskommission sowie deren Vorsitzende/deren Vorsitzenden. Die 
+Prüfungskommission besteht in der Regel aus der/dem Vorsitzenden und drei weiteren 
+Mitgliedern. Der/die Vorsitzende darf weder Gutachter noch Betreuer sein. Die 
+Betreuerin/der Betreuer soll Mitglied der Prüfungskommission sein. Der Prüfungskommission können externe Mitglieder von in und ausländischen Hochschulen angehören. Wird die Promotion gemeinsam mit einer anderen Hochschule betreut, kann die Prüfungskommission erweitert werden. Die Mitglieder der Prüfungskommission 
+müssen Hochschullehrerinnen/Hochschullehrer  einer Hochschule mit Promotionsrecht 
+oder habilitiertes Mitglied  einer Hochschule sein. Ausnahmsweise genügt eine 
+Promotion, wenn der Fakultätsrat zuvor für die Mitwirkung an dem Promotionsverfahren eine besondere wissenschaftliche  Befähigung festgestellt hat.  Mehr als die Hälfte der 
+Mitglieder der Prüfungskommission muss der Fakultät angehören.  
+ (2) Die Doktorandin/der Doktorand kann Vorsch läge zur Besetzung der Prüfungskommission 
+machen. Bei der Bestellung der Prüferinne n und Prüfer soll nach Möglichkeit den 
+Vorschlägen der Doktorandin/des Doktoranden gefolgt werden. 
+ 
+(3) Aufgaben der Prüfungskommission sind: – Entscheidung über Annahme oder Ablehnung der Dissertation, 
+– Benotung der Dissertation, 
+– Durchführung und Benotung der mündlichen Prüfungen, 
+– Feststellung des Gesamtergebnisses, 
+– Festlegung des zu verleihenden Doktorgrades (Dr.Ing. oder Dr. rer. nat.), 
+– Feststellung der Druckreife der Dissertatio n oder Erteilung von Auflagen für die zur 
+Veröffentlichung bestimmte Form der Dissertation unter Beachtung der Vorschläge durch die Gutachterinnen/Gutachter. 
+ 
+(4) Die Prüfungskommission trifft ihre Entscheidung über das Ergebnis der mündlichen 
+Prüfung und das Gesamtergebnis unmitt elbar nach der mündlichen Prüfung. 
+Stimmenthaltungen sind nicht zulässig. Die Pr üfungskommission soll ihre Entscheidung 
+einvernehmlich treffen. Kann ein Einvernehm en nicht hergestellt werden, führt sie die 
+Entscheidung durch Mehrheitsbeschluss herbei. Bei Stimmengleichheit zählt die Stimme des Vorsitzenden doppelt. Die Prüfungsko mmission ist nur beschlussfähig, wenn alle 
+Mitglieder anwesend sind.  
+(5) Der oder die Vorsitzende der Prüfungskommission teilt alle Entscheidungen der 
+Prüfungskommission unverzüglich dem oder der Vorsitzenden des 
+Promotionsausschusses mit. 
+  
+§ 14 Begutachtung der Dissertation  
+ 
+(1) Die Gutachterinnen/Gutachter legen dem Pr omotionsausschuss in der Regel innerhalb 
+von acht Wochen unabhängige, begründete Gutachten vor. Die Gutachterinnen/Gutachter beantragen in ihren Gutachten Annahme, Um arbeitung oder Ablehnung der Dissertation. 
+ 
+(2) Beantragen sie die Annahme der Dissertation, so schlagen sie auch ein Prädikat für die 
+Dissertation vor. Als Noten gelten – „mit Auszeichnung/ausgezeichnet“ (summa cum laude), 
+– „sehr gut“ (magna cum laude), 
+– „gut“ (cum laude), 
+– „bestanden/genügend“ (rite). 
+Die Note „ausgezeichnet“ darf nur bei ungewöhnlich hohen wissenschaftlichen 
+Leistungen erteilt werden.  
+(3) Wurde die Annahme der Dissertation einsti mmig befürwortet, so wird sie mit den 
+Gutachten für die Dauer von sieben Arbeitstag en der Universität im Dekanat der Fakultät 
+zur Einsichtnahme für die in Forschung und Lehre tätigen Mitglieder der Technischen 
+Universität Dortmund ausgelegt. Dies wird den Fakultäten der Technischen Universität 
+Dortmund unverzüglich schriftlich mitgeteilt . Erfolgt innerhalb von drei Arbeitstagen 
+nach dem Ende der Auslagezeit kein Einspruch, ist die Dissertation angenommen. 
+ 
+(4) Ist die Dissertation angenommen, so wird sie vor der mündlichen Prüfung durch die 
+Prüfungskommission auf der Grundlage der Gutachten benotet. Für die Bezeichnung der 
+Prädikate gilt Abs. 2 entsprechend. Die Prüfungskommission legt
+  zudem unter 
+ Berücksichtigung des von der Doktorandin/de m Doktoranden angestrebten Grades  den 
+zu verleihenden akademische Grad (Dr.Ing. od er Dr. rer. nat.) nach Maßgabe von § 1 Abs. 
+3 fest. Die Prüfungskommission kann Auflagen für die zur Veröffentlichung bestimmte 
+Fassung der Dissertation beschließen. § 13 Abs. 4 Satz 2 bis 6 gilt entsprechend. 
+ 
+(5) Sprechen sich die Gutachterinnen/Gutachter übereinstimmend für eine Ablehnung der Dissertation aus, so stellt der Promotionsausschuss fest, dass die Dissertation abgelehnt ist. Eine abgelehnte Arbeit verb leibt mit allen Gutachten bei den Akten der 
+Fakultät. Bei Ablehnung der Dissertation  ist die Promotion nicht bestanden. 
+(6) Sprechen sich die Gutachterinnen/Gutacht er einstimmig für eine Umarbeitung der 
+Dissertation aus, so setzt der Promotions ausschuss auf Vorschlag der Gutachterinnen 
+und Gutachter eine angemessene Frist von ma ximal 6 Monaten, innerhalb der die Arbeit 
+neu einzureichen ist. Lässt die Doktorandin der Doktorand die Frist ohne wichtigen Grund 
+verstreichen oder kommt sie/er den erteilten Auflagen nicht nach, so  ist die Dissertation 
+abzulehnen. Abs. 5 Satz 2 und 3 gelten entsprechend.  
+(7) Sind sich die Gutachterinnen und Gutachter über Annahme, Umarbeitung oder Ablehnung 
+der Dissertation nicht einig, bestimmt der Promotionsausschuss eine weitere 
+Gutachterin/einen weiteren Gutachter. Das dritte Gutachten gibt den Ausschlag. In 
+Zweifelsfällen entscheide t die Prüfungskommission. 
+ 
+(8) Im Falle eines fristgerechten begründe ten Einspruchs gegen die Annahme der 
+Dissertation entscheidet die Prüfungskommission nach Einholung von Stellungnahmen 
+der beteiligten Gutachterinnen/Gutachter über das weitere Verfahren. In Zweifelsfällen 
+muss eine weitere Gutachterin/ein weiterer Gutachter hinzugezogen werden. Über die 
+endgültige Annahme oder Ablehnung der eingereichten Arbeit als Dissertation entscheidet in diesem Fall die Prüfungs kommission aufgrund aller vorliegenden 
+Gutachten und Stellungnahmen. 
+ 
+(9) Die/der Vorsitzende des Promotionsaussch usses unterrichtet die Doktorandin/den 
+Doktorand über jede getroffene Entscheidung. Ablehnende Bescheide sind zu begründen 
+und mit einer Rechtsbehelfsbelehrung zu versehen. Der Doktorandin/dem Doktoranden 
+ist zuvor rechtliches Gehör zu geben. Die Entscheidungen der Prüfungskommission nach 
+Abs. 4 werden der Doktorandin/dem Doktoran den im Anschluss an die mündliche Prüfung 
+mitgeteilt (§ 16 Abs. 4).   
+§ 15 Mündliche Prüfung 
+ 
+(1) Nach der endgültigen Annahme der Dissertat ion setzt der Promotionsausschuss einen 
+Termin für die mündliche Prüfung fest. Die mündliche Prüfung soll innerhalb von sechs Wochen nach der endgültigen Annahme der Di ssertation stattfinden. Die Doktorandin/der 
+Doktorand und die Mitglieder der Prüfungskommission sind mit einer Frist von zwei Wochen zur mündlichen Prüfun g einzuladen. Der Termin der mündlichen Prüfung wird 
+außerdem durch Aushang in der Fakultät bekannt gegeben. 
+ 
+(2) Die mündliche Prüfung findet in der Form eine s Kolloquiums statt. Sie dient der Feststel
+lung, ob die Doktorandin/der Doktorand auf Grund besonderer wissenschaftlicher Kennt
+nisse und Fähigkeiten in der Lage ist, die von ihr/ihm in der Disserta tion erarbeiteten Er
+gebnisse zu begründen, weiter auszuf ühren und in den Kontext ihres/seines 
+Fachgebietes zu stellen. 
+ 
+ (3) Die mündliche Prüfung dauert in der Regel insgesamt 90 Minuten und beginnt mit einem 
+Bericht der Doktorandin oder des Doktoranden über die Dissertation, der 30 Minuten 
+nicht überschreiten soll. 
+ 
+(4) Die mündliche Prüfung findet in der Regel in der Sprache, in der die Dissertation verfasst 
+wurde, statt. Über Ausnahme n entscheidet der Promotionsausschuss im Einvernehmen 
+mit der Prüfungskommission. 
+ 
+(5) Die mündliche Prüfung ist eine Einzelprüfung. Sie wird von der/dem Vorsitzenden der 
+Prüfungskommission geleitet. Prüfungs und frageberechtigt sind nur Mitglieder der 
+Prüfungskommission. Die wesentlichen Gegenstände und Ergebnisse der mündlichen 
+Prüfung sind in einem Protokoll festzuhalten.  
+(6) Die mündliche Prüfung ist fakultätsöffentlich. 
+ 
+(7) Bleibt die Doktorandin/der Doktorand der mündlichen Prüfung ohne hinreichende 
+Entschuldigung fern oder bricht sie/er die Pr üfung ab, so gilt diese als nicht bestanden. 
+  
+§ 16 Ergebnis der Prüfungen  
+ 
+(1) Unmittelbar im Anschluss an die mündliche Prüfung entscheidet die 
+Prüfungskommission in nicht öffentlicher Si tzung auf der Grundlage der vorliegenden 
+Gutachten und der gezeigten Leistung in der mündlichen Prüfung, ob – die Doktorandin/der Doktorand zu promovieren ist, 
+– die Doktorandin/der Doktorandin die mündliche Prüfung wiederholen muss, oder 
+– die Promotion abgelehnt wird. 
+ 
+(2) Entscheidet die Prüfungskommission, da ss die Doktorandin/der Doktorand zu 
+promovieren ist, legt sie die Note für die mündliche Prüfung fest. Für die Bezeichnung der 
+Prädikate gilt § 14 Abs. 2 entsprechend.  
+(3) Anschließend setzt die Prüfungskommission  die Gesamtnote für die Promotion fest. Bei 
+der Festlegung der Gesamtnote ist in de r Regel auf die Bewertung der Dissertation 
+besonderes Gewicht zu legen. Für di e Bezeichnung der Prädikate gilt §  14 Abs. 2 
+entsprechend. 
+ 
+(4) Anschließend teilt die/der Vorsitzende der Prüfungskommission in Gegenwart der 
+Prüfungskommission der Doktorandin/dem Doktoranden die Bewertung ihrer/seiner 
+Leistungen, den ihm zu verleihenden Doktorgrad sowie etwaige Änderungsauflagen für die Veröffentlichung der Dissertation mit.  
+(5) Über das Ergebnis der Dissertation, der münd lichen Prüfung und der Promotion stellt der 
+Promotionsausschuss der Doktorandin/dem Do ktoranden eine vorläufige Bescheinigung 
+aus. Im Falle der Ablehnung der Promotion gilt § 14 Abs. 8 entsprechend.   
+§ 17 Wiederholung der mündlichen Prüfung  
+ 
+(1) Eine nicht bestandene mündliche Prüfung kann die Doktorandin/der Doktorand einmal – 
+innerhalb eines Jahres – wiederholen. Den Termin für die Wiederholung bestimmt der 
+ Promotionsausschuss im Einvernehmen mit der Prüfungskommission. 
+ 
+(2) Hat die Prüfungskommission  nach Nichtbestehen der Wiederholungsprüfung die 
+Promotion endgültig abgelehnt, ist das Promot ionsverfahren endgültig erfolglos beendet. 
+Der Bescheid über das endgültige Nichtbestehen ist zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. De r Doktorandin/dem Doktoranden ist zuvor 
+rechtliches Gehör zu geben.   
+§ 18 Veröffentlichung der Dissertation  
+ 
+(1) Nach erfolgreicher Durchführung des Promotionsverfahrens ist die Doktorandin/der 
+Doktorand verpflichtet, ihre/seine Dissertation in angemessener Weise der 
+wissenschaftlichen Öffentlichkeit durch Vervielfältigung und Verbreitung zugänglich zu 
+machen. Das für die Veröffentlichung vorgesehene Manuskript ist der/dem Vorsitzenden 
+des Promotionsausschusses vorzulegen. Di ese/dieser prüft unter Beteiligung der 
+Gutachterinnen/Gutachter, ob die von der Pr üfungskommission erteil ten Auflagen erfüllt 
+sind.  
+(2) Die Dissertation ist dann in angemessener Weise der wissenschaftlichen Öffentlichkeit zugänglich gemacht, wenn die Verfasserin/der Verfasser neben den für die 
+Prüfungsunterlagen erforderli chen Exemplaren für die Arch ivierung – drei Exemplare 
+unentgeltlich an die Hochschulbibliothek zu r Archivierung abliefert. Diese Exemplare 
+müssen auf alterungsbeständigem holz und säurefreiem Papier ausgedruckt und 
+dauerhaft haltbar gebunden sein. Auf de r Rückseite des Titelblattes ist die 
+Veröffentlichung als Dissertation in der Fakultät für Informatik unter Angabe des 
+Dissertationsortes auszuweisen. 
+ 
+(3) Darüber hinaus muss die Verbreitung sichergestellt sein durch 
+– die Ablieferung weiterer 40 Exemplar e in Buch oder Fotodruck, oder 
+– den Nachweis des Vertriebs über den Buc hhandel durch einen gewerblichen Verlag 
+mit der vertraglich zugesicherten Garantie, dass die Dissertation durch Aufnahme in das Verzeichnis lieferbarer Bücher je derzeit erhältlich ist und dass bei 
+entsprechender Nachfrage kurzfristig weit ere Exemplare nachgedruckt werden, oder 
+– durch einen gewerblichen Verleger mit ei ner Mindestauflage von 150 Exemplaren, 
+oder 
+– den Nachweis der Veröffentlichung in eine r wissenschaftlichen Zeitschrift, oder 
+– die Ablieferung einer nach Hochschulbibliot heksrichtlinien gefertigten elektronischen 
+Version. In diesem Fall überträgt die Dokt orandin/der Doktorand der Hochschule das 
+Recht, im Rahmen der gesetzlichen Au fgaben der Hochschulbibliothek weitere 
+Kopien von der Dissertation herzustellen und zu verbreiten bzw. in Datennetzen zur 
+Verfügung zu stellen. 
+ 
+(4) Die Dissertation ist spätestens ein Jahr nach der mündlichen Prüfung zu veröffentlichen. 
+In begründeten Ausnahmefällen kann die/der Vorsitzende des Promotionsausschusses die Frist verlängern. Versäumt die Doktorandin/der Doktorand die ihr/ihm gesetzte Frist, so erlöschen alle durch die Prüfung erworbenen Rechte. 
+ 
+ 
+§ 19 Abschluss des Promotionsverfahrens  
+ 
+(1) Sobald die letzte Promotionsleistung erbracht ist, wird eine Promotionsurkunde auf den 
+ Tag der erfolgreich abgelegten mündlichen Prüfung ausgestellt. Die Promotionsurkunde 
+ist von der Dekanin/vom Dekan und von der Rektorin/vom Rektor zu unterzeichnen. Sie 
+ist je nach verliehenem Doktorgrad gemäß der Vorgabe im Anhang C bzw. D zu gestalten.  
+(2) Mit der Aushändigung der Promotionsurku nde entsteht das Recht zur Führung des 
+Doktorgrades.   
+§ 20 Promotion in gemeinsamer Betreuung mit einer Fakultät einer anderen 
+Hochschule  
+ 
+(1) Der Doktorgrad kann auch im Zusammenwirken mit einer Fakultät einer anderen 
+Hochschule mit Promotionsrecht aus dem In oder Ausland vergeben werden. Sofern das 
+Promotionsverfahren in Kooperation mit einer Hochschule ohne Promotionsrecht 
+durchgeführt wurde, kann hierauf in der Promotionsurkunde hingewiesen werden.  
+(2) Die Durchführung eines Promotionsverfahrens  mit einer Fakultät einer anderen Hoch
+schule setzt den Abschluss einer schriftlichen Vereinbarung voraus, in der die Fakultäten 
+sich verpflichten, eine gemeinsame Promot ion zu ermöglichen und Einzelheiten des 
+Zusammenwirkens zu regeln.  
+(3) Sehen die jeweils gültigen Promotionsor dnungen der beteiligten Fakultäten ein 
+strukturiertes Promotionsprogramm gemäß § 9 vor, so einigen sich die Fakultäten der 
+Hochschulen darüber, wo die Doktoran din/der Doktorand dieses Programm zu 
+absolvieren hat, bzw. welche Teile des Programms der jeweils anderen Hochschule 
+anerkannt werden. 
+  
+§ 21 Ungültigkeitserklärung der Promotionsleistungen  
+ 
+(1) Ergibt sich vor Aushändigung der Promot ionsurkunde, dass die Doktorandin/der 
+Doktorand im Verfahren getäuscht bzw. den Versuch dazu gemacht hat oder dass 
+wesentliche Erfordernisse für die Promotio n nicht erfüllt waren, so erklärt der 
+Fakultätsrat auf Antrag des Promotions ausschusses die Promotion für ungültig. 
+ 
+(2) Der Doktorandin/dem Doktoranden ist vor der Entscheidung des Fakultätsrates 
+Gelegenheit zum rechtlichen Gehör zu gewähr en. Die Entscheidung ist zu begründen und 
+mit einer Rechtsbehelfsbelehrung zu versehen.   
+§ 22 Aberkennung des Doktorgrades  
+ 
+(1) Der Doktorgrad wird aberkannt, wenn sich na chträglich herausstellt, dass er durch Täu
+schung erworben worden ist oder wenn wesentliche Voraussetzungen für die Verleihung 
+irrtümlich als gegeben angesehen worden sind.  
+(2) Über die Aberkennung des Doktorgrades entscheidet der Fakultätsrat. Der/dem 
+Betroffenen ist vor der Entscheidung  des Fakultätsrates Gelegenheit zum rechtlichen Gehör zu geben. Die Entscheidung ist zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. 
+ 
+ 
+ § 23 Rechtsbehelf  
+ 
+Gegen Entscheidungen des Promotionsausschusses und der Prüfungskommission kann gemäß den Vorschriften der Verwaltungsgeric htsordnung (VwGO) Widerspruch eingelegt 
+werden. Der Widerspruch ist an die Vorsitzende/den Vorsitzenden des 
+Promotionsausschusses zu richten. Über Widersprüche gegen Entscheidungen der 
+Prüfungskommission entscheidet der Promotionsausschuss. Über Widersprüche gegen 
+Entscheidungen des Promot ionsausschusses entscheidet der Fakultätsrat. Vor 
+belastenden Entscheidungen ist der Dokt orandin/dem Doktoranden Gelegenheit zur 
+Stellungnahme zu geben. 
+ 
+ 
+§ 24 Ehrenpromotion  
+ 
+(1) Der Doktorgrad „ehrenhalber“ (Dr. rer. nat. h. c. bzw. Dr.Ing. e.h.) darf nur für hervorra
+gende/außerordentliche Leistungen im Be reich der Informatik verliehen werden. 
+ 
+(2) Mitgliedern der Technischen Universität Do rtmund kann der Doktorgrad „ehrenhalber“ 
+nicht verliehen werden. Wissenschaftlerinnen oder Wissenschaftlern, die bis vor wenigen 
+Jahren Mitglieder der Technischen Universitä t Dortmund waren, soll der Doktorgrad „eh
+renhalber“ nicht verliehen werden.  
+(3) Über die Verleihung des Doktorgrades „e hrenhalber“ entscheidet das Rektorat auf 
+Vorschlag des Fakultätsrats.   
+§ 25 Übergangsregelungen  
+ 
+(1) Diese Promotionsordnung fi ndet Anwendung für alle Antragstellerinnen und 
+Antragsteller, die den Antrag auf Zulassung (§ 5) nach Inkrafttreten dieser Promotionsordnung stellen.  
+(2) Für alle übrigen Antragstellerinnen und Antr agsteller, Doktorandinnen und Doktoranden 
+gilt die bisherige Promotionsordnung.  
+(3) Nach Inkrafttreten dieser Promotionsordn ung können Doktorandinnen und Doktoranden 
+gemäß bisheriger Promotionsordnung, deren Verf ahren noch nicht eröffnet ist, auf Antrag 
+zu dieser Promotionsordnung wechse ln. Der Antrag ist unwiderruflich. 
+ 
+(4) Fünf Jahre nach Inkrafttreten dieser Prom otionsordnung werden alle Zulassungen zur 
+Promotion gemäß der bisherigen Promotions ordnung widerrufen. Zu diesem Zeitpunkt 
+bereits eröffnete Verfahren bleiben hiervon unberührt. 
+ 
+(5) Die von dieser Übergangsregelung betroffe nen Doktorandinnen und Doktoranden sind 
+über den Inhalt der Übergangsregelung zu un terrichten. Der Widerruf der Zulassung nach 
+Absatz 4 Satz 1 stellt keinen Ablehnungs grund für einen Antrag auf Zulassung zur 
+Promotion nach dieser Promotionsordnung dar.  
+ 
+§ 26 Inkrafttreten 
+ Die Promotionsordnung tritt einen Tag nach der Veröffentlichung in den Amtlichen 
+ Mitteilungen der Technischen Universität Dortmund in Kraft. Gleichzeitig tritt die 
+Promotionsordnung vom 26.11.2003 auße r Kraft. § 25 bleibt unberührt. 
+ Ausgefertigt auf Grund des Beschlusses des Fa kultätsrates der Fakultät für Informatik 
+der Technischen Universität Dortmund vom 06.07.2011.  Dortmund, den 29. August 2011  Die Rektorin 
+der Technischen Universität Dortmund 
+ Universitätsprofessorin Dr. Ursula Gather 
+Anhang A: Titelblatt der Dissertation (Dr. rer. nat.) 
+ 
+ 
+ 
+  
+ 
+ 
+TITEL DER DISSERTATION  
+ 
+ 
+Dissertation  
+ 
+zur Erlangung des Grades eines  
+D o k t o r s  d e r  N a t u r w i s s e n s c h a f t e n 
+der Technischen Universität Dortmund  
+an der Fakultät für Informatik 
+von 
+NAME  
+ 
+  
+ 
+Dortmund  
+ 
+JAHR  
+ 
+ 
+  
+ 
+  
+ 
+Rückseite, unten:  
+ 
+Tag der mündlichen Prüfung: Datum 
+Dekan/Dekanin: Name  
+Gutachter/Gutachterinnen: Namen  
+ 
+ 
+Anhang B: Titelblatt der Dissertation (Dr.Ing.) 
+ 
+ 
+  
+ 
+ 
+ 
+TITEL DER DISSERTATION  
+ 
+ 
+Dissertation  
+ 
+zur Erlangung des Grades eines  
+D o k t o r s  d e r  I n g e n i e u r w i s s e n s c h a f t e n 
+der Technischen Universität Dortmund  
+an der Fakultät für Informatik 
+von 
+NAME  
+ 
+   
+Dortmund  
+ 
+JAHR  
+   
+ 
+  
+ 
+ 
+Rückseite, unten:  
+ 
+Tag der mündlichen Prüfung: Datum 
+Dekan/Dekanin: Name  
+Gutachter/Gutachterinnen: Namen 
+ 
+Anhang C: Promotionsurkunde Dr. rer. nat. 
+ 
+ 
+ 
+Anhang D: Promotionsurkunde  Dr.Ing. 
+ 
+ 
+ 

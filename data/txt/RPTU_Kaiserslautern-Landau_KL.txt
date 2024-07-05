@@ -1,0 +1,806 @@
+ 05.05.2011 
+ 
+ 
+Promotionsordnung des Fachbereichs Informatik 
+der Technischen Uni
+versität Kaiserslautern 
+ 
+Vom 5. Mai 2011 
+ 
+Aufgrund des § 7 Abs. 2 Satz 2 und Abs. 3 Satz 1 und des § 86 Abs. 2 Nr. 3 des Hochschulgesetzes in der Fassung vom 19. Novem ber 2010 (GVBl. S. 463), BS 22341, hat der 
+Fachbereichsrat des Fachbereiches Informati k der Technischen Universität Kaiserslautern 
+am 12. Januar 2011 die folgende Promotions ordnung beschlossen. Das Ministerium für 
+Bildung, Wissenschaft, Jugend und Kultur hat mit Schreiben vom 6. April 2011, Az.: 
+52 3224/43 (9) die Ordnung genehmigt. Sie wird hiermit bekannt gemacht.   
+Inhaltsübersicht 
+ 
+I. Allgemeines ................................................................................................................................... 2 
+§ 1 Ziel der Promotion................................................................................................................. 2  
+§ 2 Doktorgrade .......................................................................................................................... 2  
+§ 3 Ordentliches Promotionsverfahren........................................................................................ 2  
+§ 4 Promotionsausschuss ........................................................................................................... 2  
+II. Zulassung zum Promotionsverfahren ........................................................................................... 3  
+§ 5 Annahme als Doktorandin oder Doktorand ........................................................................... 3  
+§ 6 Eignungsfeststellung .............................................................................................................  4
+5
+5§ 7 Qualifizierungsstudium ..........................................................................................................  
+III. Doktorandenphase .......................................................................................................................  
+§ 8 Betreuung von Doktorandinnen und Doktoranden ................................................................  6
+6
+7
+7
+8
+8
+9
+10
+10
+11
+11
+12
+12
+13
+13
+13
+13
+14
+14
+14
+ 14
+14
+15
+15
+16§ 9 Dissertation ...........................................................................................................................  
+§ 10 Einreichen einer Kurzfassung der Promotion........................................................................  
+§ 11 Einreichen der Dissertation ...................................................................................................  
+§ 12 Einleitung des Bewertungsverfahrens ...................................................................................  
+§ 13 Promotionskommission und Berichterstatter .........................................................................  
+§ 14 Benotung ...............................................................................................................................  
+§ 15 Begutachtung der Dissertation ............................................................................................  
+§ 16 Bewertung der Dissertation .................................................................................................  
+IV. Wissenschaftliche Aussprache ..................................................................................................  
+§ 17 Ablauf der wissenschaftlichen Aussprache und Gesamtbewertung ...................................  
+V. Veröffentlichung, Promotionsurkunde ........................................................................................  
+§ 18 Veröffentlichung und Druck der Dissertation .......................................................................  
+§ 19 Promotionsurkunde .............................................................................................................  
+§ 20 Verbleib der Unterlagen und Akteneinsicht .........................................................................  
+VI. Verlängerung von Fristen, Ungültigkeit von Promotionsleistungen,  Entziehung des 
+Doktorgrades, Verfahren bei Entscheidungen ................................................................................  
+§ 21 Verlängerung von Fristen ....................................................................................................  
+§ 22 Ungültigkeit von Promotionsleistungen ...............................................................................  
+§ 23 Entziehung des Doktorgrades .............................................................................................  
+§ 24 Verfahren bei Entscheidungen ............................................................................................  
+VII. Ehrungen ............................................................................................................................... ...  
+§ 25 Ehrenpromotion ...................................................................................................................  
+VIII. Schlussbestimmungen ............................................................................................................  
+§ 26 Inkrafttreten und Übergangsregelung .................................................................................  
+Anlage 1 Druck und Veröffentlichung der Dissertation ...................................................................  
+ 
+ 
+I. Allgemeines 
+ 
+§ 1 Ziel der Promotion 
+Die Promotion dient dem Nachweis der Fähi gkeit zu eigenständigem wissenschaftliche
+n 
+Arbeiten auf der Grundlage umfa ssender Fachkenntnisse sowie zur Bildung eines selb
+ständigen wissenschaftlichen Urteils. 
+§ 2 Doktorgrade 
+(1) 
+Der Fachbereich Informatik der TU Kais erslautern, im Weiteren als „Fachbereich“ 
+bezeichnet, verleiht den akademischen Grad 
+ eines Doktors der Ingenieurwissenscha ften (Dr.Ing.) für Promotionen im Be
+reich der Konstruktion und Anwendung von Informatiksystemen 
+oder 
+ eines Doktors der Naturwissenschaften (D r. rer. nat.) für Promotionen im Be
+reich der Grundlagen der Informatik 
+auf Grund eines ordentlichen Pr
+omotionsverfahrens (  § 3). 
+(2) 
+Der für eine Promotion verliehene ak ademische Grad wird vo n der Promotionskom
+mission (  § 13) aufgrund der inhaltlichen Ausric htung der Dissertation und der Emp
+fehlung der
+ Berichterstatterinnen und Berichterstatter festgelegt.  
+§ 3 Ordentliches Promotionsverfahren 
+(1) 
+Das Promotionsverfahren beginnt mit der  Annahme als Doktora ndin oder Doktorand 
+durch den Fachbereichsrat (  § 5). Die Doktoranden können innerhalb von zwei Jahren 
+nach der Annahme als Doktorandin oder Doktorand auf schriftlichen Antrag aus dem 
+Promotionsverfahren zurücktrete n. Das Promotionsverfahren gilt in diesem Fall a
+ls 
+nicht eröffnet. 
+(2) Das Promotionsverfahren umfasst 
+ § 5 (a) die Annahme als Doktorandin oder Doktorand ( ), 
+ § 10 (b) 
+die Einreichung einer Kurzfassung der Dissertation ( ), 
+(c) 
+die Einreichung der Dissertation (  § 11
+(d) 
+die Annahme der Dissertation (), 
+ § 12), 
+ § 17 (e) 
+die wissenschaftliche Aussprache ( ), 
+(f) die 
+Veröffentlichung und Ablieferung der ge nehmigten Pflichtexemplare der Dis
+sertation (Anlage 1 Abs. 1). 
+(3) Alle Entscheidungen im Rahmen des Pr omotionsverfahrens trifft der Fachbereichs
+rat. Er kann einzelne Entscheidungen der Dekanin oder dem De kan bzw. dem Pro
+motionsausschuss (  § 4) übertragen. 
+(4) Die 
+besonderen Belange behinderter Studierender zur Wahrung ihrer Chancen
+gleichheit sind während des gesamten Pr omotionsverfahrens zu berücksichtigen. 
+§ 4 Promotionsausschuss 
+(1) Bei 
+der Eignungsfeststellung,  d. h. in Fragen der Äquivalenz von Abschlüssen und 
+Auflagen zur Annahme als Doktorandin oder  Doktorand, wird der Fachbereichsrat 
+von einem Promotionsau sschuss unterstützt.  
+  2 
+(2) 
+Der Promotionsausschuss besteht aus fünf  Mitgliedern des Fachbereichs. Diese sind 
+ drei Mitglieder aus dem Kreis der Ho chschullehrerinnen und Hochschullehrer, 
+ ein Mitglied aus dem Kreis der wiss enschaftlichen Mitarbeiterinnen und wissen
+schaftlichen Mitarbeiter und  
+ ein Mitglied aus dem Kreis der Studierenden.  
+Die Vorsitzende oder der Vorsit zende und ihre bzw. s
+eine St ellvertreterin oder Stell
+vertreter müssen Professorinnen oder Profe ssoren gemäß § 49 HochSchG sein. Die 
+Mitglieder des Promotionsausschusses und gegebenenfalls deren Vertreterinnen 
+oder Vertreter unterliegen der Amtsverschwieg enheit. Sofern sie nicht im öffentlichen 
+Dienst stehen, sind sie durch die Vorsitz ende oder den Vorsitzenden zur Verschwie
+genheit zu verpflichten. 
+(3) 
+Die Mitglieder des Promotionsausschusse s werden vom Fachber eichsrat bestellt. 
+Der Fachbereichsrat bestimmt gleichzeitig  die Vorsitzende oder den Vorsitzenden 
+sowie deren bzw. dessen Stellvertreterin oder Stellvertreter. Die Amtszeit des stu
+dentischen Mitglieds beträgt ein Jahr, die der anderen Mitglieder drei Jahre. Ist ein 
+Mitglied des Promotionsausschusses verhi ndert, so kann die Dekanin oder der De
+kan eine Vertreterin oder einen Vertreter bestimmen. 
+(4) Der Promotionsausschuss kann einzel ne Aufgaben der oder dem  Vorsitzenden über
+tragen. 
+(5) Die Sitzungen des Promot ionsausschusses sind nichtöff entlich. Bei Abstimmungen 
+gibt im Falle der Stimmengleichheit die St imme der Vorsitzenden oder des Vorsit
+zenden den Ausschlag.  
+  
+II. Zulassung zum Promotionsverfahren 
+ 
+§ 5 Annahme als Doktorandin oder Doktorand 
+(1) 
+Durch die Annahme als Dokt orandin oder Dokt orand entsteht ein Be treuungsverhält
+nis zwischen Betreuern und Doktoranden (  § 8) sowie zwischen Fachbereich und 
+Doktoranden.  
+(2) 
+Doktoranden müssen  
+(a) geeignet sein, eine Pr omotion durchzuführen, 
+(b) die Zusage eines Betreuungsverhältni sses zu dem gewählten Thema durch eine 
+Betreuerin oder einen Betreuer (  § 8) Abs. 1 besitzen und 
+(c) 
+ein Thema bearbeiten, für das der Fa chbereich zuständig ist und für dessen Be
+arbeitung die erforderlichen technischen und finanziellen Voraussetzungen zur 
+Verfügung stehen. 
+(3) Die fachliche Eignung ist durch eine ausreichende Vorbildung nachzuweisen. Dieser 
+Nachweis geschieht durch die Vorlage des  Abschlusszeugnisses eines für eine Pro
+motion qualifizierende n Studiums, d.h. 
+(a) eines akkreditierten InformatikMaster studiengangs oder ei nes universitären In
+formatikDiplomstudiengangs oder  
+(b) eines Master oder Diplomstudiengangs an  einer deutschen Universität oder ei
+nes Masterstudiengangs an einer deutschen Fachhochschule oder 
+(c) eines Bachelorstudiengangs an einer deutschen Universität oder Fachhochschu
+le oder eines Diplomst udiengangs an einer deutschen Fa chhochschule, falls die 
+  3 
+Absolventin oder der Absolvent zu den 5%
+ Besten ihres oder seines Fachs und 
+Jahrgangs zählt oder 
+(d) eines zu Buchstabe b oder c äquivalent en Studiengangs im In  oder Ausland o
+der  
+(e) des Graduiertenstudiums im Rahmen des Promotionsprogramms des Fachbe
+reichs.  
+Bewerberinnen und Bewerber mit einem Abschluss nach Buchstabe b bis d müssen 
+darüber hinaus die Eignung nach  § 6 besitzen. 
+(4) 
+Die Annahme als Doktorandin oder Doktor and erfolgt auf Antrag der Bewerberin 
+bzw. des Bewerbers an die Dekanin oder den Dekan. Dem Antrag sind folgende Un
+terlagen in deutscher oder englis cher Sprache beizufügen:  
+(a) ein Motivationsschreiben,  
+(b) ein Lebenslauf mit Lichtbild, der außer den üblichen Angaben auch Näheres über 
+den Bildungsgang enthält, 
+(c) ein polizeiliches Führungsz eugnis, falls sich die Bewe rberin oder der Bewerber 
+nicht im öffentlichen Dienst befindet, 
+(d) ein Nachweis der gefordert en Vorbildung gemäß Abs. 3, 
+(e) ggf. ein Nachweis der aktiven B eherrschung der deutsch en oder englischen 
+Sprache nach den Einschreiber ichtlinien der Universität, 
+(f) eine Erklärung, ob bereits ein Promoti onsverfahren beantragt oder eröffnet wurde 
+und ggf. mit welchem Ergebnis dieses beendet wurde, 
+(g) ein Vorschlag über das Promotionsthema so wie die Zusage für ein Betreuungs
+verhältnis für dieses Thema gemäß Abs. 2 Buchst. b, 
+(h) gegebenenfalls Angaben über  die zur Durchführung der Promotion notwendigen 
+technischen und finanziellen Voraussetzungen. 
+(5) Über die Annahme als Dokt orandin oder Doktorand entsc heidet der Fachbereichsrat. 
+Dabei prüft er die Ei gnung der Bewerber nach  § 6 und kann hierzu eine Stellung
+nahme durch den Promotionsaus
+schuss (  § 4) einholen. 
+(a) 
+Die Bewerberin bzw. der Bewerber wird als Doktorandin bz w. als Doktorand an
+genommen, falls die Voraussetzungen nach Absatz 2 vorliegen.  
+(b) Fehlen zur geforderten Eignung maximal 90 ECTSL eistungspunkte und sind die 
+Voraussetzungen nach Absatz 2 Buchst. b und c gegeben, legt der Fachbe
+reichsrat den Umfang und Inhalt eines Qualifizierungsstudiums fest. Die Annahme als Doktorandin oder Do ktorand gemäß gestelltem Antrag erfolgt in diesem 
+Fall zum Zeitpunkt des erfolgreichen Abschlusses des Qualifizierungsstudiums. 
+(c) In allen anderen Fällen ist der Antrag auf Annahme als Doktorandin oder Dokto
+rand abzulehnen. 
+(6) Alle Entscheidungen des Fachbereichsrat s werden der Bewerber in oder dem Bewer
+ber schriftlich mitgeteilt. 
+§ 6 Eignungsfeststellung  
+(1) 
+Zweck der Eignungsfeststellung ist die Überprüfung der fachlichen Eignung zur 
+Durchführung einer Promot ion im Fachbereich.  
+(2) Für die fachliche Eignung werden mindes tens 270 ECTSLeistungspunkte mit fol
+genden Anforderungen gefordert: 
+  4 
+(a) 
+eine oder mehrere angeleitete wissensch aftliche Arbeiten im  Umfang von insge
+samt 30 ECTSLeistungspunkten und zusätzlich 
+(b) 60 ECTSLeistungspunkten Lehrveranstaltungen eines als forschungsorientiert 
+akkreditierten Masterstudi engangs; davon mindestens  
+i) 16 ECTSLeistungspunkte wissenscha ftlich ausgerichteter Lehrveranstaltun
+gen (z. B Seminare, grundla genorientierte Vorlesungen). 
+ii) 24 ECTSLeistungspunkte eines InformatikMasterstudiengangs. 
+Die zur Eignungsfeststellung gefordert en Leistungspunk
+te können entweder aus ei
+nem vorangegangenen Studium anerkannt oder im Rahmen eines Qualifizierungs
+studiums erworben werden. 
+§ 7 Qualifizierungsstudium 
+(1) Das 
+Qualifizierungsstud ium soll innerhalb von einem Jahr abgeschlossen werden. 
+Beginn, Dauer und Um fang des Qualifizierungsstudiums legt der Fachbereichsrat 
+fest und teilt dies der Bewer berin oder dem Bewerber schr iftlich mit. Über eine Frist
+verlängerung entscheidet der Fachbereichsrat  auf schriftlichen Antrag der Studentin 
+oder des Studenten. Der Antrag muss vor Abl auf des Qualifizierungsstudiums ge
+stellt worden sein. Bei der Ermittlung der Fachstudiendauer werden Verlängerungen 
+und Unterbrechungen nach  § 21 nicht berücksichtigt.  
+(2) 
+Die einzelnen Prüfungen im Qualifizierungsstudium verlaufen nach den Regelungen 
+der Allgemeinen Masterprüfungsordnung der TU Kaiserslautern und der Fachprü
+fungsordnung für die Master studiengänge des Fachbereic hs in Verantwortung des 
+Masterprüfungsausschusses des Fachbereichs. Dies gilt insbesondere für An und 
+Abmeldungen zu Prüfungen, Benotung, Zahl der Wieder holungsversuche und nicht 
+anzurechnende Zeiten.  
+(3) Das Qualifizierungsstudium ist bestanden,  wenn im Qualifizierungsstudium eine Ge
+samtnote von 2,5 oder besser erreicht wird.  Die Gesamtnote ergibt sich aus dem 
+nach ECTSLeistungspunkten gemittelten Du rchschnitt der erbrachten Leistungen. 
+Die Durchschnittsnote im Promotionsgeb iet muss 2,0 oder be sser betragen; dabei 
+legt der Fachbereichsrat fest, welche Teil noten hierfür zu berücksichtigen sind. Eine 
+Wiederholung des Qualifizierung sstudiums ist nicht möglich. 
+(4) Ist das Qualifizierungsstudium nicht bes tanden, so gilt der Antrag auf Annahme als 
+Doktorandin oder Doktorand als abgelehnt. 
+(5) Nach Beendigung des Qualifizierungsstudi ums wird eine Bescheinigung über alle im 
+Qualifizierungsstudium erbr achten Leistungen in deutsc her und englischer Sprache 
+erstellt. 
+(6) Studierende im Qualifizie rungsstudium müssen sich an der TU Kaiserslautern als 
+ordentliche Studierend e einschreiben. 
+  
+III. Doktorandenphase 
+ 
+Die Doktorandenphase dient der Ausarbeitung einer Dissertation zu einem selbst gewählten Thema. Der Fachbereich garantiert se inen Doktorandinnen und Doktoranden die spä
+tere Begutachtung der Dissertation.  
+  5 
+§ 8 Betreuung von Doktorandinnen und Doktoranden 
+(1) 
+Mit der Annahme als Doktorand drückt der Fachbereich seine Bereitschaft aus, eine 
+wissenschaftliche Abhandlung über das vor geschlagene Thema als Dissertation zu 
+bewerten und die Doktorandin oder den Dokt oranden bei der Erstellung der Disserta
+tion zu betreuen und zu fördern. Die Betreu ung erfolgt durch eine Hochschullehrerin 
+oder einen Hochschullehrer gemäß § 46 HochSchG des Fachbereichs. 
+(2) Der Fachbereich stellt die Betre uung der Doktorandinnen und Doktoranden sicher. 
+Bei Ausfall einer Betreuerin oder eines Betreuers sowie  bei der Auflösung des 
+Betreuungsverhältnisses nach Abs. 3 und 4 so rgt der Fachbereich nach Kräften für 
+die weitere Betreuung der Dokt orandin oder des Doktoranden. Ist dies nicht möglich, 
+wird das Promotionsverf ahren ohne Ergebnis beendet. Die  Entscheidung wird der 
+Doktorandin oder dem Doktor anden schriftlich mitgeteilt. 
+(3) Die Betreuerin oder der Betreuer ist verpflichtet, sich regelmäßig über den Stand der 
+Arbeiten an der Dissertation zu unterricht en. Die Doktorandin oder der Doktorand ist 
+im Gegenzug verpflichtet, sich an die vereinbarten Betreuungsmaß nahmen (z. B. Ar
+beitspläne, Gespräche, Vorträge, schriftlic he Zwischenberichte) zu  halten. Wird die
+sen Verpflichtungen nicht regelmäßig nac hgekommen, kann der Fachbereichsrat 
+nach Anhörung der Doktorandin oder des Do ktoranden sowie der  Betreuerin oder 
+des Betreuers das Betreuungsverhältnis für aufgelöst erklären. 
+(4) Differenzen über die Betreuung kann die Doktorandin oder der Doktorand sowie die 
+Betreuerin oder der Betreuer schriftlich der Dekanin oder dem Dekan anzeigen. Die 
+Dekanin oder der Dekan unternimmt daraufhin einen Einigungsversuch. Ist dieser 
+missglückt, gilt das Betreuungsverhältnis als aufgelöst. 
+(5) Eine wesentliche Änderung de s Themas der Promotion is t durch die Doktorandin 
+oder den Doktoranden und durch die Betreuer in oder den Betreuer anzuzeigen und 
+bedarf der Zustimmung des  Fachbereichsrats. 
+(6) Veröffentlichungen, die aus der wissenschaftlichen Arbeit im Rahmen der Betreuung 
+hervorgehen, bedürfen der Zustimmung der Betreuerin  oder des Betreuers. 
+(7) Doktorandinnen und Doktoranden müssen sich während der Betreuungszeit an der 
+TU Kaiserslautern einschreiben, falls si e nicht bereits aufgrund eines Beschäfti
+gungsverhältnisses Mitglied der Universität sind oder wegen einer Berufstätigkeit au
+ßerhalb der Universität auf die Einschreibung verzichten. 
+ 
+§ 9 Dissertation 
+(1) 
+Die Dissertation muss die Befähigung der Doktorandin oder des Doktoranden zum 
+selbständigen wissenschaftlic hen Arbeiten belegen und ei nen nachweisbaren Beitrag 
+zum Fortschritt des wissenschaftlichen Er kenntnisstandes in den Grundlagen der In
+formatik oder der Konstruktion bzw. An wendung von Informatiksystemen leisten.  
+(2) Aus der Dissertation muss klar erkennbar sein,  
+ inwieweit die Dissertation selbst die wissenschaftliche Erkenntnis fördert, 
+ welche Teile von der Doktorandin oder  dem Doktoranden selbst erarbeitet und 
+gegebenenfalls veröffentlicht wurden und  
+ welche Teile von anderen veröffentlicht wurden.  
+(3) Abhandlungen, die in ander en Prüfungsverfahren eingerei cht wurden, dürfen nicht 
+mehr als Dissertation vorgelegt werden. 
+  6 
+§ 10 Einreichen einer Kurzfassung der Dissertation 
+(1) 
+Die Doktorandin oder der Doktorand reic ht gegen Ende der Doktorandenphase eine 
+Kurzfassung der Dissertation ein. Mit dies er Kurzfassung soll dem Fachbereich mit
+geteilt werden, dass das Promotionsverfahren vor dem Abschluss steht, welche Er
+gebnisse erzielt wurden und da ss das Promotionsthema (  § 5 Abs. 4 Buchst. g) ein
+gehalten wurde. Dem Fachbereich soll dadurch die Möglichkeit gegeben werden,
+ 
+über das direkte Betreuungsverhältnis hinaus vor Einreichung der Dissertation Emp
+fehlungen auszusprechen. Verpflicht ungen entstehen den Dokt orandinnen und Dok
+toranden aus diesen Empfehlungen nicht.  
+(2) Die Kurzfassung ist mindestens vier Monate vor dem Einreichen der Dissertation 
+( § 11) in gedruckter und elektronischer Form nach den aktuellen Vorgaben des 
+Fachbereic
+hsrats beim Dekanat einzureichen. Sie enthält 
+ eine maximal zweiseitige Beschre ibung der Ergebnisse der Promotion, 
+ eine Liste der aus der Promot ion hervorgegangenen Ve röffentlichungen, 
+ die geplante Gliederu ng der Dissertation und 
+ eine Erklärung der Dokt orandin oder des Doktoranden und der Betreuerin oder 
+des Betreuers, dass das Thema der Promotion (  § 5 Abs. 4 Buchst. g) eingehal
+ten wurde. 
+(3) 
+Die Dekanin oder der Dekan verteilt di e Kurzfassung an alle Hochschullehrer des 
+Fachbereichs gemäß § 46 HochSchG. 
+(4) Die Hochschullehrer des Fachbereichs  können innerhalb von vi er Wochen nach Ein
+reichung der Kurzfassung eine Stellungnahme über die Betreuerin oder den Betreuer 
+an die Doktorandin oder den Doktoranden abgeben. 
+ § 12 (5) Erfolgt die Einleitung des Bewertungsverfahrens ( ) nicht innerhalb von acht Mo
+naten nach Einreichung der Kurzfassung, so  ist erneut eine Kurzfassung einzurei
+chen. Abs. 2 bis 4 gelten für die neue Kurzfassung entsprechend. 
+§ 11 Einreichen der Dissertation 
+(1) 
+Die Dissertation soll innerhalb von 4 J ahren nach der Annahme al s Doktorandin oder 
+Doktorand eingereicht werden. Wird die Dissert ation nicht fristgemäß eingereicht, ist 
+das Promotionsverfahren ergebni slos beendet, womit der Doktorandenstatus erlischt. 
+In begründeten Fällen kann der Fachbereichsrat  die Frist verlängern. Hierzu hat die 
+Doktorandin oder der Doktorand  einen schriftlichen Antrag vo r Ablauf der Frist zu 
+stellen. 
+(2) Die Doktorandin oder der Doktorand reic ht den Antrag auf Einleitung des Bewer
+tungsverfahrens für die Disse rtation über das Dekanat beim Fachbereichsrat ein. 
+Zum Antrag gehören:  
+(a) Vier gedruckte Exempl are der Dissertation. Die  Exemplare müssen gebunden 
+und mit Titelblatt, Seitenzahl, einer etwa  einseitigen Zusammenfassung, einem 
+Literaturverzeichnis sowie einem Lebenslauf  der Verfasserin bzw. des Verfassers 
+versehen sein. Die Dissertation ist in deutscher oder englischer Sprache abzu
+fassen.  
+(b) Eine Kopie der Dissertation in elektr onischer Form nach den aktuellen Vorgaben 
+des Fachbereichsrats. 
+(c) Ein Schriftenverzeichnis der Doktorandin oder des Doktoranden. 
+(d) Eine Erklärung, aus der hervorgeht,  
+  7 
+ 
+dass die Doktorandin oder der Doktorand die Dissertation selbst angefertigt 
+und alle von ihm benutzten Hilfsmittel in der Arbeit angegeben hat und  
+ dass die Dissertation noch in kei nem anderen Prüfungsverfahren eingereicht 
+wurde. 
+(e) Eine Bestätigung, dass die Promot ionsgebühr gemäß Landesgebührenordnung 
+entrichtet wurde. 
+(f) Ggf. Wünsche zur Zusammensetzung der  Promotionskommission und zur Wahl 
+der Berichterstatter. 
+§ 12 Einleitung des Bewertungsverfahrens 
+(1) 
+Die Dekanin oder der Dek an gibt das Einreichen der Di ssertation bei der auf den Ein
+gangstermin folgenden Sitzung des Fachbereic hsrats bekannt. Alle eingereichten 
+Unterlagen können von den Mitgliedern des Fachbereichsrats im Dekanat eingese
+hen werden. 
+(2) Auf Grund der eingereichten Unterlagen leitet der Fachberei chsrat spätestens in sei
+ner auf die Einreich ung der Dissertation (  § 11) übernächsten Sitzung das Bewer
+tungsverfahrens für die Dissertation ein. Die Einleitung des Bewertungsverfah
+rens ist 
+nur zu versagen, wenn nicht alle in § 11 Abs. 2 geforderten Unterlagen vorliegen. 
+(3) Mit der Einleitung des Bewertungsverfahr ens benennt der Fachbereichsrat eine Pro
+motionskommission und mindestens zwei Berich terstatter, die Mitglieder der Promo
+tionskommission sein können. 
+(4) Eine Zurücknahme der Dissertation ist nu r vor der Entscheidung des Fachbereichs
+rats möglich. In diesem Fall gilt die Dissertation als nicht eingereicht. 
+§ 13 Promotionskommission und Berichterstatter 
+(1) Die 
+Promotionskommission besteht aus einer Vorsitz enden oder einem Vorsitzenden 
+und mindestens zwei weiter en Mitgliedern. Die oder der Vorsitzende muss Professo
+rin oder Professor gemäß § 49 HochSchG des Fachbereichs sein. Die restlichen 
+Kommissionsmitglieder müssen Hochschull ehrerinnen oder Hoch schullehrer gemäß 
+§ 46 HochSchG sein. 
+(2) Eine Berichterstatterin oder  ein Berichterstatter muss Professorin oder Professor 
+gemäß § 49 HochSchG des Fachbereichs sein . Die zweite Berichterstatterin oder der 
+zweite Berichterstatter kann folgenden Personengruppen angehören: 
+ Hochschullehrerinnen und Hochschul lehrer gemäß § 46 HochSchG, 
+ Professorinnen und Professoren von Un iversitäten und Forschungseinrichtun
+gen aus dem Ausland mit gleichwertiger Qu alifikation zu den Hochschullehrerin
+nen und Hochschullehrern nach Punkt 1 (vgl. § 25 HochSchG), 
+ Honorarprofessorinnen und Honorarp rofessoren, gemäß § 62 HochSchG, 
+ Habilitierte des Fachbereichs, 
+ außerplanmäßige Professorinnen und Professoren gemäß § 61 HochSchG,  
+ in der beruflichen Praxis  erfahrene promovierte Pers önlichkeiten von außerhalb 
+des Hochschulbereichs, 
+ in Ruhestand getretene Professoren des Fachbereichs. 
+Ist eine Berichterstatterin oder ein Berich terstatter Mitglied der Promotionskommissi
+on, so kann sie bzw. er nicht Vorsitz ende oder Vorsitzender der Kommission sein. 
+(3) Verlässt ein Mitglied des Fachbereic hs aus den Gruppen der Promotionskommission 
+und Berichterstatter den Fachbereich während eines laufenden Promotionsverfah
+  8 
+rens, so wirkt es bei dies em Promotionsverfahr en weiter mit. Fällt ein Mitglied aus
+ 
+diesen Gruppen aus, so bestimmt die Dekanin oder der Dekan ein Ersatzmitglied. 
+(4) Bei der Bestellung externer Berichterstatterinnen oder Berichterstatter ist die Dokto
+randin oder der Doktorand darauf hinzuwei sen, dass die wissenschaftliche Ausspra
+che gemäß § 17 Abs. 2 Satz 4 auch per Vide okonferenz stattfinden kann. Sie oder er 
+hat dazu das Einverständnis dazu zu erklären. 
+(5) Die Dekanin oder der Dekan  
+ teilt der Doktorandin oder dem Dokt oranden die Zusammensetzung der Promo
+tionskommission und die Berichte rstatter schriftlich mit,  
+ fordert bei mehr als zwei Berichtersta ttern von der Doktorandin oder vom Dokto
+randen weitere Exemplare der Dissertation nach und 
+ leitet je ein Exemplar der Dissertati on der Vorsitzenden bzw. dem Vorsitzenden 
+der Promotionskommission zur Kenntnisnahme und den Berichterstatterinnen 
+und Berichterstattern zur Beurteilung zu. 
+§ 14 Benotung 
+(1) 
+Alle Prüfungsleistungen sind wie folgt zu benoten: 
+ ausgezeichnet  summa cum laude (0): 
+eine in jeder Hinsicht überragende Leistung,  die zu einem signifikanten Fort
+schritt im Forschungsumfeld der Dissertation führte; 
+ sehr gut  magna cum laude (1): 
+eine hervorragende Leistung; 
+ gut  cum laude (2): 
+eine durchschnittliche Anfo rderungen übersteigende Leistung; 
+ genügend  rite (3): 
+eine durchschnittlichen Anfor derungen entsprechende Leistung; 
+ nicht genügend  insufficienter (4): 
+eine durchschnittlichen Anforderungen nicht gerecht werdende Leistung. 
+(2) Ist mehr als die Hälfte der Einzelnoten der Dissertation bzw. der wissenschaftlichen 
+Aussprache „nicht genügend“, so ist die ents prechende Gesamtnote 4,0. Andernfalls 
+berechnet sich die Gesamtnote aus dem ar ithmetischen Mittel der Einzelnoten. Da
+bei wird nur die erste Dezimalstelle hinter  dem Komma berücksichtigt, alle weiteren 
+Stellen werden gestrichen. 
+(3) Das Gesamtergebnis des Promotionsverfahr ens setzt sich aus den Gesamtnoten der 
+Dissertation und der wissenschaftlichen Aussp rache im Verhältnis von 2 zu 1 zu
+sammen. Bei der Bildung des Gesamtergebnisses wird nur die erste Dezimalstelle 
+hinter dem Komma berücksichtigt, alle weiteren Stellen werden  gestrichen. Anhand 
+des rechnerischen Ergebnisses sind für di e Gesamtbeurteilung folgende Bewertun
+gen zu verwenden: 
+ mit Auszeichnung  summa cum laude: 
+für ein Ergebnis bis einschließlich 0,2, 
+ sehr gut  magna cum laude: 
+für ein Ergebnis von 0,3 bis einschließlich 1,3, 
+ gut  cum laude: 
+für ein Ergebnis von 1,4 bis einschließlich 2,3, 
+ genügend  rite: 
+für ein Ergebnis von 2,4 bis einschließlich 3,3, 
+ nicht genügend  insufficienter: 
+für ein Ergebnis ab 3,4. 
+  9 
+§ 15 Begutachtung der Dissertation 
+(1) 
+Jede Berichterstatterin und jeder Berichterstatter legt der Dekanin oder dem Dekan 
+ein Gutachten über die Dissertation mit einer Note nach  § 14 Abs. 1 und einer Emp
+fehlung über den Doktorgrad nach  § 2 vor. Die Gutachten sollten innerhalb von drei 
+Monaten nach Einleit
+ung des Bewertung sverfahrens erstellt werden.  
+(2) Die Berichterstatterinnen und Berichters tatter können vor Abgabe ihrer Gutachten in 
+einer Stellungnahme an die Vorsitzende oder  den Vorsitzenden der Promotions
+kommission eine einmalige Umarbeitung oder  Ergänzung der Dissertation empfeh
+len. In diesem Fall entscheidet die Promotionskommission per Mehrheitsentscheid 
+über die empfohlenen Umarbeitungen und legt hierfür eine Frist von maximal zwölf 
+Monaten fest. Bei Stimmengleichheit entschei det die Stimme der bzw. des Vorsit
+zenden. Die Vorsitzen de oder der Vorsitze nde der Promotionskommission informiert 
+alle Betroffenen über das Ergebnis. 
+(3) Wird eine empfohlene Um arbeitung fristgerecht vorgel egt, müssen sich die Gutach
+ten aller Berichterstatterinnen und Berichte rstatter auf die überarbeitete Version der 
+Dissertation beziehen. Andernfalls geht die Begutachtung von der ursprünglichen 
+Fassung der Dissertation aus. 
+(4) Die maximale Dauer zur Begutachtung nach Abs. 1 verlängert sich um die Dauer der 
+Umarbeitung oder Ergänzung nach Abs. 2.  
+(5) Die Dekanin oder der Dekan übersendet jedem Mitglied der Promotionskommission 
+und allen Berichterstatterinnen und Berich terstattern Kopien aller Gutachten.  
+(6) Tragen alle Gutachten die Note „Ausgez eichnet (summa cum laude)“ oder trägt ge
+nau ein Gutachten die Note „nicht genügend“  oder weichen die Gutachten um mehr 
+als eine Note voneinander ab, so müssen mi ndestens drei Gutachten vorliegen. Ge
+gebenenfalls ernennt die Dekanin oder der Dekan eine weitere Berichterstatterin oder einen weiteren Berichterstatter nach  § 13 Abs. 2 im Einvernehmen mit der Pro
+motionskommission und informiert hierüber den Fachbereichsrat. Die zusätzliche Be
+
+richterstatterin oder der zusätzliche Beri chterstatter erhält von der Dekanin oder vom 
+Dekan Kopien der bisherigen Gutachten,  eventuelle Stellungnahmen sowie ein Ex
+emplar der Dissertation. Die  zusätzliche Berichterstatterin oder der zusätzliche Be
+richterstatter übermittelt der Dekanin oder  dem Dekan nach angem essener Zeit ein 
+Gutachten. Sie oder er kann ebenfalls ei ne Umarbeitung der Dissertation empfehlen. 
+Abs. 2 bis 5 gelten entsprechend. 
+(7) Auf schriftlichen Antrag der Doktorandin oder des Doktoranden berichtet die Dekanin 
+oder der Dekan auf der nächsten Sitzung des Fachbereichsrats über den Stand des 
+Promotionsverfahrens. 
+§ 16 Bewertung der Dissertation 
+(1) 
+Nach Eintreffen aller Gutachten teilt di e Dekanin oder der De kan den Mitgliedern des 
+Fachbereichsrats und den übrigen Hochschul lehrerinnen und Hoch schullehrern des 
+Fachbereichs mit, dass sie die Gutachten und die Dissertation im Dekanat einsehen 
+können. Die Frist für diese Ei nsichtnahme beträgt zwei Wochen. Sie wird, falls ein 
+Mitglied des Fachbereichrats ihre Verlänger ung beantragt, um höchstens zwei weite
+re Wochen verlängert. Während dieser Zeit liegt die Dissertatio n auch für alle wis
+senschaftlichen Mitarbeiterinnen und wissensc haftlichen Mitarbeiter sowie Doktoran
+dinnen und Doktoranden des Fachbereichs zur Einsichtnahme aus.  
+  10 
+(2) 
+Solange die Dissertation und die Guta chten zur Einsicht nahme ausliegen, können 
+folgende Personen Stellungnahm en schriftlich bei der Dekanin oder dem Dekan vor
+legen: 
+ die Mitglieder des Fachbereichsrats sowie die übrigen Hochschullehrerinnen 
+und Hochschullehrer des Fachbereichs zur Dissertation und zu den Gutachten 
+ die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie Doktorandinnen 
+und Doktoranden des Fachberei chs zur Dissertation. 
+Die Dekanin oder der Dekan informiert dar über den Fachbereichsr at sowie die Be
+richterstatterinnen und Berich terstatter. Diese äußern sich der Dekanin oder dem 
+Dekan gegenüber schriftlich zu den ein gegangenen Stellungnahmen. Hierbei können 
+die Berichterstatterinnen und Be richterstatter ihr Gutacht en einmalig abändern. Die 
+Stellungnahmen und gg f. geänderten Gutachten sollen innerhalb von vier Wochen 
+vorgelegt werden. 
+(3) Die Vorsitzende oder der Vorsitzende der Promotionskommi ssion stellt die Note der 
+Dissertation nach  § 14 Abs. 2 fest und teilt diese der  Dekanin oder dem Dekan un
+verzüglich mit. Ist die Note 3,3 oder besser, g ilt die Dissertatio n als
+ angenommen. 
+Ansonsten gilt die Dissertation als abgel ehnt, und das Promotionsverfahren wird als 
+„nicht bestanden“ abgeschlossen. Die Dekani n oder der Dekan teilt der Doktorandin 
+oder dem Doktoranden das Er gebnis und die Note der Dissertation schriftlich mit. 
+ 
+ 
+IV. Wissenschaftliche Aussprache 
+ 
+In der wissenschaftlichen Aussprache sollen  die Ergebnisse der Dissertation und deren 
+Bedeutung für die Informatik ei nem erweiterten Fachpublikum verständlich vermittelt wer
+den. In einer wissenschaftlichen Diskussion so ll gezeigt werden, dass das Fachgebiet der 
+Dissertation beherrscht wird und relevant e Fragestellungen kompetent beantworten wer
+den können.  
+§ 17 Ablauf der wissenschaftlichen Aussprache und Gesamtbewertung 
+(1) 
+Den Termin für die wissenschaftliche Aussprache setzt die Dekanin oder der Dekan 
+im Einvernehmen mit der Promotionskommi ssion und im Benehmen mit der Dokto
+randin oder dem Doktoranden nach Annahme der  Dissertation fest und macht ihn u
+niversitätsöffentlich bekannt. Zwischen dem Eingang der Bestätigung der Annahme 
+der Dissertation bei der Dekanin oder beim Dekan (  § 16 Abs. 3) und der wissen
+schaftlichen Aussprache müssen mindestens zwei Wochen liegen.
+  
+(2) Die wissenschaftliche Aussprache ist univer sitätsöffentlich. Die Mitglieder der Promo
+tionskommission müssen bei der wissenscha ftlichen Aussprache anwesend sein. Ist 
+ein Kommissionsmitglied verhindert, so entsc heidet die Dekanin oder der Dekan über 
+eine Vertretung im Einvernehmen mit den übrigen Kommissionsmitgliedern und im 
+Benehmen mit der Doktorandin oder dem Doktoranden. Berichterstatterinnen und 
+Berichterstatter, die nicht der Promot ionskommission angehören, können an der wis
+senschaftlichen Aussprache vor Ort oder ü ber Videokonferenz teilnehmen. Die oder 
+der Vorsitzende der Promotion skommission kann Gäste zulassen. 
+(3) Erscheint die Doktora ndin oder der Doktorand ohne Angab e triftiger Gründe zu dem 
+für die wissenschaftliche Aussprache festges etzten Termin nicht, so gilt die Ausspra
+che als nicht bestanden. Liegen triftige Gründe für das Nichterscheinen vor, so kann 
+die Dekanin oder der Dekan das Versäumnis entschuldigen. In diesem Falle wird ein 
+neuer Termin anberaumt. Die dann stattfindende wiss enschaftliche Aussprache gilt 
+nicht als Wiederholung. 
+  11 
+(4) 
+Zu Beginn der wissenscha ftlichen Aussprache hält die Doktorandin oder der Dokto
+rand einen Vortrag von etwa 30 Minuten Dauer  über den Inhalt der Dissertation. Die
+ser Vortrag ist universitätsöffentlich in deutscher oder englischer Sprache. 
+(5) Die sich anschließende wissenschaftliche Diskussion erstreckt sich über die für die 
+Dissertation relevanten Fa chgebiete. Sie soll zwisch en 30 und 60 Minuten dauern. 
+Frageberechtigt sind alle Mitg lieder der Promotionskommission, alle Berichterstatte
+rinnen und Berichterstatter, alle anwesende n Hochschullehrerinnen, Hochschulleh
+rer, aplProfessorinnen und aplProfessoren sowie alle anwesenden Habilitierten und 
+Promovierten des Fachbereichs. Auf Verl angen der Doktorandin od er des Doktoran
+den kann die Öffentlichkeit auf den frageberechtigten Personenkreis und die Mitglie
+der des Fachbereichsrats eingeschränkt we rden. Auf Antrag der Doktorandin oder 
+des Doktoranden ist die zentrale Gleichst ellungsbeauftragte oder die Gleichstel
+lungsbeauftragte des Fachbereichs an der  wissenschaftlichen Aussprache teilnah
+meberechtigt. 
+(6) Die wissenschaftliche Aussprache wird unmittelbar nach ihrem Abschluss in einer 
+Sitzung der Promotionskommission von jedem  Mitglied selbstständig nach Maßgabe 
+des  § 14 Abs. 1 bewertet. Ihre Gesamtnote wird nach  § 14 Abs. 2 berechnet.  
+(7) 
+Beträgt die Note der wissenschaftlichen Au ssprache 3,4 oder schlechter, so gilt die 
+wissenschaftliche Aussprache als „nicht bestanden“. Eine einma lige Wiederholung ist 
+möglich. Besteht die Dokt orandin oder der Doktorand die Wiederholung nicht, so wird 
+das Promotionsverfahren als „nicht best anden“ abgeschlossen. Die Dekanin oder der 
+Dekan teilt dies der Doktorandin o der dem Doktoranden schriftlich mit. 
+(8) Über den Verlauf der wissenschaftlic hen Aussprachen sind Niederschriften zu füh
+ren, die auch ihre Benotungen enthalten und die von alle n Mitgliedern der Promoti
+onskommission unterzeichnet wer den. Die Anfertigung der Ni ederschrift in elektroni
+scher Form ist ausgeschlossen. Die Niedersch rift wird an das Dekanat weitergeleitet. 
+Die Note wird der Kandidatin oder dem Kandidaten mitgeteilt. 
+(9) Unmittelbar im Anschluss an die Bewe rtung der bestandenen wissenschaftlichen 
+Aussprache beschließt die Promoti onskommission den Doktorgrad gemäß  § 2 und 
+die genehmigte Fass
+ung der Dissertation und stellt das Gesamtergebnis des Promo
+tionsverfahrens nach  § 14 Abs. 3 fest. Dies ist in einem Protokoll niederzuschreiben. 
+Absatz 8 findet Anwendung. 
+ 
+ 
+V. Veröffentlichung, Promotionsurkunde 
+ 
+§ 18 Veröffentlichung und Druck der Dissertation 
+(1) 
+Die Doktorandin oder der Doktorand muss spätestens ein Jahr nach der wissen
+schaftlichen Aussprache die von der Promotionskommission genehmigte Fassung 
+veröffentlichen. Druck und Veröffentlichu ng der Dissertation regelt Anlage 1. 
+(2) Wird diese Frist durch das Verschul den der Doktorandin oder des Doktoranden ver
+säumt, so kann der Fachbereichsrat beschließen, dass die Doktorandin oder der Doktorand das Recht auf Vollzug der Promotion ( § 19) verloren hat. In besonderen 
+Fällen kann auf Antrag der Doktorandin oder  des Dok 
+toranden die Frist bis zu einem 
+weiteren Jahr verlängert werden. Ein solc her Antrag muss vor Ablauf des ersten Jah
+res bei der Dekanin oder beim Dekan gestellt und begründet werden. 
+  12 
+§ 19 Promotionsurkunde 
+(1) 
+Die Promotion wird durch die Aus händigung der Promoti onsurkunde vollzogen, 
+nachdem die Doktorandin oder der Doktorand die Dissertation nach  § 18 veröffent
+licht hat.  
+(2) 
+Die Promotionsurkunde wi rd in deutscher Sprache zu sammen mit einer englischen 
+Übersetzung ausgehändigt. Sie enthält den Titel der Disse rtation, den verliehenen 
+akademischen Grad, die Namen der Dekani n oder des Dekans und der Präsidentin 
+oder des Präsidenten der TU Kaiserslauter n, die Gesamtnote, als Ausfertigungsda
+tum das Datum der wissenschaftlichen Auss prache sowie das Siegel der Universität. 
+Die Ausstellung der Urkunde in elektr onischer Form ist ausgeschlossen. 
+(3) Der Druck der Promotions urkunde wird von der Dekanin oder vom Dekan veranlasst, 
+nachdem die oder der Vorsitzende der Promotionskommission die Gesamtnote der 
+Promotion und den verliehen en Doktorgrad ihr oder ihm mitgeteilt hat (  § 17 Abs. 9). 
+(4) 
+Erst mit der Entgegennahme der Promotionsurkunde erwir bt die Doktorandin oder 
+der Doktorand das Recht, den Doktorgrad zu  führen. Das Promotionsverfahren ist 
+damit abgeschlossen. 
+§ 20 Verbleib der Unterlagen und Akteneinsicht 
+(1) 
+Alle Unterlagen des Prom otionsverfahrens verbleiben  bei den Akten des Fachbe
+reichs. 
+(2) Nach Abschluss des Promotionsverf ahrens wird der Doktor andin oder dem Dokto
+randen auf Antrag Einsicht in die Unterlagen gemäß  § 15 Abs. 1 und 2,  § 16 Abs. 2 
+sowie  § 17 Abs. 8 und  9 gewährt. 
+(3) 
+Der Antrag ist binnen eines Monats nac h Abschluss des Promotionsverfahrens bei 
+der Dekanin oder beim Dekan zu stellen. § 1 Abs. 4 Nr. 2 LVwVfG i. V. m. § 32 
+VwVfG gilt entsprechend. Die Dekanin oder der Dekan vereinbart  Ort und Zeit der 
+Einsichtnahme. 
+ 
+VI. Verlängerung von Fristen, Ungültigkeit von Promotionsleistungen,  
+Entziehung des Doktorgrades, Verfahren bei Entscheidungen 
+ 
+§ 21 Verlängerung von Fristen 
+ § 7  § 11 (1) 
+Fristen des Qualifizierungsstudiums ( ) und zum Einreichen der Dissertation ( ) 
+verlängern sich durch 
+(a) 
+die Mitwirkung in gesetzlich oder satzungsgemäß vorgesehenen Gremien einer 
+Hochschule, einer Studierendenscha ft oder eines Studierendenwerkes, 
+(b) Krankheit, eine Behinder ung oder andere von den Studier enden oder Doktoran
+den nicht zu vertretende Gründe, 
+(c) Schwangerschaft oder Er ziehung eines Kindes oder 
+(d) die Betreuung einer oder ei nes pflegebedürftigen Angehörigen; 
+im Falle der Buchstabe c ist mindestens  die Inanspruchnahme der Fristen entspre
+chend den §§ 3, 4, 6 und 8 des Mutterschut zgesetzes sowie entsprechend den Fris
+ten des Bundeserzie hungsgeldgesetzes über die Eltern zeit zu ermöglichen. Die 
+Nachweise obliegen den Studierenden. 
+  13 
+(2) 
+Berufstätigkeiten und Auslandsaufenthalte, die nicht der Promotion dienen, werden 
+nur zu zwei Dritteln bei der  Einhaltung der Fristen gemäß  § 7  § 11  und  angerechnet. 
+Voraussetzung für eine Fristverlängerung aufgr und von Berufstätigkeit ist eine durch
+schnittliche wöchentlic
+he Arbeit szeit von mindestens 20 Stunden. 
+§ 22 Ungültigkeit von Promotionsleistungen 
+Ergibt sich vor der Aushändi gung der Promotionsurkunde, dass die Doktorandin oder
+ der 
+Doktorand beim Nachweis der  Promotionsleistungen (  § 3) oder der erforderlichen Vorbil
+dung (  § 5) getäuscht hat, so kann der Fachbereichsr at die Promotionsleistungen teilweise 
+oder ganz für ungültig erklären. Vorher ist der Doktorandin oder dem Doktoranden Gele
+genheit zur Stellungnahme zu geben.  
+§ 23 Entziehung des Doktorgrades 
+Der akademische Grad Dr.lng. bzw. Dr. rer. nat. wird entzogen, wenn es  sich herausstellt,
+ 
+dass er durch Täuschung erlangt worden war. Zuvor muss der Doktorandin oder dem Dok
+toranden eine Anhörung gewährt werden.  
+§ 24 Verfahren bei Entscheidungen 
+(1) 
+Für alle Entscheidungen in  Promotionsangelegenhe iten ist der Fachbereichsrat zu
+ständig, soweit diese Ordnung nichts anderes vorsieht. 
+(2) Ist die Doktorandin oder der Doktorand Mitglied des Fachbereichsrats, so ist sie bzw. 
+er von den Beratungen über  die Promotion ausgeschlo ssen. An Abstimmungen 
+nimmt sie oder er nicht teil. Die gesetzliche Zahl der Mitglieder des Fachbereichsrats 
+ändert sich dadurch nicht. 
+(3) Der Fachbereichsrat ist die Widerspruchsinstanz. 
+(4) Entscheidungen des Fachbereichsrats oder  der Promotionskommission sind, sofern 
+sie die Doktorandin oder den Doktoranden be schweren, schriftlich zu begründen und 
+mit einer Rechtsmittelbelehrung zu versehen. 
+ 
+ 
+VII. Ehrun
+gen 
+ 
+§ 25 Ehrenpromotion 
+(1) 
+Der Fachbereich Informatik kann die ak ademische Würde "Doktor der Ingenieurwis
+senschaften ehrenhalber" (Dr.Ing. e. h.) oder "Doktor der Naturwissenschaften eh
+renhalber" (Dr. rer. nat. h. c.) als seltene Auszeichnung für hervorragende Verdienste 
+auf ingenieur oder naturwissenschaftlichem Gebiet verleihen. Die  oder der zu Eh
+rende darf nicht aktives Mitglied der Univer sität sein. Es sind zwei auswärtige Gut
+achten einzuholen. 
+(2) Eine Ehrenpromotion muss in zwei nich t aufeinanderfolgenden Fachbereichsratssit
+zungen gemäß Tagesordnung verhandelt und mit DreiviertelMehrheit gebilligt wer
+den. 
+(3) Die Ehrenpromotion erfolgt durch feier liche Überreichung einer Urkunde, in der die 
+Verdienste der oder des zu Ehrenden gewü rdigt werden. Die vorgenommene Ehrung 
+ist der Präsidentin oder dem  Präsidenten der TU Kaisersl autern mitzuteilen (§ 26 
+Grundordnung). 
+  14 
+ 
+ 
+VIII. Schlussbestimmungen 
+ 
+§ 26 Inkrafttreten und Übergangsregelung 
+(1) 
+Diese Promotionsordnung tritt am Tage nac h ihrer Veröffentlichung im Staatsanzei
+ger von RheinlandPfalz in Kraft. 
+(2) Zum gleichen Zeitpunkt tritt die Promotionsordnung des Fachbereichs vom 31. März 
+1982, veröffentlicht im Staatsanzeiger für RheinlandPfalz Nr. 14 vom 13. April 1982, S. 371 ff., zuletzt geändert am 10. April 2004, veröffentlic ht im Staatsanzeiger für 
+RheinlandPfalz Nr. 21 vom 21. Juni 2004, S. 761 ff. mi t der Maßgabe außer Kraft, 
+dass sie noch auf diejenigen Doktorandi nnen und Doktoranden anwendbar bleibt, die 
+bereits nach der außer Kraft gesetzten Pr omotionsordnung zum Promotionsverfah
+ren zugelassen sind. Doktor andinnen und Doktoranden, die noch keinen Antrag auf 
+Zulassung zur Promotion gestellt haben,  müssen festlegen, nach welcher Ordnung 
+ihre Promotion erfolgen soll. 
+    Kaiserslautern, den 05.05.2011 
+ 
+  
+ 
+Prof. Dr. Arnd PoetzschHeffter, De kan des Fachbereichs Informa
+tik 
+  15 
+  16 Anlage 1 
+Druck und Veröffentlichung der Dissertation 
+(1) An das Dekanat sind unentgeltlich abzuliefern: 
+(a) je ein gebundenes Exemplar der Dissertation in der von der  Promotionskommis
+sion genehmigten Fassung für die Prüfungsak te des Fachbereichs sowie für jede 
+Berichterstatterin und j eden Berichterstatter, 
+(b) ein Exemplar der Dissertation in der von der Promotionskommission genehmig
+ten Fassung in elektronischer Form nach den aktuellen Vorgaben des Fachbe
+reichsrats, 
+(c) eine vom Vorsitzenden der Promoti onskommission genehmigte Zusammenfas
+sung der Dissertation in elektronischer  Form nach den aktuellen Vorgaben des 
+Fachbereichsrats in deutscher und englisc her Sprache im Umfang von etwa ei
+ner Seite für Zwecke der Veröffentlichung. 
+(2) An die Universitätsbibliothek sind unentgeltlich gemäß folgender Regelung Exempla
+re der Dissertation in der von der Pr omotionskommission genehmigten Fassung ab
+zuliefern: 
+entweder 
+(a) 40 Exemplare in Buch oder Fotodruck zu m Zweck der Verbreitung; hierzu kann 
+sich die Doktorandin oder der Doktorand zur Vervielfältigung der Dissertation gegen Erstattung der Kosten der Universitätseinrichtungen bedienen 
+oder 
+(b) drei Exemplare, wenn die Veröffentlic hung in einer Zeitschrift erfolgt oder wenn 
+ein gewerblicher Verleger die Verbre itung über den Buchhandel übernimmt und 
+dabei einer Mindestauflage von 150 Exempl aren garantiert wird; eine Bestäti
+gung des Verlags, dass die Arbeit zum Druck angenommen ist, muss mit den 
+Exemplaren vorgelegt werden 
+oder 
+(c) fünf Exemplare, wenn die Veröff entlichung über den el ektronischen Dokumen
+tenserver KLUEDO der Universitätsbibliothek erfolgt. 
+Bei Veröffentlichung nach Bu chstabe a und c überträgt die Doktorandin oder der 
+Doktorand dem Fachbereich das Recht, weiter e Kopien der Dissertation zu erstellen 
+und zu verbreiten. Erfolgt die Veröffentlic hung über einen Verlag, so muss die Dokto
+randin oder der Doktorand die Zustimmung der Dekanin oder des Dekans zur Wahl des Verlages einholen.  
+(3) Die vollständigen Exemplare nach Absa tz 1 und 2 müssen mit einer Zusammenfas
+sung im Umfang von höchstens einer Seite sowie mit einem besonderen Titelblatt 
+versehen sein, auf dem sie unter namentlic her Nennung der Dekanin oder des De
+kans und der Berichterstatterinnen und Berichterstatter und unter Angabe des Datums der wissenschaftlichen Aussprache zu bezeichnen sind als "vom Fachbereich 
+Informatik der Technischen Universität Ka iserslautern zur Verleihung des akademi
+schen Grades Doktor der Ingenieurwissenscha ften (Dr.Ing.) bzw. Doktor der Natur
+wissenschaften (Dr. rer. nat .) genehmigte Dissertation". Hat eine Berichterstatterin 
+oder ein Berichterstatter die Ablehnung der Di ssertation empfohlen, so wird ihr bzw. 
+sein Name nicht aufgeführt.  
+(4) Das Zeichen der TU Kais erslautern im Bibliotheksverkehr, D 386, ist auf dem Titel
+blatt anzugeben. Der Dissertation ist ei ne kurze Schilderung des Lebenslaufes des 
+Verfassers anzufügen. 
